@@ -177,25 +177,57 @@ def fusionar(previo: dict, nuevo: dict, ahora: str) -> dict:
     }
 
 
+def diagnostico(html: str, etiqueta: str) -> None:
+    """Imprime qué trajo la descarga, para saber por qué no hubo coincidencias."""
+    sopa = BeautifulSoup(html, "lxml")
+    tarjetas = sopa.select("mat-card")
+    titulos = sopa.select("a.post-title")
+    chips = {limpiar(c.get_text()) for c in sopa.select("mat-chip h6")}
+    print(f"  diagnóstico: {len(html)} bytes, {len(tarjetas)} mat-card, "
+          f"{len(titulos)} a.post-title", file=sys.stderr)
+    if chips:
+        print(f"  chips presentes: {sorted(chips)[:12]}", file=sys.stderr)
+    else:
+        print(f"  sin chips; se buscaba '{etiqueta}'", file=sys.stderr)
+
+
 def main() -> int:
     ahora = datetime.now(BOGOTA).isoformat(timespec="seconds")
     nuevo = {}
     fallos = 0
+    portada = None   # se descarga una sola vez si hace falta
 
     for seccion, cfg in SECCIONES.items():
         try:
-            items = extraer(descargar(cfg["url"]), cfg["etiqueta"])
+            html = descargar(cfg["url"])
         except requests.RequestException as e:
             print(f"{seccion}: no se pudo descargar ({e})", file=sys.stderr)
             nuevo[seccion] = []
             fallos += 1
             continue
 
+        items = extraer(html, cfg["etiqueta"])
+
+        # Plan B: la vista filtrada se arma en el navegador y puede llegar vacía.
+        # La portada sí viene renderizada desde el servidor y trae los chips,
+        # así que sirve para clasificar por sección.
+        if not items:
+            diagnostico(html, cfg["etiqueta"])
+            if portada is None:
+                try:
+                    portada = descargar(BASE)
+                    print("  portada descargada como respaldo", file=sys.stderr)
+                except requests.RequestException as e:
+                    print(f"  no se pudo usar la portada ({e})", file=sys.stderr)
+                    portada = ""
+            if portada:
+                items = extraer(portada, cfg["etiqueta"])
+
         nuevo[seccion] = items
         print(f"{seccion}: {len(items)} titulares")
 
     if not any(nuevo.values()):
-        print("Ninguna sección devolvió titulares: revise los selectores o la conexión.",
+        print("Ninguna sección devolvió titulares: revise el diagnóstico de arriba.",
               file=sys.stderr)
         return 1
 
