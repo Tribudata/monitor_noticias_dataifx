@@ -15,12 +15,8 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
-import requests
-import urllib3
 from bs4 import BeautifulSoup
-
-# El reintento sin verificación produciría una advertencia por cada descarga.
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+from playwright.sync_api import sync_playwright, Error as PlaywrightError
 
 BASE = "https://www.dataifx.com/"
 
@@ -52,13 +48,14 @@ DIAS_RETENCION = 30
 SALIDA = Path(__file__).resolve().parent.parent / "data" / "noticias.json"
 BOGOTA = timezone(timedelta(hours=-5))
 
-CABECERAS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    ),
-    "Accept-Language": "es-CO,es;q=0.9",
-}
+AGENTE = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
+ESPERA_MS = 20000     # espera máxima a que aparezcan las tarjetas
+DESPLAZAMIENTOS = 4   # veces que se baja la página para cargar más notas
+MINIMO_TARJETAS = 25  # deja de desplazarse al llegar a esta cantidad
 
 
 def limpiar(texto: str) -> str:
@@ -69,24 +66,30 @@ def chips_de(tarjeta) -> list:
     return [limpiar(c.get_text()) for c in tarjeta.select("mat-chip h6, mat-chip")]
 
 
-def descargar(url: str) -> str:
-    """Descarga la página tolerando la cadena TLS incompleta de dataiFX.
+def render(pagina, url: str) -> str:
+    """Abre la URL en un navegador real y devuelve el HTML ya renderizado.
 
-    El servidor no envía el certificado intermedio, así que la validación
-    estándar falla desde un servidor (los navegadores la completan solos).
-    Se intenta primero con verificación; solo si falla por eso se reintenta
-    sin verificar, y queda anotado en el log.
+    dataiFX es una aplicación Angular que arma el listado en el cliente: una
+    descarga simple devuelve un cascarón sin tarjetas. Por eso se usa un
+    navegador sin interfaz, que además completa la cadena TLS incompleta
+    del sitio.
     """
-    try:
-        r = requests.get(url, headers=CABECERAS, timeout=30)
-    except requests.exceptions.SSLError:
-        print(f"  aviso: cadena TLS incompleta en {url}; se reintenta sin verificar",
-              file=sys.stderr)
-        r = requests.get(url, headers=CABECERAS, timeout=30, verify=False)
+    pagina.goto(url, wait_until="domcontentloaded", timeout=ESPERA_MS)
 
-    r.raise_for_status()
-    r.encoding = r.apparent_encoding or "utf-8"
-    return r.text
+    try:
+        pagina.wait_for_selector("a.post-title", timeout=ESPERA_MS)
+    except PlaywrightError:
+        print(f"  aviso: no aparecieron tarjetas en {url}", file=sys.stderr)
+        return pagina.content()
+
+    # El listado usa scroll infinito: hay que bajar para que cargue más.
+    for _ in range(DESPLAZAMIENTOS):
+        if pagina.locator("a.post-title").count() >= MINIMO_TARJETAS:
+            break
+        pagina.mouse.wheel(0, 4000)
+        pagina.wait_for_timeout(1200)
+
+    return pagina.content()
 
 
 def extraer(html: str, etiqueta: str) -> list:
@@ -195,36 +198,35 @@ def main() -> int:
     ahora = datetime.now(BOGOTA).isoformat(timespec="seconds")
     nuevo = {}
     fallos = 0
-    portada = None   # se descarga una sola vez si hace falta
 
-    for seccion, cfg in SECCIONES.items():
-        try:
-            html = descargar(cfg["url"])
-        except requests.RequestException as e:
-            print(f"{seccion}: no se pudo descargar ({e})", file=sys.stderr)
-            nuevo[seccion] = []
-            fallos += 1
-            continue
+    with sync_playwright() as p:
+        navegador = p.chromium.launch(args=["--disable-dev-shm-usage"])
+        contexto = navegador.new_context(
+            user_agent=AGENTE,
+            locale="es-CO",
+            ignore_https_errors=True,   # cadena TLS incompleta del sitio
+            viewport={"width": 1400, "height": 1000},
+        )
+        pagina = contexto.new_page()
 
-        items = extraer(html, cfg["etiqueta"])
+        for seccion, cfg in SECCIONES.items():
+            try:
+                html = render(pagina, cfg["url"])
+            except PlaywrightError as e:
+                print(f"{seccion}: no se pudo abrir ({e})", file=sys.stderr)
+                nuevo[seccion] = []
+                fallos += 1
+                continue
 
-        # Plan B: la vista filtrada se arma en el navegador y puede llegar vacía.
-        # La portada sí viene renderizada desde el servidor y trae los chips,
-        # así que sirve para clasificar por sección.
-        if not items:
-            diagnostico(html, cfg["etiqueta"])
-            if portada is None:
-                try:
-                    portada = descargar(BASE)
-                    print("  portada descargada como respaldo", file=sys.stderr)
-                except requests.RequestException as e:
-                    print(f"  no se pudo usar la portada ({e})", file=sys.stderr)
-                    portada = ""
-            if portada:
-                items = extraer(portada, cfg["etiqueta"])
+            items = extraer(html, cfg["etiqueta"])
+            if not items:
+                diagnostico(html, cfg["etiqueta"])
 
-        nuevo[seccion] = items
-        print(f"{seccion}: {len(items)} titulares")
+            nuevo[seccion] = items
+            print(f"{seccion}: {len(items)} titulares")
+
+        contexto.close()
+        navegador.close()
 
     if not any(nuevo.values()):
         print("Ninguna sección devolvió titulares: revise el diagnóstico de arriba.",
