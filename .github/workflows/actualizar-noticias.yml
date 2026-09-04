@@ -2,8 +2,8 @@ name: Actualizar dataiFX
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "0 */2 * * *"   # cada 2 horas: el navegador es más pesado
+  workflow_dispatch:          # botón manual en la pestaña Actions
   push:
     branches: [main]
     paths:
@@ -30,6 +30,9 @@ jobs:
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
+
+      - name: Instalar Chromium para Playwright
+        run: python -m playwright install --with-deps chromium
 
       - name: Extraer titulares
         run: python scraper/scrape.py
