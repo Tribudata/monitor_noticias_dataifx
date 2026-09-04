@@ -16,7 +16,11 @@ from pathlib import Path
 from urllib.parse import urljoin
 
 import requests
+import urllib3
 from bs4 import BeautifulSoup
+
+# El reintento sin verificación produciría una advertencia por cada descarga.
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE = "https://www.dataifx.com/"
 
@@ -66,7 +70,20 @@ def chips_de(tarjeta) -> list:
 
 
 def descargar(url: str) -> str:
-    r = requests.get(url, headers=CABECERAS, timeout=30)
+    """Descarga la página tolerando la cadena TLS incompleta de dataiFX.
+
+    El servidor no envía el certificado intermedio, así que la validación
+    estándar falla desde un servidor (los navegadores la completan solos).
+    Se intenta primero con verificación; solo si falla por eso se reintenta
+    sin verificar, y queda anotado en el log.
+    """
+    try:
+        r = requests.get(url, headers=CABECERAS, timeout=30)
+    except requests.exceptions.SSLError:
+        print(f"  aviso: cadena TLS incompleta en {url}; se reintenta sin verificar",
+              file=sys.stderr)
+        r = requests.get(url, headers=CABECERAS, timeout=30, verify=False)
+
     r.raise_for_status()
     r.encoding = r.apparent_encoding or "utf-8"
     return r.text
