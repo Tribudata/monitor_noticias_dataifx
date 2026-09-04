@@ -2,8 +2,8 @@ name: Actualizar dataiFX
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos (hora UTC)
-  workflow_dispatch:          # botón manual en la pestaña Actions
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
