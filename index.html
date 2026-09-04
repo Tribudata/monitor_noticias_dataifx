@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Macro y Empresas — Tribudata</title>
+<meta name="description" content="Titulares de macroeconomía y empresas de dataiFX, recogidos automáticamente.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Libre+Franklin:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blanco:#ffffff;
+    --negro:#0a0a0a;
+    --gris:#6b6b6b;
+    --regla:#c9c9c9;
+    --rojo:#9b1c1c;
+    --serif:"Playfair Display",Georgia,"Times New Roman",serif;
+    --sans:"Libre Franklin",-apple-system,"Segoe UI",Helvetica,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--blanco);
+    color:var(--negro);
+    font-family:var(--sans);
+  }
+  .hoja{max-width:1280px;margin:0 auto;padding:clamp(14px,3vw,26px) clamp(10px,2.5vw,22px) 10px}
+
+  /* ---------- Cabecera ---------- */
+  .masthead{text-align:center;border-bottom:1px solid var(--negro);padding-bottom:10px}
+  .masthead .sello{
+    font-family:var(--sans);
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.22em;
+    color:var(--gris);
+    margin-bottom:8px;
+  }
+  .masthead h1{
+    font-family:var(--serif);
+    font-weight:900;
+    font-size:40px;
+    line-height:1;
+    margin:0 0 10px;
+    letter-spacing:-.02em;
+  }
+  .lema{
+    font-family:var(--serif);
+    font-style:italic;
+    font-size:14px;
+    color:var(--gris);
+    margin:0 0 12px;
+  }
+  .dateline{
+    border-top:1px solid var(--regla);
+    padding-top:8px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:6px 18px;
+    font-size:11px;
+    letter-spacing:.1em;
+    color:var(--gris);
+    text-transform:uppercase;
+  }
+  .dateline .refrescar{
+    background:none;border:none;padding:0;
+    font:inherit;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--negro);cursor:pointer;
+    border-bottom:1px solid var(--negro);
+  }
+  .dateline .refrescar:hover{color:var(--rojo);border-color:var(--rojo)}
+  :focus-visible{outline:2px solid var(--rojo);outline-offset:3px}
+
+  /* ---------- Portada ---------- */
+  .principal{
+    border-bottom:3px double var(--negro);
+    padding:16px 0 14px;
+    text-align:center;
+  }
+  .principal .seccion{
+    font-size:11px;font-weight:700;letter-spacing:.2em;
+    text-transform:uppercase;color:var(--rojo);
+    display:block;margin-bottom:6px;
+  }
+  .principal h2{margin:0;line-height:0}
+  .principal a{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:31px;
+    color:var(--negro);
+    text-decoration:none;
+    display:block;
+    line-height:1.06;
+    max-width:24ch;
+    margin:0 auto;
+  }
+  .principal a:hover{color:var(--rojo)}
+  .bajada{
+    font-family:var(--serif);
+    font-size:14px;
+    line-height:1.4;
+    color:var(--gris);
+    max-width:52ch;
+    margin:8px auto 0;
+  }
+  .bajada:empty{display:none}
+
+  /* ---------- Columnas ---------- */
+  /* Dos columnas siempre: al angostarse encogen, nunca se apilan. */
+  .columnas{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:0;
+    padding-top:clamp(14px,2.5vw,26px);
+  }
+  /* Filete y aire entre columnas, sin elementos extra en la rejilla. */
+  .seccion-col{padding:0 clamp(6px,1.2vw,14px)}
+  .seccion-col:first-child{padding-left:0}
+  .seccion-col:last-child{padding-right:0}
+  .seccion-col + .seccion-col{border-left:1px solid var(--regla)}
+
+  .seccion-col > h3{
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    margin:0 0 4px;
+    padding-bottom:8px;
+    border-bottom:2px solid var(--negro);
+  }
+  .conteo{font-weight:400;color:var(--gris);letter-spacing:.06em}
+
+  ol{list-style:none;margin:0;padding:0}
+  li{border-bottom:1px solid var(--regla);padding:clamp(9px,1.6vw,15px) 0}
+  li a{
+    overflow-wrap:break-word;
+    hyphens:auto;
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:16px;
+    line-height:1.26;
+    color:var(--negro);
+    text-decoration:none;
+    display:block;
+  }
+  li a:hover{color:var(--rojo)}
+  li .marca{
+    display:block;
+    margin-top:7px;
+    font-size:10px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--gris);
+  }
+  li.reciente .marca::before{
+    content:"Nuevo";
+    color:var(--rojo);
+    font-weight:700;
+    margin-right:8px;
+  }
+  .vacio{color:var(--gris);font-style:italic;padding:18px 0;font-family:var(--serif)}
+
+  footer{
+    margin-top:44px;
+    border-top:1px solid var(--negro);
+    padding-top:12px;
+    font-size:11px;
+    color:var(--gris);
+    text-align:center;
+    line-height:1.5;
+    padding-bottom:0;
+  }
+  footer a{color:var(--gris)}
+</style>
+</head>
+<body>
+<div class="hoja">
+
+  <header class="masthead">
+    <div class="sello">Tribudata · Monitor de prensa económica</div>
+    <h1>Macro y Empresas</h1>
+    <p class="lema">Titulares de dataiFX, recogidos cada media hora</p>
+    <div class="dateline">
+      <span id="fecha">Cargando</span>
+      <span id="corte">—</span>
+      <button type="button" class="refrescar" id="refrescar">Volver a cargar</button>
+    </div>
+  </header>
+
+  <section class="principal" id="principal" hidden>
+    <span class="seccion" id="principalSeccion"></span>
+    <h2><a id="principalEnlace" href="#" target="_blank" rel="noopener"></a></h2>
+    <p class="bajada" id="principalBajada"></p>
+  </section>
+
+  <main class="columnas" id="columnas"></main>
+
+  <footer>
+    Los titulares y enlaces son propiedad de <a href="https://www.dataifx.com/" target="_blank" rel="noopener">dataiFX</a>.
+    Esta página solo los lista y enlaza al original.</footer>
+</div>
+
+<script>
+const FUENTE_JSON = "https://tribudata.github.io/monitor_noticias_dataifx/data/noticias.json";
+const SECCIONES = ["Macro Colombia", "Macro Internacional", "Empresas Colombia", "Empresas Internacional"];
+const POR_COLUMNA = 15;   // titulares visibles en cada columna
+const REFRESCO_MS = 5 * 60 * 1000;
+const VENTANA_NUEVO_H = 6;
+
+const $fecha = document.getElementById("fecha");
+const $corte = document.getElementById("corte");
+const $columnas = document.getElementById("columnas");
+const $principal = document.getElementById("principal");
+
+function fechaLarga(iso){
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleDateString("es-CO", {
+    weekday:"long", day:"numeric", month:"long", year:"numeric"
+  });
+}
+
+function hora(iso){
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleTimeString("es-CO", {hour:"2-digit", minute:"2-digit"});
+}
+
+function esReciente(iso){
+  const d = new Date(iso);
+  return !isNaN(d) && (Date.now() - d) < VENTANA_NUEVO_H * 3600 * 1000;
+}
+
+function crearItem(item){
+  const li = document.createElement("li");
+  if (esReciente(item.capturado)) li.classList.add("reciente");
+
+  const a = document.createElement("a");
+  a.href = item.url;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.textContent = item.titulo;
+  li.appendChild(a);
+
+  const marca = document.createElement("span");
+  marca.className = "marca";
+  marca.textContent = [item.subseccion, item.autor].filter(Boolean).join(" · ")
+                      || hora(item.capturado);
+  li.appendChild(marca);
+
+  return li;
+}
+
+function pintar(datos){
+  const et = datos.secciones || {};
+
+  // Titular de apertura: el más reciente de cualquiera de las dos secciones.
+  const todos = SECCIONES.flatMap(s =>
+    (et[s] || []).map(i => ({...i, seccion:s}))
+  ).sort((a,b) => (b.capturado || "").localeCompare(a.capturado || ""));
+
+  if (todos.length){
+    const lead = todos[0];
+    document.getElementById("principalSeccion").textContent =
+      lead.subseccion ? lead.seccion + " · " + lead.subseccion : lead.seccion;
+    const enlace = document.getElementById("principalEnlace");
+    enlace.href = lead.url;
+    enlace.textContent = lead.titulo;
+    document.getElementById("principalBajada").textContent = lead.resumen || "";
+    $principal.hidden = false;
+  }
+
+  $columnas.innerHTML = "";
+  SECCIONES.forEach((seccion) => {
+    const sec = document.createElement("section");
+    sec.className = "seccion-col";
+
+    const h3 = document.createElement("h3");
+    const items = (et[seccion] || [])
+      .filter(i => !todos.length || i.url !== todos[0].url)
+      .slice(0, POR_COLUMNA);
+    h3.textContent = seccion + " ";
+    const conteo = document.createElement("span");
+    conteo.className = "conteo";
+    conteo.textContent = "(" + Math.min((et[seccion] || []).length, POR_COLUMNA) + ")";
+    h3.appendChild(conteo);
+    sec.appendChild(h3);
+
+    if (!items.length){
+      const p = document.createElement("p");
+      p.className = "vacio";
+      p.textContent = "Todavía no hay titulares archivados en esta sección.";
+      sec.appendChild(p);
+    } else {
+      const ol = document.createElement("ol");
+      items.forEach(i => ol.appendChild(crearItem(i)));
+      sec.appendChild(ol);
+    }
+    $columnas.appendChild(sec);
+  });
+
+  $fecha.textContent = fechaLarga(datos.actualizado) || "Sin fecha";
+  $corte.textContent = "Último corte " + (hora(datos.actualizado) || "—");
+}
+
+async function cargar(){
+  $corte.textContent = "Actualizando…";
+  try{
+    const r = await fetch(FUENTE_JSON + "?v=" + Date.now(), {cache:"no-store"});
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    pintar(await r.json());
+  }catch(e){
+    $corte.textContent = "No se pudo leer el archivo de datos";
+    if (!$columnas.children.length){
+      $columnas.innerHTML =
+        '<p class="vacio">No se pudieron cargar los titulares.</p>';
+    }
+  }
+}
+
+document.getElementById("refrescar").addEventListener("click", cargar);
+cargar();
+setInterval(cargar, REFRESCO_MS);
+</script>
+</body>
+</html>

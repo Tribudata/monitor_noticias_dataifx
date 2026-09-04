@@ -1,0 +1,47 @@
+name: Actualizar dataiFX
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # cada 30 minutos (hora UTC)
+  workflow_dispatch:          # botón manual en la pestaña Actions
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+      - ".github/workflows/actualizar-noticias.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scraping-dataifx
+  cancel-in-progress: false
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Extraer titulares
+        run: python scraper/scrape.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/noticias.json; then
+            echo "Sin titulares nuevos, no hay nada que publicar."
+          else
+            git add data/noticias.json
+            git commit -m "Titulares Macro y Empresas $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

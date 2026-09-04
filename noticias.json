@@ -1,0 +1,60 @@
+{
+  "fuente": "https://www.dataifx.com/",
+  "actualizado": "2026-09-04T18:37:23-05:00",
+  "nuevos_en_esta_corrida": 5,
+  "secciones": {
+    "Macro Colombia": [
+      {
+        "titulo": "Producción de café en Colombia cayó 12% en agosto",
+        "url": "https://www.dataifx.com/post/produccion-de-cafe-en-colombia-cayo-12-en-agosto",
+        "resumen": "La Federación Nacional de Cafeteros informó que la producción de café en agosto de 2026 alcanzó 1,09 millones de sacos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "capturado": "2026-09-04T18:37:23-05:00"
+      },
+      {
+        "titulo": "Fenómeno El Niño persistirá hasta febrero de 2027 y podría ser el más intenso en 40 años",
+        "url": "https://www.dataifx.com/post/fenomeno-el-nino-persistira-hasta-febrero-de-2027",
+        "resumen": "El fenómeno El Niño continúa intensificándose.",
+        "autor": "",
+        "subseccion": "Macro Internacional",
+        "publicacion": "",
+        "capturado": "2026-09-04T18:37:23-05:00"
+      }
+    ],
+    "Macro Internacional": [
+      {
+        "titulo": "Fenómeno El Niño persistirá hasta febrero de 2027 y podría ser el más intenso en 40 años",
+        "url": "https://www.dataifx.com/post/fenomeno-el-nino-persistira-hasta-febrero-de-2027",
+        "resumen": "El fenómeno El Niño continúa intensificándose.",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "capturado": "2026-09-04T18:37:23-05:00"
+      }
+    ],
+    "Empresas Colombia": [
+      {
+        "titulo": "Bancolombia abre convocatoria con cerca de 500 vacantes",
+        "url": "https://www.dataifx.com/post/bancolombia-abre-convocatoria",
+        "resumen": "El Grupo Bancolombia anunció la apertura de 500 oportunidades.",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "capturado": "2026-09-04T18:37:23-05:00"
+      }
+    ],
+    "Empresas Internacional": [
+      {
+        "titulo": "Chevron invertirá US$7.000 millones en Venezuela",
+        "url": "https://www.dataifx.com/post/chevron-invertira-us7000-millones-en-venezuela",
+        "resumen": "La petrolera Chevron anunció una inversión superior a US$7",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "capturado": "2026-09-04T18:37:23-05:00"
+      }
+    ]
+  }
+}
