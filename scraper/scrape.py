@@ -115,7 +115,12 @@ def render(pagina, url: str, etiqueta: str) -> str:
     mezcla secciones, y las menos frecuentes —Macro Internacional -- quedan
     muy abajo. Contando el total, el scroll se detenía antes de alcanzarlas.
     """
-    pagina.goto(url, wait_until="domcontentloaded", timeout=ESPERA_MS)
+    # Un parámetro extra evita que Angular reutilice la vista anterior
+    # cuando solo cambian los parámetros de consulta.
+    separador = "&" if "?" in url else "?"
+    pagina.goto(f"{url}{separador}_t={int(time.time())}",
+                wait_until="domcontentloaded", timeout=ESPERA_MS)
+    pagina.wait_for_timeout(1500)
 
     try:
         pagina.wait_for_selector("a.post-title", timeout=ESPERA_MS)
@@ -354,9 +359,11 @@ def main() -> int:
             ignore_https_errors=True,   # cadena TLS incompleta del sitio
             viewport={"width": 1400, "height": 1000},
         )
-        pagina = contexto.new_page()
-
         for seccion, cfg in SECCIONES.items():
+            # Pestaña nueva por sección: reutilizarla dejaba el listado de la
+            # sección anterior, porque la aplicación no rehace la vista
+            # cuando solo cambian los parámetros de la URL.
+            pagina = contexto.new_page()
             try:
                 html = render(pagina, cfg["url"], cfg["etiqueta"])
             except PlaywrightError as e:
@@ -364,6 +371,8 @@ def main() -> int:
                 nuevo[seccion] = []
                 fallos += 1
                 continue
+            finally:
+                pagina.close()
 
             items = extraer(html, cfg["etiqueta"])
             if not items:
