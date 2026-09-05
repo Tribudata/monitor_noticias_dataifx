@@ -1,1 +1,605 @@
-{"secciones": {}}
+{
+  "fuente": "https://www.dataifx.com/",
+  "actualizado": "2026-09-04T22:05:15-05:00",
+  "nuevos_en_esta_corrida": 59,
+  "secciones": {
+    "Macro Colombia": [
+      {
+        "titulo": "La cosecha cafetera colombiana disminuyó un 12% durante agosto",
+        "url": "https://www.dataifx.com/post/produccion-de-cafe-en-colombia-cayo-12-en-agosto",
+        "resumen": "La Federación Nacional de Cafeteros informó que la producción de café en agosto de 2026 alcanzó 1,09 millones de sacos de 60 kilos, lo que representa una disminución de 12% frente al mismo mes del año anterior",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción de café en Colombia cayó 12% en agosto",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ejecutivo descarta control al dólar y busca restaurar la confianza fiscal",
+        "url": "https://www.dataifx.com/post/gobierno-no-respalda-una-intervencion-cambiaria-y-plantea-recuperar-la-confianza-fiscal-ante-caida",
+        "resumen": "El Gobierno Nacional no contempla intervenir directamente el mercado cambiario para frenar la apreciación del peso colombiano, pese a las solicitudes de sectores empresariales que han advertido sobre el impacto de un dólar más bajo en las compañías exportadoras",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno no respalda una intervención cambiaria y plantea recuperar la confianza fiscal ante caída del dólar",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Alza en alimentos empujó el incremento de 0,76% en el IPP de agosto",
+        "url": "https://www.dataifx.com/post/precios-del-productor-crecieron-076-en-agosto-por-alzas-en-productos-agricolas",
+        "resumen": "El Índice de Precios del Productor (IPP) de la producción nacional presentó en agosto de 2026 una variación de -0,33% frente a julio, según el DANE",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Precios del productor crecieron 0,76% en agosto por alzas en productos agrícolas",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Olga Lucía Acosta señala que el país deberá subir tributos para cubrir déficit fiscal",
+        "url": "https://www.dataifx.com/post/olga-lucia-acosta-advierte-que-colombia-tendra-que-aumentar-los-impuestos-para-cerrar-el-hueco",
+        "resumen": "Colombia tendrá que aumentar sus ingresos tributarios y revisar la forma en que ejecuta el gasto público si busca corregir el desbalance de sus cuentas fiscales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Olga Lucía Acosta advierte que Colombia tendrá que aumentar los impuestos para cerrar el hueco fiscal",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "MinHacienda renombra uno de sus espacios en honor a Roberto Junguito Bonnet",
+        "url": "https://www.dataifx.com/post/ministerio-de-hacienda-vuelve-exhibir-el-nombre-de-roberto-junguito-bonnet-en-una-de-sus-salas",
+        "resumen": "Una fotografía publicada por el ministro de Hacienda, Miguel Gómez, tras una reunión con el alcalde de Cali, Alejandro Eder, permitió identificar un cambio en la denominación de una de las salas del Ministerio de Hacienda y Crédito Público",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Hacienda vuelve a exhibir el nombre de Roberto Junguito Bonnet en una de sus salas",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "MinHacienda avisa que omitir soluciones al déficit fiscal conduciría a Colombia hacia una crisis",
+        "url": "https://www.dataifx.com/post/hacienda-advierte-que-no-actuar-frente-al-deficit-fiscal-llevaria-colombia-una-crisis",
+        "resumen": "En el inicio de la segunda jornada del Congreso de Exportadores 2026, el viceministro general de Hacienda, Andrés Quevedo, presentó un diagnóstico sobre las finanzas públicas del país y advirtió que Colombia debe adoptar medidas para corregir el comportamiento del gasto, contener el crecimiento de la deuda y recuperar el equilibrio fiscal",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Hacienda advierte que no actuar frente al déficit fiscal llevaría a Colombia a una crisis",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Administración nacional gestiona fondos para la reactivación vallecaucana tras sismo",
+        "url": "https://www.dataifx.com/post/gobierno-coordina-recursos-para-recuperacion-economica-de-municipios-del-valle-del-cauca-afectados",
+        "resumen": "Por instrucción del presidente Abelardo De la Espriella, el Gobierno Nacional avanza en la activación de recursos destinados a la recuperación económica de los municipios del Valle del Cauca afectados por el sismo del pasado 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno coordina recursos para recuperación económica de municipios del Valle del Cauca afectados por terremoto",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "CAMPETROL solicita pactos con pobladores de Taganga para continuar la iniciativa Sirius",
+        "url": "https://www.dataifx.com/post/campetrol-pide-acuerdos-con-comunidades-de-taganga-para-avanzar-con-el-proyecto-sirius",
+        "resumen": "La Cámara Colombiana de Bienes y Servicios de Petróleo, Gas y Energía, CAMPETROL, destacó la decisión del Consejo de Estado sobre los hechos ocurridos entre el 31 de julio y el 15 de agosto de 2017 en la Estación Chichimene, en Acacías, Meta, y señaló que el fallo establece criterios sobre el ejercicio de la protesta social y sus efectos sobre terceros y actividades productivas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CAMPETROL pide acuerdos con comunidades de Taganga para avanzar con el proyecto Sirius",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      }
+    ],
+    "Macro Internacional": [
+      {
+        "titulo": "En agosto, Estados Unidos añadió 162.000 puestos de trabajo y conservó el desempleo en 4,1%",
+        "url": "https://www.dataifx.com/post/eeuu-sumo-162000-empleos-en-agosto-y-mantuvo-la-tasa-de-desempleo-en-41",
+        "resumen": "La Oficina de Estadísticas Laborales de Estados Unidos (BLS) informó que en agosto de 2026 el empleo no agrícola aumentó en 162",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EE.UU. sumó 162.000 empleos en agosto y mantuvo la tasa de desempleo en 4,1%",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      }
+    ],
+    "Empresas Colombia": [
+      {
+        "titulo": "ANI hará audiencia pública para modernizar el aeropuerto Ernesto Cortissoz",
+        "url": "https://www.dataifx.com/post/ani-convocara-audiencia-publica-sobre-modernizacion-del-aeropuerto-ernesto-cortissoz",
+        "resumen": "La Agencia Nacional de Infraestructura (ANI) anunció la realización de una audiencia pública el próximo 28 de octubre de 2026 en Barranquilla, con el objetivo de socializar la Iniciativa Privada Puerta de Oro, que plantea la modernización del aeropuerto Ernesto Cortissoz",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANI convocará audiencia pública sobre modernización del aeropuerto Ernesto Cortissoz",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Jaime Gilinski se reunió con Delcy Rodríguez tras acuerdo petrolero",
+        "url": "https://www.dataifx.com/post/jaime-gilinski-sostuvo-encuentro-con-delcy-rodriguez-luego-de-acuerdo-petrolero",
+        "resumen": "En Caracas se llevó a cabo la reunión entre Jaime Gilinski, empresario colombiano y accionista mayoritario de GeoPark, y la presidenta encargada de Venezuela, Delcy Rodríguez, tras la firma del contrato que permitirá a la compañía operar el bloque Bare en la Faja Petrolífera del Orinoco",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Jaime Gilinski sostuvo encuentro con Delcy Rodríguez luego de acuerdo petrolero",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Tesla cobrará la suscripción de conectividad premium desde octubre",
+        "url": "https://www.dataifx.com/post/tesla-cobrara-suscripcion-por-conectividad-premium-desde-octubre",
+        "resumen": "A partir del 30 de septiembre, Tesla dejará de ofrecer sin cargo el paquete de conectividad premium en sus vehículos",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Tesla cobrará suscripción por conectividad premium desde octubre",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "El 86 por ciento de los colombianos quiere aprender a detectar fraudes con IA",
+        "url": "https://www.dataifx.com/post/86-de-los-colombianos-quiere-aprender-identificar-fraudes-creados-con-ia",
+        "resumen": "DataCrédito Experian presentó un estudio que analiza cómo la inteligencia artificial y los datos están transformando la prevención del fraude en Colombia",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "86% de los colombianos quiere aprender a identificar fraudes creados con IA",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Federación de Cafeteros implementará voto electrónico en comicios de 2026",
+        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-estrena-voto-electronico-en-sus-elecciones-de-2026",
+        "resumen": "En un hecho inédito para el país, la Federación Nacional de Cafeteros (FNC) implementó por primera vez el voto electrónico en sus elecciones gremiales de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Federación de Cafeteros estrena voto electrónico en sus elecciones de 2026",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ventas en línea logran máximo histórico de operaciones y aumentan 31% entre abril y junio",
+        "url": "https://www.dataifx.com/post/comercio-electronico-alcanza-record-de-transacciones-y-crece-31-en-el-segundo-trimestre",
+        "resumen": "El comercio electrónico colombiano registró entre abril y junio de 2026 su mayor número de transacciones para un segundo trimestre desde que se inició la medición en 2019",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comercio electrónico alcanza récord de transacciones y crece 31% en el segundo trimestre",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Bancolombia lanza oferta laboral con cerca de 500 puestos en varias zonas del territorio nacional",
+        "url": "https://www.dataifx.com/post/bancolombia-abre-convocatoria-con-cerca-de-500-vacantes-en-distintas-regiones-del-pais",
+        "resumen": "El Grupo Bancolombia anunció la apertura de aproximadamente 500 oportunidades laborales y de aprendizaje en varias ciudades de Colombia, como parte de su estrategia de atracción de talento",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia abre convocatoria con cerca de 500 vacantes en distintas regiones del país",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Asamblea de Grupo SURA votará iniciativa de recompra de títulos por 500.000 millones de pesos",
+        "url": "https://www.dataifx.com/post/grupo-sura-sometera-asamblea-programa-de-readquisicion-de-acciones-por-500000-millones",
+        "resumen": "El Grupo de Inversiones Suramericana S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo SURA someterá a Asamblea programa de readquisición de acciones por $500.000 millones",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Kala pone en marcha plan de titularización por 1 billón con tanda inicial de 195.000 millones",
+        "url": "https://www.dataifx.com/post/kala-activa-programa-de-titularizacion-por-1-billon-con-emision-inicial-de-195000-millones",
+        "resumen": "La compañía Kala, especializada en inteligencia artificial aplicada al ciclo de crédito, anunció la puesta en marcha de su programa de titularización por COP $1 billón, con una primera emisión de COP $195",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Kala activa programa de titularización por $1 billón con emisión inicial de $195.000 millones",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Medios virtuales agruparon 85,5% de las transacciones del sector financiero en el segundo trimestre",
+        "url": "https://www.dataifx.com/post/canales-digitales-concentraron-855-de-las-operaciones-financieras-en-el-segundo-trimestre",
+        "resumen": "En el segundo trimestre de 2026, los establecimientos de crédito y las sociedades especializadas en depósitos y pagos electrónicos (SEDPE) registraron 6",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Canales digitales concentraron 85,5% de las operaciones financieras en el segundo trimestre",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Nueva fórmula de combustibles de Terpel busca mayor rendimiento y cuidado del motor",
+        "url": "https://www.dataifx.com/post/nueva-formula-de-gasolina-y-diesel-de-terpel-busca-mayor-rendimiento-y-cuidado-del-motor",
+        "resumen": "La compañía Terpel presentó la reformulación de su portafolio de combustibles bajo la marca GT Premium, disponible ya en varias regiones del país y con expansión prevista a toda la red de más de 2",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nueva fórmula de gasolina y diésel de Terpel busca mayor rendimiento y cuidado del motor",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Andrés Osorio asumirá la Vicepresidencia Técnica y de Estudios Económicos de Asofondos",
+        "url": "https://www.dataifx.com/post/andres-osorio-asumira-vicepresidencia-tecnica-y-de-estudios-economicos-de-asofondos",
+        "resumen": "La Asociación Colombiana de Administradoras de Fondos de Pensiones y de Cesantía (Asofondos) anunció el nombramiento de Andrés Felipe Osorio Quevedo como nuevo vicepresidente Técnico y de Estudios Económicos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Andrés Osorio asumirá Vicepresidencia Técnica y de Estudios Económicos de Asofondos",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Wingo reactivará vuelos a Caracas y consolida tres rutas entre Colombia y Venezuela",
+        "url": "https://www.dataifx.com/post/wingo-reactivara-vuelos-caracas-y-consolida-tres-rutas-entre-colombia-y-venezuela",
+        "resumen": "La aerolínea Wingo anunció que a partir del 7 de septiembre de 2026 reanudará sus vuelos hacia el Aeropuerto Internacional Simón Bolívar de Maiquetía, tras la reapertura informada por las autoridades venezolanas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Wingo reactivará vuelos a Caracas y consolida tres rutas entre Colombia y Venezuela",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "ISA Energía finaliza proyecto en Termoguajira que mejora estabilidad del sistema eléctrico",
+        "url": "https://www.dataifx.com/post/isa-energia-finaliza-proyecto-en-termoguajira-que-mejora-estabilidad-del-sistema-electrico",
+        "resumen": "ISA Energía finalizó la reubicación de 15 unidades de SmartValves en la subestación Termoguajira, un proyecto estratégico que busca fortalecer la seguridad energética del país y preparar la red para la transición hacia fuentes renovables",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA Energía finaliza proyecto en Termoguajira que mejora estabilidad del sistema eléctrico",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Argos incorpora 21 camiones mezcladores para operaciones en Medellín, Barranquilla y Bogotá",
+        "url": "https://www.dataifx.com/post/argos-incorpora-21-camiones-mezcladores-para-operaciones-en-medellin-barranquilla-y-bogota",
+        "resumen": "La empresa Argos anunció la incorporación de 21 nuevos camiones mezcladores de concreto a su flota, con el objetivo de ampliar la capacidad logística y mejorar la respuesta en operaciones estratégicas en el país",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Argos incorpora 21 camiones mezcladores para operaciones en Medellín, Barranquilla y Bogotá",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "En el tercer trimestre de 2026 Grupo Éxito modernizó 26.780 m² en ocho departamentos",
+        "url": "https://www.dataifx.com/post/grupo-exito-renovo-y-reconvirtio-26780-m2-en-ocho-departamentos-durante-el-tercer-trimestre-de-2026",
+        "resumen": "Durante el tercer trimestre de 2026, Grupo Éxito ejecuta un amplio plan de renovaciones y reconversiones de tiendas en ocho departamentos del país, con una inversión de $81",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Éxito renovó y reconvirtió 26.780 m² en ocho departamentos durante el tercer trimestre de 2026",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá alerta acerca del crecimiento de los delitos cibernéticos",
+        "url": "https://www.dataifx.com/post/banco-de-bogota-advierte-sobre-aumento-de-fraudes-digitales",
+        "resumen": "El Banco de Bogotá advirtió sobre el incremento de fraudes digitales en Colombia, que han evolucionado hacia esquemas cada vez más sofisticados y adaptados a distintos perfiles de la población",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Bogotá advierte sobre aumento de fraudes digitales",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "GeoPark confirma llegada a Venezuela y Grupo Gilinski toma el dominio accionario",
+        "url": "https://www.dataifx.com/post/geopark-anuncia-entrada-venezuela-y-grupo-gilinski-asume-control-accionario-de-la-compania",
+        "resumen": "La empresa GeoPark Limited, con sede en Bogotá y operaciones en América Latina, anunció su entrada estratégica en Venezuela mediante la adquisición del bloque Bare, un activo productor de crudo pesado ubicado en la Faja Petrolífera del Orinoco, considerada una de las mayores reservas de hidrocarburos del mundo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark anuncia entrada a Venezuela y Grupo Gilinski asume control accionario de la compañía",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Gremios del transporte intermunicipal exigen al Gobierno destrabar el sector tras obras viales",
+        "url": "https://www.dataifx.com/post/mejoramiento-vial-no-basta-gremios-de-transporte-intermunicipal-piden-al-gobierno-destrabar-el",
+        "resumen": "Los empresarios del transporte terrestre intermunicipal de pasajeros respaldaron las obras de infraestructura anunciadas por el Ministerio de Transporte, pero insistieron en que la verdadera conexión del país requiere más que vías en buen estado",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mejoramiento vial no basta: gremios de transporte intermunicipal piden al Gobierno destrabar el sector",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Propietaria de Refisal y Blancox destinará $379.000 millones para inversión en 2026",
+        "url": "https://www.dataifx.com/post/la-compania-detras-de-refisal-y-blancox-invertira-379000-millones-en-2026",
+        "resumen": "La empresa Brinsa S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La compañía detrás de Refisal y Blancox invertirá $379.000 millones en 2026",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      }
+    ],
+    "Empresas Internacional": [
+      {
+        "titulo": "Chevron destinará US$7.000 millones en Venezuela para elevar al doble su bombeo en un lustro",
+        "url": "https://www.dataifx.com/post/chevron-invertira-us7000-millones-en-venezuela-para-duplicar-su-produccion-en-cinco-anos",
+        "resumen": "La petrolera Chevron anunció una inversión superior a US$7",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Chevron invertirá US$7.000 millones en Venezuela para duplicar su producción en cinco años",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Cibest Capital extiende su oferta enfocada a usuarios de Guatemala y El Salvador",
+        "url": "https://www.dataifx.com/post/cibest-capital-amplia-su-propuesta-especializada-para-clientes-en-guatemala-y-el-salvador",
+        "resumen": "El Grupo Cibest anunció la expansión de su plataforma Cibest Capital hacia Guatemala y El Salvador, con el propósito de fortalecer su oferta de servicios especializados en mercado de capitales, banca de inversión, gestión de activos y banca privada",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cibest Capital amplía su propuesta especializada para clientes en Guatemala y El Salvador",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Tim Cook sale del mando de Apple luego de 15 años y John Ternus toma el cargo de CEO",
+        "url": "https://www.dataifx.com/post/tim-cook-deja-la-direccion-de-apple-tras-15-anos-y-john-ternus-asume-como-nuevo-ceo",
+        "resumen": "El 1 de septiembre de 2026 marca el cierre de una etapa en Apple",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Tim Cook deja la dirección de Apple tras 15 años y John Ternus asume como nuevo CEO",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Colombia pretende que Mazda retome el armado y que Toyota financie movilidad eléctrica",
+        "url": "https://www.dataifx.com/post/colombia-busca-que-mazda-vuelva-ensamblar-y-que-toyota-invierta-en-movilidad-electrica",
+        "resumen": "El presidente Abelardo de la Espriella anunció que Colombia y Japón retomaron las negociaciones del Acuerdo de Asociación Económica (EPA), paralizadas durante cerca de 15 años",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Colombia busca que Mazda vuelva a ensamblar y que Toyota invierta en movilidad eléctrica",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Colombia progresa en su agenda financiera con Japón para captar capital y tecnología",
+        "url": "https://www.dataifx.com/post/colombia-avanza-en-agenda-economica-con-japon-para-atraer-inversion-y-tecnologia",
+        "resumen": "El Gobierno colombiano busca consolidar nuevas oportunidades con Japón para impulsar la industria nacional y atraer transferencia tecnológica",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Colombia avanza en agenda económica con Japón para atraer inversión y tecnología",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Credicorp informa alza de ganancia en el primer semestre de 2026 y saldo favorable en Colombia",
+        "url": "https://www.dataifx.com/post/credicorp-reporta-crecimiento-de-utilidad-en-el-primer-semestre-de-2026-y-balance-positivo-en",
+        "resumen": "El holding financiero Credicorp, con presencia en Colombia a través de Mibanco, Credicorp Capital y Krealo, cerró el segundo trimestre de 2026 con un crecimiento de 8,8 % en su utilidad neta atribuible, que llegó a USD 581,2 millones, y un ROE de 20,3 %",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Credicorp reporta crecimiento de utilidad en el primer semestre de 2026 y balance positivo en Colombia",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Odinsa arriba a México al adquirir Ticsa y presenta su vehículo de inversión hídrica",
+        "url": "https://www.dataifx.com/post/odinsa-llega-mexico-con-la-compra-de-ticsa-y-lanza-su-plataforma-de-inversion-en-agua",
+        "resumen": "Odinsa, empresa del Grupo Argos, anunció su llegada a México tras concretar la adquisición de la compañía Tecnología Intercontinental S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa llega a México con la compra de Ticsa y lanza su plataforma de inversión en agua",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ecopetrol finaliza la adquisición del 51% de Brava Energia en territorio brasileño",
+        "url": "https://www.dataifx.com/post/ecopetrol-completa-compra-del-51-de-brava-energia-en-brasil",
+        "resumen": "Ecopetrol anunció la culminación de la adquisición de una participación controlante del 51% en Brava Energia S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol completa compra del 51% de Brava Energia en Brasil",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ganancia neta de Nu Holdings aumentó 49% anual y alcanzó los US$1.100 millones",
+        "url": "https://www.dataifx.com/post/utilidad-neta-de-nu-holdings-crecio-49-interanual-y-llego-us1100-millones",
+        "resumen": "Nu Holdings Ltd",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad neta de Nu Holdings creció 49% interanual y llegó a US$1.100 millones",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Starlink comunica servicio sin costo en Colombia luego del movimiento telúrico",
+        "url": "https://www.dataifx.com/post/starlink-anuncia-servicio-gratuito-en-colombia-tras-el-terremoto",
+        "resumen": "Starlink informó que, como medida de apoyo a las comunidades afectadas por el terremoto en Colombia, ofrecerá servicio gratuito hasta el 12 de septiembre a sus clientes en las zonas impactadas",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Starlink anuncia servicio gratuito en Colombia tras el terremoto",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Grupo Cibest plantea dividendo extra de $1,2 billones tras venta de Banistmo",
+        "url": "https://www.dataifx.com/post/grupo-cibest-propone-dividendo-extraordinario-de-12-billones-tras-venta-de-banistmo",
+        "resumen": "Grupo Cibest anunció que presentará a sus accionistas una propuesta de dividendo extraordinario por $1,2 billones, derivado de la venta de Banistmo",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest propone dividendo extraordinario de $1,2 billones tras venta de Banistmo",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ecopetrol culmina OPAV en Brasil y compra cerca del 25 % de Brava Energía",
+        "url": "https://www.dataifx.com/post/ecopetrol-completa-opav-en-brasil-y-adquiere-aproximadamente-el-25-de-brava-energia",
+        "resumen": "Ecopetrol informó este miércoles que su filial en Brasil culminó con éxito la subasta de la Oferta Pública de Adquisición Voluntaria (OPAV) para adquirir cerca del 25 % del capital social de Brava Energía S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol completa OPAV en Brasil y adquiere aproximadamente el 25 % de Brava Energía",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Colombia retoma venta de energía a Ecuador a partir de este 5 de agosto",
+        "url": "https://www.dataifx.com/post/colombia-reinicia-exportaciones-de-energia-ecuador-desde-este-5-de-agosto",
+        "resumen": "El ministro de Minas y Energía, Edwin Palma, anunció que desde este hoy se reinician las exportaciones de energía eléctrica de Colombia hacia Ecuador, con una programación cercana a 8,6 GWh diarios",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Colombia reinicia exportaciones de energía a Ecuador desde este 5 de agosto",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Gran Tierra enajena activos en Colombia y Ecuador por US$1.330 millones",
+        "url": "https://www.dataifx.com/post/gran-tierra-vende-operaciones-en-colombia-y-ecuador-por-us1330-millones",
+        "resumen": "Gran Tierra Energy Inc",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Gran Tierra vende operaciones en Colombia y Ecuador por US$1.330 millones",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "ISA ya detenta la segunda línea eléctrica más extensa de Brasil",
+        "url": "https://www.dataifx.com/post/isa-ya-es-duena-de-la-segunda-linea-electrica-mas-larga-de-brasil",
+        "resumen": "ISA, a través de su filial en Brasil, completó la adquisición del 49% restante de Interligação Elétrica do Madeira (IE Madeira), alcanzando el control total de esta infraestructura de transmisión",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA ya es dueña de la segunda línea eléctrica más larga de Brasil",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ecopetrol y Petrobras ratifican descubrimiento de gas en el Caribe colombiano",
+        "url": "https://www.dataifx.com/post/petrobras-y-ecopetrol-confirman-hallazgo-de-gas-en-aguas-profundas-del-caribe-colombiano",
+        "resumen": "Petrobras y Ecopetrol anunciaron un nuevo descubrimiento de gas natural en el Caribe colombiano, tras la perforación del pozo exploratorio Sandía-1, ubicado en el Bloque GUA-OFF-0, a unos 42 kilómetros de la costa y a una profundidad de agua de 1",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Petrobras y Ecopetrol confirman hallazgo de gas en aguas profundas del Caribe colombiano",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "ISA Energía Brasil finaliza emisión de acciones con fuerte demanda",
+        "url": "https://www.dataifx.com/post/isa-energia-brasil-concluye-oferta-de-acciones-con-alta-demanda",
+        "resumen": "Interconexión Eléctrica S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA Energía Brasil concluye oferta de acciones con alta demanda",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Dow Jones cede cerca de 900 puntos por subida del petróleo y tasas",
+        "url": "https://www.dataifx.com/post/dow-jones-pierde-casi-900-puntos-por-repunte-del-crudo-y-expectativa-sobre-tasas",
+        "resumen": "Las principales bolsas de Estados Unidos registran pérdidas en la jornada del miércoles 29 de julio de 2026, en un contexto marcado por el repunte de los precios internacionales del petróleo y la expectativa de los mercados frente a la decisión de política monetaria de la Reserva Federal",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Dow Jones pierde casi 900 puntos por repunte del crudo y expectativa sobre tasas",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Gustovo Mancera asume como gerente general de Electrolux para la Región Andina",
+        "url": "https://www.dataifx.com/post/electrolux-nombra-gustavo-mancera-como-gerente-general-para-la-region-andina",
+        "resumen": "Electrolux anunció el nombramiento de Gustavo Mancera como nuevo Gerente General para la Región Andina, con responsabilidad sobre las operaciones en Colombia, Ecuador y Perú",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Electrolux nombra a Gustavo Mancera como gerente general para la Región Andina",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Alquiler de iPhones en Estados Unidos apunta a aminorar efecto de alzas",
+        "url": "https://www.dataifx.com/post/arrendamiento-de-iphones-en-eeuu-busca-suavizar-impacto-de-alzas-de-precios",
+        "resumen": "Apple anunció un nuevo programa de arrendamiento de dispositivos en Estados Unidos que permitirá a los clientes acceder a un iPhone desde USD 17,99 al mes, en contratos de uno o dos años",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Arrendamiento de iPhones en EE.UU. busca suavizar impacto de alzas de precios",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Indra Group alcanza alza histórica en ventas y contratación durante la primera mitad de 2026",
+        "url": "https://www.dataifx.com/post/indra-group-logra-crecimiento-record-en-ingresos-y-contratacion-en-el-primer-semestre-de-2026",
+        "resumen": "Indra Group reportó un crecimiento sostenido en el segundo trimestre del año, con incrementos de doble dígito en contratación, ingresos y rentabilidad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Indra Group logra crecimiento récord en ingresos y contratación en el primer semestre de 2026",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Grupo Cibest concede crédito por US$70 millones a Bam para potenciar el acceso financiero en Guatemala",
+        "url": "https://www.dataifx.com/post/grupo-cibest-otorga-financiamiento-de-us70-millones-bam-para-ampliar-acceso-al-credito-en-guatemala",
+        "resumen": "Bam recibió un financiamiento subordinado por US$70 millones a través de Bancolombia Panamá, filial del Grupo Cibest",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Cibest otorga financiamiento de US$70 millones a Bam para ampliar acceso al crédito en Guatemala",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "OpenAI integra a David Vélez, fundador de Nubank, dentro de su junta directiva",
+        "url": "https://www.dataifx.com/post/openai-suma-david-velez-creador-de-nubank-su-organo-directivo",
+        "resumen": "OpenAI anunció la incorporación de David Vélez y Robin Vince a los consejos de la OpenAI Foundation y de OpenAI Group PBC, resaltando su experiencia en el liderazgo de instituciones financieras globales y en el uso de la tecnología para ampliar el acceso y las oportunidades",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "OpenAI suma a David Vélez, creador de Nubank, a su órgano directivo",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "nuam finaliza su etapa tecnológica inicial al arrancar operaciones en Chile",
+        "url": "https://www.dataifx.com/post/nuam-culmina-primera-fase-tecnologica-con-la-entrada-en-operacion-en-chile",
+        "resumen": "Con la entrada en operación de la nueva plataforma de negociación de renta variable en Chile, nuam completó la implementación de una infraestructura tecnológica común para los mercados de Chile, Colombia y Perú, consolidando una etapa clave de su estrategia de integración regional",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "nuam culmina primera fase tecnológica con la entrada en operación en Chile",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "GeoPark informa producción constante en el segundo cuarto de 2026, con Colombia como eje central",
+        "url": "https://www.dataifx.com/post/geopark-reporta-produccion-estable-en-el-segundo-trimestre-de-2026-con-colombia-como-principal",
+        "resumen": "GeoPark Limited presentó su actualización operacional correspondiente al segundo trimestre de 2026, en el que registró una producción promedio consolidada de 27",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark reporta producción estable en el segundo trimestre de 2026, con Colombia como principal aporte",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Matriz de Avianca, Grupo Abra, confirma orden de 45 aeronaves Embraer",
+        "url": "https://www.dataifx.com/post/grupo-abra-matriz-avianca-anuncia-pedido-45-aviones-embraer",
+        "resumen": "Abra Group, matriz de Avianca, GOL y Wamos Air, anunció dos acuerdos estratégicos durante el Salón Aeronáutico de Farnborough: uno con Embraer para la adquisición de hasta 45 aeronaves E195-E2, y otro con Etihad Airways para establecer una alianza que conectará América Latina con Medio Oriente y Asia",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Abra matriz Avianca anuncia pedido 45 aviones Embraer",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Grupo Nutresa pacta la adquisición de Industrias Tío Rico en territorio venezolano",
+        "url": "https://www.dataifx.com/post/grupo-nutresa-acuerda-compra-de-industrias-tio-rico-en-venezuela",
+        "resumen": "Grupo Nutresa S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Nutresa acuerda compra de Industrias Tío Rico en Venezuela",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Ecopetrol retoma OPA brasileña para comprar títulos de Brava Energía",
+        "url": "https://www.dataifx.com/post/ecopetrol-reanuda-opa-en-brasil-para-adquirir-acciones-de-brava-energia",
+        "resumen": "Ecopetrol anunció la reanudación en Brasil del proceso de Oferta Pública de Adquisición Voluntaria (OPAV) con el objetivo de completar la compra de una participación accionaria controlante en Brava Energía S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol reanuda OPA en Brasil para adquirir acciones de Brava Energía",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Apple recupera el primer puesto como la compañía con mayor valor global",
+        "url": "https://www.dataifx.com/post/apple-se-convierte-nuevamente-en-la-empresa-mas-valiosa-del-mundo",
+        "resumen": "Apple Inc",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Apple se convierte nuevamente en la empresa más valiosa del mundo",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      },
+      {
+        "titulo": "Iberia incrementa frecuencias aéreas debido al partido final del Mundial",
+        "url": "https://www.dataifx.com/post/iberia-refuerza-vuelos-por-la-final-del-mundial",
+        "resumen": "La aerolínea Iberia anunció un refuerzo en su programación de vuelos con motivo de la final del Mundial de Fútbol, que enfrentará este domingo a las selecciones de España y Argentina en Nueva York",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Iberia refuerza vuelos por la final del Mundial",
+        "capturado": "2026-09-04T22:05:15-05:00"
+      }
+    ]
+  }
+}
