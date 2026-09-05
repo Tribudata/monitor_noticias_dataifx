@@ -79,9 +79,9 @@ AGENTE = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 
-ESPERA_MS = 20000     # espera máxima a que aparezcan las tarjetas
-DESPLAZAMIENTOS = 4   # veces que se baja la página para cargar más notas
-MINIMO_TARJETAS = 25  # deja de desplazarse al llegar a esta cantidad
+ESPERA_MS = 20000      # espera máxima a que aparezcan las tarjetas
+DESPLAZAMIENTOS = 20   # tope de desplazamientos por sección
+MINIMO_TARJETAS = 20   # tarjetas DE LA SECCIÓN con las que se da por satisfecho
 
 
 def limpiar(texto: str) -> str:
@@ -92,13 +92,28 @@ def chips_de(tarjeta) -> list:
     return [limpiar(c.get_text()) for c in tarjeta.select("mat-chip h6, mat-chip")]
 
 
-def render(pagina, url: str) -> str:
-    """Abre la URL en un navegador real y devuelve el HTML ya renderizado.
+# Cuenta, dentro de la página ya cargada, las tarjetas que llevan el chip
+# de la sección. Se ejecuta en el navegador para no traerse todo el HTML.
+CONTAR_JS = """
+(etiqueta) => Array.from(document.querySelectorAll('mat-card')).filter(c =>
+  Array.from(c.querySelectorAll('mat-chip h6, mat-chip'))
+       .some(h => (h.textContent || '').trim().toLowerCase() === etiqueta)
+).length
+"""
+
+
+def render(pagina, url: str, etiqueta: str) -> str:
+    """Abre la URL, baja hasta juntar suficientes notas de la sección y
+    devuelve el HTML renderizado.
 
     dataiFX es una aplicación Angular que arma el listado en el cliente: una
     descarga simple devuelve un cascarón sin tarjetas. Por eso se usa un
     navegador sin interfaz, que además completa la cadena TLS incompleta
     del sitio.
+
+    El conteo es de las tarjetas de ESTA sección, no del total: el listado
+    mezcla secciones, y las menos frecuentes —Macro Internacional -- quedan
+    muy abajo. Contando el total, el scroll se detenía antes de alcanzarlas.
     """
     pagina.goto(url, wait_until="domcontentloaded", timeout=ESPERA_MS)
 
@@ -108,13 +123,26 @@ def render(pagina, url: str) -> str:
         print(f"  aviso: no aparecieron tarjetas en {url}", file=sys.stderr)
         return pagina.content()
 
-    # El listado usa scroll infinito: hay que bajar para que cargue más.
+    previas = 0
+    estancado = 0
     for _ in range(DESPLAZAMIENTOS):
-        if pagina.locator("a.post-title").count() >= MINIMO_TARJETAS:
+        propias = pagina.evaluate(CONTAR_JS, etiqueta)
+        if propias >= MINIMO_TARJETAS:
             break
+
+        totales = pagina.locator("a.post-title").count()
+        # Si dos desplazamientos seguidos no cargan nada nuevo, se acabó el
+        # listado y seguir bajando solo alarga la corrida.
+        estancado = estancado + 1 if totales == previas else 0
+        if estancado >= 2:
+            break
+        previas = totales
+
         pagina.mouse.wheel(0, 4000)
         pagina.wait_for_timeout(1200)
 
+    print(f"  {etiqueta}: {pagina.evaluate(CONTAR_JS, etiqueta)} tarjetas "
+          f"tras el desplazamiento", file=sys.stderr)
     return pagina.content()
 
 
@@ -330,7 +358,7 @@ def main() -> int:
 
         for seccion, cfg in SECCIONES.items():
             try:
-                html = render(pagina, cfg["url"])
+                html = render(pagina, cfg["url"], cfg["etiqueta"])
             except PlaywrightError as e:
                 print(f"{seccion}: no se pudo abrir ({e})", file=sys.stderr)
                 nuevo[seccion] = []
