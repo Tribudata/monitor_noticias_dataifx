@@ -34,7 +34,9 @@ jobs:
       - name: Instalar Chromium para Playwright
         run: python -m playwright install --with-deps chromium
 
-      - name: Extraer titulares
+      - name: Extraer y adaptar titulares
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scraper/scrape.py
 
       - name: Publicar cambios
