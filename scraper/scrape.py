@@ -9,12 +9,15 @@ El JSON acumula histórico; la página muestra los 15 más recientes de cada una
 """
 
 import json
+import os
 import re
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
+import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, Error as PlaywrightError
 
@@ -44,6 +47,29 @@ SECCIONES = {
 
 MAX_POR_SECCION = 45     # histórico guardado; la página muestra 15
 DIAS_RETENCION = 30
+
+# --- Reescritura de titulares -------------------------------------------
+# No se publica el titular literal de La República: se guarda como
+# referencia y se muestra una redacción propia enlazada al original.
+API_MODELO = "gemini-3.5-flash-lite"
+API_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{API_MODELO}:generateContent")
+API_CLAVE = os.environ.get("GEMINI_API_KEY", "")
+LOTE = 5         # titulares por llamada
+REINTENTOS = 4   # ante 429/503, que son transitorios
+
+INSTRUCCION = """Reformula cada titular de prensa económica colombiana con
+palabras distintas, conservando exactamente el mismo significado.
+
+Reglas estrictas:
+- No agregues ningún dato, cifra, nombre o matiz que no esté en el original.
+- No omitas cifras ni nombres que sí estén.
+- Nada de adjetivos valorativos, interpretaciones ni opiniones.
+- Máximo 110 caracteres. Español de Colombia. Sin comillas ni punto final.
+- Si un titular no se puede reformular sin cambiar el sentido, devuélvelo igual.
+
+Responde ÚNICAMENTE con un arreglo JSON de cadenas, en el mismo orden y con
+la misma cantidad de elementos que recibiste. Sin explicaciones ni markdown."""
 
 SALIDA = Path(__file__).resolve().parent.parent / "data" / "noticias.json"
 BOGOTA = timezone(timedelta(hours=-5))
@@ -132,6 +158,89 @@ def extraer(html: str, etiqueta: str) -> list:
     return items
 
 
+def adaptar(titulares: list) -> list:
+    """Devuelve una redacción propia de cada titular, o [] si no se pudo.
+
+    Se llama solo con los titulares nuevos de la corrida, así que son unos
+    pocos por hora. Si falla, el llamador conserva los que ya tenía y vuelve
+    a intentar en la siguiente ejecución.
+    """
+    if not titulares:
+        return []
+    if not API_CLAVE:
+        print("  falta GEMINI_API_KEY: no se adaptan titulares", file=sys.stderr)
+        return []
+
+    salida = []
+    for i in range(0, len(titulares), LOTE):
+        trozo = titulares[i:i + LOTE]
+        cuerpo = {
+            "system_instruction": {"parts": [{"text": INSTRUCCION}]},
+            "contents": [{
+                "role": "user",
+                "parts": [{"text": json.dumps(trozo, ensure_ascii=False)}],
+            }],
+            "generationConfig": {
+                "temperature": 0.4,
+                "responseMimeType": "application/json",
+            },
+        }
+        adaptados = None
+        for intento in range(1, REINTENTOS + 1):
+            try:
+                r = requests.post(
+                    API_URL,
+                    headers={
+                        "x-goog-api-key": API_CLAVE,
+                        "content-type": "application/json",
+                    },
+                    json=cuerpo,
+                    timeout=90,
+                )
+                # 429 (cuota) y 5xx (saturación) son transitorios: se reintenta.
+                if r.status_code == 429 or r.status_code >= 500:
+                    raise requests.HTTPError(f"HTTP {r.status_code}", response=r)
+                r.raise_for_status()
+
+                partes = r.json()["candidates"][0]["content"]["parts"]
+                texto = "".join(x.get("text", "") for x in partes)
+                texto = re.sub(r"^```(?:json)?|```$", "", texto.strip()).strip()
+                adaptados = json.loads(texto)
+                break
+
+            except requests.HTTPError as e:
+                codigo = e.response.status_code if e.response is not None else 0
+                if codigo not in (429,) and codigo < 500:
+                    print(f"  no se pudieron adaptar los titulares ({e})",
+                          file=sys.stderr)
+                    return []
+                if intento == REINTENTOS:
+                    print(f"  no se pudieron adaptar los titulares tras "
+                          f"{REINTENTOS} intentos ({e})", file=sys.stderr)
+                    return []
+                espera = 2 ** intento          # 2, 4, 8 segundos
+                print(f"  {e}; reintento {intento}/{REINTENTOS - 1} "
+                      f"en {espera}s", file=sys.stderr)
+                time.sleep(espera)
+
+            except (requests.RequestException, json.JSONDecodeError,
+                    KeyError, IndexError) as e:
+                print(f"  no se pudieron adaptar los titulares ({e})",
+                      file=sys.stderr)
+                return []
+
+        if adaptados is None:
+            return []
+
+        if not isinstance(adaptados, list) or len(adaptados) != len(trozo):
+            print("  respuesta inesperada al adaptar titulares", file=sys.stderr)
+            return []
+
+        salida.extend(limpiar(str(a)) for a in adaptados)
+
+    return salida
+
+
 def cargar_previo() -> dict:
     if not SALIDA.exists():
         return {}
@@ -158,12 +267,22 @@ def fusionar(previo: dict, nuevo: dict, ahora: str) -> dict:
                 pass
             por_url[item["url"]] = item
 
-        for item in nuevo.get(seccion, []):
-            if item["url"] in por_url:
-                por_url[item["url"]]["titulo"] = item["titulo"]
-            else:
-                por_url[item["url"]] = {**item, "capturado": ahora}
-                nuevos_totales += 1
+        # Solo entran los titulares que aún no están en el histórico.
+        pendientes = [i for i in nuevo.get(seccion, []) if i["url"] not in por_url]
+        adaptados = adaptar([i["titulo"] for i in pendientes])
+
+        if pendientes and not adaptados:
+            print(f"  {seccion}: {len(pendientes)} titulares quedan para la "
+                  f"próxima corrida (sin adaptación)", file=sys.stderr)
+
+        for item, propio in zip(pendientes, adaptados):
+            por_url[item["url"]] = {
+                **item,
+                "titulo": propio,                 # redacción propia, es la que se publica
+                "titulo_fuente": item["titulo"],  # original, solo como referencia
+                "capturado": ahora,
+            }
+            nuevos_totales += 1
 
         ordenados = sorted(
             por_url.values(),
