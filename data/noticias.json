@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-04T23:15:14-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-05T05:24:18-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Grupo Argos establece en $21.900 la recompra de acciones ordinarias y en $16.500 la de preferenciales",
+        "url": "https://www.dataifx.com/post/grupo-argos-fija-en-21900-el-precio-de-readquisicion-de-acciones-ordinarias-y-en-16500-el-de",
+        "resumen": "Grupo Argos definió los precios de corte para la oferta de readquisición de acciones realizada entre el 27 y el 31 de agosto mediante el Mecanismo Independiente, bajo la modalidad de construcción de libro de ofertas o book building",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos fija en $21.900 el precio de readquisición de acciones ordinarias y en $16.500 el de preferenciales",
+        "capturado": "2026-09-05T05:24:18-05:00"
+      },
+      {
+        "titulo": "Plaza de las Américas encabeza la preferencia de los bogotanos entre los centros comerciales locales",
+        "url": "https://www.dataifx.com/post/plaza-de-las-americas-lidera-la-preferencia-de-los-bogotanos-entre-los-centros-comerciales-de-la",
+        "resumen": "Plaza de las Américas se ubicó como el centro comercial mejor valorado por los bogotanos entre los 30 establecimientos con mayor número de visitantes de la ciudad, de acuerdo con el Estudio Sindicado de Centros Comerciales de Bogotá, una encuesta ciudadana realizada por la firma de inteligencia de mercados Quorum Analytics",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Plaza de las Américas lidera la preferencia de los bogotanos entre los centros comerciales de la ciudad",
+        "capturado": "2026-09-05T05:24:18-05:00"
+      },
+      {
+        "titulo": "Colombia y Venezuela exploran opciones; embajador Jorge Jaller participará en Junta de Ecopetrol",
+        "url": "https://www.dataifx.com/post/colombia-y-venezuela-buscan-nuevas-oportunidades-embajador-jorge-jaller-tendra-voz-en-junta-de",
+        "resumen": "El embajador designado de Colombia en Venezuela, Jorge Jaller, afirmó en entrevista con Blu Radio que la coyuntura actual abre un “océano azul binacional” de oportunidades económicas para ambos países",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia y Venezuela buscan nuevas oportunidades; embajador Jorge Jaller tendrá voz en Junta de Ecopetrol",
+        "capturado": "2026-09-05T05:24:18-05:00"
+      },
+      {
+        "titulo": "Gobierno anula 10 resoluciones de Distritos Mineros para impulsar inversión y formalización",
+        "url": "https://www.dataifx.com/post/gobierno-deroga-10-resoluciones-de-distritos-mineros-y-busca-reactivar-inversion-y-formalizacion",
+        "resumen": "La ministra de Minas y Energía, María Nohemí Arboleda, anunció la derogatoria de las 10 resoluciones mediante las cuales se habían delimitado Distritos Mineros Especiales en Colombia, una decisión que, según explicó, busca corregir el alcance que tuvieron estas figuras y generar condiciones para recuperar la inversión y la exploración minera",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno deroga 10 resoluciones de Distritos Mineros y busca reactivar inversión y formalización",
+        "capturado": "2026-09-05T05:24:18-05:00"
+      },
+      {
+        "titulo": "Andesco llevará a cabo su 28° Congreso en Cartagena para analizar desafíos de servicios públicos",
+        "url": "https://www.dataifx.com/post/andesco-realizara-en-cartagena-su-28deg-congreso-para-discutir-los-retos-del-sector-de-servicios",
+        "resumen": "La Asociación Nacional de Empresas de Servicios Públicos y Comunicaciones, Andesco, realizará entre el 23 y el 25 de septiembre en Cartagena la edición número 28 de su Congreso, bajo el lema “Construyendo Futuro”",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Andesco realizará en Cartagena su 28° Congreso para discutir los retos del sector de servicios públicos",
+        "capturado": "2026-09-05T05:24:18-05:00"
+      },
       {
         "titulo": "La cosecha cafetera colombiana disminuyó un 12% durante agosto",
         "url": "https://www.dataifx.com/post/produccion-de-cafe-en-colombia-cayo-12-en-agosto",
