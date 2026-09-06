@@ -23,27 +23,40 @@ from playwright.sync_api import sync_playwright, Error as PlaywrightError
 
 BASE = "https://www.dataifx.com/"
 
-# etiqueta: el texto del chip que dataiFX pone en cada tarjeta.
-# El filtro se hace por ese chip, no por la URL, porque el listado
-# se arma en el navegador y la página puede devolver más de lo pedido.
+# Cada sección se identifica por el chip que dataiFX pone en la tarjeta.
+# El filtro va por ese chip y no por los parámetros de la URL, porque el
+# listado se arma en el navegador y puede devolver más de lo pedido.
+#
+#   etiqueta   chip propio de la sección; basta con que esté presente.
+#   auxiliares chips que también valen, pero solo si la tarjeta no lleva
+#              el chip propio de otra sección. Sirve para las notas que
+#              dataiFX marca únicamente como "Commodities": son de macro
+#              internacional salvo cuando además son de empresas.
 SECCIONES = {
     "Macro Colombia": {
         "url": "https://www.dataifx.com/?category=macroeconómicos&rel=macro-colombia",
         "etiqueta": "macro colombia",
+        "auxiliares": [],
     },
     "Macro Internacional": {
         "url": "https://www.dataifx.com/?category=macroeconómicos&rel=macro-internacional",
         "etiqueta": "macro internacional",
+        "auxiliares": ["commodities"],
     },
     "Empresas Colombia": {
         "url": "https://www.dataifx.com/?category=empresas&rel=empresas-colombia",
         "etiqueta": "empresas colombia",
+        "auxiliares": [],
     },
     "Empresas Internacional": {
         "url": "https://www.dataifx.com/?category=empresas&rel=empresas-internacionales",
         "etiqueta": "empresas internacionales",
+        "auxiliares": [],
     },
 }
+
+# Chips propios de todas las secciones, para el criterio de los auxiliares.
+ETIQUETAS_PROPIAS = {c["etiqueta"] for c in SECCIONES.values()}
 
 MAX_POR_SECCION = 45     # histórico guardado; la página muestra 15
 DIAS_RETENCION = 30
@@ -95,14 +108,15 @@ def chips_de(tarjeta) -> list:
 # Cuenta, dentro de la página ya cargada, las tarjetas que llevan el chip
 # de la sección. Se ejecuta en el navegador para no traerse todo el HTML.
 CONTAR_JS = """
-(etiqueta) => Array.from(document.querySelectorAll('mat-card')).filter(c =>
-  Array.from(c.querySelectorAll('mat-chip h6, mat-chip'))
-       .some(h => (h.textContent || '').trim().toLowerCase() === etiqueta)
-).length
+(aceptadas) => Array.from(document.querySelectorAll('mat-card')).filter(c => {
+  const chips = Array.from(c.querySelectorAll('mat-chip h6, mat-chip'))
+    .map(h => (h.textContent || '').trim().toLowerCase());
+  return aceptadas.some(e => chips.includes(e));
+}).length
 """
 
 
-def render(pagina, url: str, etiqueta: str) -> str:
+def render(pagina, url: str, etiqueta: str, auxiliares=()) -> str:
     """Abre la URL, baja hasta juntar suficientes notas de la sección y
     devuelve el HTML renderizado.
 
@@ -128,10 +142,11 @@ def render(pagina, url: str, etiqueta: str) -> str:
         print(f"  aviso: no aparecieron tarjetas en {url}", file=sys.stderr)
         return pagina.content()
 
+    aceptadas = [etiqueta] + list(auxiliares)
     previas = 0
     estancado = 0
     for _ in range(DESPLAZAMIENTOS):
-        propias = pagina.evaluate(CONTAR_JS, etiqueta)
+        propias = pagina.evaluate(CONTAR_JS, aceptadas)
         if propias >= MINIMO_TARJETAS:
             break
 
@@ -146,12 +161,12 @@ def render(pagina, url: str, etiqueta: str) -> str:
         pagina.mouse.wheel(0, 4000)
         pagina.wait_for_timeout(1200)
 
-    print(f"  {etiqueta}: {pagina.evaluate(CONTAR_JS, etiqueta)} tarjetas "
+    print(f"  {etiqueta}: {pagina.evaluate(CONTAR_JS, aceptadas)} tarjetas "
           f"tras el desplazamiento", file=sys.stderr)
     return pagina.content()
 
 
-def extraer(html: str, etiqueta: str) -> list:
+def extraer(html: str, etiqueta: str, auxiliares=()) -> list:
     """Recorre las tarjetas y se queda con las que llevan el chip de la sección."""
     sopa = BeautifulSoup(html, "lxml")
     items = []
@@ -169,7 +184,11 @@ def extraer(html: str, etiqueta: str) -> list:
 
         etiquetas = [c.lower() for c in chips_de(tarjeta)]
         if etiqueta not in etiquetas:
-            continue
+            # Chip auxiliar: vale mientras la nota no pertenezca a otra sección.
+            if not any(a in etiquetas for a in auxiliares):
+                continue
+            if any(e in etiquetas for e in ETIQUETAS_PROPIAS if e != etiqueta):
+                continue
 
         url = urljoin(BASE, href)
         if url in urls_vistas:
@@ -365,7 +384,8 @@ def main() -> int:
             # cuando solo cambian los parámetros de la URL.
             pagina = contexto.new_page()
             try:
-                html = render(pagina, cfg["url"], cfg["etiqueta"])
+                html = render(pagina, cfg["url"], cfg["etiqueta"],
+                              cfg.get("auxiliares", []))
             except PlaywrightError as e:
                 print(f"{seccion}: no se pudo abrir ({e})", file=sys.stderr)
                 nuevo[seccion] = []
@@ -374,7 +394,7 @@ def main() -> int:
             finally:
                 pagina.close()
 
-            items = extraer(html, cfg["etiqueta"])
+            items = extraer(html, cfg["etiqueta"], cfg.get("auxiliares", []))
             if not items:
                 diagnostico(html, cfg["etiqueta"])
 
