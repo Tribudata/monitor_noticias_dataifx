@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-06T15:01:47-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-09-06T15:07:46-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
       {
@@ -206,6 +206,26 @@
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "PIB de Estados Unidos crece de forma moderada por mayor consumo e importaciones",
+        "url": "https://www.dataifx.com/post/economia-estadounidense-registra-expansion-moderada-consumo-al-alza-e-importaciones-presionan-el",
+        "resumen": "El Buró de Análisis Económico (BEA) publicó este miércoles la segunda estimación del producto interno bruto (PIB) de Estados Unidos correspondiente al periodo abril-junio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Economía estadounidense registra expansión moderada: consumo al alza e importaciones presionan el PIB",
+        "capturado": "2026-09-06T15:07:46-05:00"
+      },
+      {
+        "titulo": "Canadá fija gravámenes de hasta el 50 por ciento a compras externas hechas a Estados Unidos",
+        "url": "https://www.dataifx.com/post/canada-anuncia-aranceles-de-hasta-50-importaciones-desde-estados-unidos",
+        "resumen": "El Gobierno de Canadá informó que aplicará aranceles de hasta 50% a productos estadounidenses por un valor cercano a 20",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Canadá anuncia aranceles de hasta 50% a importaciones desde Estados Unidos",
+        "capturado": "2026-09-06T15:07:46-05:00"
+      },
       {
         "titulo": "María Corina Machado dice que sin un gobierno legítimo no hay confianza para invertir en Venezuela",
         "url": "https://www.dataifx.com/post/maria-corina-machado-sin-un-gobierno-legitimo-no-hay-confianza-para-invertir-en-venezuela",
