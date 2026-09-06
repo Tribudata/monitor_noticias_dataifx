@@ -129,12 +129,11 @@ def render(pagina, url: str, etiqueta: str, auxiliares=()) -> str:
     mezcla secciones, y las menos frecuentes —Macro Internacional -- quedan
     muy abajo. Contando el total, el scroll se detenía antes de alcanzarlas.
     """
-    # Un parámetro extra evita que Angular reutilice la vista anterior
-    # cuando solo cambian los parámetros de consulta.
-    separador = "&" if "?" in url else "?"
-    pagina.goto(f"{url}{separador}_t={int(time.time())}",
-                wait_until="domcontentloaded", timeout=ESPERA_MS)
-    pagina.wait_for_timeout(1500)
+    # La URL va tal cual: dataiFX descarta sus propios filtros si recibe
+    # parámetros que no reconoce. La pestaña nueva por sección basta para
+    # que la vista se arme desde cero.
+    pagina.goto(url, wait_until="domcontentloaded", timeout=ESPERA_MS)
+    pagina.wait_for_timeout(2000)
 
     try:
         pagina.wait_for_selector("a.post-title", timeout=ESPERA_MS)
@@ -158,8 +157,8 @@ def render(pagina, url: str, etiqueta: str, auxiliares=()) -> str:
             break
         previas = totales
 
-        pagina.mouse.wheel(0, 4000)
-        pagina.wait_for_timeout(1200)
+        pagina.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        pagina.wait_for_timeout(1800)
 
     print(f"  {etiqueta}: {pagina.evaluate(CONTAR_JS, aceptadas)} tarjetas "
           f"tras el desplazamiento", file=sys.stderr)
