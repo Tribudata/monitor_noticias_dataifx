@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-07T13:40:57-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-07T17:42:55-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Emisor adquirió US$400 millones en agosto dentro de su plan de reservas por hasta US$4.000 millones",
+        "url": "https://www.dataifx.com/post/en-agosto-banrep-compro-us400-millones-dentro-de-su-programa-de-reservas-por-hasta-us4000-millones",
+        "resumen": "El Banco de la República (BanRep) informó que en agosto de 2026 realizó compras definitivas de TES B en el mercado por $1,599,1 mil millones (valor a precios de mercado)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En agosto BanRep compró US$400 millones dentro de su programa de reservas por hasta US$4.000 millones",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
+      {
+        "titulo": "Presidente De La Espriella comunica acciones del Plan Marshall para renovar al Chocó",
+        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-anuncia-medidas-del-plan-marshall-para-transformar-el-choco",
+        "resumen": "El presidente Abelardo De La Espriella entregó este lunes el balance oficial de su reunión con empresarios y autoridades en el departamento del Chocó, donde anunció la puesta en marcha de su Plan Marshall para atender las problemáticas sociales y económicas de la región",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De La Espriella anuncia medidas del Plan Marshall para transformar el Chocó",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
       {
         "titulo": "Elizabeth Rey quedará al frente de la zona andina en Citi",
         "url": "https://www.dataifx.com/post/elizabeth-rey-asumira-la-direccion-de-la-region-andina-de-citi",
@@ -398,6 +418,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "En Cali, el Congreso Fenavi 2026 congregó a 4.000 personas y juntó más de $700 millones para hogares avícolas damnificados por el sismo",
+        "url": "https://www.dataifx.com/post/congreso-fenavi-2026-en-cali-reunio-4000-asistentes-y-recaudo-mas-de-700-millones-para-familias",
+        "resumen": "Con una asistencia cercana a las 4",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Congreso Fenavi 2026 en Cali reunió a 4.000 asistentes y recaudó más de $700 millones para familias avícolas afectadas por el terremoto",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
+      {
+        "titulo": "Más del 55% del padrón electoral cafetero acudió a las urnas",
+        "url": "https://www.dataifx.com/post/mas-del-55-del-censo-electoral-cafetero-participo-en-las-urnas",
+        "resumen": "La Federación Nacional de Cafeteros (FNC) informó que más del 55% del censo electoral cafetero acudió a las urnas en las Elecciones Cafeteras 2026, realizadas entre el 1 y el 6 de septiembre en todo el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más del 55% del censo electoral cafetero participó en las urnas",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
+      {
+        "titulo": "S&P ratifica las calificaciones más altas a Banco AV Villas debido a su solidez financiera",
+        "url": "https://www.dataifx.com/post/sp-confirma-maximas-calificaciones-banco-av-villas-por-su-solidez-financiera",
+        "resumen": "La calificadora S&P National Ratings ratificó las máximas calificaciones nacionales a Banco AV Villas, al otorgarle la nota coAAA de largo plazo y coA-1+ de corto plazo, ambas consideradas las más altas en la escala de evaluación",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "S&P confirma máximas calificaciones a Banco AV Villas por su solidez financiera",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
+      {
+        "titulo": "Café Sello Rojo baja sus tarifas en septiembre",
+        "url": "https://www.dataifx.com/post/cafe-sello-rojo-reduce-precios-en-septiembre",
+        "resumen": "El presidente del Negocio de Café y Bebidas de Grupo Nutresa, Francisco Eladio Gómez Zapata, anunció que Café Sello Rojo, marca líder en el mercado colombiano, reducirá el precio de varias de sus referencias a partir del 1 de septiembre de 2026",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Café Sello Rojo reduce precios en septiembre",
+        "capturado": "2026-09-07T17:42:55-05:00"
+      },
       {
         "titulo": "Itaú Colombia mantiene las más altas calificaciones de riesgo otorgadas por Value & Risk Rating",
         "url": "https://www.dataifx.com/post/value-risk-rating-ratifica-maximas-notas-de-riesgo-para-itau-colombia",
