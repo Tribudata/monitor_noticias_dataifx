@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-07T17:42:55-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-07T23:08:57-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Clima favorable para debatir Presupuesto 2027; mesa permanente fijará cifra previa a votación del lunes",
+        "url": "https://www.dataifx.com/post/buen-ambiente-para-discutir-presupuesto-2027-mesa-permanente-definira-monto-antes-de-la-votacion",
+        "resumen": "El Ministerio de Hacienda confirmó que el Presupuesto General de la Nación para 2027 se mantendrá en el nivel inicialmente planteado, tras la primera reunión con los presidentes de las comisiones económicas, coordinadores y ponentes del proyecto en el Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Buen ambiente para discutir Presupuesto 2027; mesa permanente definirá monto antes de la votación del lunes",
+        "capturado": "2026-09-07T23:08:57-05:00"
+      },
+      {
+        "titulo": "Durante agosto el costo de vida anual en el país subió y se situó en el 6,24 por ciento",
+        "url": "https://www.dataifx.com/post/en-agosto-inflacion-anual-de-colombia-se-acelero-y-fue-del-624",
+        "resumen": "El Índice de Precios al Consumidor (IPC) reportado por el DANE mostró que en agosto la inflación anual se ubicó en 6,24%, un nivel superior al 6,03% de julio y el más alto desde julio de 2024",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En agosto inflación anual de Colombia se aceleró y fue del 6,24%",
+        "capturado": "2026-09-07T23:08:57-05:00"
+      },
       {
         "titulo": "El Emisor adquirió US$400 millones en agosto dentro de su plan de reservas por hasta US$4.000 millones",
         "url": "https://www.dataifx.com/post/en-agosto-banrep-compro-us400-millones-dentro-de-su-programa-de-reservas-por-hasta-us4000-millones",
@@ -418,6 +438,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Cámara Colombiana de la Infraestructura solicita estabilidad institucional y jurídica para la Línea 2 del Metro",
+        "url": "https://www.dataifx.com/post/cci-pide-continuidad-institucional-y-seguridad-juridica-en-proceso-de-linea-2-del-metro-de-bogota",
+        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) fijó su posición frente al proceso de precalificación de la Línea 2 del Metro de Bogotá, resaltando la presencia de tres grupos internacionales, pero subrayando que el éxito del proyecto dependerá de la solidez institucional y de las condiciones que se definan para su ejecución",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CCI pide continuidad institucional y seguridad jurídica en proceso de Línea 2 del Metro de Bogotá",
+        "capturado": "2026-09-07T23:08:57-05:00"
+      },
       {
         "titulo": "En Cali, el Congreso Fenavi 2026 congregó a 4.000 personas y juntó más de $700 millones para hogares avícolas damnificados por el sismo",
         "url": "https://www.dataifx.com/post/congreso-fenavi-2026-en-cali-reunio-4000-asistentes-y-recaudo-mas-de-700-millones-para-familias",
