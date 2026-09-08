@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-08T06:02:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-08T11:27:21-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinEnergía advierte faltante de $4,57 billones para subsidios energéticos en 2027",
+        "url": "https://www.dataifx.com/post/minenergia-reporta-deficit-de-457-billones-para-subsidios-de-energia-en-2027",
+        "resumen": "La ministra de Minas y Energía, María Nohemí Arboleda, advirtió ante las comisiones económicas del Congreso que el proyecto de presupuesto para 2027 no contempla, por ahora, recursos suficientes para cubrir las necesidades de subsidios del sector energético",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinEnergía reporta déficit de $4,57 billones para subsidios de energía en 2027",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "Geopark proyecta inversión de US$6.800 millones en bloque venezolano y mira fracking local",
+        "url": "https://www.dataifx.com/post/geopark-preve-invertir-us6800-millones-en-el-bloque-bare-de-venezuela-y-evalua-fracking-en-colombia",
+        "resumen": "Geopark prevé realizar inversiones y gastos por cerca de US$6",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Geopark prevé invertir US$6.800 millones en el bloque Bare de Venezuela y evalúa fracking en Colombia",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "Aseguradoras registran $3,7 billones en indemnizaciones por sismo del 10 de agosto",
+        "url": "https://www.dataifx.com/post/aseguradoras-reportan-37-billones-en-siniestros-por-terremoto-del-10-de-agosto",
+        "resumen": "Un mes después del terremoto ocurrido el pasado 10 de agosto, las aseguradoras han recibido 68",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras reportan $3,7 billones en siniestros por terremoto del 10 de agosto",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
       {
         "titulo": "Clima favorable para debatir Presupuesto 2027; mesa permanente fijará cifra previa a votación del lunes",
         "url": "https://www.dataifx.com/post/buen-ambiente-para-discutir-presupuesto-2027-mesa-permanente-definira-monto-antes-de-la-votacion",
@@ -438,6 +468,66 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Tatyana Orozco asumió la presidencia ejecutiva de la Cámara Colombiana de la Infraestructura",
+        "url": "https://www.dataifx.com/post/tatyana-orozco-fue-designada-presidenta-ejecutiva-de-la-camara-colombiana-de-la-infraestructura",
+        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) anunció la agenda que orientará su gestión en un nuevo ciclo para el país, con énfasis en reconstrucción, competitividad y desarrollo regional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tatyana Orozco fue designada presidenta ejecutiva de la Cámara Colombiana de la Infraestructura",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "Treinta y dos por ciento de los adultos colombianos carece de historial crediticio bancario",
+        "url": "https://www.dataifx.com/post/32-de-adultos-en-colombia-aun-no-tiene-historial-crediticio-con-bancos",
+        "resumen": "Un informe de TransUnion reveló que cerca de un tercio de los adultos colombianos no cuenta con historial crediticio en el sector financiero",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "32% de adultos en Colombia aún no tiene historial crediticio con bancos",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "SURA Investments rebasa los quinientos millones de dólares en bonos verdes regionales",
+        "url": "https://www.dataifx.com/post/sura-investments-supera-los-us500-millones-en-bonos-sostenibles-en-america-latina",
+        "resumen": "SURA Investments, filial de SURA Asset Management, presentó los resultados de su Informe de Inversión Sostenible 2025, en el que destacó haber alcanzado US$511 millones invertidos en bonos verdes, sociales y sostenibles, un crecimiento frente al año anterior impulsado por el dinamismo de las emisiones en América Latina",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "SURA Investments supera los US$500 millones en bonos sostenibles en América Latina",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "PSE permite pagos cuantiosos sin dividir y optimiza su validación bancaria",
+        "url": "https://www.dataifx.com/post/pse-habilita-pagos-de-alto-valor-sin-fraccionar-y-refuerza-autenticacion-con-bancos",
+        "resumen": "En Colombia ya es posible realizar pagos de alto valor en una sola transacción a través de PSE, sin necesidad de dividir el monto ni cambiar de medio de pago",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "PSE habilita pagos de alto valor sin fraccionar y refuerza autenticación con bancos",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "El turismo receptivo encabeza las opciones de expansión en Colombia, de acuerdo con ANATO",
+        "url": "https://www.dataifx.com/post/turismo-receptivo-lidera-oportunidades-de-crecimiento-en-colombia-segun-sondeo-de-anato",
+        "resumen": "En el marco del 30° Congreso Nacional de Agencias de Viajes y Turismo, un sondeo realizado a más de 200 empresarios evidenció que el turismo colombiano enfrenta un panorama de oportunidades y desafíos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Turismo receptivo lidera oportunidades de crecimiento en Colombia, según sondeo de ANATO",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
+      {
+        "titulo": "Asobancaria y Colombia Fintech advierten que un mayor ICA perjudicaría el acceso al crédito",
+        "url": "https://www.dataifx.com/post/asobancaria-y-colombia-fintech-alertan-que-mayor-ica-podria-afectar-acceso-financiacion",
+        "resumen": "La Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria) y Colombia Fintech expresaron su rechazo a la propuesta de la Alcaldía de Bogotá de incrementar en 50% la tarifa del Impuesto de Industria y Comercio (ICA) para las actividades financieras, incluida en el Proyecto de Acuerdo 724 de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asobancaria y Colombia Fintech alertan que mayor ICA podría afectar acceso a financiación",
+        "capturado": "2026-09-08T11:27:21-05:00"
+      },
       {
         "titulo": "Cámara Colombiana de la Infraestructura solicita estabilidad institucional y jurídica para la Línea 2 del Metro",
         "url": "https://www.dataifx.com/post/cci-pide-continuidad-institucional-y-seguridad-juridica-en-proceso-de-linea-2-del-metro-de-bogota",
