@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-08T11:27:21-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-08T16:00:14-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinEnergía avisa que los precios de la luz subirían por alzas en costos de producción",
+        "url": "https://www.dataifx.com/post/minenergia-advierte-que-las-tarifas-de-energia-podrian-subir-ante-mayores-costos-de-generacion",
+        "resumen": "La ministra de Minas y Energía, María Nohemí Arboleda, advirtió ante las comisiones económicas del Congreso que las tarifas de energía podrían aumentar si se mantienen las condiciones actuales de oferta y continúan incrementándose los costos de generación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinEnergía advierte que las tarifas de energía podrían subir ante mayores costos de generación",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
+      {
+        "titulo": "Marco Rubio viaja a Barranquilla para encontrarse con el presidente Abelardo De La Espriella",
+        "url": "https://www.dataifx.com/post/marco-rubio-llega-barranquilla-para-reunirse-con-el-presidente-abelardo-de-la-espriella",
+        "resumen": "El secretario de Estado de Estados Unidos, Marco Rubio, arribó este martes a Barranquilla para sostener una reunión con el presidente de Colombia, Abelardo De La Espriella, en lo que constituye la primera visita oficial de un alto funcionario del gobierno estadounidense al país desde la posesión del mandatario colombiano el pasado 7 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Marco Rubio llega a Barranquilla para reunirse con el presidente Abelardo De La Espriella",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
+      {
+        "titulo": "MinAgricultura no adquirirá predios en 2027 y evaluará saldos pendientes por $1,4 billones",
+        "url": "https://www.dataifx.com/post/minagricultura-no-comprara-tierras-en-2027-y-revisara-pagos-pendientes-por-14-billones",
+        "resumen": "El Gobierno no destinará recursos en 2027 para la compra de nuevos predios dentro de la reforma agraria",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura no comprará tierras en 2027 y revisará pagos pendientes por $1,4 billones",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
+      {
+        "titulo": "Gobierno termina la pausa general de licencias para porte de armas de fuego en Colombia",
+        "url": "https://www.dataifx.com/post/gobierno-levanta-suspension-general-de-permisos-para-porte-de-armas-de-fuego-en-colombia",
+        "resumen": "El Gobierno levantó la suspensión general de los permisos para el porte de armas de fuego en Colombia, mediante el Decreto 1368 del 8 de septiembre de 2026, firmado por el presidente Abelardo de la Espriella",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno levanta suspensión general de permisos para porte de armas de fuego en Colombia",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
       {
         "titulo": "MinEnergía advierte faltante de $4,57 billones para subsidios energéticos en 2027",
         "url": "https://www.dataifx.com/post/minenergia-reporta-deficit-de-457-billones-para-subsidios-de-energia-en-2027",
@@ -468,6 +508,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Rosario Gómez y Rodolfo Castillo liderarán Junta Directiva de la ANDI",
+        "url": "https://www.dataifx.com/post/rodolfo-castillo-y-rosario-gomez-encabezaran-junta-directiva-de-la-andi",
+        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI) anunció la conformación de su nueva Mesa Directiva para el periodo 2026-2027, tras la primera sesión de la Junta de Dirección General realizada este martes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rodolfo Castillo y Rosario Gómez encabezarán Junta Directiva de la ANDI",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
+      {
+        "titulo": "DIAN impone medidas cautelares por casi $20 mil millones en puertos caribeños",
+        "url": "https://www.dataifx.com/post/dian-aplica-medidas-cautelares-por-casi-20-mil-millones-en-puertos-del-caribe",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) reportó la aplicación de medidas cautelares por un valor cercano a $19",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "DIAN aplica medidas cautelares por casi $20 mil millones en puertos del Caribe",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda avala cambio en ICA y banca seguirá bajo el promedio fiscal",
+        "url": "https://www.dataifx.com/post/secretaria-de-hacienda-defiende-ajuste-en-ica-sector-financiero-seguira-por-debajo-del-promedio",
+        "resumen": "La Secretaría de Hacienda del Distrito presentó ante el Concejo de Bogotá una propuesta de ajuste en la tarifa del Impuesto de Industria y Comercio (ICA) para el sector financiero, que pasaría del 14 al 21 por mil",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Secretaría de Hacienda defiende ajuste en ICA: sector financiero seguirá por debajo del promedio tributario",
+        "capturado": "2026-09-08T16:00:14-05:00"
+      },
       {
         "titulo": "Tatyana Orozco asumió la presidencia ejecutiva de la Cámara Colombiana de la Infraestructura",
         "url": "https://www.dataifx.com/post/tatyana-orozco-fue-designada-presidenta-ejecutiva-de-la-camara-colombiana-de-la-infraestructura",
