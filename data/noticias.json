@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-08T16:00:14-05:00",
+  "actualizado": "2026-09-08T18:59:12-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "ANI establece plan de trabajo para desarrollar ocho obras viales prioritarias",
+        "url": "https://www.dataifx.com/post/ani-define-hoja-de-ruta-para-ejecutar-ocho-proyectos-viales-estrategicos",
+        "resumen": "En una jornada de trabajo encabezada por el presidente de la Agencia Nacional de Infraestructura (ANI), Ricardo Ayerbe, se definió la hoja de ruta para acelerar la ejecución de ocho proyectos carreteros estratégicos que buscan mejorar la conectividad en distintas regiones del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANI define hoja de ruta para ejecutar ocho proyectos viales estratégicos",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
+      {
+        "titulo": "Colombia sugiere a Estados Unidos un nuevo convenio de cooperación en inversión, seguridad y drogas",
+        "url": "https://www.dataifx.com/post/colombia-propone-ee-uu-nueva-asociacion-estrategica-en-inversion-seguridad-y-lucha-contra-el",
+        "resumen": "El presidente Abelardo de la Espriella se reunió en Barranquilla con el secretario de Estado de Estados Unidos, Marco Rubio, encuentro en el que planteó una nueva etapa de cooperación bilateral en asuntos de inversión, reconstrucción, seguridad, lucha contra el narcotráfico, migración y relaciones frente a Venezuela",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia propone a EE. UU. nueva asociación estratégica en inversión, seguridad y lucha contra el narcotráfico",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
+      {
+        "titulo": "Rubio sugiere una fase inédita de alianza colombo-estadounidense en seguridad, energía y comercio",
+        "url": "https://www.dataifx.com/post/rubio-plantea-una-nueva-etapa-de-cooperacion-entre-colombia-y-ee-uu-con-seguridad-energia-y",
+        "resumen": "El secretario de Estado de Estados Unidos, Marco Rubio, aseguró que Colombia y su país tienen la oportunidad de iniciar una nueva etapa de cooperación tras su reunión con el presidente Abelardo de la Espriella en Barranquilla, en la que la seguridad fue uno de los principales asuntos abordados, junto con las posibilidades de ampliar los vínculos económicos entre ambos países",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rubio plantea una nueva etapa de cooperación entre Colombia y EE. UU. con seguridad, energía y comercio",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
+      {
+        "titulo": "Andeg y Fenalcarbón solicitan sumar la producción a carbón en la próxima subasta energética",
+        "url": "https://www.dataifx.com/post/andeg-y-fenalcarbon-piden-incluir-generacion-carbon-en-proxima-subasta-de-expansion-energetica",
+        "resumen": "La Asociación Nacional de Empresas Generadoras, Andeg, y la Federación Nacional de Productores de Carbón, Fenalcarbón, solicitaron al Ministerio de Minas y Energía y a la Comisión de Regulación de Energía y Gas, CREG, incluir la generación termoeléctrica a carbón en la próxima subasta de expansión, bajo condiciones de neutralidad tecnológica",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Andeg y Fenalcarbón piden incluir generación a carbón en próxima subasta de expansión energética",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
       {
         "titulo": "MinEnergía avisa que los precios de la luz subirían por alzas en costos de producción",
         "url": "https://www.dataifx.com/post/minenergia-advierte-que-las-tarifas-de-energia-podrian-subir-ante-mayores-costos-de-generacion",
@@ -413,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno coordina recursos para recuperación económica de municipios del Valle del Cauca afectados por terremoto",
         "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "CAMPETROL solicita pactos con pobladores de Taganga para continuar la iniciativa Sirius",
-        "url": "https://www.dataifx.com/post/campetrol-pide-acuerdos-con-comunidades-de-taganga-para-avanzar-con-el-proyecto-sirius",
-        "resumen": "La Cámara Colombiana de Bienes y Servicios de Petróleo, Gas y Energía, CAMPETROL, destacó la decisión del Consejo de Estado sobre los hechos ocurridos entre el 31 de julio y el 15 de agosto de 2017 en la Estación Chichimene, en Acacías, Meta, y señaló que el fallo establece criterios sobre el ejercicio de la protesta social y sus efectos sobre terceros y actividades productivas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CAMPETROL pide acuerdos con comunidades de Taganga para avanzar con el proyecto Sirius",
-        "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
     "Macro Internacional": [
@@ -508,6 +538,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Argos brinda su experiencia técnica para levantar el Túnel de Oriente",
+        "url": "https://www.dataifx.com/post/argos-aporta-su-capacidad-tecnica-la-construccion-del-tunel-de-oriente",
+        "resumen": "Argos, empresa de cemento del Grupo Argos, participa como proveedor de concreto en la construcción del Túnel de Oriente, considerado uno de los proyectos de infraestructura más relevantes para la conectividad del departamento de Antioquia",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Argos aporta su capacidad técnica a la construcción del Túnel de Oriente",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
+      {
+        "titulo": "El índice Colcap alcanzó registros récord este martes en la bolsa nacional",
+        "url": "https://www.dataifx.com/post/colcap-cerro-en-maximos-historicos-este-martes-en-la-bolsa-de-colombia",
+        "resumen": "La jornada bursátil de este martes en la Bolsa de Valores de Colombia cerró con un hito relevante: el índice Colcap alcanzó máximos históricos, al ubicarse en 2",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Colcap cerró en máximos históricos este martes en la Bolsa de Colombia",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
+      {
+        "titulo": "Usuarios de Nu podrán sacar dinero mediante código QR en locales D1",
+        "url": "https://www.dataifx.com/post/clientes-de-nu-podran-retirar-efectivo-con-qr-en-tiendas-d1",
+        "resumen": "Nu Colombia anunció la expansión de su red de corresponsales gracias a una alianza con la cadena de tiendas D1, que permitirá a los clientes retirar efectivo en cerca de 2",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Clientes de Nu podrán retirar efectivo con QR en tiendas D1",
+        "capturado": "2026-09-08T18:59:12-05:00"
+      },
       {
         "titulo": "Rosario Gómez y Rodolfo Castillo liderarán Junta Directiva de la ANDI",
         "url": "https://www.dataifx.com/post/rodolfo-castillo-y-rosario-gomez-encabezaran-junta-directiva-de-la-andi",
@@ -926,26 +986,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "GeoPark anuncia entrada a Venezuela y Grupo Gilinski asume control accionario de la compañía",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Gremios del transporte intermunicipal exigen al Gobierno destrabar el sector tras obras viales",
-        "url": "https://www.dataifx.com/post/mejoramiento-vial-no-basta-gremios-de-transporte-intermunicipal-piden-al-gobierno-destrabar-el",
-        "resumen": "Los empresarios del transporte terrestre intermunicipal de pasajeros respaldaron las obras de infraestructura anunciadas por el Ministerio de Transporte, pero insistieron en que la verdadera conexión del país requiere más que vías en buen estado",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mejoramiento vial no basta: gremios de transporte intermunicipal piden al Gobierno destrabar el sector",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Propietaria de Refisal y Blancox destinará $379.000 millones para inversión en 2026",
-        "url": "https://www.dataifx.com/post/la-compania-detras-de-refisal-y-blancox-invertira-379000-millones-en-2026",
-        "resumen": "La empresa Brinsa S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "La compañía detrás de Refisal y Blancox invertirá $379.000 millones en 2026",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
