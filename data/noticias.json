@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-08T18:59:12-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-08T23:30:49-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "La deuda externa de Colombia subió 8,52% en junio y llegó a US$247.908 millones",
+        "url": "https://www.dataifx.com/post/en-junio-deuda-externa-colombiana-aumento-852-us247908-millones",
+        "resumen": "En junio de 2026, la deuda externa de Colombia se situó en US$247",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En junio, deuda externa colombiana aumentó 8,52% a US$247.908 millones",
+        "capturado": "2026-09-08T23:30:49-05:00"
+      },
       {
         "titulo": "ANI establece plan de trabajo para desarrollar ocho obras viales prioritarias",
         "url": "https://www.dataifx.com/post/ani-define-hoja-de-ruta-para-ejecutar-ocho-proyectos-viales-estrategicos",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Hacienda advierte que no actuar frente al déficit fiscal llevaría a Colombia a una crisis",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Administración nacional gestiona fondos para la reactivación vallecaucana tras sismo",
-        "url": "https://www.dataifx.com/post/gobierno-coordina-recursos-para-recuperacion-economica-de-municipios-del-valle-del-cauca-afectados",
-        "resumen": "Por instrucción del presidente Abelardo De la Espriella, el Gobierno Nacional avanza en la activación de recursos destinados a la recuperación económica de los municipios del Valle del Cauca afectados por el sismo del pasado 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno coordina recursos para recuperación económica de municipios del Valle del Cauca afectados por terremoto",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
