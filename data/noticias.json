@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-09T11:23:55-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-09T15:49:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda radicará en el Congreso con urgencia iniciativa de 1,2 billones para prevenir un apagón",
+        "url": "https://www.dataifx.com/post/minhacienda-llevara-al-congreso-con-mensaje-de-urgencia-proyecto-por-12-billones-para-evitar-un",
+        "resumen": "El Gobierno llevará al Congreso un proyecto de ley con mensaje de urgencia para conseguir $1,2 billones adicionales que permitan atender las necesidades de liquidez del sector energético durante el Fenómeno de El Niño, según anunció el ministro de Hacienda, Miguel Gómez, ante la Comisión Quinta del Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda llevará al Congreso con mensaje de urgencia proyecto por $1,2 billones para evitar un apagón",
+        "capturado": "2026-09-09T15:49:01-05:00"
+      },
+      {
+        "titulo": "MinEnergía alerta que las tarifas de luz y gas subirán por menor agua y mayor uso térmico",
+        "url": "https://www.dataifx.com/post/minenergia-advierte-que-el-precio-de-la-energia-y-el-gas-podria-aumentar-ante-menor-disponibilidad",
+        "resumen": "La ministra de Minas y Energía advirtió sobre las presiones que podrían enfrentar los precios de la energía y el gas en los próximos meses, debido a la reducción de los niveles de los embalses, los retrasos en proyectos de generación y la necesidad de aumentar el respaldo térmico del sistema ante el avance del fenómeno de El Niño",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinEnergía advierte que el precio de la energía y el gas podría aumentar ante menor disponibilidad de agua y mayor uso de generación térmica",
+        "capturado": "2026-09-09T15:49:01-05:00"
+      },
+      {
+        "titulo": "Un sistema en crisis: MinSalud pide adición presupuestal de 13,9 billones para la salud en 2027",
+        "url": "https://www.dataifx.com/post/un-sistema-en-crisis-minsalud-solicita-adicion-de-139-billones-para-el-sector-salud-en-2027",
+        "resumen": "La ministra de Salud y Protección Social, Ana María Vesga, presentó ante las comisiones económicas conjuntas del Congreso la situación presupuestal de la cartera y solicitó una adición de $13,9 billones para el sector salud en 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "“Un sistema en crisis”: MinSalud solicita adición de $13,9 billones para el sector salud en 2027",
+        "capturado": "2026-09-09T15:49:01-05:00"
+      },
       {
         "titulo": "El índice de duda económica en Colombia desciende al punto mínimo de los recientes dos años",
         "url": "https://www.dataifx.com/post/la-incertidumbre-economica-en-colombia-cae-su-nivel-mas-bajo-en-casi-dos-anos",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Grupo Argos fija en $21.900 el precio de readquisición de acciones ordinarias y en $16.500 el de preferenciales",
         "capturado": "2026-09-05T05:24:18-05:00"
-      },
-      {
-        "titulo": "Plaza de las Américas encabeza la preferencia de los bogotanos entre los centros comerciales locales",
-        "url": "https://www.dataifx.com/post/plaza-de-las-americas-lidera-la-preferencia-de-los-bogotanos-entre-los-centros-comerciales-de-la",
-        "resumen": "Plaza de las Américas se ubicó como el centro comercial mejor valorado por los bogotanos entre los 30 establecimientos con mayor número de visitantes de la ciudad, de acuerdo con el Estudio Sindicado de Centros Comerciales de Bogotá, una encuesta ciudadana realizada por la firma de inteligencia de mercados Quorum Analytics",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Plaza de las Américas lidera la preferencia de los bogotanos entre los centros comerciales de la ciudad",
-        "capturado": "2026-09-05T05:24:18-05:00"
-      },
-      {
-        "titulo": "Colombia y Venezuela exploran opciones; embajador Jorge Jaller participará en Junta de Ecopetrol",
-        "url": "https://www.dataifx.com/post/colombia-y-venezuela-buscan-nuevas-oportunidades-embajador-jorge-jaller-tendra-voz-en-junta-de",
-        "resumen": "El embajador designado de Colombia en Venezuela, Jorge Jaller, afirmó en entrevista con Blu Radio que la coyuntura actual abre un “océano azul binacional” de oportunidades económicas para ambos países",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia y Venezuela buscan nuevas oportunidades; embajador Jorge Jaller tendrá voz en Junta de Ecopetrol",
-        "capturado": "2026-09-05T05:24:18-05:00"
-      },
-      {
-        "titulo": "Gobierno anula 10 resoluciones de Distritos Mineros para impulsar inversión y formalización",
-        "url": "https://www.dataifx.com/post/gobierno-deroga-10-resoluciones-de-distritos-mineros-y-busca-reactivar-inversion-y-formalizacion",
-        "resumen": "La ministra de Minas y Energía, María Nohemí Arboleda, anunció la derogatoria de las 10 resoluciones mediante las cuales se habían delimitado Distritos Mineros Especiales en Colombia, una decisión que, según explicó, busca corregir el alcance que tuvieron estas figuras y generar condiciones para recuperar la inversión y la exploración minera",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno deroga 10 resoluciones de Distritos Mineros y busca reactivar inversión y formalización",
-        "capturado": "2026-09-05T05:24:18-05:00"
       }
     ],
     "Macro Internacional": [
@@ -548,6 +548,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Precio estimado en Colombia para los iPhone 18 Pro y Pro Max",
+        "url": "https://www.dataifx.com/post/los-iphone-18-pro-y-pro-max-cuanto-podrian-costar-en-colombia",
+        "resumen": "Apple presentó oficialmente los iPhone 18 Pro y iPhone 18 Pro Max, la nueva generación de sus teléfonos de gama alta",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Los iPhone 18 Pro y Pro Max: cuánto podrían costar en Colombia",
+        "capturado": "2026-09-09T15:49:01-05:00"
+      },
+      {
+        "titulo": "Corona designa a exdirectivo de Grupo Argos en su vicepresidencia de Estrategia y Desarrollo de Negocios",
+        "url": "https://www.dataifx.com/post/exdirectivo-de-grupo-argos-asume-vicepresidencia-de-estrategia-y-desarrollo-de-negocios-en-corona",
+        "resumen": "Organización Corona anunció la vinculación de Alejandro Piedrahita Borrero como vicepresidente de Estrategia y Desarrollo de Negocios, cargo desde el cual encabezará la agenda de nuevos negocios y la identificación de oportunidades que impulsen el crecimiento y consoliden la visión de largo plazo de la empresa",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Exdirectivo de Grupo Argos asume vicepresidencia de Estrategia y Desarrollo de Negocios en Corona",
+        "capturado": "2026-09-09T15:49:01-05:00"
+      },
       {
         "titulo": "DIAN llevará a cabo remate digital de alhajas, oro y aparatos del 9 al 11 de septiembre",
         "url": "https://www.dataifx.com/post/dian-realizara-subasta-virtual-de-joyas-oro-y-equipos-entre-el-9-y-el-11-de-septiembre",
@@ -976,26 +996,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Argos incorpora 21 camiones mezcladores para operaciones en Medellín, Barranquilla y Bogotá",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "En el tercer trimestre de 2026 Grupo Éxito modernizó 26.780 m² en ocho departamentos",
-        "url": "https://www.dataifx.com/post/grupo-exito-renovo-y-reconvirtio-26780-m2-en-ocho-departamentos-durante-el-tercer-trimestre-de-2026",
-        "resumen": "Durante el tercer trimestre de 2026, Grupo Éxito ejecuta un amplio plan de renovaciones y reconversiones de tiendas en ocho departamentos del país, con una inversión de $81",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Éxito renovó y reconvirtió 26.780 m² en ocho departamentos durante el tercer trimestre de 2026",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá alerta acerca del crecimiento de los delitos cibernéticos",
-        "url": "https://www.dataifx.com/post/banco-de-bogota-advierte-sobre-aumento-de-fraudes-digitales",
-        "resumen": "El Banco de Bogotá advirtió sobre el incremento de fraudes digitales en Colombia, que han evolucionado hacia esquemas cada vez más sofisticados y adaptados a distintos perfiles de la población",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá advierte sobre aumento de fraudes digitales",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
