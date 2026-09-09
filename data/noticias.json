@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-09T06:06:42-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-09T11:23:55-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El índice de duda económica en Colombia desciende al punto mínimo de los recientes dos años",
+        "url": "https://www.dataifx.com/post/la-incertidumbre-economica-en-colombia-cae-su-nivel-mas-bajo-en-casi-dos-anos",
+        "resumen": "El Índice de Incertidumbre de la Política Económica (IPEC) elaborado por Fedesarrollo se ubicó en 194 puntos en agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La incertidumbre económica en Colombia cae a su nivel más bajo en casi dos años",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "Coca-Cola actualiza su estética en Colombia y proyecta su nueva gráfica en la Torre Colpatria",
+        "url": "https://www.dataifx.com/post/coca-cola-renueva-su-imagen-en-colombia-y-lleva-sus-nuevos-codigos-visuales-la-torre-colpatria",
+        "resumen": "Coca-Cola inició en Colombia la renovación de la imagen visual con la que presenta sus productos, un cambio que pone en primer plano tres elementos asociados históricamente con la marca: el color rojo, la cinta dinámica y el logotipo Spencerian",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Coca-Cola renueva su imagen en Colombia y lleva sus nuevos códigos visuales a la Torre Colpatria",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "La CREG implementa acciones de prevención por baja oferta hídrica y mayor consumo eléctrico",
+        "url": "https://www.dataifx.com/post/creg-activa-medidas-preventivas-ante-menor-disponibilidad-hidrica-y-aumento-de-la-demanda-de",
+        "resumen": "La Comisión de Regulación de Energía y Gas (CREG) activó el mecanismo para el sostenimiento de la confiabilidad establecido en la Resolución CREG 101 127 de 2026, luego de evaluar los indicadores del sistema eléctrico y las recomendaciones técnicas presentadas por el Centro Nacional de Despacho (CND) de XM y el Consejo Nacional de Operación (CNO)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CREG activa medidas preventivas ante menor disponibilidad hídrica y aumento de la demanda de energía",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "MinTrabajo convoca espacio con empleadores para estudiar treinta opciones contra la informalidad",
+        "url": "https://www.dataifx.com/post/mintrabajo-anuncia-mesa-con-empresarios-para-evaluar-30-alternativas-frente-la-informalidad-laboral",
+        "resumen": "El Ministerio del Trabajo anunció la conformación de una mesa de trabajo con el sector productivo para analizar 30 alternativas orientadas a facilitar el tránsito de trabajadores hacia la formalidad laboral, durante la presentación del estudio De la informalidad laboral a los caminos hacia la formalidad, elaborado por Aliadas, Alianza de Asociaciones y Gremios, con el apoyo de la Universidad del Rosario",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinTrabajo anuncia mesa con empresarios para evaluar 30 alternativas frente a la informalidad laboral",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "El tributo reformado de Bogotá progresa en el Cabildon asamblea con el estado de votación",
+        "url": "https://www.dataifx.com/post/reforma-tributaria-de-bogota-avanza-en-el-concejo-asi-va-la-votacion-de-los-articulos",
+        "resumen": "El proyecto de reforma tributaria presentado por la administración de Carlos Fernando Galán ante el Concejo de Bogotá avanzó en la discusión de varios de sus artículos, mientras continúa el debate sobre los cambios que buscan aumentar los ingresos de la ciudad a partir de 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria de Bogotá avanza en el Concejo: así va la votación de los artículos",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "Hidroituango registra ganancias de 1,09 billones de pesos",
+        "url": "https://www.dataifx.com/post/hidroituango-reporta-utilidades-por-109-billones",
+        "resumen": "La Sociedad Hidroituango S",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango reporta utilidades por $1,09 billones",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
+      {
+        "titulo": "Asobancaria y Colombia Fintech advierten riesgo de que Bogotá pierda su liderazgo financiero por alza del ICA",
+        "url": "https://www.dataifx.com/post/asobancaria-y-colombia-fintech-alertan-que-bogota-podria-dejar-de-ser-la-capital-financiera-por",
+        "resumen": "Bogotá podría dejar de ser la capital financiera de Colombia si se aprueba el aumento del Impuesto de Industria y Comercio, ICA, para las actividades financieras, advirtieron Jonathan Malagón, presidente de Asobancaria, y Gabriel Santos, presidente de Colombia Fintech",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asobancaria y Colombia Fintech alertan que Bogotá podría dejar de ser la capital financiera por aumento del ICA",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
       {
         "titulo": "La deuda externa de Colombia subió 8,52% en junio y llegó a US$247.908 millones",
         "url": "https://www.dataifx.com/post/en-junio-deuda-externa-colombiana-aumento-852-us247908-millones",
@@ -383,79 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno deroga 10 resoluciones de Distritos Mineros y busca reactivar inversión y formalización",
         "capturado": "2026-09-05T05:24:18-05:00"
-      },
-      {
-        "titulo": "Andesco llevará a cabo su 28° Congreso en Cartagena para analizar desafíos de servicios públicos",
-        "url": "https://www.dataifx.com/post/andesco-realizara-en-cartagena-su-28deg-congreso-para-discutir-los-retos-del-sector-de-servicios",
-        "resumen": "La Asociación Nacional de Empresas de Servicios Públicos y Comunicaciones, Andesco, realizará entre el 23 y el 25 de septiembre en Cartagena la edición número 28 de su Congreso, bajo el lema “Construyendo Futuro”",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Andesco realizará en Cartagena su 28° Congreso para discutir los retos del sector de servicios públicos",
-        "capturado": "2026-09-05T05:24:18-05:00"
-      },
-      {
-        "titulo": "La cosecha cafetera colombiana disminuyó un 12% durante agosto",
-        "url": "https://www.dataifx.com/post/produccion-de-cafe-en-colombia-cayo-12-en-agosto",
-        "resumen": "La Federación Nacional de Cafeteros informó que la producción de café en agosto de 2026 alcanzó 1,09 millones de sacos de 60 kilos, lo que representa una disminución de 12% frente al mismo mes del año anterior",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Producción de café en Colombia cayó 12% en agosto",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Ejecutivo descarta control al dólar y busca restaurar la confianza fiscal",
-        "url": "https://www.dataifx.com/post/gobierno-no-respalda-una-intervencion-cambiaria-y-plantea-recuperar-la-confianza-fiscal-ante-caida",
-        "resumen": "El Gobierno Nacional no contempla intervenir directamente el mercado cambiario para frenar la apreciación del peso colombiano, pese a las solicitudes de sectores empresariales que han advertido sobre el impacto de un dólar más bajo en las compañías exportadoras",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno no respalda una intervención cambiaria y plantea recuperar la confianza fiscal ante caída del dólar",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Alza en alimentos empujó el incremento de 0,76% en el IPP de agosto",
-        "url": "https://www.dataifx.com/post/precios-del-productor-crecieron-076-en-agosto-por-alzas-en-productos-agricolas",
-        "resumen": "El Índice de Precios del Productor (IPP) de la producción nacional presentó en agosto de 2026 una variación de -0,33% frente a julio, según el DANE",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Precios del productor crecieron 0,76% en agosto por alzas en productos agrícolas",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Olga Lucía Acosta señala que el país deberá subir tributos para cubrir déficit fiscal",
-        "url": "https://www.dataifx.com/post/olga-lucia-acosta-advierte-que-colombia-tendra-que-aumentar-los-impuestos-para-cerrar-el-hueco",
-        "resumen": "Colombia tendrá que aumentar sus ingresos tributarios y revisar la forma en que ejecuta el gasto público si busca corregir el desbalance de sus cuentas fiscales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Olga Lucía Acosta advierte que Colombia tendrá que aumentar los impuestos para cerrar el hueco fiscal",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "MinHacienda renombra uno de sus espacios en honor a Roberto Junguito Bonnet",
-        "url": "https://www.dataifx.com/post/ministerio-de-hacienda-vuelve-exhibir-el-nombre-de-roberto-junguito-bonnet-en-una-de-sus-salas",
-        "resumen": "Una fotografía publicada por el ministro de Hacienda, Miguel Gómez, tras una reunión con el alcalde de Cali, Alejandro Eder, permitió identificar un cambio en la denominación de una de las salas del Ministerio de Hacienda y Crédito Público",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ministerio de Hacienda vuelve a exhibir el nombre de Roberto Junguito Bonnet en una de sus salas",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "MinHacienda avisa que omitir soluciones al déficit fiscal conduciría a Colombia hacia una crisis",
-        "url": "https://www.dataifx.com/post/hacienda-advierte-que-no-actuar-frente-al-deficit-fiscal-llevaria-colombia-una-crisis",
-        "resumen": "En el inicio de la segunda jornada del Congreso de Exportadores 2026, el viceministro general de Hacienda, Andrés Quevedo, presentó un diagnóstico sobre las finanzas públicas del país y advirtió que Colombia debe adoptar medidas para corregir el comportamiento del gasto, contener el crecimiento de la deuda y recuperar el equilibrio fiscal",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Hacienda advierte que no actuar frente al déficit fiscal llevaría a Colombia a una crisis",
-        "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El Brent llega a 100 dólares ante el aumento de la fricción militar entre Estados Unidos e Irán",
+        "url": "https://www.dataifx.com/post/brent-alcanza-los-us100-mientras-crece-la-tension-militar-entre-ee-uu-e-iran",
+        "resumen": "El precio del petróleo Brent superó este miércoles los 100 dólares por barril, en medio de la escalada de las acciones militares entre Estados Unidos e Irán y de la preocupación de los mercados por una posible interrupción del suministro de crudo desde Oriente Medio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Brent alcanza los US$100 mientras crece la tensión militar entre EE. UU. e Irán",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
       {
         "titulo": "PIB de Estados Unidos crece de forma moderada por mayor consumo e importaciones",
         "url": "https://www.dataifx.com/post/economia-estadounidense-registra-expansion-moderada-consumo-al-alza-e-importaciones-presionan-el",
@@ -538,6 +548,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "DIAN llevará a cabo remate digital de alhajas, oro y aparatos del 9 al 11 de septiembre",
+        "url": "https://www.dataifx.com/post/dian-realizara-subasta-virtual-de-joyas-oro-y-equipos-entre-el-9-y-el-11-de-septiembre",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) llevará a cabo una subasta pública virtual de bienes entre el 9 y el 11 de septiembre, a través de la plataforma oficial El Martillo del Banco Popular",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "DIAN realizará subasta virtual de joyas, oro y equipos entre el 9 y el 11 de septiembre",
+        "capturado": "2026-09-09T11:23:55-05:00"
+      },
       {
         "titulo": "Argos brinda su experiencia técnica para levantar el Túnel de Oriente",
         "url": "https://www.dataifx.com/post/argos-aporta-su-capacidad-tecnica-la-construccion-del-tunel-de-oriente",
@@ -976,16 +996,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Banco de Bogotá advierte sobre aumento de fraudes digitales",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "GeoPark confirma llegada a Venezuela y Grupo Gilinski toma el dominio accionario",
-        "url": "https://www.dataifx.com/post/geopark-anuncia-entrada-venezuela-y-grupo-gilinski-asume-control-accionario-de-la-compania",
-        "resumen": "La empresa GeoPark Limited, con sede en Bogotá y operaciones en América Latina, anunció su entrada estratégica en Venezuela mediante la adquisición del bloque Bare, un activo productor de crudo pesado ubicado en la Faja Petrolífera del Orinoco, considerada una de las mayores reservas de hidrocarburos del mundo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark anuncia entrada a Venezuela y Grupo Gilinski asume control accionario de la compañía",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
