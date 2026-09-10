@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-10T11:13:38-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-10T15:43:32-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Administración aumenta a 110,25 billones de pesos el límite de TES para fondear Presupuesto de 2026",
+        "url": "https://www.dataifx.com/post/gobierno-eleva-11025-billones-el-cupo-de-tes-para-financiar-el-presupuesto-de-2026",
+        "resumen": "El Ministerio de Hacienda y Crédito Público firmó el 9 de septiembre el Decreto 1372 de 2026, con el cual amplió a $110,25 billones el monto autorizado para la emisión de Títulos de Tesorería TES Clase B destinados a financiar el Presupuesto General de la Nación de la vigencia fiscal 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno eleva a $110,25 billones el cupo de TES para financiar el Presupuesto de 2026",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Ejecutivo establece mecanismo de Obras por Impuestos para levantar regiones del movimiento telúrico",
+        "url": "https://www.dataifx.com/post/gobierno-crea-modalidad-de-obras-por-impuestos-para-reconstruir-zonas-del-terremoto",
+        "resumen": "El Gobierno Nacional expidió el Decreto Legislativo 1389 del 9 de septiembre de 2026, mediante el cual se crea de manera temporal la modalidad especial de Obras por Impuestos para la Reconstrucción, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado por el Decreto 1261 de 2026 y modificado por el Decreto 1348 de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno crea modalidad de Obras por Impuestos para reconstruir zonas del terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Administración modifica vía decreto la agenda académica en regiones impactadas por sismo",
+        "url": "https://www.dataifx.com/post/gobierno-ajusta-por-decreto-el-calendario-escolar-en-zonas-afectadas-por-terremoto",
+        "resumen": "El presidente de la República firmó el 9 de septiembre el Decreto Legislativo 1388, con el respaldo de todos los ministros del gabinete, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado mediante el Decreto 1261 de 2026 y modificado por el Decreto 1348 del mismo año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno ajusta por decreto el calendario escolar en zonas afectadas por terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Decreto de emergencia frena deducciones por revisión de matrícula de 2026 a entes territoriales impactados por sismo",
+        "url": "https://www.dataifx.com/post/decreto-de-emergencia-suspende-descuentos-por-auditoria-de-matricula-de-2026-entidades",
+        "resumen": "Las entidades territoriales de las zonas afectadas por el terremoto del 10 de agosto tendrán una excepción en el proceso de distribución de recursos para educación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Decreto de emergencia suspende descuentos por auditoría de matrícula de 2026 a entidades territoriales afectadas por el terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Ejecutivo elimina tope del 30% para colocar capital en el extranjero desde fondos de pensiones",
+        "url": "https://www.dataifx.com/post/gobierno-deroga-limite-del-30-inversion-en-el-exterior-de-fondos-de-pensiones",
+        "resumen": "El Ministerio de Hacienda y Crédito Público radicó un proyecto de decreto que deroga los artículos 2",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno deroga límite del 30% a inversión en el exterior de fondos de pensiones",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "El PGN 2027 trae un desajuste fiscal más alto para Colombia",
+        "url": "https://www.dataifx.com/post/colombia-enfrenta-mayor-desequilibrio-fiscal-con-el-pgn-2027",
+        "resumen": "Fitch Ratings señaló que el presupuesto de 2027 presentado por el gobierno de Abelardo de la Espriella refleja un déficit fiscal más alto que el estimado por la administración anterior, lo que ofrece una visión más realista de los desafíos fiscales del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia enfrenta mayor desequilibrio fiscal con el PGN 2027",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Ejecutivo avala clases en sitios distintos para colegios dañados por el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-autoriza-clases-en-espacios-alternos-para-colegios-afectados-por-el-terremoto",
+        "resumen": "El Gobierno estableció una medida temporal para mantener la prestación del servicio educativo en los municipios afectados por el terremoto del 10 de agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza clases en espacios alternos para colegios afectados por el terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Gobierno permite uso especial de datos reservados del DANE por víctimas del sismo",
+        "url": "https://www.dataifx.com/post/gobierno-autoriza-uso-excepcional-de-informacion-reservada-del-dane-para-atender-afectados-por-el",
+        "resumen": "El Gobierno Nacional expidió el Decreto Legislativo 1385 del 9 de septiembre de 2026, mediante el cual estableció reglas excepcionales para que entidades públicas que participan en la atención de la emergencia puedan acceder a información estadística bajo custodia del Departamento Administrativo Nacional de Estadística (DANE)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno autoriza uso excepcional de información reservada del DANE para atender a afectados por el terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Decreto autoriza posponer trámites, concursos y cambiar horarios públicos por el sismo",
+        "url": "https://www.dataifx.com/post/decreto-permite-aplazar-tramites-concursos-y-modificar-jornadas-de-entidades-publicas-tras-el",
+        "resumen": "El Decreto 1384 de 2026 establece que las entidades públicas ubicadas en los territorios afectados podrán modificar temporalmente sus horarios de atención, trasladar sedes, habilitar puntos móviles, utilizar el trabajo en casa y reorganizar la prestación de servicios cuando las condiciones de infraestructura, movilidad, conectividad o disponibilidad de personal lo hagan necesario",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Decreto permite aplazar trámites, concursos y modificar jornadas de entidades públicas tras el terremoto",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
       {
         "titulo": "FONPET habilitará un mecanismo extraordinario para costear la reconstrucción de zonas por el sismo",
         "url": "https://www.dataifx.com/post/fonpet-tendra-una-excepcional-para-financiar-la-recuperacion-de-municipios-afectados-por-el",
@@ -363,96 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Presidente De La Espriella anuncia medidas del Plan Marshall para transformar el Chocó",
         "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "Elizabeth Rey quedará al frente de la zona andina en Citi",
-        "url": "https://www.dataifx.com/post/elizabeth-rey-asumira-la-direccion-de-la-region-andina-de-citi",
-        "resumen": "Elizabeth Rey ampliará sus responsabilidades dentro de Citi y asumirá la dirección de la región andina de la entidad, desde donde acompañará las operaciones y la estrategia de Chile, Ecuador y Perú, mientras mantiene su cargo como presidente de Citi Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Elizabeth Rey asumirá la dirección de la región andina de Citi",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Tres consorcios extranjeros piden entrar en las obras de la Línea 2 del Metro de Bogotá",
-        "url": "https://www.dataifx.com/post/tres-grupos-internacionales-presentan-solicitudes-para-participar-en-la-construccion-de-la-linea-2",
-        "resumen": "La Empresa Metro de Bogotá recibió este 7 de septiembre las solicitudes de precalificación de tres grupos internacionales interesados en participar en el proceso para la construcción de la Línea 2 del Metro de Bogotá, proyecto que contempla una extensión de 15,5 kilómetros y 11 estaciones, de las cuales 10 serán subterráneas y una elevada",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Tres grupos internacionales presentan solicitudes para participar en la construcción de la Línea 2 del Metro de Bogotá",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Acolgen informa cobros de hasta 70 por ciento a clientes que rebasen su tope de gasto",
-        "url": "https://www.dataifx.com/post/acolgen-detalla-cobros-de-hasta-70-para-usuarios-que-superen-su-meta-de-consumo",
-        "resumen": "Natalia Gutiérrez, presidenta de Acolgen y del Consejo Gremial, explicó el alcance de las resoluciones 101 120 y 101 126 de 2026 de la Comisión de Regulación de Energía y Gas, CREG, relacionadas con el ahorro de energía y dirigidas a hogares, comercios y empresas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Acolgen detalla cobros de hasta 70% para usuarios que superen su meta de consumo",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "BVC señala a la energía, la infraestructura y el capital privado como impulsores en Colombia",
-        "url": "https://www.dataifx.com/post/inversion-privada-infraestructura-y-energia-entre-los-catalizadores-que-identifica-la-bvc-para",
-        "resumen": "La Bolsa de Valores de Colombia, con el apoyo de J",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Inversión privada, infraestructura y energía, entre los catalizadores que identifica la BVC para Colombia",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Davivienda avisa sobre una sobretasa del peso a pesar de la baja del dólar",
-        "url": "https://www.dataifx.com/post/davivienda-advierte-sobreapreciacion-del-peso-pese-la-caida-del-dolar",
-        "resumen": "El precio del dólar en Colombia se mantiene cerca de $3,140, en medio de un mayor precio del petróleo y de la debilidad global de la divisa estadounidense, según el informe \"Visión Davivienda\" publicado el 4 de septiembre de 2026 por la Dirección de Estudios Económicos del Grupo Bolívar",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda advierte sobreapreciación del peso pese a la caída del dólar",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Presidente viaja al Chocó con empresarios para planear la reconstrucción tras el terremoto",
-        "url": "https://www.dataifx.com/post/empresarios-se-suman-visita-del-presidente-al-choco-para-definir-acciones-de-reconstruccion-tras-el",
-        "resumen": "La reconstrucción del Chocó será el eje de la visita que realizará este lunes 7 de septiembre el presidente Abelardo De La Espriella, quien llegará al departamento acompañado por diez representantes de algunos de los principales grupos empresariales del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresarios se suman a visita del presidente al Chocó para definir acciones de reconstrucción tras el terremoto",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "El comercio colombo-estadounidense sigue creciendo en 2026 antes de la visita de Marco Rubio",
-        "url": "https://www.dataifx.com/post/pocos-dias-de-la-visita-de-marco-rubio-comercio-entre-colombia-y-ee-uu-mantiene-crecimiento-en-2026",
-        "resumen": "A pocos días de la visita a Colombia del secretario de Estado de Estados Unidos, Marco Rubio, el comercio bilateral mantiene a Estados Unidos como el principal socio comercial del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "A pocos días de la visita de Marco Rubio, comercio entre Colombia y EE. UU. mantiene crecimiento en 2026",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Gobierno fija incentivos y recargos por gasto eléctrico ante el Fenómeno de El Niño 2026-2027",
-        "url": "https://www.dataifx.com/post/gobierno-anuncia-incentivos-y-recargos-por-consumo-de-energia-ante-el-fenomeno-de-el-nino-2026-2027",
-        "resumen": "El Gobierno Nacional anunció nuevas medidas para preparar al sistema energético colombiano ante los posibles efectos del Fenómeno de El Niño 2026-2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia incentivos y recargos por consumo de energía ante el Fenómeno de El Niño 2026-2027",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "XM avisa que El Niño 2026-2027 pedirá más térmica por déficit energético y obras demoradas",
-        "url": "https://www.dataifx.com/post/xm-advierte-que-el-nino-2026-2027-exigira-mas-generacion-termica-ante-deficit-de-energia-y-retrasos",
-        "resumen": "El Sistema Interconectado Nacional enfrenta una combinación de menores aportes hídricos, aumento de la demanda de energía, retrasos en la entrada de proyectos y restricciones en la red que, de acuerdo con el más reciente Boletín Energético de XM, plantean riesgos para la atención de la demanda durante el posible fenómeno de El Niño 2026-2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "XM advierte que El Niño 2026-2027 exigirá más generación térmica ante déficit de energía y retrasos en proyectos",
-        "capturado": "2026-09-07T13:40:57-05:00"
       }
     ],
     "Macro Internacional": [
@@ -548,6 +548,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "FDN entrega 230000 millones para el cierre financiero del Parque Solar Puertos de Santander",
+        "url": "https://www.dataifx.com/post/fdn-aporta-230000-millones-al-cierre-financiero-del-parque-solar-puertos-de-santander",
+        "resumen": "La Financiera de Desarrollo Nacional (FDN) anunció su participación en el cierre financiero del Parque Solar Puertos de Santander, con una financiación por $230",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FDN aporta $230.000 millones al cierre financiero del Parque Solar Puertos de Santander",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "El sector energético alcanza pacto colectivo extendido luego de 33 años",
+        "url": "https://www.dataifx.com/post/tras-33-anos-el-sector-energetico-logra-acuerdo-colectivo-de-largo-alcance",
+        "resumen": "Treinta y tres años después del último proceso de negociación conjunta en el sector, trabajadores y empresas del ámbito energético alcanzaron un nuevo acuerdo colectivo de gran alcance",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tras 33 años, el sector energético logra acuerdo colectivo de largo alcance",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Accionistas de Grupo SURA avalan recompra de acciones por hasta 500000 millones",
+        "url": "https://www.dataifx.com/post/asamblea-de-accionistas-de-grupo-sura-aprueba-programa-de-readquisicion-de-acciones-por-hasta",
+        "resumen": "La Asamblea General de Accionistas de Grupo SURA aprobó este jueves un programa de readquisición de acciones por hasta $500",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Asamblea de Accionistas de Grupo SURA aprueba programa de readquisición de acciones por hasta $500.000 millones",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
+      {
+        "titulo": "Nu arranca actividades en Estados Unidos y presenta su cuenta global multidivisa",
+        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
+        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
       {
         "titulo": "SIC convoca consulta tras recibir más de 18000 quejas por suplantación",
         "url": "https://www.dataifx.com/post/mas-de-18000-reclamos-por-suplantacion-impulsan-consulta-de-la-sic",
@@ -957,49 +997,19 @@
         "publicacion": "",
         "titulo_fuente": "Bancolombia abre convocatoria con cerca de 500 vacantes en distintas regiones del país",
         "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Asamblea de Grupo SURA votará iniciativa de recompra de títulos por 500.000 millones de pesos",
-        "url": "https://www.dataifx.com/post/grupo-sura-sometera-asamblea-programa-de-readquisicion-de-acciones-por-500000-millones",
-        "resumen": "El Grupo de Inversiones Suramericana S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Grupo SURA someterá a Asamblea programa de readquisición de acciones por $500.000 millones",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Kala pone en marcha plan de titularización por 1 billón con tanda inicial de 195.000 millones",
-        "url": "https://www.dataifx.com/post/kala-activa-programa-de-titularizacion-por-1-billon-con-emision-inicial-de-195000-millones",
-        "resumen": "La compañía Kala, especializada en inteligencia artificial aplicada al ciclo de crédito, anunció la puesta en marcha de su programa de titularización por COP $1 billón, con una primera emisión de COP $195",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Kala activa programa de titularización por $1 billón con emisión inicial de $195.000 millones",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Medios virtuales agruparon 85,5% de las transacciones del sector financiero en el segundo trimestre",
-        "url": "https://www.dataifx.com/post/canales-digitales-concentraron-855-de-las-operaciones-financieras-en-el-segundo-trimestre",
-        "resumen": "En el segundo trimestre de 2026, los establecimientos de crédito y las sociedades especializadas en depósitos y pagos electrónicos (SEDPE) registraron 6",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Canales digitales concentraron 85,5% de las operaciones financieras en el segundo trimestre",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Nueva fórmula de combustibles de Terpel busca mayor rendimiento y cuidado del motor",
-        "url": "https://www.dataifx.com/post/nueva-formula-de-gasolina-y-diesel-de-terpel-busca-mayor-rendimiento-y-cuidado-del-motor",
-        "resumen": "La compañía Terpel presentó la reformulación de su portafolio de combustibles bajo la marca GT Premium, disponible ya en varias regiones del país y con expansión prevista a toda la red de más de 2",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Nueva fórmula de gasolina y diésel de Terpel busca mayor rendimiento y cuidado del motor",
-        "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Nu comienza actividades en EE UU y pone en marcha su cuenta global multidivisa",
+        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
+        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
+        "capturado": "2026-09-10T15:43:32-05:00"
+      },
       {
         "titulo": "Chevron destinará US$7.000 millones en Venezuela para elevar al doble su bombeo en un lustro",
         "url": "https://www.dataifx.com/post/chevron-invertira-us7000-millones-en-venezuela-para-duplicar-su-produccion-en-cinco-anos",
