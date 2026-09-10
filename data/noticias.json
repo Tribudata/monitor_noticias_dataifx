@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-09T15:49:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-09T19:00:23-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Avanza el tributo capitalino tras su visto bueno inicial",
+        "url": "https://www.dataifx.com/post/reforma-tributaria-en-bogota-avanza-tras-aprobacion-en-primer-debate",
+        "resumen": "La Comisión de Hacienda y Crédito Público del Concejo de Bogotá aprobó en primer debate el Proyecto de Acuerdo 724 de 2026, denominado Por una Ciudad Inteligente",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reforma tributaria en Bogotá avanza tras aprobación en primer debate",
+        "capturado": "2026-09-09T19:00:23-05:00"
+      },
+      {
+        "titulo": "MinEnergía afirma que Colombia va por el millón de barriles diarios para alzar su bombeo de petróleo",
+        "url": "https://www.dataifx.com/post/colombia-busca-recuperar-produccion-petrolera-y-apunta-1-millon-de-barriles-diarios-segun",
+        "resumen": "Las tarifas de energía eléctrica en Colombia tendrían que aumentar ante un escenario de menor generación hidráulica, mayor utilización de plantas térmicas y altos costos del gas, según advirtió la ministra de Minas y Energía, María Nohemí Arboleda, durante el debate sobre el presupuesto del sector para 2027 realizado el martes 8 de septiembre ante las comisiones económicas del Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia busca recuperar producción petrolera y apunta a 1 millón de barriles diarios, según MinEnergía",
+        "capturado": "2026-09-09T19:00:23-05:00"
+      },
       {
         "titulo": "MinHacienda radicará en el Congreso con urgencia iniciativa de 1,2 billones para prevenir un apagón",
         "url": "https://www.dataifx.com/post/minhacienda-llevara-al-congreso-con-mensaje-de-urgencia-proyecto-por-12-billones-para-evitar-un",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Bogotá logra financiamiento directo del BID por US$150 millones",
         "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Ventas externas de Colombia subieron 5,9% en julio de 2026 impulsadas por oro no monetario",
-        "url": "https://www.dataifx.com/post/exportaciones-colombianas-crecieron-59-en-julio-de-2026-con-impulso-del-oro-no-monetario",
-        "resumen": "En julio de 2026, las exportaciones de Colombia alcanzaron US$4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones colombianas crecieron 5,9% en julio de 2026, con impulso del oro no monetario",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Grupo Argos establece en $21.900 la recompra de acciones ordinarias y en $16.500 la de preferenciales",
-        "url": "https://www.dataifx.com/post/grupo-argos-fija-en-21900-el-precio-de-readquisicion-de-acciones-ordinarias-y-en-16500-el-de",
-        "resumen": "Grupo Argos definió los precios de corte para la oferta de readquisición de acciones realizada entre el 27 y el 31 de agosto mediante el Mecanismo Independiente, bajo la modalidad de construcción de libro de ofertas o book building",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos fija en $21.900 el precio de readquisición de acciones ordinarias y en $16.500 el de preferenciales",
-        "capturado": "2026-09-05T05:24:18-05:00"
       }
     ],
     "Macro Internacional": [
@@ -548,6 +548,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "S&P eleva notas de Avista tras su fusión con Grupo Cibest",
+        "url": "https://www.dataifx.com/post/sp-mejora-calificaciones-de-avista-tras-su-integracion-grupo-cibest",
+        "resumen": "La agencia Standard & Poor’s National Ratings anunció una mejora en las calificaciones de Avista, luego de su adquisición total por parte del Grupo Cibest en agosto de este año",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "S&P mejora calificaciones de Avista tras su integración a Grupo Cibest",
+        "capturado": "2026-09-09T19:00:23-05:00"
+      },
+      {
+        "titulo": "Cabildo distrital aprueba en primer debate ajustes al gravamen ICA",
+        "url": "https://www.dataifx.com/post/concejo-de-bogota-avala-en-primer-debate-cambios-al-impuesto-ica",
+        "resumen": "El Concejo de Bogotá aprobó en primer debate el artículo 21 de la reforma tributaria distrital, que modifica las tarifas del Impuesto de Industria y Comercio (ICA)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Concejo de Bogotá avala en primer debate cambios al impuesto ICA",
+        "capturado": "2026-09-09T19:00:23-05:00"
+      },
       {
         "titulo": "Precio estimado en Colombia para los iPhone 18 Pro y Pro Max",
         "url": "https://www.dataifx.com/post/los-iphone-18-pro-y-pro-max-cuanto-podrian-costar-en-colombia",
@@ -976,26 +996,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Wingo reactivará vuelos a Caracas y consolida tres rutas entre Colombia y Venezuela",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "ISA Energía finaliza proyecto en Termoguajira que mejora estabilidad del sistema eléctrico",
-        "url": "https://www.dataifx.com/post/isa-energia-finaliza-proyecto-en-termoguajira-que-mejora-estabilidad-del-sistema-electrico",
-        "resumen": "ISA Energía finalizó la reubicación de 15 unidades de SmartValves en la subestación Termoguajira, un proyecto estratégico que busca fortalecer la seguridad energética del país y preparar la red para la transición hacia fuentes renovables",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA Energía finaliza proyecto en Termoguajira que mejora estabilidad del sistema eléctrico",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Argos incorpora 21 camiones mezcladores para operaciones en Medellín, Barranquilla y Bogotá",
-        "url": "https://www.dataifx.com/post/argos-incorpora-21-camiones-mezcladores-para-operaciones-en-medellin-barranquilla-y-bogota",
-        "resumen": "La empresa Argos anunció la incorporación de 21 nuevos camiones mezcladores de concreto a su flota, con el objetivo de ampliar la capacidad logística y mejorar la respuesta en operaciones estratégicas en el país",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Argos incorpora 21 camiones mezcladores para operaciones en Medellín, Barranquilla y Bogotá",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
