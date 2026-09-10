@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-10T15:43:32-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-10T18:55:55-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "CARF alerta desmejora fiscal dentro del Presupuesto General de la Nación 2027",
+        "url": "https://www.dataifx.com/post/carf-advierte-deterioro-fiscal-en-el-presupuesto-general-de-la-nacion-2027",
+        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) analizó en detalle el nuevo proyecto de Presupuesto General de la Nación (PGN) para 2027, que asciende a $635 billones, y concluyó que, aunque el documento reconoce de manera más realista las necesidades de gasto, también confirma un escenario fiscal crítico para el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CARF advierte deterioro fiscal en el Presupuesto General de la Nación 2027",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
+      {
+        "titulo": "Cierre Colombia",
+        "url": "https://www.dataifx.com/video/cierre-colombia-1393",
+        "resumen": "",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cierre Colombia",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
+      {
+        "titulo": "Déficit fiscal aumenta por PGN 2027 y pide cambios estructurales, avisa CARF",
+        "url": "https://www.dataifx.com/post/pgn-2027-eleva-el-deficit-fiscal-y-exige-ajustes-estructurales-advierte-el-carf",
+        "resumen": "El Comité Autónomo de la Regla Fiscal, CARF, señaló que el nuevo proyecto de Presupuesto General de la Nación, PGN, para 2027 reconoce una magnitud mayor del desequilibrio fiscal frente a la contemplada inicialmente, pero también evidencia mayores presiones sobre las finanzas públicas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "PGN 2027 eleva el déficit fiscal y exige ajustes estructurales, advierte el CARF",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
       {
         "titulo": "Administración aumenta a 110,25 billones de pesos el límite de TES para fondear Presupuesto de 2026",
         "url": "https://www.dataifx.com/post/gobierno-eleva-11025-billones-el-cupo-de-tes-para-financiar-el-presupuesto-de-2026",
@@ -423,39 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Buen ambiente para discutir Presupuesto 2027; mesa permanente definirá monto antes de la votación del lunes",
         "capturado": "2026-09-07T23:08:57-05:00"
-      },
-      {
-        "titulo": "Durante agosto el costo de vida anual en el país subió y se situó en el 6,24 por ciento",
-        "url": "https://www.dataifx.com/post/en-agosto-inflacion-anual-de-colombia-se-acelero-y-fue-del-624",
-        "resumen": "El Índice de Precios al Consumidor (IPC) reportado por el DANE mostró que en agosto la inflación anual se ubicó en 6,24%, un nivel superior al 6,03% de julio y el más alto desde julio de 2024",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En agosto inflación anual de Colombia se aceleró y fue del 6,24%",
-        "capturado": "2026-09-07T23:08:57-05:00"
-      },
-      {
-        "titulo": "El Emisor adquirió US$400 millones en agosto dentro de su plan de reservas por hasta US$4.000 millones",
-        "url": "https://www.dataifx.com/post/en-agosto-banrep-compro-us400-millones-dentro-de-su-programa-de-reservas-por-hasta-us4000-millones",
-        "resumen": "El Banco de la República (BanRep) informó que en agosto de 2026 realizó compras definitivas de TES B en el mercado por $1,599,1 mil millones (valor a precios de mercado)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En agosto BanRep compró US$400 millones dentro de su programa de reservas por hasta US$4.000 millones",
-        "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "Presidente De La Espriella comunica acciones del Plan Marshall para renovar al Chocó",
-        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-anuncia-medidas-del-plan-marshall-para-transformar-el-choco",
-        "resumen": "El presidente Abelardo De La Espriella entregó este lunes el balance oficial de su reunión con empresarios y autoridades en el departamento del Chocó, donde anunció la puesta en marcha de su Plan Marshall para atender las problemáticas sociales y económicas de la región",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente De La Espriella anuncia medidas del Plan Marshall para transformar el Chocó",
-        "capturado": "2026-09-07T17:42:55-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El petróleo Brent sube y pasa de US$108 por el conflicto en Oriente Medio",
+        "url": "https://www.dataifx.com/post/brent-se-dispara-y-supera-us108-impulsado-por-escalada-belica-en-oriente-medio",
+        "resumen": "Los mercados internacionales registraron este jueves un fuerte repunte en las cotizaciones del crudo, impulsado por la intensificación del conflicto en Oriente Medio y los ataques contra el transporte marítimo en rutas estratégicas",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Brent se dispara y supera US$108, impulsado por escalada bélica en Oriente Medio",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
       {
         "titulo": "El Brent llega a 100 dólares ante el aumento de la fricción militar entre Estados Unidos e Irán",
         "url": "https://www.dataifx.com/post/brent-alcanza-los-us100-mientras-crece-la-tension-militar-entre-ee-uu-e-iran",
@@ -548,6 +558,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Accesos Norte Fase II en Bogotá logra respaldo financiero y da inicio a obras",
+        "url": "https://www.dataifx.com/post/accesos-norte-fase-ii-en-bogota-asegura-cierre-financiero-y-arranca-construccion",
+        "resumen": "El proyecto Accesos Norte Fase II, que ampliará la Autopista Norte de Bogotá entre las calles 191 y 245, quedó plenamente habilitado para iniciar obras tras la verificación de la Autoridad Nacional de Licencias Ambientales (ANLA), que confirmó el cumplimiento de las condiciones ambientales en las cinco unidades funcionales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Accesos Norte Fase II en Bogotá asegura cierre financiero y arranca construcción",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
+      {
+        "titulo": "BTG Pactual estrena TEVAICOL, el primer fondo cotizado local en la bolsa colombiana",
+        "url": "https://www.dataifx.com/post/btg-pactual-lanza-tevaicol-primer-etf-local-en-la-bolsa-de-valores-de-colombia",
+        "resumen": "BTG Pactual Asset Management anunció el lanzamiento de TEVAICOL, su primer fondo cotizado en bolsa (ETF) desarrollado en Colombia y listado en la Bolsa de Valores de Colombia (bvc)",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "BTG Pactual lanza TEVAICOL, primer ETF local en la Bolsa de Valores de Colombia",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
+      {
+        "titulo": "Administración nacional y Bavaria pactan ayuda para tres mil comercios por sismo",
+        "url": "https://www.dataifx.com/post/gobierno-y-bavaria-acuerdan-apoyo-para-3000-negocios-afectados-por-terremoto",
+        "resumen": "El Gobierno nacional anunció una alianza con Bavaria para impulsar la recuperación de pequeños negocios golpeados por la emergencia en distintas regiones del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno y Bavaria acuerdan apoyo para 3.000 negocios afectados por terremoto",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
+      {
+        "titulo": "Frontier Airlines arriba al país con trayectos desde Orlando",
+        "url": "https://www.dataifx.com/post/frontier-airlines-llega-colombia-con-rutas-desde-orlando",
+        "resumen": "La aerolínea estadounidense Frontier Airlines anunció que desde diciembre comenzará a operar vuelos directos entre Orlando y tres ciudades colombianas: Bogotá, Medellín y Cartagena",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Frontier Airlines llega a Colombia con rutas desde Orlando",
+        "capturado": "2026-09-10T18:55:55-05:00"
+      },
       {
         "titulo": "FDN entrega 230000 millones para el cierre financiero del Parque Solar Puertos de Santander",
         "url": "https://www.dataifx.com/post/fdn-aporta-230000-millones-al-cierre-financiero-del-parque-solar-puertos-de-santander",
@@ -956,46 +1006,6 @@
         "subseccion": "Economía Personal",
         "publicacion": "",
         "titulo_fuente": "Tesla cobrará suscripción por conectividad premium desde octubre",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "El 86 por ciento de los colombianos quiere aprender a detectar fraudes con IA",
-        "url": "https://www.dataifx.com/post/86-de-los-colombianos-quiere-aprender-identificar-fraudes-creados-con-ia",
-        "resumen": "DataCrédito Experian presentó un estudio que analiza cómo la inteligencia artificial y los datos están transformando la prevención del fraude en Colombia",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "86% de los colombianos quiere aprender a identificar fraudes creados con IA",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Federación de Cafeteros implementará voto electrónico en comicios de 2026",
-        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-estrena-voto-electronico-en-sus-elecciones-de-2026",
-        "resumen": "En un hecho inédito para el país, la Federación Nacional de Cafeteros (FNC) implementó por primera vez el voto electrónico en sus elecciones gremiales de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Federación de Cafeteros estrena voto electrónico en sus elecciones de 2026",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Ventas en línea logran máximo histórico de operaciones y aumentan 31% entre abril y junio",
-        "url": "https://www.dataifx.com/post/comercio-electronico-alcanza-record-de-transacciones-y-crece-31-en-el-segundo-trimestre",
-        "resumen": "El comercio electrónico colombiano registró entre abril y junio de 2026 su mayor número de transacciones para un segundo trimestre desde que se inició la medición en 2019",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Comercio electrónico alcanza récord de transacciones y crece 31% en el segundo trimestre",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Bancolombia lanza oferta laboral con cerca de 500 puestos en varias zonas del territorio nacional",
-        "url": "https://www.dataifx.com/post/bancolombia-abre-convocatoria-con-cerca-de-500-vacantes-en-distintas-regiones-del-pais",
-        "resumen": "El Grupo Bancolombia anunció la apertura de aproximadamente 500 oportunidades laborales y de aprendizaje en varias ciudades de Colombia, como parte de su estrategia de atracción de talento",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia abre convocatoria con cerca de 500 vacantes en distintas regiones del país",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
