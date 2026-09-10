@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-10T06:02:51-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-10T11:13:38-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "FONPET habilitará un mecanismo extraordinario para costear la reconstrucción de zonas por el sismo",
+        "url": "https://www.dataifx.com/post/fonpet-tendra-una-excepcional-para-financiar-la-recuperacion-de-municipios-afectados-por-el",
+        "resumen": "El acceso a recursos que permanecían disponibles en el Fondo Nacional de Pensiones de las Entidades Territoriales (FONPET) tendrá una vía extraordinaria para las entidades territoriales afectadas por el terremoto del 10 de agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FONPET tendrá una vía excepcional para financiar la recuperación de municipios afectados por el terremoto",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "Administración central cambia normas de dinero territorial para destrabar fondos en la crisis",
+        "url": "https://www.dataifx.com/post/gobierno-modifica-reglas-financieras-de-municipios-y-departamentos-para-movilizar-recursos-durante",
+        "resumen": "El Gobierno Nacional modificó de manera temporal varias reglas financieras y administrativas que rigen a municipios y departamentos con el propósito de ampliar su capacidad para obtener, movilizar y utilizar recursos durante la emergencia declarada por la calamidad pública asociada al terremoto del 10 de agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno modifica reglas financieras de municipios y departamentos para movilizar recursos durante la emergencia",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "Norma autoriza mover dineros locales para solucionar los perjuicios originados por el sismo",
+        "url": "https://www.dataifx.com/post/decreto-permite-trasladar-recursos-entre-territorios-para-atender-danos-causados-por-el-terremoto",
+        "resumen": "El Gobierno Nacional abrió la posibilidad de que entidades territoriales que no fueron afectadas por el terremoto del 10 de agosto de 2026 destinen recursos a proyectos de inversión en municipios que sí resultaron afectados, incluso cuando la entidad que aporta el dinero no obtenga un beneficio directo de la obra",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Decreto permite trasladar recursos entre territorios para atender daños causados por el terremoto",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda avala préstamo para Bogotá por 70 millones de euros con la entidad alemana KfW",
+        "url": "https://www.dataifx.com/post/minhacienda-autoriza-bogota-credito-por-70-millones-de-euros-con-banco-aleman-kfw",
+        "resumen": "Bogotá podrá acceder a un crédito externo de hasta 70 millones de euros luego de que el Ministerio de Hacienda y Crédito Público autorizara al Distrito Capital para celebrar la operación con el Banco de Desarrollo de Alemania KfW",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda autoriza a Bogotá crédito por 70 millones de euros con banco alemán KfW",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "BCE sube tasas al 2,5% y avisa que el alza de precios continuará arriba de la meta hasta 2028",
+        "url": "https://www.dataifx.com/post/bce-eleva-los-tipos-al-25-y-advierte-que-la-inflacion-seguira-por-encima-de-su-objetivo-hasta-2028",
+        "resumen": "El Banco Central Europeo (BCE) elevó este jueves sus tasas de interés en 25 puntos básicos, hasta llevar la facilidad de depósito al 2,5%, en una decisión que responde al repunte de la inflación y a las presiones generadas por el aumento de los precios de la energía en medio de la guerra en Oriente Próximo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BCE eleva los tipos al 2,5% y advierte que la inflación seguirá por encima de su objetivo hasta 2028",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "ANDEMOS solicita evaluar el alza de la base del ICA en Bogotá por sus efectos en empleo e inversión",
+        "url": "https://www.dataifx.com/post/andemos-pide-revisar-aumento-de-la-base-del-ica-en-bogota-por-impacto-sobre-inversion-y-empleo",
+        "resumen": "La Asociación Nacional de Movilidad Sostenible (ANDEMOS) pidió al Concejo de Bogotá revisar el incremento de la base aplicable al Impuesto de Industria y Comercio (ICA), al considerar que la medida puede tener efectos sobre la actividad empresarial, la inversión, el empleo y el acceso de los ciudadanos a vehículos nuevos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDEMOS pide revisar aumento de la base del ICA en Bogotá por impacto sobre inversión y empleo",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo asigna fondos del FONDES para socorrer a compañías de energía en áreas golpeadas por el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-habilita-recursos-del-fondes-para-apoyar-empresas-electricas-en-zonas-afectadas-por-el",
+        "resumen": "El Gobierno Nacional autorizó al Fondo Nacional para el Desarrollo de la Infraestructura, FONDES, a realizar por una sola vez aportes no reembolsables a determinadas empresas de servicios públicos mixtas del orden nacional que desarrollen actividades de distribución y comercialización de energía eléctrica en los territorios afectados por el terremoto del 10 de agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita recursos del FONDES para apoyar a empresas eléctricas en zonas afectadas por el sismo",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo activa el Fondo Milagro y destina dineros flexibles para socorrer regiones golpeadas por el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-pone-en-marcha-fondo-milagro-y-flexibiliza-recursos-para-atender-zonas-afectadas-por-el",
+        "resumen": "El Gobierno estableció un nuevo esquema para administrar los recursos destinados a atender las consecuencias del sismo del 10 de agosto de 2026, con la creación del Fondo Milagro y una serie de medidas que modifican las herramientas financieras, presupuestales y administrativas disponibles para los territorios afectados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno pone en marcha Fondo Milagro y flexibiliza recursos para atender zonas afectadas por el terremoto",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
       {
         "titulo": "Avanza el tributo capitalino tras su visto bueno inicial",
         "url": "https://www.dataifx.com/post/reforma-tributaria-en-bogota-avanza-tras-aprobacion-en-primer-debate",
@@ -373,86 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "XM advierte que El Niño 2026-2027 exigirá más generación térmica ante déficit de energía y retrasos en proyectos",
         "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Bonistas de Ecopetrol avalan la fusión con Parque Solar Portón del Sol",
-        "url": "https://www.dataifx.com/post/tenedores-de-bonos-de-ecopetrol-aprueban-fusion-con-parque-solar-porton-del-sol",
-        "resumen": "Ecopetrol informó que los tenedores de bonos ordinarios correspondientes a las emisiones locales de 2010 y 2013 aprobaron el proyecto de fusión por absorción entre la compañía, como sociedad absorbente, y Parque Solar Portón del Sol S",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Tenedores de bonos de Ecopetrol aprueban fusión con Parque Solar Portón del Sol",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo radicará cambios al régimen de regalías para impulsar obras viales de gran magnitud",
-        "url": "https://www.dataifx.com/post/gobierno-presentara-reforma-al-sistema-regalias-para-financiar-grandes-proyectos-de-infraestructura",
-        "resumen": "El Gobierno Nacional presentará ante el Congreso de la República un proyecto de ley para reformar el Sistema General de Regalías, con el objetivo de modificar la forma en que se destinan estos recursos y facilitar la financiación de proyectos de infraestructura de mayor escala en las regiones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno presentará reforma al Sistema Regalías para financiar grandes proyectos de infraestructura",
-        "capturado": "2026-09-07T13:40:57-05:00"
-      },
-      {
-        "titulo": "Aves de corral a nivel global busca mayor innovación, salud y mercados abiertos para el año 2030",
-        "url": "https://www.dataifx.com/post/avicultura-mundial-apunta-mas-tecnologia-sanidad-y-apertura-de-mercados-hacia-2030",
-        "resumen": "La avicultura mundial enfrenta cambios en sus modelos de producción y comercialización ante la necesidad de fortalecer la seguridad alimentaria, responder a nuevas exigencias de sostenibilidad e incorporar tecnologías para mejorar la productividad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avicultura mundial apunta a más tecnología, sanidad y apertura de mercados hacia 2030",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "CAF lanza concurso para promover herramientas tecnológicas para la economía plateada regional",
-        "url": "https://www.dataifx.com/post/caf-abre-convocatoria-para-impulsar-soluciones-digitales-dirigidas-la-economia-plateada-en-america",
-        "resumen": "CAF, Banco de Desarrollo de América Latina y el Caribe, abrió la convocatoria para la octava edición del Laboratorio CAF de Inclusión Financiera (LIF), una iniciativa que en 2026 estará enfocada en encontrar soluciones digitales frente a los cambios demográficos de América Latina y el Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CAF abre convocatoria para impulsar soluciones digitales dirigidas a la economía plateada en América Latina",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "LATAM amplia su servicio en Medellín con 245.554 asientos al mes y prevé alza del 8% de oferta al 2026",
-        "url": "https://www.dataifx.com/post/latam-fortalece-su-operacion-en-medellin-con-245554-sillas-mensuales-y-proyecta-crecimiento-de-8-en",
-        "resumen": "LATAM Airlines Colombia anunció el fortalecimiento de su operación en Medellín para lo que resta de 2026, con una oferta de 245",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "LATAM fortalece su operación en Medellín con 245.554 sillas mensuales y proyecta crecimiento de 8% en capacidad para 2026",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Ecopetrol comienza ventas externas directas de azufre sólido hacia Brasil, Perú y Tanzania",
-        "url": "https://www.dataifx.com/post/ecopetrol-inicia-exportaciones-directas-de-azufre-solido-brasil-peru-y-tanzania",
-        "resumen": "Ecopetrol realizó las primeras entregas directas de azufre sólido a granel a clientes de la industria química y de fertilizantes en Brasil, Perú y Tanzania, como parte de una nueva estrategia logística para atender mercados internacionales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol inicia exportaciones directas de azufre sólido a Brasil, Perú y Tanzania",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Minería planea subir su aporte fiscal a 12 billones de pesos cada año hacia 2030",
-        "url": "https://www.dataifx.com/post/sector-minero-proyecta-elevar-su-aporte-las-finanzas-publicas-hasta-12-billones-anuales-en-2030",
-        "resumen": "El sector minero colombiano busca recuperar los niveles de inversión y producción luego de una reducción del PIB minero y de la inversión extranjera directa durante los últimos cuatro años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Sector minero proyecta elevar su aporte a las finanzas públicas hasta $12 billones anuales en 2030",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "El BID otorga un crédito directo a Bogotá por 150 millones de dólares",
-        "url": "https://www.dataifx.com/post/bogota-logra-financiamiento-directo-del-bid-por-us150-millones",
-        "resumen": "Bogotá logró un hito financiero al acceder directamente a un crédito del Banco Interamericano de Desarrollo (BID) por US$150 millones, sin necesidad de garantía soberana de la Nación",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá logra financiamiento directo del BID por US$150 millones",
-        "capturado": "2026-09-06T15:01:47-05:00"
       }
     ],
     "Macro Internacional": [
@@ -548,6 +548,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "SIC convoca consulta tras recibir más de 18000 quejas por suplantación",
+        "url": "https://www.dataifx.com/post/mas-de-18000-reclamos-por-suplantacion-impulsan-consulta-de-la-sic",
+        "resumen": "La Superintendencia de Industria y Comercio (SIC) anunció la apertura de una consulta pública orientada a fortalecer los mecanismos de validación de identidad y el tratamiento de datos personales en Colombia",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Más de 18.000 reclamos por suplantación impulsan consulta de la SIC",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
+      {
+        "titulo": "Divisas por turismo llegaron a US$5619 millones, creciendo un 49% al cierre del primer semestre",
+        "url": "https://www.dataifx.com/post/turismo-genero-us5619-millones-en-divisas-con-alza-de-49-en-el-primer-semestre",
+        "resumen": "El turismo continúa consolidándose como un sector estratégico para la economía colombiana",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Turismo generó US$5.619 millones en divisas, con alza de 4,9% en el primer semestre",
+        "capturado": "2026-09-10T11:13:38-05:00"
+      },
       {
         "titulo": "S&P eleva notas de Avista tras su fusión con Grupo Cibest",
         "url": "https://www.dataifx.com/post/sp-mejora-calificaciones-de-avista-tras-su-integracion-grupo-cibest",
@@ -976,26 +996,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Nueva fórmula de gasolina y diésel de Terpel busca mayor rendimiento y cuidado del motor",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Andrés Osorio asumirá la Vicepresidencia Técnica y de Estudios Económicos de Asofondos",
-        "url": "https://www.dataifx.com/post/andres-osorio-asumira-vicepresidencia-tecnica-y-de-estudios-economicos-de-asofondos",
-        "resumen": "La Asociación Colombiana de Administradoras de Fondos de Pensiones y de Cesantía (Asofondos) anunció el nombramiento de Andrés Felipe Osorio Quevedo como nuevo vicepresidente Técnico y de Estudios Económicos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Andrés Osorio asumirá Vicepresidencia Técnica y de Estudios Económicos de Asofondos",
-        "capturado": "2026-09-04T22:05:15-05:00"
-      },
-      {
-        "titulo": "Wingo reactivará vuelos a Caracas y consolida tres rutas entre Colombia y Venezuela",
-        "url": "https://www.dataifx.com/post/wingo-reactivara-vuelos-caracas-y-consolida-tres-rutas-entre-colombia-y-venezuela",
-        "resumen": "La aerolínea Wingo anunció que a partir del 7 de septiembre de 2026 reanudará sus vuelos hacia el Aeropuerto Internacional Simón Bolívar de Maiquetía, tras la reapertura informada por las autoridades venezolanas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Wingo reactivará vuelos a Caracas y consolida tres rutas entre Colombia y Venezuela",
         "capturado": "2026-09-04T22:05:15-05:00"
       }
     ],
