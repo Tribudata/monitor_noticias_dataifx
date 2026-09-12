@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-11T15:49:50-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-11T19:02:59-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Ejecutivo analiza bajar el IVA a pasajes de avión al Quindío tras el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-estudia-reducir-el-iva-de-tiquetes-aereos-hacia-el-quindio-tras-el-terremoto",
+        "resumen": "El Gobierno anunció un paquete de medidas para apoyar la recuperación del sector turístico del Quindío tras el terremoto, con recursos dirigidos a establecimientos afectados, micronegocios y negocios informales, además de incentivos para promover la llegada de visitantes y nuevas inversiones al departamento",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno estudia reducir el IVA de tiquetes aéreos hacia el Quindío tras el terremoto",
+        "capturado": "2026-09-11T19:02:59-05:00"
+      },
+      {
+        "titulo": "Administración autorizará obras por impuestos para financiar la reconstrucción quindiana tras el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-permitira-obras-por-impuestos-para-financiar-reconstruccion-del-quindio-tras-terremoto",
+        "resumen": "El Gobierno Nacional anunció un conjunto de medidas para avanzar en la reconstrucción del Quindío tras el terremoto que dejó afectaciones en viviendas, vías, centros educativos, infraestructura de salud y servicios públicos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno permitirá obras por impuestos para financiar reconstrucción del Quindío tras terremoto",
+        "capturado": "2026-09-11T19:02:59-05:00"
+      },
       {
         "titulo": "El financiamiento toma fuerza en los negocios frente a la duda sobre las tasas de interés",
         "url": "https://www.dataifx.com/post/financiacion-gana-espacio-entre-comercios-ante-la-incertidumbre-por-las-tasas-de-interes",
@@ -432,26 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "ANI define hoja de ruta para ejecutar ocho proyectos viales estratégicos",
-        "capturado": "2026-09-08T18:59:12-05:00"
-      },
-      {
-        "titulo": "Colombia sugiere a Estados Unidos un nuevo convenio de cooperación en inversión, seguridad y drogas",
-        "url": "https://www.dataifx.com/post/colombia-propone-ee-uu-nueva-asociacion-estrategica-en-inversion-seguridad-y-lucha-contra-el",
-        "resumen": "El presidente Abelardo de la Espriella se reunió en Barranquilla con el secretario de Estado de Estados Unidos, Marco Rubio, encuentro en el que planteó una nueva etapa de cooperación bilateral en asuntos de inversión, reconstrucción, seguridad, lucha contra el narcotráfico, migración y relaciones frente a Venezuela",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia propone a EE. UU. nueva asociación estratégica en inversión, seguridad y lucha contra el narcotráfico",
-        "capturado": "2026-09-08T18:59:12-05:00"
-      },
-      {
-        "titulo": "Rubio sugiere una fase inédita de alianza colombo-estadounidense en seguridad, energía y comercio",
-        "url": "https://www.dataifx.com/post/rubio-plantea-una-nueva-etapa-de-cooperacion-entre-colombia-y-ee-uu-con-seguridad-energia-y",
-        "resumen": "El secretario de Estado de Estados Unidos, Marco Rubio, aseguró que Colombia y su país tienen la oportunidad de iniciar una nueva etapa de cooperación tras su reunión con el presidente Abelardo de la Espriella en Barranquilla, en la que la seguridad fue uno de los principales asuntos abordados, junto con las posibilidades de ampliar los vínculos económicos entre ambos países",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rubio plantea una nueva etapa de cooperación entre Colombia y EE. UU. con seguridad, energía y comercio",
         "capturado": "2026-09-08T18:59:12-05:00"
       }
     ],
@@ -1030,6 +1030,16 @@
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Pibank extiende su alcance global mediante la salida al mercado de su CD en Estados Unidos",
+        "url": "https://www.dataifx.com/post/pibank-amplia-su-presencia-internacional-con-el-lanzamiento-de-su-cd-en-estados-unidos",
+        "resumen": "Pibank, el banco 100% digital del Grupo Pichincha, anunció el lanzamiento oficial de su Certificado de Depósito (CD) en Estados Unidos, como parte de su estrategia de expansión internacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pibank amplía su presencia internacional con el lanzamiento de su CD en Estados Unidos",
+        "capturado": "2026-09-11T19:02:59-05:00"
+      },
       {
         "titulo": "Colombia progresa en la consolidación de sus vínculos comerciales con Singapur",
         "url": "https://www.dataifx.com/post/colombia-avanza-en-fortalecimiento-de-su-relacion-economica-con-singapur",
