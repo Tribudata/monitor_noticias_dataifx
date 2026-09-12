@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-11T19:02:59-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-12T02:04:14-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "AmCham Colombia apoya bajar el IVA en pasajes aéreos para impulsar el turismo en el Quindío",
+        "url": "https://www.dataifx.com/post/amcham-colombia-respalda-reduccion-del-iva-en-tiquetes-aereos-como-medida-para-reactivar-el-turismo",
+        "resumen": "La presidenta de la Cámara de Comercio Colombo Americana (AmCham Colombia), María Claudia Lacouture, respaldó la propuesta del Gobierno Nacional de reducir temporalmente el IVA en los tiquetes aéreos hacia las zonas afectadas por el terremoto en el Quindío, como parte de las acciones para impulsar la recuperación del sector turístico",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "AmCham Colombia respalda reducción del IVA en tiquetes aéreos como medida para reactivar el turismo en el Quindío",
+        "capturado": "2026-09-12T02:04:14-05:00"
+      },
       {
         "titulo": "Ejecutivo analiza bajar el IVA a pasajes de avión al Quindío tras el sismo",
         "url": "https://www.dataifx.com/post/gobierno-estudia-reducir-el-iva-de-tiquetes-aereos-hacia-el-quindio-tras-el-terremoto",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "En junio, deuda externa colombiana aumentó 8,52% a US$247.908 millones",
         "capturado": "2026-09-08T23:30:49-05:00"
-      },
-      {
-        "titulo": "ANI establece plan de trabajo para desarrollar ocho obras viales prioritarias",
-        "url": "https://www.dataifx.com/post/ani-define-hoja-de-ruta-para-ejecutar-ocho-proyectos-viales-estrategicos",
-        "resumen": "En una jornada de trabajo encabezada por el presidente de la Agencia Nacional de Infraestructura (ANI), Ricardo Ayerbe, se definió la hoja de ruta para acelerar la ejecución de ocho proyectos carreteros estratégicos que buscan mejorar la conectividad en distintas regiones del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANI define hoja de ruta para ejecutar ocho proyectos viales estratégicos",
-        "capturado": "2026-09-08T18:59:12-05:00"
       }
     ],
     "Macro Internacional": [
