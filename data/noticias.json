@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-14T09:56:09-05:00",
+  "actualizado": "2026-09-14T15:15:03-05:00",
   "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Central Unitaria de Trabajadores llama a protesta en todo el país el 14 de octubre",
+        "url": "https://www.dataifx.com/post/cut-convoca-movilizacion-nacional-para-el-14-de-octubre",
+        "resumen": "La Central Unitaria de Trabajadores anunció una movilización nacional para el próximo 14 de octubre, luego del Encuentro Nacional de Organizaciones Sociales y Políticas, en el que participaron la CUT, el Comando Nacional Unitario, la Asamblea Nacional Popular, el Pacto Histórico y la Alianza por la Vida",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CUT convoca a movilización nacional para el 14 de octubre",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
       {
         "titulo": "Opositores radicarán iniciativa presupuestal paralela de $596 billones en medio de discusión tributaria",
         "url": "https://www.dataifx.com/post/oposicion-presentara-propuesta-alterna-de-presupuesto-por-596-billones-en-medio-de-debate-fiscal",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Coca-Cola renueva su imagen en Colombia y lleva sus nuevos códigos visuales a la Torre Colpatria",
         "capturado": "2026-09-09T11:23:55-05:00"
-      },
-      {
-        "titulo": "La CREG implementa acciones de prevención por baja oferta hídrica y mayor consumo eléctrico",
-        "url": "https://www.dataifx.com/post/creg-activa-medidas-preventivas-ante-menor-disponibilidad-hidrica-y-aumento-de-la-demanda-de",
-        "resumen": "La Comisión de Regulación de Energía y Gas (CREG) activó el mecanismo para el sostenimiento de la confiabilidad establecido en la Resolución CREG 101 127 de 2026, luego de evaluar los indicadores del sistema eléctrico y las recomendaciones técnicas presentadas por el Centro Nacional de Despacho (CND) de XM y el Consejo Nacional de Operación (CNO)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CREG activa medidas preventivas ante menor disponibilidad hídrica y aumento de la demanda de energía",
-        "capturado": "2026-09-09T11:23:55-05:00"
       }
     ],
     "Macro Internacional": [
@@ -588,6 +588,76 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Enel Colombia multiplica por dos la capacidad de la Subestación Nueva Esperanza en Soacha",
+        "url": "https://www.dataifx.com/post/enel-colombia-duplica-capacidad-de-subestacion-nueva-esperanza-en-soacha",
+        "resumen": "La Subestación Nueva Esperanza, ubicada en el municipio de Soacha, duplicó su capacidad de 450 MVA a 900 MVA tras la instalación de un segundo banco de autotransformación 500/115 kV",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Enel Colombia duplica capacidad de Subestación Nueva Esperanza en Soacha",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Suben las consultas de pasajes de avión hacia Colombia con miras al segundo semestre",
+        "url": "https://www.dataifx.com/post/aumentan-busquedas-de-tiquetes-aereos-hacia-colombia-para-el-segundo-semestre",
+        "resumen": "El interés internacional por viajar a Colombia continúa en ascenso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aumentan búsquedas de tiquetes aéreos hacia Colombia para el segundo semestre",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Usuarios de Transmetro en Barranquilla tendrán recargas habilitadas desde Nequi",
+        "url": "https://www.dataifx.com/post/barranquilleros-podran-recargar-transmetro-desde-nequi",
+        "resumen": "Los usuarios de Nequi ya pueden recargar sus tarjetas del sistema de transporte masivo Transmetro directamente desde la aplicación, con montos entre $3",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Barranquilleros podrán recargar Transmetro desde Nequi",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Siniestros pagados por aseguradoras a raíz del sismo llegan a $184.770 millones",
+        "url": "https://www.dataifx.com/post/pagos-de-aseguradoras-por-terremoto-alcanzan-184770-millones",
+        "resumen": "La Federación de Aseguradores Colombianos (Fasecolda) reportó que, a corte del 11 de septiembre, el valor estimado para atender los siniestros asegurados derivados del terremoto del pasado 10 de agosto asciende a $4,4 billones, un incremento del 19 % frente a la semana anterior",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pagos de aseguradoras por terremoto alcanzan $184.770 millones",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Visita de inspección estatal verifica el entorno laboral en local de Zara",
+        "url": "https://www.dataifx.com/post/inspeccion-oficial-constata-condiciones-laborales-en-establecimiento-de-zara",
+        "resumen": "El Ministerio del Trabajo realizó una inspección presencial en un establecimiento de Zara, operado por Texmoda S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inspección oficial constata condiciones laborales en establecimiento de Zara",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Bolsa de valores, vital para reactivar capitales y estimular el desarrollo financiero nacional",
+        "url": "https://www.dataifx.com/post/mercado-de-capitales-clave-para-recuperar-la-inversion-y-acelerar-el-crecimiento-economico-de",
+        "resumen": "Durante el Congreso Regional de Mercado de Capitales, el gerente general de la Bolsa de Valores de Colombia y gerente corporativo de Mercados de nuam, Andrés Restrepo, señaló que el país necesita recuperar su capacidad de inversión para volver a crecer a tasas más altas, y que el mercado de capitales será una pieza central en ese proceso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mercado de capitales, clave para recuperar la inversión y acelerar el crecimiento económico de Colombia",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá respaldará iniciativa fotovoltaica por $300.000 millones en Santander",
+        "url": "https://www.dataifx.com/post/banco-de-bogota-financiara-proyecto-solar-por-300000-millones-en-santander",
+        "resumen": "El Banco de Bogotá anunció la financiación de $300",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Bogotá financiará proyecto solar por $300.000 millones en Santander",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
       {
         "titulo": "Usuarios de Bancolombia tendrán la opción de sacar efectivo en locales Ísimo",
         "url": "https://www.dataifx.com/post/clientes-de-bancolombia-podran-retirar-dinero-en-tiendas-isimo",
@@ -967,79 +1037,19 @@
         "publicacion": "",
         "titulo_fuente": "Más del 55% del censo electoral cafetero participó en las urnas",
         "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "S&P ratifica las calificaciones más altas a Banco AV Villas debido a su solidez financiera",
-        "url": "https://www.dataifx.com/post/sp-confirma-maximas-calificaciones-banco-av-villas-por-su-solidez-financiera",
-        "resumen": "La calificadora S&P National Ratings ratificó las máximas calificaciones nacionales a Banco AV Villas, al otorgarle la nota coAAA de largo plazo y coA-1+ de corto plazo, ambas consideradas las más altas en la escala de evaluación",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "S&P confirma máximas calificaciones a Banco AV Villas por su solidez financiera",
-        "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "Café Sello Rojo baja sus tarifas en septiembre",
-        "url": "https://www.dataifx.com/post/cafe-sello-rojo-reduce-precios-en-septiembre",
-        "resumen": "El presidente del Negocio de Café y Bebidas de Grupo Nutresa, Francisco Eladio Gómez Zapata, anunció que Café Sello Rojo, marca líder en el mercado colombiano, reducirá el precio de varias de sus referencias a partir del 1 de septiembre de 2026",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Café Sello Rojo reduce precios en septiembre",
-        "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "Itaú Colombia mantiene las más altas calificaciones de riesgo otorgadas por Value & Risk Rating",
-        "url": "https://www.dataifx.com/post/value-risk-rating-ratifica-maximas-notas-de-riesgo-para-itau-colombia",
-        "resumen": "La calificadora Value & Risk Rating confirmó las máximas calificaciones de riesgo para Banco Itaú Colombia, al ratificar la nota AAA para la deuda de largo plazo y VrR 1+ para la deuda de corto plazo, ambas con perspectiva estable",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Value & Risk Rating ratifica máximas notas de riesgo para Itaú Colombia",
-        "capturado": "2026-09-04T23:15:14-05:00"
-      },
-      {
-        "titulo": "La presidencia de Coca-Cola FEMSA Colombia es asumida por Andrés Mauricio Torres",
-        "url": "https://www.dataifx.com/post/andres-mauricio-torres-asume-presidencia-de-coca-cola-femsa-colombia",
-        "resumen": "Coca-Cola FEMSA Colombia anunció el nombramiento de Andrés Mauricio Torres Rico como nuevo presidente de la operación en el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Andrés Mauricio Torres asume presidencia de Coca-Cola FEMSA Colombia",
-        "capturado": "2026-09-04T23:15:14-05:00"
-      },
-      {
-        "titulo": "Bajo consumo y mayores ventajas: la operación de la nueva estrategia de ahorro energético",
-        "url": "https://www.dataifx.com/post/menos-consumo-mas-beneficios-asi-funciona-el-nuevo-programa-de-ahorro-de-energia",
-        "resumen": "La Comisión de Regulación de Energía y Gas (CREG) puso en marcha un programa transitorio para incentivar el uso eficiente de la energía eléctrica en Colombia, en medio de la estrechez energética asociada al Fenómeno de El Niño 2026-2027",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Menos consumo, más beneficios: así funciona el nuevo programa de ahorro de energía",
-        "capturado": "2026-09-04T23:15:14-05:00"
-      },
-      {
-        "titulo": "Convocatoria de la Fundación Banco de Bogotá dirigida a 25 startups de negocios sostenibles",
-        "url": "https://www.dataifx.com/post/fundacion-banco-de-bogota-abre-convocatoria-para-25-startups-con-modelos-de-negocio-sostenibles",
-        "resumen": "La Fundación Banco de Bogotá abrió la convocatoria para la cuarta cohorte de EcoTech, su programa de aceleración dirigido a emprendimientos con enfoque sostenible",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fundación Banco de Bogotá abre convocatoria para 25 startups con modelos de negocio sostenibles",
-        "capturado": "2026-09-04T23:15:14-05:00"
-      },
-      {
-        "titulo": "Rappi pone en marcha estrategia de respaldo a locales gastronómicos por el sismo",
-        "url": "https://www.dataifx.com/post/rappi-activa-plan-de-apoyo-para-restaurantes-afectados-por-el-terremoto",
-        "resumen": "Tras el terremoto del 10 de agosto que dejó graves afectaciones en el Eje Cafetero y en Cali, Rappi junto con la Asociación de Bancos de Alimentos de Colombia (ABACO) lanzaron la iniciativa Cocina Reconstruida, un mecanismo para apoyar directamente a los restaurantes que perdieron sus cocinas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rappi activa plan de apoyo para restaurantes afectados por el terremoto",
-        "capturado": "2026-09-04T23:15:14-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "LATAM consigue créditos por US$505 millones para modernizar y agrandar su parque aéreo",
+        "url": "https://www.dataifx.com/post/latam-asegura-financiamiento-por-us505-millones-para-renovar-y-ampliar-su-flota",
+        "resumen": "LATAM Airlines Group concretó un crédito por aproximadamente US$505 millones destinado a financiar la incorporación de 11 aeronaves de última generación durante el segundo semestre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "LATAM asegura financiamiento por US$505 millones para renovar y ampliar su flota",
+        "capturado": "2026-09-14T15:15:03-05:00"
+      },
       {
         "titulo": "Anthropic sugiere regular la creación de IA al tiempo que Trump se opone a detener su progreso",
         "url": "https://www.dataifx.com/post/anthropic-pide-moderar-el-desarrollo-de-la-inteligencia-artificial-mientras-trump-rechaza-frenar-su",
