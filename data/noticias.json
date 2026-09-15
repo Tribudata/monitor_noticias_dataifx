@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-15T02:32:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-15T08:23:00-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
       {
@@ -457,6 +457,26 @@
     ],
     "Macro Internacional": [
       {
+        "titulo": "Cita crucial de la Fed: inversionistas prevén aumento y Trump exige recortes",
+        "url": "https://www.dataifx.com/post/reunion-clave-de-la-fed-mercados-anticipan-alza-trump-presiona-por-bajas",
+        "resumen": "Los mercados financieros anticipan que la Reserva Federal de Estados Unidos (Fed) aprobará este miércoles un incremento de 25 puntos básicos en su tasa de referencia, en respuesta a la persistencia de la inflación y a un entorno económico marcado por tensiones geopolíticas y un mercado laboral aún sólido",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reunión clave de la Fed: mercados anticipan alza, Trump presiona por bajas",
+        "capturado": "2026-09-15T08:23:00-05:00"
+      },
+      {
+        "titulo": "Falta de gas pasó de ser pasajera a un peligro estructural para Colombia: Promigas",
+        "url": "https://www.dataifx.com/post/deficit-de-gas-dejo-de-ser-coyuntural-colombia-enfrenta-un-riesgo-estructural-promigas",
+        "resumen": "El XXVII Informe del Sector Gas Natural en Colombia, presentado por Promigas el 15 de septiembre de 2026, concluye que el déficit de gas dejó de ser coyuntural y se convirtió en una realidad estructural",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Déficit de gas dejó de ser coyuntural; Colombia enfrenta un riesgo estructural: Promigas",
+        "capturado": "2026-09-15T08:23:00-05:00"
+      },
+      {
         "titulo": "El crudo Brent trepa más de 4% y rebasa los US$109 por amenazas en vías de transporte",
         "url": "https://www.dataifx.com/post/brent-gana-mas-de-4-y-supera-los-us109-ante-riesgos-en-rutas-de-suministro",
         "resumen": "El mercado petrolero registra un nuevo repunte este lunes, con el Brent del Mar del Norte, referencia para Colombia, cotizándose en 109,25 dólares por barril, tras un aumento de 4,64 dólares (4,44 %)",
@@ -588,6 +608,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Transporte intermunicipal dialoga con el Ejecutivo sobre turismo y empleo",
+        "url": "https://www.dataifx.com/post/transporte-intermunicipal-se-sienta-con-el-gobierno-para-hablar-de-turismo-y-empleo",
+        "resumen": "El próximo 17 de septiembre se llevará a cabo en Montenegro, Quindío, el Congreso Nacional de Transporte y Turismo, un encuentro que reunirá a empresarios del transporte intermunicipal, autoridades del Gobierno Nacional y congresistas para definir una agenda que impulse la reactivación del sector y fortalezca la conectividad en el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Transporte intermunicipal se sienta con el Gobierno para hablar de turismo y empleo",
+        "capturado": "2026-09-15T08:23:00-05:00"
+      },
+      {
+        "titulo": "Ecopetrol reporta modificaciones en su Junta Directiva y Alta Dirección",
+        "url": "https://www.dataifx.com/post/ecopetrol-anuncia-cambios-en-su-junta-directiva-y-en-la-alta-direccion",
+        "resumen": "Ecopetrol S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol anuncia cambios en su Junta Directiva y en la Alta Dirección",
+        "capturado": "2026-09-15T08:23:00-05:00"
+      },
       {
         "titulo": "Enel Colombia multiplica por dos la capacidad de la Subestación Nueva Esperanza en Soacha",
         "url": "https://www.dataifx.com/post/enel-colombia-duplica-capacidad-de-subestacion-nueva-esperanza-en-soacha",
@@ -1017,26 +1057,6 @@
         "publicacion": "",
         "titulo_fuente": "CCI pide continuidad institucional y seguridad jurídica en proceso de Línea 2 del Metro de Bogotá",
         "capturado": "2026-09-07T23:08:57-05:00"
-      },
-      {
-        "titulo": "En Cali, el Congreso Fenavi 2026 congregó a 4.000 personas y juntó más de $700 millones para hogares avícolas damnificados por el sismo",
-        "url": "https://www.dataifx.com/post/congreso-fenavi-2026-en-cali-reunio-4000-asistentes-y-recaudo-mas-de-700-millones-para-familias",
-        "resumen": "Con una asistencia cercana a las 4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Congreso Fenavi 2026 en Cali reunió a 4.000 asistentes y recaudó más de $700 millones para familias avícolas afectadas por el terremoto",
-        "capturado": "2026-09-07T17:42:55-05:00"
-      },
-      {
-        "titulo": "Más del 55% del padrón electoral cafetero acudió a las urnas",
-        "url": "https://www.dataifx.com/post/mas-del-55-del-censo-electoral-cafetero-participo-en-las-urnas",
-        "resumen": "La Federación Nacional de Cafeteros (FNC) informó que más del 55% del censo electoral cafetero acudió a las urnas en las Elecciones Cafeteras 2026, realizadas entre el 1 y el 6 de septiembre en todo el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Más del 55% del censo electoral cafetero participó en las urnas",
-        "capturado": "2026-09-07T17:42:55-05:00"
       }
     ],
     "Empresas Internacional": [
