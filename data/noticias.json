@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-15T13:04:43-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-15T17:49:26-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "D1 despacha 1.004 toneladas de auxilios a un mes del sismo del 10 de agosto",
+        "url": "https://www.dataifx.com/post/d1-reporta-1004-toneladas-de-ayuda-entregadas-un-mes-del-terremoto-del-10-de-agosto",
+        "resumen": "A un mes del sismo registrado el 10 de agosto, D1 entregó un balance de la ayuda destinada a las familias y territorios afectados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "D1 reporta 1.004 toneladas de ayuda entregadas a un mes del terremoto del 10 de agosto",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Reforma pensional: tribunal da 30 días a la Cámara para enmendar vicios de forma",
+        "url": "https://www.dataifx.com/post/reforma-pensional-corte-fija-30-dias-para-que-camara-corrija-articulos-con-vicios-de-tramite",
+        "resumen": "La Corte Constitucional publicó este martes 15 de septiembre la sentencia completa sobre la reforma pensional, con la que la Sala Plena avaló gran parte de la Ley 2381 de 2024 y ordenó al Congreso corregir varios artículos por vicios de trámite identificados durante el proceso legislativo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reforma pensional: Corte fija 30 días para que Cámara corrija artículos con vicios de trámite",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Vicepresidencia adelanta la Misión CRECER con el propósito de elevar el PIB al 6 por ciento",
+        "url": "https://www.dataifx.com/post/vicepresidente-avanza-en-la-construccion-de-la-mision-crecer-con-meta-de-llevar-el-pib-al-6",
+        "resumen": "El vicepresidente de la República avanza en la construcción de la Misión CRECER, iniciativa del Gobierno Nacional que tiene como objetivo establecer una hoja de ruta para impulsar el crecimiento económico y llevar el crecimiento del Producto Interno Bruto, PIB, al 6 %",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Vicepresidente avanza en la construcción de la Misión CRECER con meta de llevar el PIB al 6 %",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Luis Felipe Henao expone tres desafíos para la reciente Junta Directiva de Ecopetrol",
+        "url": "https://www.dataifx.com/post/luis-felipe-henao-plantea-tres-retos-para-la-nueva-junta-directiva-de-ecopetrol",
+        "resumen": "La nueva Junta Directiva de Ecopetrol quedó conformada este martes 15 de septiembre, luego de que la Asamblea General de Accionistas aprobara la elección integral de sus nueve integrantes para lo que resta del periodo institucional 2025-2029",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Luis Felipe Henao plantea tres retos para la nueva Junta Directiva de Ecopetrol",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Asamblea de Ecopetrol avala una Junta Directiva con seis miembros nuevos",
+        "url": "https://www.dataifx.com/post/asamblea-de-ecopetrol-aprueba-nueva-junta-directiva-con-seis-nuevos-integrantes",
+        "resumen": "La Asamblea General de Accionistas de Ecopetrol aprobó este martes 15 de septiembre la elección integral de los nueve integrantes de la Junta Directiva de la compañía para lo que resta del periodo institucional 2025-2029",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Asamblea de Ecopetrol aprueba nueva Junta Directiva con seis nuevos integrantes",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
       {
         "titulo": "uFlow indica que la banca colombiana requiere transformar datos en nuevas señales para dar créditos",
         "url": "https://www.dataifx.com/post/uflow-senala-que-la-banca-colombiana-debe-convertir-los-datos-en-nuevas-senales-para-otorgar",
@@ -403,56 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "FONPET tendrá una vía excepcional para financiar la recuperación de municipios afectados por el terremoto",
         "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "Administración central cambia normas de dinero territorial para destrabar fondos en la crisis",
-        "url": "https://www.dataifx.com/post/gobierno-modifica-reglas-financieras-de-municipios-y-departamentos-para-movilizar-recursos-durante",
-        "resumen": "El Gobierno Nacional modificó de manera temporal varias reglas financieras y administrativas que rigen a municipios y departamentos con el propósito de ampliar su capacidad para obtener, movilizar y utilizar recursos durante la emergencia declarada por la calamidad pública asociada al terremoto del 10 de agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno modifica reglas financieras de municipios y departamentos para movilizar recursos durante la emergencia",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "Norma autoriza mover dineros locales para solucionar los perjuicios originados por el sismo",
-        "url": "https://www.dataifx.com/post/decreto-permite-trasladar-recursos-entre-territorios-para-atender-danos-causados-por-el-terremoto",
-        "resumen": "El Gobierno Nacional abrió la posibilidad de que entidades territoriales que no fueron afectadas por el terremoto del 10 de agosto de 2026 destinen recursos a proyectos de inversión en municipios que sí resultaron afectados, incluso cuando la entidad que aporta el dinero no obtenga un beneficio directo de la obra",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Decreto permite trasladar recursos entre territorios para atender daños causados por el terremoto",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda avala préstamo para Bogotá por 70 millones de euros con la entidad alemana KfW",
-        "url": "https://www.dataifx.com/post/minhacienda-autoriza-bogota-credito-por-70-millones-de-euros-con-banco-aleman-kfw",
-        "resumen": "Bogotá podrá acceder a un crédito externo de hasta 70 millones de euros luego de que el Ministerio de Hacienda y Crédito Público autorizara al Distrito Capital para celebrar la operación con el Banco de Desarrollo de Alemania KfW",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda autoriza a Bogotá crédito por 70 millones de euros con banco alemán KfW",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "BCE sube tasas al 2,5% y avisa que el alza de precios continuará arriba de la meta hasta 2028",
-        "url": "https://www.dataifx.com/post/bce-eleva-los-tipos-al-25-y-advierte-que-la-inflacion-seguira-por-encima-de-su-objetivo-hasta-2028",
-        "resumen": "El Banco Central Europeo (BCE) elevó este jueves sus tasas de interés en 25 puntos básicos, hasta llevar la facilidad de depósito al 2,5%, en una decisión que responde al repunte de la inflación y a las presiones generadas por el aumento de los precios de la energía en medio de la guerra en Oriente Próximo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "BCE eleva los tipos al 2,5% y advierte que la inflación seguirá por encima de su objetivo hasta 2028",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "ANDEMOS solicita evaluar el alza de la base del ICA en Bogotá por sus efectos en empleo e inversión",
-        "url": "https://www.dataifx.com/post/andemos-pide-revisar-aumento-de-la-base-del-ica-en-bogota-por-impacto-sobre-inversion-y-empleo",
-        "resumen": "La Asociación Nacional de Movilidad Sostenible (ANDEMOS) pidió al Concejo de Bogotá revisar el incremento de la base aplicable al Impuesto de Industria y Comercio (ICA), al considerar que la medida puede tener efectos sobre la actividad empresarial, la inversión, el empleo y el acceso de los ciudadanos a vehículos nuevos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDEMOS pide revisar aumento de la base del ICA en Bogotá por impacto sobre inversión y empleo",
-        "capturado": "2026-09-10T11:13:38-05:00"
       }
     ],
     "Macro Internacional": [
@@ -608,6 +608,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Grupo Aval anticipa golpe de 500.000 millones de pesos ante alza del ICA en Bogotá",
+        "url": "https://www.dataifx.com/post/grupo-aval-advierte-impacto-de-500000-millones-por-posible-aumento-del-ica-en-bogota",
+        "resumen": "La propuesta de la Alcaldía de Bogotá de elevar la tarifa del Impuesto de Industria y Comercio (ICA) para las actividades del sector financiero ha generado nuevas reacciones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Aval advierte impacto de $500.000 millones por posible aumento del ICA en Bogotá",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Revolut consigue permiso para operar como banco en Colombia y alista su apertura",
+        "url": "https://www.dataifx.com/post/revolut-obtiene-licencia-bancaria-en-colombia-y-se-prepara-para-su-lanzamiento",
+        "resumen": "La Superintendencia Financiera de Colombia (SFC) otorgó a Revolut su licencia de funcionamiento, lo que marca el último paso regulatorio antes de su entrada oficial al mercado colombiano",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Revolut obtiene licencia bancaria en Colombia y se prepara para su lanzamiento",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "LATAM incrementa sus vuelos a Venezuela con una frecuencia diaria Bogotá Caracas",
+        "url": "https://www.dataifx.com/post/latam-amplia-operacion-hacia-venezuela-con-vuelo-diario-entre-bogota-y-caracas",
+        "resumen": "LATAM Airlines Colombia anunció que, a partir del 16 de septiembre, incrementará a siete frecuencias semanales su operación en la ruta Bogotá–Caracas–Bogotá, tras la reapertura del Aeropuerto Internacional de Maiquetía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "LATAM amplía operación hacia Venezuela con vuelo diario entre Bogotá y Caracas",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
+      {
+        "titulo": "Grupo Argos y Nicky Jam comienzan la entrega de casas en Quibdó",
+        "url": "https://www.dataifx.com/post/grupo-argos-y-nicky-jam-inician-entrega-de-viviendas-en-quibdo",
+        "resumen": "Un mes después del terremoto del 10 de agosto que afectó al occidente colombiano, la iniciativa Adopta un Hogar, liderada por Grupo Argos y el artista Nicky Jam, entregó en Quibdó la primera de las 1",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos y Nicky Jam inician entrega de viviendas en Quibdó",
+        "capturado": "2026-09-15T17:49:26-05:00"
+      },
       {
         "titulo": "American Airlines comunica precios rebajados en Colombia",
         "url": "https://www.dataifx.com/post/american-airlines-anuncia-tarifas-especiales-en-colombia",
@@ -1017,46 +1057,6 @@
         "publicacion": "",
         "titulo_fuente": "DIAN aplica medidas cautelares por casi $20 mil millones en puertos del Caribe",
         "capturado": "2026-09-08T16:00:14-05:00"
-      },
-      {
-        "titulo": "Secretaría de Hacienda avala cambio en ICA y banca seguirá bajo el promedio fiscal",
-        "url": "https://www.dataifx.com/post/secretaria-de-hacienda-defiende-ajuste-en-ica-sector-financiero-seguira-por-debajo-del-promedio",
-        "resumen": "La Secretaría de Hacienda del Distrito presentó ante el Concejo de Bogotá una propuesta de ajuste en la tarifa del Impuesto de Industria y Comercio (ICA) para el sector financiero, que pasaría del 14 al 21 por mil",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Secretaría de Hacienda defiende ajuste en ICA: sector financiero seguirá por debajo del promedio tributario",
-        "capturado": "2026-09-08T16:00:14-05:00"
-      },
-      {
-        "titulo": "Tatyana Orozco asumió la presidencia ejecutiva de la Cámara Colombiana de la Infraestructura",
-        "url": "https://www.dataifx.com/post/tatyana-orozco-fue-designada-presidenta-ejecutiva-de-la-camara-colombiana-de-la-infraestructura",
-        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) anunció la agenda que orientará su gestión en un nuevo ciclo para el país, con énfasis en reconstrucción, competitividad y desarrollo regional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tatyana Orozco fue designada presidenta ejecutiva de la Cámara Colombiana de la Infraestructura",
-        "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "Treinta y dos por ciento de los adultos colombianos carece de historial crediticio bancario",
-        "url": "https://www.dataifx.com/post/32-de-adultos-en-colombia-aun-no-tiene-historial-crediticio-con-bancos",
-        "resumen": "Un informe de TransUnion reveló que cerca de un tercio de los adultos colombianos no cuenta con historial crediticio en el sector financiero",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "32% de adultos en Colombia aún no tiene historial crediticio con bancos",
-        "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "SURA Investments rebasa los quinientos millones de dólares en bonos verdes regionales",
-        "url": "https://www.dataifx.com/post/sura-investments-supera-los-us500-millones-en-bonos-sostenibles-en-america-latina",
-        "resumen": "SURA Investments, filial de SURA Asset Management, presentó los resultados de su Informe de Inversión Sostenible 2025, en el que destacó haber alcanzado US$511 millones invertidos en bonos verdes, sociales y sostenibles, un crecimiento frente al año anterior impulsado por el dinamismo de las emisiones en América Latina",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "SURA Investments supera los US$500 millones en bonos sostenibles en América Latina",
-        "capturado": "2026-09-08T11:27:21-05:00"
       }
     ],
     "Empresas Internacional": [
