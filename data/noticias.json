@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-15T08:23:00-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-15T13:04:43-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "uFlow indica que la banca colombiana requiere transformar datos en nuevas señales para dar créditos",
+        "url": "https://www.dataifx.com/post/uflow-senala-que-la-banca-colombiana-debe-convertir-los-datos-en-nuevas-senales-para-otorgar",
+        "resumen": "Colombia continúa avanzando en la bancarización de su población, pero el crecimiento en el acceso a productos transaccionales todavía no se refleja en la misma proporción en el crédito",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "uFlow señala que la banca colombiana debe convertir los datos en nuevas señales para otorgar crédito",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
+      {
+        "titulo": "Cerca de 2,5 millones de jóvenes Ninis: 67% son mujeres y su integración resulta fundamental",
+        "url": "https://www.dataifx.com/post/casi-25-millones-de-jovenes-ninis-67-son-mujeres-y-su-inclusion-es-clave",
+        "resumen": "El más reciente análisis de ANIF pone en evidencia la magnitud del reto que enfrenta Colombia con los jóvenes que no estudian ni trabajan, conocidos como “Ninis”",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Casi 2,5 millones de jóvenes “Ninis”: 67% son mujeres y su inclusión es clave",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
+      {
+        "titulo": "Firmas de gas podrán inscribir proyectos al FECF con cofinanciación máxima del 70%",
+        "url": "https://www.dataifx.com/post/empresas-de-gas-podran-postular-proyectos-al-fecf-con-cofinanciacion-de-hasta-70",
+        "resumen": "La Unidad de Planeación Minero Energética, UPME, abrió la convocatoria para que las empresas prestadoras de los servicios de distribución o transporte de gas combustible presenten proyectos al Fondo Especial Cuota de Fomento, FECF, con iniciativas cuya ejecución esté prevista para 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Empresas de gas podrán postular proyectos al FECF con cofinanciación de hasta 70 %",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
       {
         "titulo": "Amazónica LNG ficha a Jereh Group y progresa en la edificación de su planta de regasificación",
         "url": "https://www.dataifx.com/post/amazonica-lng-contrata-jereh-group-y-avanza-hacia-la-construccion-de-su-planta-de-regasificacion",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "ANDEMOS pide revisar aumento de la base del ICA en Bogotá por impacto sobre inversión y empleo",
         "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo asigna fondos del FONDES para socorrer a compañías de energía en áreas golpeadas por el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-habilita-recursos-del-fondes-para-apoyar-empresas-electricas-en-zonas-afectadas-por-el",
-        "resumen": "El Gobierno Nacional autorizó al Fondo Nacional para el Desarrollo de la Infraestructura, FONDES, a realizar por una sola vez aportes no reembolsables a determinadas empresas de servicios públicos mixtas del orden nacional que desarrollen actividades de distribución y comercialización de energía eléctrica en los territorios afectados por el terremoto del 10 de agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno habilita recursos del FONDES para apoyar a empresas eléctricas en zonas afectadas por el sismo",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo activa el Fondo Milagro y destina dineros flexibles para socorrer regiones golpeadas por el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-pone-en-marcha-fondo-milagro-y-flexibiliza-recursos-para-atender-zonas-afectadas-por-el",
-        "resumen": "El Gobierno estableció un nuevo esquema para administrar los recursos destinados a atender las consecuencias del sismo del 10 de agosto de 2026, con la creación del Fondo Milagro y una serie de medidas que modifican las herramientas financieras, presupuestales y administrativas disponibles para los territorios afectados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno pone en marcha Fondo Milagro y flexibiliza recursos para atender zonas afectadas por el terremoto",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "Avanza el tributo capitalino tras su visto bueno inicial",
-        "url": "https://www.dataifx.com/post/reforma-tributaria-en-bogota-avanza-tras-aprobacion-en-primer-debate",
-        "resumen": "La Comisión de Hacienda y Crédito Público del Concejo de Bogotá aprobó en primer debate el Proyecto de Acuerdo 724 de 2026, denominado Por una Ciudad Inteligente",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reforma tributaria en Bogotá avanza tras aprobación en primer debate",
-        "capturado": "2026-09-09T19:00:23-05:00"
       }
     ],
     "Macro Internacional": [
@@ -608,6 +608,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "American Airlines comunica precios rebajados en Colombia",
+        "url": "https://www.dataifx.com/post/american-airlines-anuncia-tarifas-especiales-en-colombia",
+        "resumen": "American Airlines lanzó una promoción de tarifas especiales para vuelos desde Cartagena y Barranquilla hacia Miami, disponibles hasta el 11 de octubre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "American Airlines anuncia tarifas especiales en Colombia",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
+      {
+        "titulo": "Gobierno y Red Invest pactan estrategia para agilizar capitales locales",
+        "url": "https://www.dataifx.com/post/gobierno-y-red-invest-definen-ruta-para-acelerar-inversiones-en-las-regiones",
+        "resumen": "El Gobierno Nacional, a través del Ministerio de Comercio, Industria y Turismo, avanzó en la construcción de una estrategia conjunta con la Red Nacional de Agencias Promotoras de Inversión (Red Invest) para identificar oportunidades regionales, superar barreras y acelerar proyectos que generen empleo y crecimiento",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno y Red Invest definen ruta para acelerar inversiones en las regiones",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
+      {
+        "titulo": "Ventas crecen por Amor y Amistad y se enciende Bogotá Despierta",
+        "url": "https://www.dataifx.com/post/amor-y-amistad-impulsa-las-ventas-y-activa-bogota-despierta",
+        "resumen": "La celebración de Amor y Amistad este sábado 19 de septiembre marca uno de los momentos más importantes del calendario comercial en Bogotá",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Amor y Amistad impulsa las ventas y activa Bogotá Despierta",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
+      {
+        "titulo": "Enel Colombia lanza más de 120 puestos de pasantías para 2027",
+        "url": "https://www.dataifx.com/post/enel-colombia-abre-mas-de-120-vacantes-para-practicas-profesionales-en-2027",
+        "resumen": "Enel Colombia anunció la apertura de más de 120 cupos para estudiantes universitarios que deseen realizar sus prácticas profesionales durante el primer semestre de 2027",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Enel Colombia abre más de 120 vacantes para prácticas profesionales en 2027",
+        "capturado": "2026-09-15T13:04:43-05:00"
+      },
       {
         "titulo": "Transporte intermunicipal dialoga con el Ejecutivo sobre turismo y empleo",
         "url": "https://www.dataifx.com/post/transporte-intermunicipal-se-sienta-con-el-gobierno-para-hablar-de-turismo-y-empleo",
@@ -1017,46 +1057,6 @@
         "publicacion": "",
         "titulo_fuente": "SURA Investments supera los US$500 millones en bonos sostenibles en América Latina",
         "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "PSE permite pagos cuantiosos sin dividir y optimiza su validación bancaria",
-        "url": "https://www.dataifx.com/post/pse-habilita-pagos-de-alto-valor-sin-fraccionar-y-refuerza-autenticacion-con-bancos",
-        "resumen": "En Colombia ya es posible realizar pagos de alto valor en una sola transacción a través de PSE, sin necesidad de dividir el monto ni cambiar de medio de pago",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "PSE habilita pagos de alto valor sin fraccionar y refuerza autenticación con bancos",
-        "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "El turismo receptivo encabeza las opciones de expansión en Colombia, de acuerdo con ANATO",
-        "url": "https://www.dataifx.com/post/turismo-receptivo-lidera-oportunidades-de-crecimiento-en-colombia-segun-sondeo-de-anato",
-        "resumen": "En el marco del 30° Congreso Nacional de Agencias de Viajes y Turismo, un sondeo realizado a más de 200 empresarios evidenció que el turismo colombiano enfrenta un panorama de oportunidades y desafíos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Turismo receptivo lidera oportunidades de crecimiento en Colombia, según sondeo de ANATO",
-        "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "Asobancaria y Colombia Fintech advierten que un mayor ICA perjudicaría el acceso al crédito",
-        "url": "https://www.dataifx.com/post/asobancaria-y-colombia-fintech-alertan-que-mayor-ica-podria-afectar-acceso-financiacion",
-        "resumen": "La Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria) y Colombia Fintech expresaron su rechazo a la propuesta de la Alcaldía de Bogotá de incrementar en 50% la tarifa del Impuesto de Industria y Comercio (ICA) para las actividades financieras, incluida en el Proyecto de Acuerdo 724 de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Asobancaria y Colombia Fintech alertan que mayor ICA podría afectar acceso a financiación",
-        "capturado": "2026-09-08T11:27:21-05:00"
-      },
-      {
-        "titulo": "Cámara Colombiana de la Infraestructura solicita estabilidad institucional y jurídica para la Línea 2 del Metro",
-        "url": "https://www.dataifx.com/post/cci-pide-continuidad-institucional-y-seguridad-juridica-en-proceso-de-linea-2-del-metro-de-bogota",
-        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) fijó su posición frente al proceso de precalificación de la Línea 2 del Metro de Bogotá, resaltando la presencia de tres grupos internacionales, pero subrayando que el éxito del proyecto dependerá de la solidez institucional y de las condiciones que se definan para su ejecución",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CCI pide continuidad institucional y seguridad jurídica en proceso de Línea 2 del Metro de Bogotá",
-        "capturado": "2026-09-07T23:08:57-05:00"
       }
     ],
     "Empresas Internacional": [
