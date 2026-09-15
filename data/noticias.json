@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-14T15:15:03-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-09-14T19:26:19-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Amazónica LNG ficha a Jereh Group y progresa en la edificación de su planta de regasificación",
+        "url": "https://www.dataifx.com/post/amazonica-lng-contrata-jereh-group-y-avanza-hacia-la-construccion-de-su-planta-de-regasificacion",
+        "resumen": "Amazónica LNG formalizó la contratación de Jereh Group, a través de su sucursal Jereh Oil & Gas Colombia, como contratista principal para el desarrollo de su proyecto de regasificación de Gas Natural Licuado GNL en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Amazónica LNG contrata a Jereh Group y avanza hacia la construcción de su planta de regasificación",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
+      {
+        "titulo": "Ejecutivo declara insubsistente al director del Dane y designa a Juan Manuel Alvarado Nivia",
+        "url": "https://www.dataifx.com/post/gobierno-declara-insubsistente-al-director-del-dane-y-nombra-juan-manuel-alvarado-nivia",
+        "resumen": "El presidente de la República, Abelardo De La Espriella, declaró insubsistente el nombramiento del director del Departamento Administrativo Nacional de Estadística (Dane), Ricardo Valencia, en ejercicio de las facultades constitucionales y legales aplicables a los cargos de libre nombramiento y remoción",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno declara insubsistente al director del Dane y nombra a Juan Manuel Alvarado Nivia",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
+      {
+        "titulo": "MinHacienda avisa recortes por más de $40 billones entre 2026 y 2027 para frenar el gasto y la deuda",
+        "url": "https://www.dataifx.com/post/minhacienda-anuncia-recortes-por-mas-de-40-billones-entre-2026-y-2027-para-contener-el-gasto-y-el",
+        "resumen": "El Gobierno prepara nuevos recortes al gasto público para contener el crecimiento de las obligaciones del Estado y reducir la presión sobre el endeudamiento",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda anuncia recortes por más de $40 billones entre 2026 y 2027 para contener el gasto y el endeudamiento",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
+      {
+        "titulo": "MinHacienda: Presupuesto de 2027 por $634,9 billones es el que podemos permitirnos",
+        "url": "https://www.dataifx.com/post/minhacienda-presupuesto-de-2027-por-6349-billones-es-el-que-podemos-permitirnos",
+        "resumen": "Las comisiones económicas conjuntas del Congreso aprobaron el monto del Presupuesto General de la Nación para 2027, que quedó establecido en $634,9 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda: Presupuesto de 2027 por $634,9 billones “es el que podemos permitirnos”",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
+      {
+        "titulo": "Comisiones económicas avalan monto del Presupuesto de 2027 por $634,9 billones",
+        "url": "https://www.dataifx.com/post/comisiones-economicas-aprueban-monto-del-presupuesto-de-2027-por-6349-billones",
+        "resumen": "El monto del Presupuesto General de la Nación para 2027 quedó fijado en $634,9 billones luego de que las Comisiones Económicas Conjuntas de Senado y Cámara aprobaran la proposición mayoritaria presentada por el Gobierno",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comisiones económicas aprueban monto del Presupuesto de 2027 por $634,9 billones",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
+      {
+        "titulo": "Central Unitaria de Trabajadores llama a marcha nacional el 14 de octubre previa a un paro nacional",
+        "url": "https://www.dataifx.com/post/cut-convoca-movilizacion-nacional-el-14-de-octubre-como-antesala-un-paro-nacional",
+        "resumen": "La Central Unitaria de Trabajadores anunció una movilización nacional para el próximo 14 de octubre, en una convocatoria conjunta con organizaciones sociales y políticas que se plantea como una acción previa a un paro nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CUT convoca movilización nacional el 14 de octubre como antesala a un paro nacional",
+        "capturado": "2026-09-14T19:26:19-05:00"
+      },
       {
         "titulo": "Central Unitaria de Trabajadores llama a protesta en todo el país el 14 de octubre",
         "url": "https://www.dataifx.com/post/cut-convoca-movilizacion-nacional-para-el-14-de-octubre",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Reforma tributaria en Bogotá avanza tras aprobación en primer debate",
         "capturado": "2026-09-09T19:00:23-05:00"
-      },
-      {
-        "titulo": "MinEnergía afirma que Colombia va por el millón de barriles diarios para alzar su bombeo de petróleo",
-        "url": "https://www.dataifx.com/post/colombia-busca-recuperar-produccion-petrolera-y-apunta-1-millon-de-barriles-diarios-segun",
-        "resumen": "Las tarifas de energía eléctrica en Colombia tendrían que aumentar ante un escenario de menor generación hidráulica, mayor utilización de plantas térmicas y altos costos del gas, según advirtió la ministra de Minas y Energía, María Nohemí Arboleda, durante el debate sobre el presupuesto del sector para 2027 realizado el martes 8 de septiembre ante las comisiones económicas del Congreso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia busca recuperar producción petrolera y apunta a 1 millón de barriles diarios, según MinEnergía",
-        "capturado": "2026-09-09T19:00:23-05:00"
-      },
-      {
-        "titulo": "MinHacienda radicará en el Congreso con urgencia iniciativa de 1,2 billones para prevenir un apagón",
-        "url": "https://www.dataifx.com/post/minhacienda-llevara-al-congreso-con-mensaje-de-urgencia-proyecto-por-12-billones-para-evitar-un",
-        "resumen": "El Gobierno llevará al Congreso un proyecto de ley con mensaje de urgencia para conseguir $1,2 billones adicionales que permitan atender las necesidades de liquidez del sector energético durante el Fenómeno de El Niño, según anunció el ministro de Hacienda, Miguel Gómez, ante la Comisión Quinta del Congreso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda llevará al Congreso con mensaje de urgencia proyecto por $1,2 billones para evitar un apagón",
-        "capturado": "2026-09-09T15:49:01-05:00"
-      },
-      {
-        "titulo": "MinEnergía alerta que las tarifas de luz y gas subirán por menor agua y mayor uso térmico",
-        "url": "https://www.dataifx.com/post/minenergia-advierte-que-el-precio-de-la-energia-y-el-gas-podria-aumentar-ante-menor-disponibilidad",
-        "resumen": "La ministra de Minas y Energía advirtió sobre las presiones que podrían enfrentar los precios de la energía y el gas en los próximos meses, debido a la reducción de los niveles de los embalses, los retrasos en proyectos de generación y la necesidad de aumentar el respaldo térmico del sistema ante el avance del fenómeno de El Niño",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinEnergía advierte que el precio de la energía y el gas podría aumentar ante menor disponibilidad de agua y mayor uso de generación térmica",
-        "capturado": "2026-09-09T15:49:01-05:00"
-      },
-      {
-        "titulo": "Un sistema en crisis: MinSalud pide adición presupuestal de 13,9 billones para la salud en 2027",
-        "url": "https://www.dataifx.com/post/un-sistema-en-crisis-minsalud-solicita-adicion-de-139-billones-para-el-sector-salud-en-2027",
-        "resumen": "La ministra de Salud y Protección Social, Ana María Vesga, presentó ante las comisiones económicas conjuntas del Congreso la situación presupuestal de la cartera y solicitó una adición de $13,9 billones para el sector salud en 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "“Un sistema en crisis”: MinSalud solicita adición de $13,9 billones para el sector salud en 2027",
-        "capturado": "2026-09-09T15:49:01-05:00"
-      },
-      {
-        "titulo": "El índice de duda económica en Colombia desciende al punto mínimo de los recientes dos años",
-        "url": "https://www.dataifx.com/post/la-incertidumbre-economica-en-colombia-cae-su-nivel-mas-bajo-en-casi-dos-anos",
-        "resumen": "El Índice de Incertidumbre de la Política Económica (IPEC) elaborado por Fedesarrollo se ubicó en 194 puntos en agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "La incertidumbre económica en Colombia cae a su nivel más bajo en casi dos años",
-        "capturado": "2026-09-09T11:23:55-05:00"
-      },
-      {
-        "titulo": "Coca-Cola actualiza su estética en Colombia y proyecta su nueva gráfica en la Torre Colpatria",
-        "url": "https://www.dataifx.com/post/coca-cola-renueva-su-imagen-en-colombia-y-lleva-sus-nuevos-codigos-visuales-la-torre-colpatria",
-        "resumen": "Coca-Cola inició en Colombia la renovación de la imagen visual con la que presenta sus productos, un cambio que pone en primer plano tres elementos asociados históricamente con la marca: el color rojo, la cinta dinámica y el logotipo Spencerian",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Coca-Cola renueva su imagen en Colombia y lleva sus nuevos códigos visuales a la Torre Colpatria",
-        "capturado": "2026-09-09T11:23:55-05:00"
       }
     ],
     "Macro Internacional": [
