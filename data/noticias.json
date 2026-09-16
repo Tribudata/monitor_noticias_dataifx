@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-16T06:17:52-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T11:37:41-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda transfiere 300.000 millones de pesos para cubrir la liquidez del sector eléctrico",
+        "url": "https://www.dataifx.com/post/minhacienda-gira-300000-millones-para-atender-liquidez-del-sector-electrico",
+        "resumen": "El Ministerio de Hacienda y Crédito Público giró $300",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda gira $300.000 millones para atender liquidez del sector eléctrico",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Biocombustibles proyectan inversiones de 110,2 millones de dólares para aumentar su producción en el país",
+        "url": "https://www.dataifx.com/post/biocombustibles-anuncian-inversiones-por-us1102-millones-para-ampliar-capacidad-productiva-en",
+        "resumen": "La agroindustria colombiana de los biocombustibles anunció inversiones por US$110,2 millones, recursos que estarán destinados a ampliar la capacidad productiva y que, de acuerdo con Fedebiocombustibles, tendrán efectos sobre las cadenas agroindustriales y las economías de las regiones donde se desarrolla esta actividad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Biocombustibles anuncian inversiones por US$110,2 millones para ampliar capacidad productiva en Colombia",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "A pesar de conservar la descertificación, EE. UU. valora el cambio en la estrategia antidrogas nacional",
+        "url": "https://www.dataifx.com/post/pese-mantener-la-descertificacion-eeuu-reconoce-el-giro-en-la-estrategia-antidrogas-de-colombia",
+        "resumen": "El Gobierno colombiano valoró el reconocimiento de Estados Unidos al cambio de rumbo en la lucha contra el narcotráfico, tras la publicación de la Determinación Presidencial sobre los principales países de tránsito o producción ilícita de drogas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pese a mantener la descertificación, EE.UU. reconoce el giro en la estrategia antidrogas de Colombia",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Comercio al por menor subió un 5,3% en julio",
+        "url": "https://www.dataifx.com/post/ventas-minoristas-crecieron-53-en-julio",
+        "resumen": "En julio de 2026 las ventas reales del comercio minorista aumentaron 5,3% frente al mismo mes de 2025, mientras que el personal ocupado creció 1,0%",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ventas minoristas crecieron 5,3% en julio",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Fabricación industrial en Colombia disminuyó un 2,3% en julio",
+        "url": "https://www.dataifx.com/post/produccion-manufacturera-en-colombia-cayo-23-en-julio",
+        "resumen": "La Encuesta Mensual Manufacturera con Enfoque Territorial (EMMET) del DANE mostró que en julio de 2026 la producción real de la industria manufacturera disminuyó 2,3% frente al mismo mes de 2025",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción manufacturera en Colombia cayó 2,3% en julio",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Washington conserva la medida de descertificación a Colombia en combate a las drogas",
+        "url": "https://www.dataifx.com/post/estados-unidos-mantiene-la-descertificacion-para-colombia-en-la-lucha-antidrogas",
+        "resumen": "El Gobierno de Estados Unidos presentó al Congreso su Determinación Presidencial sobre los principales países de tránsito o producción de drogas ilícitas para el año fiscal 2027, en la que Colombia figura nuevamente entre las naciones señaladas por no haber realizado esfuerzos sustanciales en el último año para cumplir con sus compromisos internacionales en materia de control de narcóticos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Estados Unidos mantiene la descertificación para Colombia en la lucha antidrogas",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Optimismo de compradores cayó en agosto, pero se mantiene sobre la marca de 2025",
+        "url": "https://www.dataifx.com/post/confianza-del-consumidor-se-redujo-en-agosto-aunque-sigue-por-encima-del-nivel-de-2025",
+        "resumen": "La Encuesta de Opinión del Consumidor (EOC) realizada por Fedesarrollo mostró que el Índice de Confianza del Consumidor (ICC) se ubicó en 15,5 % en agosto, lo que significó una caída de 5,2 puntos porcentuales frente a julio (20,7 %)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Confianza del consumidor se redujo en agosto, aunque sigue por encima del nivel de 2025",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
       {
         "titulo": "D1 despacha 1.004 toneladas de auxilios a un mes del sismo del 10 de agosto",
         "url": "https://www.dataifx.com/post/d1-reporta-1004-toneladas-de-ayuda-entregadas-un-mes-del-terremoto-del-10-de-agosto",
@@ -383,79 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno ajusta por decreto el calendario escolar en zonas afectadas por terremoto",
         "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Decreto de emergencia frena deducciones por revisión de matrícula de 2026 a entes territoriales impactados por sismo",
-        "url": "https://www.dataifx.com/post/decreto-de-emergencia-suspende-descuentos-por-auditoria-de-matricula-de-2026-entidades",
-        "resumen": "Las entidades territoriales de las zonas afectadas por el terremoto del 10 de agosto tendrán una excepción en el proceso de distribución de recursos para educación",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Decreto de emergencia suspende descuentos por auditoría de matrícula de 2026 a entidades territoriales afectadas por el terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Ejecutivo elimina tope del 30% para colocar capital en el extranjero desde fondos de pensiones",
-        "url": "https://www.dataifx.com/post/gobierno-deroga-limite-del-30-inversion-en-el-exterior-de-fondos-de-pensiones",
-        "resumen": "El Ministerio de Hacienda y Crédito Público radicó un proyecto de decreto que deroga los artículos 2",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno deroga límite del 30% a inversión en el exterior de fondos de pensiones",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "El PGN 2027 trae un desajuste fiscal más alto para Colombia",
-        "url": "https://www.dataifx.com/post/colombia-enfrenta-mayor-desequilibrio-fiscal-con-el-pgn-2027",
-        "resumen": "Fitch Ratings señaló que el presupuesto de 2027 presentado por el gobierno de Abelardo de la Espriella refleja un déficit fiscal más alto que el estimado por la administración anterior, lo que ofrece una visión más realista de los desafíos fiscales del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia enfrenta mayor desequilibrio fiscal con el PGN 2027",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Ejecutivo avala clases en sitios distintos para colegios dañados por el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-autoriza-clases-en-espacios-alternos-para-colegios-afectados-por-el-terremoto",
-        "resumen": "El Gobierno estableció una medida temporal para mantener la prestación del servicio educativo en los municipios afectados por el terremoto del 10 de agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza clases en espacios alternos para colegios afectados por el terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Gobierno permite uso especial de datos reservados del DANE por víctimas del sismo",
-        "url": "https://www.dataifx.com/post/gobierno-autoriza-uso-excepcional-de-informacion-reservada-del-dane-para-atender-afectados-por-el",
-        "resumen": "El Gobierno Nacional expidió el Decreto Legislativo 1385 del 9 de septiembre de 2026, mediante el cual estableció reglas excepcionales para que entidades públicas que participan en la atención de la emergencia puedan acceder a información estadística bajo custodia del Departamento Administrativo Nacional de Estadística (DANE)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno autoriza uso excepcional de información reservada del DANE para atender a afectados por el terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Decreto autoriza posponer trámites, concursos y cambiar horarios públicos por el sismo",
-        "url": "https://www.dataifx.com/post/decreto-permite-aplazar-tramites-concursos-y-modificar-jornadas-de-entidades-publicas-tras-el",
-        "resumen": "El Decreto 1384 de 2026 establece que las entidades públicas ubicadas en los territorios afectados podrán modificar temporalmente sus horarios de atención, trasladar sedes, habilitar puntos móviles, utilizar el trabajo en casa y reorganizar la prestación de servicios cuando las condiciones de infraestructura, movilidad, conectividad o disponibilidad de personal lo hagan necesario",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Decreto permite aplazar trámites, concursos y modificar jornadas de entidades públicas tras el terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "FONPET habilitará un mecanismo extraordinario para costear la reconstrucción de zonas por el sismo",
-        "url": "https://www.dataifx.com/post/fonpet-tendra-una-excepcional-para-financiar-la-recuperacion-de-municipios-afectados-por-el",
-        "resumen": "El acceso a recursos que permanecían disponibles en el Fondo Nacional de Pensiones de las Entidades Territoriales (FONPET) tendrá una vía extraordinaria para las entidades territoriales afectadas por el terremoto del 10 de agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FONPET tendrá una vía excepcional para financiar la recuperación de municipios afectados por el terremoto",
-        "capturado": "2026-09-10T11:13:38-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Inflación británica en 3,1 % haría que el BoE decida una pausa restrictiva",
+        "url": "https://www.dataifx.com/post/reino-unido-registra-inflacion-de-31-y-el-boe-optaria-por-una-pausa-de-linea-dura",
+        "resumen": "La inflación en el Reino Unido se situó en 3,1 % durante agosto, según el más reciente informe del Índice de Precios al Consumidor (IPC), en línea con las previsiones del mercado y ligeramente por encima del 2,9 % registrado en julio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reino Unido registra inflación de 3,1 % y el BoE optaría por una pausa de línea dura",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
       {
         "titulo": "Cita crucial de la Fed: inversionistas prevén aumento y Trump exige recortes",
         "url": "https://www.dataifx.com/post/reunion-clave-de-la-fed-mercados-anticipan-alza-trump-presiona-por-bajas",
@@ -608,6 +618,66 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "El comercio al por menor subió 5,3% durante julio",
+        "url": "https://www.dataifx.com/post/ventas-minoristas-crecieron-53-en-julio",
+        "resumen": "En julio de 2026 las ventas reales del comercio minorista aumentaron 5,3% frente al mismo mes de 2025, mientras que el personal ocupado creció 1,0%",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ventas minoristas crecieron 5,3% en julio",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Obras portuarias en Cartagena atenderán hasta el 85% de la demanda nacional de GLP",
+        "url": "https://www.dataifx.com/post/infraestructura-portuaria-en-cartagena-permitira-cubrir-hasta-el-85-de-la-demanda-nacional-de-glp",
+        "resumen": "El sector del Gas Licuado del Petróleo (GLP) en Colombia avanza en la consolidación de su infraestructura portuaria en Cartagena, con el objetivo de garantizar el suministro nacional ante la caída sostenida de la producción de gas natural",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Infraestructura portuaria en Cartagena permitirá cubrir hasta el 85% de la demanda nacional de GLP",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Modificación sanitaria viabiliza la entrada de bienes compuestos colombianos a la UE",
+        "url": "https://www.dataifx.com/post/ajuste-sanitario-facilita-ingreso-de-productos-compuestos-colombianos-la-union-europea",
+        "resumen": "El Ministerio de Comercio, Industria y Turismo informó que la Unión Europea aprobó un ajuste en los requisitos sanitarios para la importación de productos compuestos colombianos, lo que permitirá simplificar procesos y abrir nuevas oportunidades de exportación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ajuste sanitario facilita ingreso de productos compuestos colombianos a la Unión Europea",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Bancolombia propone unir entradas de dinero del hogar para facilitar la compra de casa",
+        "url": "https://www.dataifx.com/post/bancolombia-plantea-sumar-ingresos-familiares-como-alternativa-para-acceder-vivienda",
+        "resumen": "La posibilidad de unir ingresos de varios miembros de una familia para solicitar un crédito hipotecario se consolida como una opción para ampliar el acceso a vivienda propia, según un análisis presentado por Bancolombia",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia plantea sumar ingresos familiares como alternativa para acceder a vivienda",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "MinTIC alerta peligros en la conexión a fibra óptica por la unión entre Comcel y Azteca",
+        "url": "https://www.dataifx.com/post/mintic-advierte-riesgos-en-acceso-fibra-optica-por-integracion-entre-comcel-y-azteca",
+        "resumen": "El Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC) presentó a la Superintendencia de Industria y Comercio (SIC) un concepto técnico sobre la operación mediante la cual Comcel busca adquirir activos e infraestructura de Azteca Comunicaciones Colombia S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinTIC advierte riesgos en acceso a fibra óptica por integración entre Comcel y Azteca",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
+      {
+        "titulo": "Imponen sanción a Productos EPA Colombia por errores en garantías y datos a compradores",
+        "url": "https://www.dataifx.com/post/sancionan-productos-epa-colombia-por-fallas-en-garantias-e-informacion-al-consumidor",
+        "resumen": "La Superintendencia de Industria y Comercio (SIC) impuso una multa de $140,4 millones a Productos EPA Colombia S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Sancionan a Productos EPA Colombia por fallas en garantías e información al consumidor",
+        "capturado": "2026-09-16T11:37:41-05:00"
+      },
       {
         "titulo": "Grupo Aval anticipa golpe de 500.000 millones de pesos ante alza del ICA en Bogotá",
         "url": "https://www.dataifx.com/post/grupo-aval-advierte-impacto-de-500000-millones-por-posible-aumento-del-ica-en-bogota",
@@ -997,66 +1067,6 @@
         "publicacion": "",
         "titulo_fuente": "Exdirectivo de Grupo Argos asume vicepresidencia de Estrategia y Desarrollo de Negocios en Corona",
         "capturado": "2026-09-09T15:49:01-05:00"
-      },
-      {
-        "titulo": "DIAN llevará a cabo remate digital de alhajas, oro y aparatos del 9 al 11 de septiembre",
-        "url": "https://www.dataifx.com/post/dian-realizara-subasta-virtual-de-joyas-oro-y-equipos-entre-el-9-y-el-11-de-septiembre",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) llevará a cabo una subasta pública virtual de bienes entre el 9 y el 11 de septiembre, a través de la plataforma oficial El Martillo del Banco Popular",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "DIAN realizará subasta virtual de joyas, oro y equipos entre el 9 y el 11 de septiembre",
-        "capturado": "2026-09-09T11:23:55-05:00"
-      },
-      {
-        "titulo": "Argos brinda su experiencia técnica para levantar el Túnel de Oriente",
-        "url": "https://www.dataifx.com/post/argos-aporta-su-capacidad-tecnica-la-construccion-del-tunel-de-oriente",
-        "resumen": "Argos, empresa de cemento del Grupo Argos, participa como proveedor de concreto en la construcción del Túnel de Oriente, considerado uno de los proyectos de infraestructura más relevantes para la conectividad del departamento de Antioquia",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Argos aporta su capacidad técnica a la construcción del Túnel de Oriente",
-        "capturado": "2026-09-08T18:59:12-05:00"
-      },
-      {
-        "titulo": "El índice Colcap alcanzó registros récord este martes en la bolsa nacional",
-        "url": "https://www.dataifx.com/post/colcap-cerro-en-maximos-historicos-este-martes-en-la-bolsa-de-colombia",
-        "resumen": "La jornada bursátil de este martes en la Bolsa de Valores de Colombia cerró con un hito relevante: el índice Colcap alcanzó máximos históricos, al ubicarse en 2",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Colcap cerró en máximos históricos este martes en la Bolsa de Colombia",
-        "capturado": "2026-09-08T18:59:12-05:00"
-      },
-      {
-        "titulo": "Usuarios de Nu podrán sacar dinero mediante código QR en locales D1",
-        "url": "https://www.dataifx.com/post/clientes-de-nu-podran-retirar-efectivo-con-qr-en-tiendas-d1",
-        "resumen": "Nu Colombia anunció la expansión de su red de corresponsales gracias a una alianza con la cadena de tiendas D1, que permitirá a los clientes retirar efectivo en cerca de 2",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Clientes de Nu podrán retirar efectivo con QR en tiendas D1",
-        "capturado": "2026-09-08T18:59:12-05:00"
-      },
-      {
-        "titulo": "Rosario Gómez y Rodolfo Castillo liderarán Junta Directiva de la ANDI",
-        "url": "https://www.dataifx.com/post/rodolfo-castillo-y-rosario-gomez-encabezaran-junta-directiva-de-la-andi",
-        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI) anunció la conformación de su nueva Mesa Directiva para el periodo 2026-2027, tras la primera sesión de la Junta de Dirección General realizada este martes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rodolfo Castillo y Rosario Gómez encabezarán Junta Directiva de la ANDI",
-        "capturado": "2026-09-08T16:00:14-05:00"
-      },
-      {
-        "titulo": "DIAN impone medidas cautelares por casi $20 mil millones en puertos caribeños",
-        "url": "https://www.dataifx.com/post/dian-aplica-medidas-cautelares-por-casi-20-mil-millones-en-puertos-del-caribe",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) reportó la aplicación de medidas cautelares por un valor cercano a $19",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "DIAN aplica medidas cautelares por casi $20 mil millones en puertos del Caribe",
-        "capturado": "2026-09-08T16:00:14-05:00"
       }
     ],
     "Empresas Internacional": [
