@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-16T11:37:41-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-09-16T16:09:51-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "ANDEG aguarda más dineros para saldar pasivos de Air-e tras desembolso de 300.000 millones",
+        "url": "https://www.dataifx.com/post/andeg-espera-recursos-adicionales-para-atender-deudas-de-air-e-tras-giro-de-300000-millones",
+        "resumen": "El Ministerio de Hacienda y Crédito Público giró $300",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDEG espera recursos adicionales para atender deudas de Air-e tras giro de $300.000 millones",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
+      {
+        "titulo": "Codirector del Emisor: mercado confió en la nueva directiva, aunque el desafío fiscal sigue",
+        "url": "https://www.dataifx.com/post/codirector-banrep-mercado-dio-voto-de-confianza-la-nueva-administracion-pero-reto-fiscal-persiste",
+        "resumen": "En el podcast “Economía sin enredos”, realizado por Anif en alianza con Ditu Caracol, el codirector del Banco de la República, Mauricio Villamizar, expuso los principales desafíos de la política monetaria en Colombia, desde la dificultad de cumplir la meta de inflación del 3% hasta los efectos del fenómeno de El Niño y la necesidad de mejorar la comunicación con los mercados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Codirector BanRep: mercado dio voto de confianza a la nueva administración, pero reto fiscal persiste",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
+      {
+        "titulo": "EE. UU. conserva la calificación antidrogas y habilita un camino para retirarla",
+        "url": "https://www.dataifx.com/post/estados-unidos-mantiene-la-designacion-antidrogas-pero-abre-una-ruta-para-levantarla",
+        "resumen": "La Cámara de Comercio Colombo Americana (AmCham Colombia) señaló que la decisión de Estados Unidos sobre Colombia en materia antidrogas mantiene la designación de “failed demonstrably” para el último año, aunque con la aplicación de la excepción por interés nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Estados Unidos mantiene la designación antidrogas, pero abre una ruta para levantarla",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
       {
         "titulo": "MinHacienda transfiere 300.000 millones de pesos para cubrir la liquidez del sector eléctrico",
         "url": "https://www.dataifx.com/post/minhacienda-gira-300000-millones-para-atender-liquidez-del-sector-electrico",
@@ -423,39 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "PGN 2027 eleva el déficit fiscal y exige ajustes estructurales, advierte el CARF",
         "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "Administración aumenta a 110,25 billones de pesos el límite de TES para fondear Presupuesto de 2026",
-        "url": "https://www.dataifx.com/post/gobierno-eleva-11025-billones-el-cupo-de-tes-para-financiar-el-presupuesto-de-2026",
-        "resumen": "El Ministerio de Hacienda y Crédito Público firmó el 9 de septiembre el Decreto 1372 de 2026, con el cual amplió a $110,25 billones el monto autorizado para la emisión de Títulos de Tesorería TES Clase B destinados a financiar el Presupuesto General de la Nación de la vigencia fiscal 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno eleva a $110,25 billones el cupo de TES para financiar el Presupuesto de 2026",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Ejecutivo establece mecanismo de Obras por Impuestos para levantar regiones del movimiento telúrico",
-        "url": "https://www.dataifx.com/post/gobierno-crea-modalidad-de-obras-por-impuestos-para-reconstruir-zonas-del-terremoto",
-        "resumen": "El Gobierno Nacional expidió el Decreto Legislativo 1389 del 9 de septiembre de 2026, mediante el cual se crea de manera temporal la modalidad especial de Obras por Impuestos para la Reconstrucción, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado por el Decreto 1261 de 2026 y modificado por el Decreto 1348 de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno crea modalidad de Obras por Impuestos para reconstruir zonas del terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Administración modifica vía decreto la agenda académica en regiones impactadas por sismo",
-        "url": "https://www.dataifx.com/post/gobierno-ajusta-por-decreto-el-calendario-escolar-en-zonas-afectadas-por-terremoto",
-        "resumen": "El presidente de la República firmó el 9 de septiembre el Decreto Legislativo 1388, con el respaldo de todos los ministros del gabinete, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado mediante el Decreto 1261 de 2026 y modificado por el Decreto 1348 del mismo año",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno ajusta por decreto el calendario escolar en zonas afectadas por terremoto",
-        "capturado": "2026-09-10T15:43:32-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Tal como se preveía, la Reserva Federal incrementó sus tipos de interés",
+        "url": "https://www.dataifx.com/post/como-se-esperaba-reserva-federal-subio-sus-tasas-de-interes",
+        "resumen": "La Reserva Federal de Estados Unidos (Fed) decidió aumentar en 25 puntos básicos su tasa de interés de referencia, llevándola al rango de 3,75 % a 4 %, en lo que constituye el primer ajuste desde 2023",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "¡Como se esperaba! Reserva Federal subió sus tasas de interés",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
       {
         "titulo": "Inflación británica en 3,1 % haría que el BoE decida una pausa restrictiva",
         "url": "https://www.dataifx.com/post/reino-unido-registra-inflacion-de-31-y-el-boe-optaria-por-una-pausa-de-linea-dura",
@@ -618,6 +628,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Dale! de Grupo Aval une dólares y euros digitales con ahorros en pesos",
+        "url": "https://www.dataifx.com/post/grupo-aval-traves-de-dale-integra-dolares-y-euros-digitales-con-depositos-en-pesos",
+        "resumen": "El Grupo Aval anunció que, a través de su aplicación dale!, cualquier persona podrá acceder desde hoy a dólares y euros digitales, con una tasa de cambio competitiva, sin comisiones y con una rentabilidad de hasta el 5 % efectivo anual",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Aval, a través de dale!, integra dólares y euros digitales con depósitos en pesos",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
       {
         "titulo": "El comercio al por menor subió 5,3% durante julio",
         "url": "https://www.dataifx.com/post/ventas-minoristas-crecieron-53-en-julio",
@@ -1057,19 +1077,19 @@
         "publicacion": "",
         "titulo_fuente": "Los iPhone 18 Pro y Pro Max: cuánto podrían costar en Colombia",
         "capturado": "2026-09-09T15:49:01-05:00"
-      },
-      {
-        "titulo": "Corona designa a exdirectivo de Grupo Argos en su vicepresidencia de Estrategia y Desarrollo de Negocios",
-        "url": "https://www.dataifx.com/post/exdirectivo-de-grupo-argos-asume-vicepresidencia-de-estrategia-y-desarrollo-de-negocios-en-corona",
-        "resumen": "Organización Corona anunció la vinculación de Alejandro Piedrahita Borrero como vicepresidente de Estrategia y Desarrollo de Negocios, cargo desde el cual encabezará la agenda de nuevos negocios y la identificación de oportunidades que impulsen el crecimiento y consoliden la visión de largo plazo de la empresa",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Exdirectivo de Grupo Argos asume vicepresidencia de Estrategia y Desarrollo de Negocios en Corona",
-        "capturado": "2026-09-09T15:49:01-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Bolsa de Nueva York anula sus alzas y termina en negativo por decisión de la Fed",
+        "url": "https://www.dataifx.com/post/wall-street-revierte-ganancias-y-cierra-la-baja-tras-anuncio-de-la-fed",
+        "resumen": "Los principales índices bursátiles de Estados Unidos finalizaron la jornada con pérdidas, luego de que la Reserva Federal anunciara un aumento de su tasa de referencia en 25 puntos básicos, situándola en el rango de 3,75 % a 4 %",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Wall Street revierte ganancias y cierra a la baja tras anuncio de la Fed",
+        "capturado": "2026-09-16T16:09:51-05:00"
+      },
       {
         "titulo": "LATAM consigue créditos por US$505 millones para modernizar y agrandar su parque aéreo",
         "url": "https://www.dataifx.com/post/latam-asegura-financiamiento-por-us505-millones-para-renovar-y-ampliar-su-flota",
