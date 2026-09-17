@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-17T13:05:25-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-17T17:46:18-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda expone en Nueva York estado fiscal y traza plan para restablecer confianza bursátil",
+        "url": "https://www.dataifx.com/post/minhacienda-lleva-nueva-york-diagnostico-de-las-finanzas-publicas-y-plantea-ruta-para-recuperar-la",
+        "resumen": "El ministro de Hacienda y Crédito Público, Miguel Gómez Martínez, inició este jueves 17 de septiembre una agenda de reuniones en Nueva York con inversionistas internacionales, agencias calificadoras de riesgo y representantes de la banca de inversión, en la que expondrá el diagnóstico del Gobierno sobre el estado de las finanzas públicas y las medidas que contempla para atender la situación fiscal",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda lleva a Nueva York diagnóstico de las finanzas públicas y plantea ruta para recuperar la confianza de los mercados",
+        "capturado": "2026-09-17T17:46:18-05:00"
+      },
+      {
+        "titulo": "Luis Felipe Henao sale de la presidencia de la junta de Ecopetrol y su puesto lo ocupa Carlos Suárez",
+        "url": "https://www.dataifx.com/post/ecopetrol-cambia-presidente-de-junta-carlos-suarez-reemplaza-luis-felipe-henao",
+        "resumen": "Carlos Suárez, abogado y publicista y estratega de la campaña del presidente Abelardo De La Espriella, fue elegido este jueves como presidente de la junta directiva de Ecopetrol, en reemplazo del exministro Luis Felipe Henao",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol cambia presidente de Junta: Carlos Suárez reemplaza a Luis Felipe Henao",
+        "capturado": "2026-09-17T17:46:18-05:00"
+      },
       {
         "titulo": "Asofondos señala el incremento del salario mínimo como causa del hueco de $5 billones en pensiones de 2026",
         "url": "https://www.dataifx.com/post/asofondos-atribuye-faltante-de-5-billones-en-pensiones-de-2026-al-aumento-del-salario-minimo",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Crédito Público anuncia ETF de TES, Tesoro Directo y bono tokenizado para modernizar la deuda pública",
         "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "Vicepresidente propone usar el ahorro pensional para estimular la inversión productiva en el país",
-        "url": "https://www.dataifx.com/post/vicepresidente-plantea-usar-el-ahorro-pensional-para-impulsar-la-inversion-productiva-en-colombia",
-        "resumen": "El vicepresidente José Manuel Restrepo señaló que el fortalecimiento del mercado de capitales será uno de los ejes de la estrategia del Gobierno para aumentar la inversión y el crecimiento económico, con una apuesta centrada en llevar una mayor proporción del ahorro de largo plazo hacia proyectos productivos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Vicepresidente plantea usar el ahorro pensional para impulsar la inversión productiva en Colombia",
-        "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "El Banco de la República encabeza otra vez la clasificación de confianza institucional",
-        "url": "https://www.dataifx.com/post/banco-de-la-republica-nuevamente-lidera-ranking-de-confianza-institucional",
-        "resumen": "El Banco de la República fue reconocido nuevamente como la entidad que genera mayor confianza entre los líderes de opinión en Colombia, de acuerdo con el Panel de Opinión de Cifras y Conceptos 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República nuevamente lidera ranking de confianza institucional",
-        "capturado": "2026-09-11T15:49:50-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "A julio las utilidades de la banca colombiana subieron casi un 40 por ciento",
+        "url": "https://www.dataifx.com/post/julio-ganancias-de-bancos-en-colombia-aumentaron-cerca-de-40",
+        "resumen": "Las entidades bancarias que operan en Colombia reportaron utilidades acumuladas de $10,12 billones en los primeros siete meses del año, de acuerdo con cifras de la Superintendencia Financiera de Colombia",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "A julio ganancias de bancos en Colombia aumentaron cerca de 40%",
+        "capturado": "2026-09-17T17:46:18-05:00"
+      },
+      {
+        "titulo": "Lulo Bank llega al segmento corporativo con su nuevo servicio financiero virtual",
+        "url": "https://www.dataifx.com/post/lulo-bank-amplia-su-operacion-empresas-asi-funcionara-su-nueva-oferta-de-banca-digital",
+        "resumen": "Lulo Bank anunció la puesta en marcha de Lulo Empresas, una propuesta de banca empresarial completamente digital que reúne en un mismo entorno servicios como pagos, recaudos, administración de tesorería, nómina, integraciones tecnológicas y opciones de financiación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lulo Bank amplía su operación a empresas: así funcionará su nueva oferta de banca digital",
+        "capturado": "2026-09-17T17:46:18-05:00"
+      },
       {
         "titulo": "SuperGIROS aportará quince mil millones de pesos para levantar seiscientas veinte casas por sismo en Chocó",
         "url": "https://www.dataifx.com/post/supergiros-donara-15000-millones-para-reconstruir-620-viviendas-afectadas-por-terremoto-en-choco",
@@ -1077,26 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Frontier Airlines llega a Colombia con rutas desde Orlando",
         "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "FDN entrega 230000 millones para el cierre financiero del Parque Solar Puertos de Santander",
-        "url": "https://www.dataifx.com/post/fdn-aporta-230000-millones-al-cierre-financiero-del-parque-solar-puertos-de-santander",
-        "resumen": "La Financiera de Desarrollo Nacional (FDN) anunció su participación en el cierre financiero del Parque Solar Puertos de Santander, con una financiación por $230",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FDN aporta $230.000 millones al cierre financiero del Parque Solar Puertos de Santander",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "El sector energético alcanza pacto colectivo extendido luego de 33 años",
-        "url": "https://www.dataifx.com/post/tras-33-anos-el-sector-energetico-logra-acuerdo-colectivo-de-largo-alcance",
-        "resumen": "Treinta y tres años después del último proceso de negociación conjunta en el sector, trabajadores y empresas del ámbito energético alcanzaron un nuevo acuerdo colectivo de gran alcance",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tras 33 años, el sector energético logra acuerdo colectivo de largo alcance",
-        "capturado": "2026-09-10T15:43:32-05:00"
       }
     ],
     "Empresas Internacional": [
