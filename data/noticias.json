@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-16T16:09:51-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-16T19:16:15-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "XM indica que los caudales completan cuatro meses por debajo del promedio histórico",
+        "url": "https://www.dataifx.com/post/aportes-hidricos-completan-cuatro-meses-por-debajo-de-la-media-historica-reporta-xm",
+        "resumen": "Los aportes hídricos del Sistema Interconectado Nacional completaron en agosto cuatro meses consecutivos por debajo de la media histórica, mientras que el nivel agregado de los embalses para generación de energía eléctrica cerró el mes en 79,36 % de su volumen útil, de acuerdo con el balance presentado por XM sobre las principales variables energéticas del sistema con corte al 31 de agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aportes hídricos completan cuatro meses por debajo de la media histórica, reporta XM",
+        "capturado": "2026-09-16T19:16:15-05:00"
+      },
+      {
+        "titulo": "Tras sismo, Fenalco aplaza Congreso de Comerciantes y traslada Junta Nacional a Pereira",
+        "url": "https://www.dataifx.com/post/fenalco-reprograma-congreso-de-comerciantes-y-llevara-junta-nacional-pereira-tras-terremoto",
+        "resumen": "El presidente de Fenalco, Jaime Alberto Cabal, anunció que la Junta Nacional del gremio sesionará el próximo jueves 24 de septiembre en Pereira, en un encuentro que reunirá a los integrantes de la dirección nacional y a representantes de las seccionales de Caldas, Risaralda, Quindío y Valle del Cauca",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fenalco reprograma Congreso de Comerciantes y llevará Junta Nacional a Pereira tras terremoto",
+        "capturado": "2026-09-16T19:16:15-05:00"
+      },
+      {
+        "titulo": "ANDI señala que la industria sigue creciendo de forma moderada pero exige más inversión y confianza",
+        "url": "https://www.dataifx.com/post/andi-industria-mantiene-crecimiento-moderado-pero-requiere-mas-inversion-y-confianza",
+        "resumen": "La Encuesta Mensual Manufacturera con Enfoque Territorial (EMMET) publicada por el Dane reveló que en julio la producción industrial cayó 2,3 % y las ventas disminuyeron 1,8 % frente al mismo mes de 2025, cuando se habían registrado variaciones positivas de 5,8 % y 6,4 %, respectivamente",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDI: industria mantiene crecimiento moderado pero requiere más inversión y confianza",
+        "capturado": "2026-09-16T19:16:15-05:00"
+      },
       {
         "titulo": "ANDEG aguarda más dineros para saldar pasivos de Air-e tras desembolso de 300.000 millones",
         "url": "https://www.dataifx.com/post/andeg-espera-recursos-adicionales-para-atender-deudas-de-air-e-tras-giro-de-300000-millones",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Cementos Argos recibe por segundo año el reconocimiento Most Honored Company de Extel",
         "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "CARF alerta desmejora fiscal dentro del Presupuesto General de la Nación 2027",
-        "url": "https://www.dataifx.com/post/carf-advierte-deterioro-fiscal-en-el-presupuesto-general-de-la-nacion-2027",
-        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) analizó en detalle el nuevo proyecto de Presupuesto General de la Nación (PGN) para 2027, que asciende a $635 billones, y concluyó que, aunque el documento reconoce de manera más realista las necesidades de gasto, también confirma un escenario fiscal crítico para el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CARF advierte deterioro fiscal en el Presupuesto General de la Nación 2027",
-        "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "Cierre Colombia",
-        "url": "https://www.dataifx.com/video/cierre-colombia-1393",
-        "resumen": "",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cierre Colombia",
-        "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal aumenta por PGN 2027 y pide cambios estructurales, avisa CARF",
-        "url": "https://www.dataifx.com/post/pgn-2027-eleva-el-deficit-fiscal-y-exige-ajustes-estructurales-advierte-el-carf",
-        "resumen": "El Comité Autónomo de la Regla Fiscal, CARF, señaló que el nuevo proyecto de Presupuesto General de la Nación, PGN, para 2027 reconoce una magnitud mayor del desequilibrio fiscal frente a la contemplada inicialmente, pero también evidencia mayores presiones sobre las finanzas públicas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "PGN 2027 eleva el déficit fiscal y exige ajustes estructurales, advierte el CARF",
-        "capturado": "2026-09-10T18:55:55-05:00"
       }
     ],
     "Macro Internacional": [
@@ -628,6 +628,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Ingresos de 3,4 billones de pesos y aumento en la utilidad neta reporta Olímpica",
+        "url": "https://www.dataifx.com/post/olimpica-reporta-ingresos-por-34-billones-y-crecimiento-en-utilidad-neta",
+        "resumen": "Olímpica S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Olímpica reporta ingresos por $3,4 billones y crecimiento en utilidad neta",
+        "capturado": "2026-09-16T19:16:15-05:00"
+      },
       {
         "titulo": "Dale! de Grupo Aval une dólares y euros digitales con ahorros en pesos",
         "url": "https://www.dataifx.com/post/grupo-aval-traves-de-dale-integra-dolares-y-euros-digitales-con-depositos-en-pesos",
@@ -1067,16 +1077,6 @@
         "publicacion": "",
         "titulo_fuente": "Concejo de Bogotá avala en primer debate cambios al impuesto ICA",
         "capturado": "2026-09-09T19:00:23-05:00"
-      },
-      {
-        "titulo": "Precio estimado en Colombia para los iPhone 18 Pro y Pro Max",
-        "url": "https://www.dataifx.com/post/los-iphone-18-pro-y-pro-max-cuanto-podrian-costar-en-colombia",
-        "resumen": "Apple presentó oficialmente los iPhone 18 Pro y iPhone 18 Pro Max, la nueva generación de sus teléfonos de gama alta",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Los iPhone 18 Pro y Pro Max: cuánto podrían costar en Colombia",
-        "capturado": "2026-09-09T15:49:01-05:00"
       }
     ],
     "Empresas Internacional": [
