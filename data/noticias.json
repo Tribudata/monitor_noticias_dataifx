@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-17T02:28:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-17T08:17:54-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "DIAN redobla gestiones para cobrar más de 1,28 billones de pesos en retenciones",
+        "url": "https://www.dataifx.com/post/dian-intensifica-acciones-para-recuperar-mas-de-128-billones-en-retenciones",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) anunció el fortalecimiento de sus medidas de cobro para recuperar más de $1,28 billones correspondientes a 330",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones",
+        "capturado": "2026-09-17T08:17:54-05:00"
+      },
       {
         "titulo": "XM indica que los caudales completan cuatro meses por debajo del promedio histórico",
         "url": "https://www.dataifx.com/post/aportes-hidricos-completan-cuatro-meses-por-debajo-de-la-media-historica-reporta-xm",
@@ -443,19 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Cartagena proyecta 416.050 visitantes y US$49,4 millones de impacto económico en temporada de cruceros",
         "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "Cementos Argos gana otra vez el galardón Most Honored Company de Extel",
-        "url": "https://www.dataifx.com/post/cementos-argos-recibe-por-segundo-ano-el-reconocimiento-most-honored-company-de-extel",
-        "resumen": "Cementos Argos, empresa del Grupo Argos, recibió por segundo año consecutivo un reconocimiento en el estudio Latin America Executive Team de Extel, evaluación que recoge la percepción de profesionales de inversión sobre el desempeño de los equipos directivos y de Relación con Inversionistas de compañías de América Latina",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cementos Argos recibe por segundo año el reconocimiento Most Honored Company de Extel",
-        "capturado": "2026-09-11T11:17:19-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "En agosto la inflación de la zona euro bajó al 3,2 por ciento tras revisión",
+        "url": "https://www.dataifx.com/post/inflacion-de-zona-euro-se-reviso-la-baja-en-agosto-quedo-en-32",
+        "resumen": "La tasa de inflación anual en la zona euro se ubicó en 3,2 % en agosto, según cifras definitivas publicadas por Eurostat, lo que representa una ligera corrección frente a la estimación preliminar de 3,3 %",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación de zona euro se revisó a la baja en agosto, quedó en 3,2%",
+        "capturado": "2026-09-17T08:17:54-05:00"
+      },
+      {
+        "titulo": "Banco de Inglaterra mantuvo tasas con división pero advirtió respiro temporal",
+        "url": "https://www.dataifx.com/post/comite-dividido-en-el-banco-de-inglaterra-estabilidad-de-tasas-pero-alerta-sobre-respiro-temporal",
+        "resumen": "El Banco de Inglaterra decidió mantener su tipo de interés principal en 3,75 %, aunque la votación del Comité de Política Monetaria reflejó división: seis miembros respaldaron la estabilidad y tres se inclinaron por un aumento de un cuarto de punto, hasta el 4 %",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comité dividido en el Banco de Inglaterra: estabilidad de tasas pero alerta sobre respiro temporal",
+        "capturado": "2026-09-17T08:17:54-05:00"
+      },
       {
         "titulo": "Tal como se preveía, la Reserva Federal incrementó sus tipos de interés",
         "url": "https://www.dataifx.com/post/como-se-esperaba-reserva-federal-subio-sus-tasas-de-interes",
@@ -628,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Asofondos confirma cambio en la Vicepresidencia Jurídica",
+        "url": "https://www.dataifx.com/post/asofondos-anuncia-relevo-en-su-vicepresidencia-juridica",
+        "resumen": "La Asociación Colombiana de Administradoras de Fondos de Pensiones y Cesantía (Asofondos) informó cambios en su equipo directivo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asofondos anuncia relevo en su Vicepresidencia Jurídica",
+        "capturado": "2026-09-17T08:17:54-05:00"
+      },
+      {
+        "titulo": "Rappi prevé incremento del 70% en órdenes de Amor y Amistad y un alza del 25% frente a 2025",
+        "url": "https://www.dataifx.com/post/rappi-proyecta-aumento-del-70-en-pedidos-durante-amor-y-amistad-con-un-alza-del-25-frente-2025",
+        "resumen": "La celebración de Amor y Amistad se consolidó como una de las fechas de mayor dinamismo para el comercio digital en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rappi proyecta aumento del 70% en pedidos durante Amor y Amistad, con un alza del 25% frente a 2025",
+        "capturado": "2026-09-17T08:17:54-05:00"
+      },
       {
         "titulo": "Ingresos de 3,4 billones de pesos y aumento en la utilidad neta reporta Olímpica",
         "url": "https://www.dataifx.com/post/olimpica-reporta-ingresos-por-34-billones-y-crecimiento-en-utilidad-neta",
@@ -1057,26 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Turismo generó US$5.619 millones en divisas, con alza de 4,9% en el primer semestre",
         "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "S&P eleva notas de Avista tras su fusión con Grupo Cibest",
-        "url": "https://www.dataifx.com/post/sp-mejora-calificaciones-de-avista-tras-su-integracion-grupo-cibest",
-        "resumen": "La agencia Standard & Poor’s National Ratings anunció una mejora en las calificaciones de Avista, luego de su adquisición total por parte del Grupo Cibest en agosto de este año",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "S&P mejora calificaciones de Avista tras su integración a Grupo Cibest",
-        "capturado": "2026-09-09T19:00:23-05:00"
-      },
-      {
-        "titulo": "Cabildo distrital aprueba en primer debate ajustes al gravamen ICA",
-        "url": "https://www.dataifx.com/post/concejo-de-bogota-avala-en-primer-debate-cambios-al-impuesto-ica",
-        "resumen": "El Concejo de Bogotá aprobó en primer debate el artículo 21 de la reforma tributaria distrital, que modifica las tarifas del Impuesto de Industria y Comercio (ICA)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Concejo de Bogotá avala en primer debate cambios al impuesto ICA",
-        "capturado": "2026-09-09T19:00:23-05:00"
       }
     ],
     "Empresas Internacional": [
