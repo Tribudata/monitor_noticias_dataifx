@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-17T08:17:54-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-17T13:05:25-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Asofondos señala el incremento del salario mínimo como causa del hueco de $5 billones en pensiones de 2026",
+        "url": "https://www.dataifx.com/post/asofondos-atribuye-faltante-de-5-billones-en-pensiones-de-2026-al-aumento-del-salario-minimo",
+        "resumen": "El presidente de Asofondos, Andrés Velasco, explicó que el faltante cercano a $5 billones que enfrenta el Gobierno Nacional para atender el pago de las pensiones al cierre de 2026 se origina en la diferencia entre las estimaciones con las que se construyó el presupuesto y el aumento del salario mínimo decretado para este año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asofondos atribuye faltante de $5 billones en pensiones de 2026 al aumento del salario mínimo",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "Henao resalta el ingreso de Suárez y Lafaurie al nuevo directorio de Ecopetrol",
+        "url": "https://www.dataifx.com/post/henao-destaca-llegada-de-suarez-y-lafaurie-la-nueva-junta-directiva-de-ecopetrol",
+        "resumen": "Carlos Suárez, abogado y publicista y estratega de la campaña del presidente Abelardo De La Espriella, fue elegido este jueves como presidente de la junta directiva de Ecopetrol, en reemplazo del exministro Luis Felipe Henao",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Henao destaca llegada de Suárez y Lafaurie a la nueva junta directiva de Ecopetrol",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "El consumo con tarjeta de turistas internacionales en Colombia rebasó los US$1.280 millones",
+        "url": "https://www.dataifx.com/post/gasto-de-visitantes-extranjeros-con-tarjeta-en-colombia-supero-los-us1280-millones",
+        "resumen": "El gasto de los visitantes extranjeros con tarjeta de crédito en Colombia superó los US$1",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gasto de visitantes extranjeros con tarjeta en Colombia superó los US$1.280 millones",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "Acolgen avisa de menor nivel hídrico y urge acelerar obras para asegurar el suministro eléctrico",
+        "url": "https://www.dataifx.com/post/acolgen-advierte-sobre-menor-disponibilidad-de-agua-y-pide-acelerar-inversiones-para-garantizar-la",
+        "resumen": "Durante el Congreso anual de Acolgen, la presidenta del gremio, Natalia Gutiérrez, señaló que Colombia enfrenta un escenario en el que el crecimiento de la demanda de energía debe estar acompañado por un aumento de la oferta y por nuevas inversiones en generación y transmisión",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Acolgen advierte sobre menor disponibilidad de agua y pide acelerar inversiones para garantizar la energía",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
       {
         "titulo": "DIAN redobla gestiones para cobrar más de 1,28 billones de pesos en retenciones",
         "url": "https://www.dataifx.com/post/dian-intensifica-acciones-para-recuperar-mas-de-128-billones-en-retenciones",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Banco de la República nuevamente lidera ranking de confianza institucional",
         "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "Muere Rafael Mejía López, que lideró la SAC durante 15 años",
-        "url": "https://www.dataifx.com/post/fallece-rafael-mejia-lopez-quien-estuvo-15-anos-al-frente-de-la-sac",
-        "resumen": "Rafael Mejía López, expresidente de la Sociedad de Agricultores de Colombia (SAC), falleció este jueves en Bogotá a los 77 años, luego de una trayectoria profesional vinculada con los sectores agropecuario, empresarial y financiero del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fallece Rafael Mejía López, quien estuvo 15 años al frente de la SAC",
-        "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "Bolsas de Chile, Colombia y Perú pretenden mejorar su llegada a recursos externos",
-        "url": "https://www.dataifx.com/post/mercados-de-chile-colombia-y-peru-buscan-ampliar-su-acceso-los-flujos-globales-de-capital",
-        "resumen": "Los mercados de Chile, Colombia y Perú enfrentan el desafío de aumentar su participación en los flujos internacionales de capital, en un escenario en el que los inversionistas globales demandan mayor acceso, liquidez y alternativas para diversificar sus portafolios",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mercados de Chile, Colombia y Perú buscan ampliar su acceso a los flujos globales de capital",
-        "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "Clientes de Nu logran sacar hasta $700.000 en locales D1 usando QR",
-        "url": "https://www.dataifx.com/post/usuarios-de-nu-ya-pueden-retirar-hasta-700000-en-tiendas-d1-con-qr",
-        "resumen": "Nu Colombia habilitó una nueva alternativa para que sus usuarios retiren dinero en efectivo en las tiendas D1, mediante un código QR generado desde la aplicación y sin necesidad de utilizar una tarjeta",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Usuarios de Nu ya pueden retirar hasta $700.000 en tiendas D1 con QR",
-        "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "Cartagena prevé 416.050 turistas y US$49,4 millones en derrama financiera por cruceros",
-        "url": "https://www.dataifx.com/post/cartagena-proyecta-416050-visitantes-y-us494-millones-de-impacto-economico-en-temporada-de-cruceros",
-        "resumen": "Cartagena inició este 10 de septiembre la temporada de cruceros 2026-2027, periodo para el que se proyecta la llegada de más de 416",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cartagena proyecta 416.050 visitantes y US$49,4 millones de impacto económico en temporada de cruceros",
-        "capturado": "2026-09-11T11:17:19-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "SuperGIROS aportará quince mil millones de pesos para levantar seiscientas veinte casas por sismo en Chocó",
+        "url": "https://www.dataifx.com/post/supergiros-donara-15000-millones-para-reconstruir-620-viviendas-afectadas-por-terremoto-en-choco",
+        "resumen": "SuperGIROS anunció una donación de $15",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "SuperGIROS donará $15.000 millones para reconstruir 620 viviendas afectadas por terremoto en Chocó",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "El setenta por ciento de créditos con respaldo de FGA Fondo de Garantías fue creado por fintechs de enero a julio de 2026",
+        "url": "https://www.dataifx.com/post/fintechs-originaron-70-de-creditos-respaldados-por-fga-fondo-de-garantias-entre-enero-y-julio-de",
+        "resumen": "Las fintechs tuvieron una participación mayoritaria en las operaciones de crédito respaldadas por FGA Fondo de Garantías durante los primeros siete meses de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fintechs originaron 70% de créditos respaldados por FGA Fondo de Garantías entre enero y julio de 2026",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "GeoPark alcanza el puntaje provisional más alto en concurso petrolero y gasífero de Neuquén en Argentina",
+        "url": "https://www.dataifx.com/post/geopark-obtiene-mayor-puntaje-provisional-en-licitacion-de-gas-y-petroleo-en-neuquen-argentina",
+        "resumen": "Gas y Petróleo del Neuquén S",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark obtiene mayor puntaje provisional en licitación de gas y petróleo en Neuquén, Argentina",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
+      {
+        "titulo": "BeatHub Entertainment adquiere la totalidad del Movistar Arena",
+        "url": "https://www.dataifx.com/post/beathub-entertainment-consolida-el-100-del-movistar-arena",
+        "resumen": "La compañía BeatHub Entertainment anunció la adquisición del 50 % restante de la sociedad operadora del Movistar Arena Bogotá, propiedad de BeLive Entertainment Group, con lo cual consolida el 100 % de la participación en el escenario",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BeatHub Entertainment consolida el 100% del Movistar Arena",
+        "capturado": "2026-09-17T13:05:25-05:00"
+      },
       {
         "titulo": "Asofondos confirma cambio en la Vicepresidencia Jurídica",
         "url": "https://www.dataifx.com/post/asofondos-anuncia-relevo-en-su-vicepresidencia-juridica",
@@ -1057,46 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Tras 33 años, el sector energético logra acuerdo colectivo de largo alcance",
         "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Accionistas de Grupo SURA avalan recompra de acciones por hasta 500000 millones",
-        "url": "https://www.dataifx.com/post/asamblea-de-accionistas-de-grupo-sura-aprueba-programa-de-readquisicion-de-acciones-por-hasta",
-        "resumen": "La Asamblea General de Accionistas de Grupo SURA aprobó este jueves un programa de readquisición de acciones por hasta $500",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Asamblea de Accionistas de Grupo SURA aprueba programa de readquisición de acciones por hasta $500.000 millones",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "Nu arranca actividades en Estados Unidos y presenta su cuenta global multidivisa",
-        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
-        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
-        "capturado": "2026-09-10T15:43:32-05:00"
-      },
-      {
-        "titulo": "SIC convoca consulta tras recibir más de 18000 quejas por suplantación",
-        "url": "https://www.dataifx.com/post/mas-de-18000-reclamos-por-suplantacion-impulsan-consulta-de-la-sic",
-        "resumen": "La Superintendencia de Industria y Comercio (SIC) anunció la apertura de una consulta pública orientada a fortalecer los mecanismos de validación de identidad y el tratamiento de datos personales en Colombia",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Más de 18.000 reclamos por suplantación impulsan consulta de la SIC",
-        "capturado": "2026-09-10T11:13:38-05:00"
-      },
-      {
-        "titulo": "Divisas por turismo llegaron a US$5619 millones, creciendo un 49% al cierre del primer semestre",
-        "url": "https://www.dataifx.com/post/turismo-genero-us5619-millones-en-divisas-con-alza-de-49-en-el-primer-semestre",
-        "resumen": "El turismo continúa consolidándose como un sector estratégico para la economía colombiana",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Turismo generó US$5.619 millones en divisas, con alza de 4,9% en el primer semestre",
-        "capturado": "2026-09-10T11:13:38-05:00"
       }
     ],
     "Empresas Internacional": [
