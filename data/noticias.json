@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-17T17:46:18-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-17T23:16:38-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Carlos Augusto Suárez asume la presidencia de la Junta Directiva de Ecopetrol",
+        "url": "https://www.dataifx.com/post/ecopetrol-elige-carlos-augusto-suarez-como-presidente-de-su-junta-directiva",
+        "resumen": "La nueva Junta Directiva de Ecopetrol comenzó a definir su estructura interna este 17 de septiembre, con la elección de Carlos Augusto Suárez Rojas como presidente del órgano y de Claudia Margarita Lafaurie Taboada como vicepresidenta",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol elige a Carlos Augusto Suárez como presidente de su Junta Directiva",
+        "capturado": "2026-09-17T23:16:38-05:00"
+      },
+      {
+        "titulo": "Colpensiones designa a Carlos René Montoya Muñoz como su nuevo presidente",
+        "url": "https://www.dataifx.com/post/carlos-rene-montoya-munoz-fue-elegido-como-nuevo-presidente-de-colpensiones",
+        "resumen": "La Junta Directiva de Colpensiones eligió a Carlos René Montoya Muñoz como nuevo presidente de la entidad, en una decisión que pone al frente de la administradora de pensiones a un abogado con experiencia en el sector público, privado y en asuntos relacionados con el mundo laboral",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Carlos René Montoya Muñoz fue elegido como nuevo presidente de Colpensiones",
+        "capturado": "2026-09-17T23:16:38-05:00"
+      },
       {
         "titulo": "MinHacienda expone en Nueva York estado fiscal y traza plan para restablecer confianza bursátil",
         "url": "https://www.dataifx.com/post/minhacienda-lleva-nueva-york-diagnostico-de-las-finanzas-publicas-y-plantea-ruta-para-recuperar-la",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno permitirá obras por impuestos para financiar reconstrucción del Quindío tras terremoto",
         "capturado": "2026-09-11T19:02:59-05:00"
-      },
-      {
-        "titulo": "El financiamiento toma fuerza en los negocios frente a la duda sobre las tasas de interés",
-        "url": "https://www.dataifx.com/post/financiacion-gana-espacio-entre-comercios-ante-la-incertidumbre-por-las-tasas-de-interes",
-        "resumen": "La próxima decisión del Banco de la República, prevista para el 30 de septiembre, se acerca en un momento en el que los comercios analizan cómo responder a los posibles cambios en las condiciones de financiación y al comportamiento de la demanda",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Financiación gana espacio entre comercios ante la incertidumbre por las tasas de interés",
-        "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "Crédito Público anuncia ETF de TES, Tesoro Directo y bono tokenizado para actualizar la deuda",
-        "url": "https://www.dataifx.com/post/credito-publico-anuncia-etf-de-tes-tesoro-directo-y-bono-tokenizado-para-modernizar-la-deuda",
-        "resumen": "El mercado de deuda pública colombiano tendrá una agenda de modernización que contempla nuevos instrumentos de inversión, mayor acceso para los inversionistas minoristas y el uso de tecnología para mejorar la negociación de los títulos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Crédito Público anuncia ETF de TES, Tesoro Directo y bono tokenizado para modernizar la deuda pública",
-        "capturado": "2026-09-11T15:49:50-05:00"
       }
     ],
     "Macro Internacional": [
