@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-18T05:59:15-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-18T11:13:41-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Prosperidad Social frena exigencias para entregar subsidios en dieciséis departamentos",
+        "url": "https://www.dataifx.com/post/prosperidad-social-suspende-requisitos-para-pagar-subsidios-en-16-departamentos",
+        "resumen": "El Departamento Administrativo para la Prosperidad Social quedó facultado para suspender de manera transitoria la verificación de condicionalidades y corresponsabilidades que exigen sus programas de transferencias monetarias, según el Decreto Legislativo 1426 del 17 de septiembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Prosperidad Social suspende requisitos para pagar subsidios en 16 departamentos",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
+      {
+        "titulo": "Medio año de ayudas a arrendatarios y negocios en zonas afectadas por sismo",
+        "url": "https://www.dataifx.com/post/seis-meses-de-alivios-para-arrendatarios-y-comercios-en-municipios-impactados-por-terremoto",
+        "resumen": "El Decreto Legislativo 1423 de 2026 establece medidas excepcionales en materia de arrendamiento y propiedad horizontal, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Seis meses de alivios para arrendatarios y comercios en municipios impactados por terremoto",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
+      {
+        "titulo": "Gobierno decreta de utilidad pública la gestión de escombros por el movimiento telúrico",
+        "url": "https://www.dataifx.com/post/gobierno-declara-utilidad-publica-el-manejo-de-escombros-por-el-terremoto",
+        "resumen": "El Gobierno Nacional expidió el Decreto 1425 del 17 de septiembre de 2026, firmado por el presidente de la República y la totalidad del gabinete, con el cual adopta un conjunto de medidas ambientales dentro del Estado de Emergencia Económica, Social y Ecológica declarado por el sismo del 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno declara utilidad pública el manejo de escombros por el terremoto",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
+      {
+        "titulo": "Gobierno lanza decreto para fomentar inversión de privados en territorios golpeados por el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-expide-decreto-para-atraer-inversion-privada-en-zonas-afectadas-por-el-sismo",
+        "resumen": "El Gobierno del presidente Abelardo De la Espriella expidió el Decreto 1413 de 2026, mediante el cual se establece un régimen tributario excepcional y temporal para incentivar la inversión privada en los municipios afectados por el terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno expide decreto para atraer inversión privada en zonas afectadas por el sismo",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
+      {
+        "titulo": "Dinero destrabado por 7.500 millones de pesos dinamiza iniciativas hídricas en La Guajira",
+        "url": "https://www.dataifx.com/post/recursos-destrabados-por-7500-millones-impulsan-proyectos-de-agua-en-la-guajira",
+        "resumen": "El Gobierno nacional confirmó la destinación de $7",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Recursos destrabados por $7.500 millones impulsan proyectos de agua en La Guajira",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
       {
         "titulo": "Carlos Augusto Suárez asume la presidencia de la Junta Directiva de Ecopetrol",
         "url": "https://www.dataifx.com/post/ecopetrol-elige-carlos-augusto-suarez-como-presidente-de-su-junta-directiva",
@@ -403,59 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Comisiones económicas conjuntas del Congreso votan hoy en la tarde el monto del presupuesto 2027",
         "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella acusa desfalco al erario y anuncia persecución contra gestores del gobierno pasado",
-        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-denuncia-saqueo-fiscal-y-anuncia-persecucion-responsables-del-gobierno",
-        "resumen": "En su primera rendición de cuentas, el presidente Abelardo De La Espriella expuso un informe detallado sobre los primeros 36 días de gestión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente De La Espriella denuncia saqueo fiscal y anuncia persecución a responsables del gobierno anterior",
-        "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "Terminación de cotizaciones del crudo y las plazas bursátiles internacionales",
-        "url": "https://www.dataifx.com/video/cierre-petroleo-y-mercados-globales-507",
-        "resumen": "",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cierre petróleo y mercados globales",
-        "capturado": "2026-09-12T15:26:11-05:00"
-      },
-      {
-        "titulo": "AmCham Colombia apoya bajar el IVA en pasajes aéreos para impulsar el turismo en el Quindío",
-        "url": "https://www.dataifx.com/post/amcham-colombia-respalda-reduccion-del-iva-en-tiquetes-aereos-como-medida-para-reactivar-el-turismo",
-        "resumen": "La presidenta de la Cámara de Comercio Colombo Americana (AmCham Colombia), María Claudia Lacouture, respaldó la propuesta del Gobierno Nacional de reducir temporalmente el IVA en los tiquetes aéreos hacia las zonas afectadas por el terremoto en el Quindío, como parte de las acciones para impulsar la recuperación del sector turístico",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "AmCham Colombia respalda reducción del IVA en tiquetes aéreos como medida para reactivar el turismo en el Quindío",
-        "capturado": "2026-09-12T02:04:14-05:00"
-      },
-      {
-        "titulo": "Ejecutivo analiza bajar el IVA a pasajes de avión al Quindío tras el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-estudia-reducir-el-iva-de-tiquetes-aereos-hacia-el-quindio-tras-el-terremoto",
-        "resumen": "El Gobierno anunció un paquete de medidas para apoyar la recuperación del sector turístico del Quindío tras el terremoto, con recursos dirigidos a establecimientos afectados, micronegocios y negocios informales, además de incentivos para promover la llegada de visitantes y nuevas inversiones al departamento",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno estudia reducir el IVA de tiquetes aéreos hacia el Quindío tras el terremoto",
-        "capturado": "2026-09-11T19:02:59-05:00"
-      },
-      {
-        "titulo": "Administración autorizará obras por impuestos para financiar la reconstrucción quindiana tras el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-permitira-obras-por-impuestos-para-financiar-reconstruccion-del-quindio-tras-terremoto",
-        "resumen": "El Gobierno Nacional anunció un conjunto de medidas para avanzar en la reconstrucción del Quindío tras el terremoto que dejó afectaciones en viviendas, vías, centros educativos, infraestructura de salud y servicios públicos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno permitirá obras por impuestos para financiar reconstrucción del Quindío tras terremoto",
-        "capturado": "2026-09-11T19:02:59-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El sector fabril de EE. UU. frena cuatro meses de expansión y decepciona el pronóstico",
+        "url": "https://www.dataifx.com/post/industria-estadounidense-interrumpe-cuatro-meses-de-crecimiento-y-decepciona-expectativas",
+        "resumen": "La producción industrial de Estados Unidos no registró crecimiento en agosto, tras haber aumentado un 0,2 % en julio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Industria estadounidense interrumpe cuatro meses de crecimiento y decepciona expectativas",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
       {
         "titulo": "En agosto la inflación de la zona euro bajó al 3,2 por ciento tras revisión",
         "url": "https://www.dataifx.com/post/inflacion-de-zona-euro-se-reviso-la-baja-en-agosto-quedo-en-32",
@@ -648,6 +658,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Med medio año de ayudas a inquilinos y negocios en zonas afectadas por sismo",
+        "url": "https://www.dataifx.com/post/seis-meses-de-alivios-para-arrendatarios-y-comercios-en-municipios-impactados-por-terremoto",
+        "resumen": "El Decreto Legislativo 1423 de 2026 establece medidas excepcionales en materia de arrendamiento y propiedad horizontal, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Seis meses de alivios para arrendatarios y comercios en municipios impactados por terremoto",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
+      {
+        "titulo": "Administración nacional firma decreto con beneficios fiscales tras sismo",
+        "url": "https://www.dataifx.com/post/gobierno-expide-decreto-con-alivios-tributarios-tras-terremoto",
+        "resumen": "El Gobierno nacional expidió el Decreto Legislativo 1419 de 2026, mediante el cual se adoptan medidas tributarias, aduaneras y cambiarias en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno expide decreto con alivios tributarios tras terremoto",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
       {
         "titulo": "A julio las utilidades de la banca colombiana subieron casi un 40 por ciento",
         "url": "https://www.dataifx.com/post/julio-ganancias-de-bancos-en-colombia-aumentaron-cerca-de-40",
@@ -1077,29 +1107,19 @@
         "publicacion": "",
         "titulo_fuente": "BTG Pactual lanza TEVAICOL, primer ETF local en la Bolsa de Valores de Colombia",
         "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "Administración nacional y Bavaria pactan ayuda para tres mil comercios por sismo",
-        "url": "https://www.dataifx.com/post/gobierno-y-bavaria-acuerdan-apoyo-para-3000-negocios-afectados-por-terremoto",
-        "resumen": "El Gobierno nacional anunció una alianza con Bavaria para impulsar la recuperación de pequeños negocios golpeados por la emergencia en distintas regiones del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno y Bavaria acuerdan apoyo para 3.000 negocios afectados por terremoto",
-        "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "Frontier Airlines arriba al país con trayectos desde Orlando",
-        "url": "https://www.dataifx.com/post/frontier-airlines-llega-colombia-con-rutas-desde-orlando",
-        "resumen": "La aerolínea estadounidense Frontier Airlines anunció que desde diciembre comenzará a operar vuelos directos entre Orlando y tres ciudades colombianas: Bogotá, Medellín y Cartagena",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Frontier Airlines llega a Colombia con rutas desde Orlando",
-        "capturado": "2026-09-10T18:55:55-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Warren Buffett abandona la dirección de Berkshire Hathaway tras sesenta años",
+        "url": "https://www.dataifx.com/post/warren-buffett-deja-presidencia-de-berkshire-hathaway-despues-de-seis-decadas",
+        "resumen": "El empresario Warren Buffett, considerado uno de los inversionistas más influyentes del mundo, anunció su retiro de la presidencia de Berkshire Hathaway, el conglomerado que dirigió desde 1965",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Warren Buffett deja presidencia de Berkshire Hathaway después de seis décadas",
+        "capturado": "2026-09-18T11:13:41-05:00"
+      },
       {
         "titulo": "Bolsa de Nueva York anula sus alzas y termina en negativo por decisión de la Fed",
         "url": "https://www.dataifx.com/post/wall-street-revierte-ganancias-y-cierra-la-baja-tras-anuncio-de-la-fed",
