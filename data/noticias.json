@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-18T15:45:02-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-18T19:05:27-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda asigna 624.656 millones de pesos adicionales al presupuesto para enfrentar el sismo",
+        "url": "https://www.dataifx.com/post/minhacienda-adiciona-624656-millones-al-presupuesto-para-atender-la-emergencia-por-el-terremoto",
+        "resumen": "El Ministerio de Hacienda y Crédito Público expidió el Decreto 1412 del 17 de septiembre de 2026, con el cual adiciona el Presupuesto General de la Nación de la vigencia fiscal 2026 en seiscientos veinticuatro mil seiscientos cincuenta y seis millones de pesos ($624",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda adiciona $624.656 millones al presupuesto para atender la emergencia por el terremoto",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
+      {
+        "titulo": "Decreto 1414 autoriza usar mínimo 30% de saldos de regalías en la emergencia del sismo",
+        "url": "https://www.dataifx.com/post/decreto-1414-permite-destinar-al-menos-30-de-saldos-de-regalias-atender-la-emergencia-por-el",
+        "resumen": "El Departamento Nacional de Planeación expidió el Decreto 1414 del 17 de septiembre de 2026, que adopta medidas transitorias para agilizar el uso de los recursos del Sistema General de Regalías (SGR) en la atención del terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Decreto 1414 permite destinar al menos 30% de saldos de regalías a atender la emergencia por el terremoto",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
+      {
+        "titulo": "Gobierno autoriza al FFIE a remodelar universidades públicas impactadas por el temblor",
+        "url": "https://www.dataifx.com/post/gobierno-habilita-al-ffie-para-intervenir-universidades-publicas-afectadas-por-el-terremoto",
+        "resumen": "El Ministerio de Educación Nacional obtuvo, mediante el Decreto 1421 del 17 de septiembre de 2026, la facultad transitoria para que el Fondo de Financiamiento de la Infraestructura Educativa (FFIE) intervenga en instituciones de educación superior, un nivel que la ley no contemplaba dentro de su objeto original",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita al FFIE para intervenir universidades públicas afectadas por el terremoto",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
+      {
+        "titulo": "Gobierno agiliza la contratación pública para acelerar la ayuda en áreas impactadas",
+        "url": "https://www.dataifx.com/post/gobierno-flexibiliza-contratacion-estatal-para-acelerar-atencion-zonas-afectadas-por-el-sismo",
+        "resumen": "El Gobierno Nacional adoptó, mediante el Decreto 1420 del 17 de septiembre de 2026, un régimen transitorio de contratación estatal que busca acelerar la respuesta institucional al terremoto del 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno flexibiliza contratación estatal para acelerar atención a zonas afectadas por el sismo",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
+      {
+        "titulo": "Gobierno permite usar fondos de Cámaras de Comercio y ajustes societarios para firmas golpeadas por el sismo",
+        "url": "https://www.dataifx.com/post/gobierno-habilita-recursos-de-camaras-de-comercio-y-cambios-societarios-para-empresas-afectadas-por",
+        "resumen": "Las empresas afectadas por el terremoto del 10 de agosto de 2026 podrán acceder a un conjunto de medidas orientadas a facilitar su recuperación financiera y operativa, de acuerdo con el Decreto 1418 del 17 de septiembre, expedido por el Ministerio de Comercio, Industria y Turismo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno habilita recursos de Cámaras de Comercio y cambios societarios para empresas afectadas por terremoto",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
+      {
+        "titulo": "Ejecutivo entregará subsidio de $700.362 por empleado afectado para conservar puestos tras sismo",
+        "url": "https://www.dataifx.com/post/gobierno-dara-apoyo-de-700362-por-trabajador-damnificado-para-sostener-el-empleo-tras-el-terremoto",
+        "resumen": "El Gobierno estableció un mecanismo de apoyo a la nómina de las empresas afectadas por el terremoto del 10 de agosto de 2026, con un aporte equivalente al 40 % de un salario mínimo mensual vigente de 2026 por cada trabajador damnificado que cumpla las condiciones establecidas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno dará apoyo de $700.362 por trabajador damnificado para sostener el empleo tras el terremoto",
+        "capturado": "2026-09-18T19:05:27-05:00"
+      },
       {
         "titulo": "Banco de la República reabre su servicio de ventanilla de tesorería en Cali",
         "url": "https://www.dataifx.com/post/banco-de-la-republica-restablece-servicio-de-ventanilla-de-tesoreria-en-cali",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "uFlow señala que la banca colombiana debe convertir los datos en nuevas señales para otorgar crédito",
         "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Cerca de 2,5 millones de jóvenes Ninis: 67% son mujeres y su integración resulta fundamental",
-        "url": "https://www.dataifx.com/post/casi-25-millones-de-jovenes-ninis-67-son-mujeres-y-su-inclusion-es-clave",
-        "resumen": "El más reciente análisis de ANIF pone en evidencia la magnitud del reto que enfrenta Colombia con los jóvenes que no estudian ni trabajan, conocidos como “Ninis”",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Casi 2,5 millones de jóvenes “Ninis”: 67% son mujeres y su inclusión es clave",
-        "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Firmas de gas podrán inscribir proyectos al FECF con cofinanciación máxima del 70%",
-        "url": "https://www.dataifx.com/post/empresas-de-gas-podran-postular-proyectos-al-fecf-con-cofinanciacion-de-hasta-70",
-        "resumen": "La Unidad de Planeación Minero Energética, UPME, abrió la convocatoria para que las empresas prestadoras de los servicios de distribución o transporte de gas combustible presenten proyectos al Fondo Especial Cuota de Fomento, FECF, con iniciativas cuya ejecución esté prevista para 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Empresas de gas podrán postular proyectos al FECF con cofinanciación de hasta 70 %",
-        "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Amazónica LNG ficha a Jereh Group y progresa en la edificación de su planta de regasificación",
-        "url": "https://www.dataifx.com/post/amazonica-lng-contrata-jereh-group-y-avanza-hacia-la-construccion-de-su-planta-de-regasificacion",
-        "resumen": "Amazónica LNG formalizó la contratación de Jereh Group, a través de su sucursal Jereh Oil & Gas Colombia, como contratista principal para el desarrollo de su proyecto de regasificación de Gas Natural Licuado GNL en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Amazónica LNG contrata a Jereh Group y avanza hacia la construcción de su planta de regasificación",
-        "capturado": "2026-09-14T19:26:19-05:00"
-      },
-      {
-        "titulo": "Ejecutivo declara insubsistente al director del Dane y designa a Juan Manuel Alvarado Nivia",
-        "url": "https://www.dataifx.com/post/gobierno-declara-insubsistente-al-director-del-dane-y-nombra-juan-manuel-alvarado-nivia",
-        "resumen": "El presidente de la República, Abelardo De La Espriella, declaró insubsistente el nombramiento del director del Departamento Administrativo Nacional de Estadística (Dane), Ricardo Valencia, en ejercicio de las facultades constitucionales y legales aplicables a los cargos de libre nombramiento y remoción",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno declara insubsistente al director del Dane y nombra a Juan Manuel Alvarado Nivia",
-        "capturado": "2026-09-14T19:26:19-05:00"
-      },
-      {
-        "titulo": "MinHacienda avisa recortes por más de $40 billones entre 2026 y 2027 para frenar el gasto y la deuda",
-        "url": "https://www.dataifx.com/post/minhacienda-anuncia-recortes-por-mas-de-40-billones-entre-2026-y-2027-para-contener-el-gasto-y-el",
-        "resumen": "El Gobierno prepara nuevos recortes al gasto público para contener el crecimiento de las obligaciones del Estado y reducir la presión sobre el endeudamiento",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda anuncia recortes por más de $40 billones entre 2026 y 2027 para contener el gasto y el endeudamiento",
-        "capturado": "2026-09-14T19:26:19-05:00"
-      },
-      {
-        "titulo": "MinHacienda: Presupuesto de 2027 por $634,9 billones es el que podemos permitirnos",
-        "url": "https://www.dataifx.com/post/minhacienda-presupuesto-de-2027-por-6349-billones-es-el-que-podemos-permitirnos",
-        "resumen": "Las comisiones económicas conjuntas del Congreso aprobaron el monto del Presupuesto General de la Nación para 2027, que quedó establecido en $634,9 billones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda: Presupuesto de 2027 por $634,9 billones “es el que podemos permitirnos”",
-        "capturado": "2026-09-14T19:26:19-05:00"
       }
     ],
     "Macro Internacional": [
