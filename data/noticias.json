@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-21T15:22:01-05:00",
-  "nuevos_en_esta_corrida": 18,
+  "actualizado": "2026-09-21T19:41:13-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Las compras externas colombianas llegaron a un pico récord en julio",
+        "url": "https://www.dataifx.com/post/importaciones-de-colombia-alcanzaron-maximo-historico-en-julio",
+        "resumen": "Las importaciones colombianas alcanzaron en julio de 2026 un valor de $7",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Importaciones de Colombia alcanzaron máximo histórico en julio",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
       {
         "titulo": "Sistema Coca-Cola dará US$ 250.000 para arreglar colegios dañados por sismo en Chocó",
         "url": "https://www.dataifx.com/post/sistema-coca-cola-destinara-us-250000-recuperacion-de-infraestructura-educativa-afectada-por",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "ANDI: industria mantiene crecimiento moderado pero requiere más inversión y confianza",
         "capturado": "2026-09-16T19:16:15-05:00"
-      },
-      {
-        "titulo": "ANDEG aguarda más dineros para saldar pasivos de Air-e tras desembolso de 300.000 millones",
-        "url": "https://www.dataifx.com/post/andeg-espera-recursos-adicionales-para-atender-deudas-de-air-e-tras-giro-de-300000-millones",
-        "resumen": "El Ministerio de Hacienda y Crédito Público giró $300",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDEG espera recursos adicionales para atender deudas de Air-e tras giro de $300.000 millones",
-        "capturado": "2026-09-16T16:09:51-05:00"
       }
     ],
     "Macro Internacional": [
@@ -658,6 +658,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Banco de Occidente acuerda préstamo subordinado por US$150 millones con DEG",
+        "url": "https://www.dataifx.com/post/banco-de-occidente-firma-credito-subordinado-por-us150-millones-con-deg",
+        "resumen": "El Banco de Occidente suscribió un contrato de crédito subordinado por USD 150 millones con DEG, institución alemana de financiamiento para el desarrollo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Occidente firma crédito subordinado por US$150 millones con DEG",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
+      {
+        "titulo": "Confecámaras designa nueva Junta Directiva y fija ubicación de su Congreso 2027",
+        "url": "https://www.dataifx.com/post/confecamaras-eligio-nueva-junta-directiva-y-definio-sede-de-su-congreso-2027",
+        "resumen": "La Asamblea General de Confecámaras eligió una nueva Junta Directiva para el periodo que comenzará el 1 de enero de 2027 y definió a Pereira como sede de su Congreso Anual, que se realizará durante el primer semestre del próximo año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Confecámaras eligió nueva Junta Directiva y definió sede de su Congreso 2027",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
+      {
+        "titulo": "Mateo Restrepo Villegas toma la presidencia de Minera de Cobre Quebradona",
+        "url": "https://www.dataifx.com/post/mateo-restrepo-villegas-asume-presidencia-de-minera-de-cobre-quebradona",
+        "resumen": "AngloGold Ashanti anunció el nombramiento de Mateo Restrepo Villegas como nuevo presidente de su subsidiaria Minera de Cobre Quebradona SAS BIC",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mateo Restrepo Villegas asume presidencia de Minera de Cobre Quebradona",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
+      {
+        "titulo": "Bold alista expansión hacia Perú y consolida sus servicios en Colombia",
+        "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
+        "resumen": "La fintech Bold cerrará el año con una estrategia que combina crecimiento internacional y desarrollo de nuevos productos en Colombia",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Bold prepara expansión a Perú y fortalece su oferta en Colombia",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
       {
         "titulo": "Superintendencia de Industria y Comercio penaliza a comercializador farmacéutico por exceder tarifas topes",
         "url": "https://www.dataifx.com/post/sic-sanciona-distribuidora-de-medicamentos-por-superar-precios-regulados",
@@ -1067,49 +1107,19 @@
         "publicacion": "",
         "titulo_fuente": "Clientes de Bancolombia podrán retirar dinero en Tiendas Ísimo",
         "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "GEB cita a asamblea extraordinaria el 28 de septiembre para tratar su listamiento en EE.UU.",
-        "url": "https://www.dataifx.com/post/geb-convoca-asamblea-extraordinaria-el-28-de-septiembre-para-discutir-listamiento-en-eeuu",
-        "resumen": "El Grupo Energía Bogotá (GEB) anunció la convocatoria de una Asamblea General Extraordinaria de Accionistas para el próximo 28 de septiembre, con el objetivo de someter a consideración la autorización para solicitar el registro de la compañía ante la U",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "GEB convoca asamblea extraordinaria el 28 de septiembre para discutir listamiento en EE.UU.",
-        "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "Mineros ingresa a índices globales y extiende su visibilidad ante fondos de inversión",
-        "url": "https://www.dataifx.com/post/mineros-entra-indices-internacionales-y-amplia-exposicion-inversionistas-institucionales",
-        "resumen": "Mineros S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Mineros entra a índices internacionales y amplía exposición a inversionistas institucionales",
-        "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "EPM sella nuevo préstamo con la Agencia Francesa de Desarrollo para afianzar su labor ecológica",
-        "url": "https://www.dataifx.com/post/epm-firma-nuevo-credito-con-la-agencia-francesa-de-desarrollo-para-fortalecer-su-operacion-limpia",
-        "resumen": "En medio de los retos que plantea el cambio climático y la necesidad de ampliar el acceso equitativo a los servicios públicos, Empresas Públicas de Medellín (EPM) anunció la firma de su tercer contrato de crédito con la Agencia Francesa de Desarrollo (AFD) por un monto de 348,69 millones de dólares",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EPM firma nuevo crédito con la Agencia Francesa de Desarrollo para fortalecer su operación limpia",
-        "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "Scalo: la reciente iniciativa de Bancoomeva para ser la entidad tras las fintech",
-        "url": "https://www.dataifx.com/post/scalo-la-nueva-apuesta-de-bancoomeva-para-ser-el-banco-detras-de-las-fintech",
-        "resumen": "Bancoomeva presentó Scalo, una nueva compañía creada para atender las necesidades de las fintech en el país y convertirse en el canal tecnológico del banco para este sector",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Scalo: la nueva apuesta de Bancoomeva para ser el banco detrás de las fintech",
-        "capturado": "2026-09-11T15:49:50-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Bold alista su llegada a Perú y robustece su portafolio en Colombia",
+        "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
+        "resumen": "La fintech Bold cerrará el año con una estrategia que combina crecimiento internacional y desarrollo de nuevos productos en Colombia",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Bold prepara expansión a Perú y fortalece su oferta en Colombia",
+        "capturado": "2026-09-21T19:41:13-05:00"
+      },
       {
         "titulo": "Warren Buffett abandona la dirección de Berkshire Hathaway tras sesenta años",
         "url": "https://www.dataifx.com/post/warren-buffett-deja-presidencia-de-berkshire-hathaway-despues-de-seis-decadas",
