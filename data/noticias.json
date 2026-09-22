@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-22T02:35:36-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-22T08:18:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Andesco solicita anular la medida que fija el nuevo esquema de tarifas para el aseo",
+        "url": "https://www.dataifx.com/post/andesco-pide-revocar-resolucion-que-establece-nuevo-marco-tarifario-del-servicio-de-aseo",
+        "resumen": "La Asociación Nacional de Empresas de Servicios Públicos y Comunicaciones, Andesco, presentó ante el Gobierno Nacional una solicitud de revocatoria directa de la Resolución CRA 1040 del 30 de julio de 2026, mediante la cual se establece el nuevo marco tarifario para el servicio público de aseo en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Andesco pide revocar resolución que establece nuevo marco tarifario del servicio de aseo",
+        "capturado": "2026-09-22T08:18:35-05:00"
+      },
+      {
+        "titulo": "FNC sube la tarifa de adquisición de la pasilla por impactos del Fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-eleva-el-precio-de-compra-de-la-pasilla-ante-efectos-del-fenomeno-de-el",
+        "resumen": "La Federación Nacional de Cafeteros anunció un ajuste en el precio de compra de la pasilla contenida en el café pergamino, que pasó de $10",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Federación de Cafeteros eleva el precio de compra de la pasilla ante efectos del Fenómeno de El Niño",
+        "capturado": "2026-09-22T08:18:35-05:00"
+      },
+      {
+        "titulo": "Sencia detalla cronograma de El Campín por show de BTS y obras",
+        "url": "https://www.dataifx.com/post/sencia-aclara-agenda-de-el-campin-ante-concierto-de-bts-y-mantenimiento",
+        "resumen": "Sencia, operador del estadio Nemesio Camacho de Bogotá, informó a la ciudadanía sobre la programación de eventos deportivos y culturales que se ha desarrollado durante 2026 en el escenario, así como sobre las actividades previstas entre el 23 de septiembre y el 16 de octubre",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Sencia aclara agenda de El Campín ante concierto de BTS y mantenimiento",
+        "capturado": "2026-09-22T08:18:35-05:00"
+      },
+      {
+        "titulo": "Contraloría toma vigilancia fiscal de la Primera Línea del Metro por demoras en la obra",
+        "url": "https://www.dataifx.com/post/contraloria-asume-control-fiscal-sobre-la-primera-linea-del-metro-de-bogota-ante-retrasos-en-la",
+        "resumen": "La Contraloría General de la República ordenó un nuevo seguimiento permanente a la Primera Línea del Metro de Bogotá y asumió la competencia prevalente para ejercer de manera integral la vigilancia y el control fiscal sobre el proyecto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Contraloría asume control fiscal sobre la Primera Línea del Metro de Bogotá ante retrasos en la ejecución",
+        "capturado": "2026-09-22T08:18:35-05:00"
+      },
+      {
+        "titulo": "Ejecutivo aplicará compra de cartera con tasa cero para destrabar servicios de salud",
+        "url": "https://www.dataifx.com/post/gobierno-implementara-compra-de-cartera-al-0-de-interes-para-destrabar-atencion-en-salud",
+        "resumen": "El Gobierno Nacional anunció la primera fase de un Plan de Choque en Salud que busca atender a más de un millón de pacientes que tienen pendientes medicamentos, tratamientos o procedimientos médicos especializados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno implementará compra de cartera al 0% de interés para destrabar atención en salud",
+        "capturado": "2026-09-22T08:18:35-05:00"
+      },
       {
         "titulo": "Parlamento y Gobierno discuten Presupuesto 2027 y alertan falta de recursos para inversión",
         "url": "https://www.dataifx.com/post/congreso-busca-consenso-con-el-gobierno-en-presupuesto-2027-pero-advierte-insuficiencia-en",
@@ -403,56 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Henao destaca llegada de Suárez y Lafaurie a la nueva junta directiva de Ecopetrol",
         "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "El consumo con tarjeta de turistas internacionales en Colombia rebasó los US$1.280 millones",
-        "url": "https://www.dataifx.com/post/gasto-de-visitantes-extranjeros-con-tarjeta-en-colombia-supero-los-us1280-millones",
-        "resumen": "El gasto de los visitantes extranjeros con tarjeta de crédito en Colombia superó los US$1",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gasto de visitantes extranjeros con tarjeta en Colombia superó los US$1.280 millones",
-        "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "Acolgen avisa de menor nivel hídrico y urge acelerar obras para asegurar el suministro eléctrico",
-        "url": "https://www.dataifx.com/post/acolgen-advierte-sobre-menor-disponibilidad-de-agua-y-pide-acelerar-inversiones-para-garantizar-la",
-        "resumen": "Durante el Congreso anual de Acolgen, la presidenta del gremio, Natalia Gutiérrez, señaló que Colombia enfrenta un escenario en el que el crecimiento de la demanda de energía debe estar acompañado por un aumento de la oferta y por nuevas inversiones en generación y transmisión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Acolgen advierte sobre menor disponibilidad de agua y pide acelerar inversiones para garantizar la energía",
-        "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "DIAN redobla gestiones para cobrar más de 1,28 billones de pesos en retenciones",
-        "url": "https://www.dataifx.com/post/dian-intensifica-acciones-para-recuperar-mas-de-128-billones-en-retenciones",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) anunció el fortalecimiento de sus medidas de cobro para recuperar más de $1,28 billones correspondientes a 330",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones",
-        "capturado": "2026-09-17T08:17:54-05:00"
-      },
-      {
-        "titulo": "XM indica que los caudales completan cuatro meses por debajo del promedio histórico",
-        "url": "https://www.dataifx.com/post/aportes-hidricos-completan-cuatro-meses-por-debajo-de-la-media-historica-reporta-xm",
-        "resumen": "Los aportes hídricos del Sistema Interconectado Nacional completaron en agosto cuatro meses consecutivos por debajo de la media histórica, mientras que el nivel agregado de los embalses para generación de energía eléctrica cerró el mes en 79,36 % de su volumen útil, de acuerdo con el balance presentado por XM sobre las principales variables energéticas del sistema con corte al 31 de agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aportes hídricos completan cuatro meses por debajo de la media histórica, reporta XM",
-        "capturado": "2026-09-16T19:16:15-05:00"
-      },
-      {
-        "titulo": "Tras sismo, Fenalco aplaza Congreso de Comerciantes y traslada Junta Nacional a Pereira",
-        "url": "https://www.dataifx.com/post/fenalco-reprograma-congreso-de-comerciantes-y-llevara-junta-nacional-pereira-tras-terremoto",
-        "resumen": "El presidente de Fenalco, Jaime Alberto Cabal, anunció que la Junta Nacional del gremio sesionará el próximo jueves 24 de septiembre en Pereira, en un encuentro que reunirá a los integrantes de la dirección nacional y a representantes de las seccionales de Caldas, Risaralda, Quindío y Valle del Cauca",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fenalco reprograma Congreso de Comerciantes y llevará Junta Nacional a Pereira tras terremoto",
-        "capturado": "2026-09-16T19:16:15-05:00"
       }
     ],
     "Macro Internacional": [
