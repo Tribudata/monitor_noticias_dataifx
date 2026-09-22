@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-22T08:18:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-22T13:01:55-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Taxis circularán entre municipios vecinos sin planilla, salvo en zonas impactadas por sismo",
+        "url": "https://www.dataifx.com/post/taxis-podran-movilizarse-entre-municipios-contiguos-sin-planilla-excepto-en-territorios-afectados",
+        "resumen": "El Ministerio de Transporte oficializó la eliminación de la Planilla Única de Viaje Ocasional (PUVO) para los taxis que operen entre municipios contiguos, una medida que busca simplificar los trámites y facilitar la movilidad de los usuarios",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Taxis podrán movilizarse entre municipios contiguos sin planilla, excepto en territorios afectados por terremoto",
+        "capturado": "2026-09-22T13:01:55-05:00"
+      },
       {
         "titulo": "Andesco solicita anular la medida que fija el nuevo esquema de tarifas para el aseo",
         "url": "https://www.dataifx.com/post/andesco-pide-revocar-resolucion-que-establece-nuevo-marco-tarifario-del-servicio-de-aseo",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Asofondos atribuye faltante de $5 billones en pensiones de 2026 al aumento del salario mínimo",
         "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "Henao resalta el ingreso de Suárez y Lafaurie al nuevo directorio de Ecopetrol",
-        "url": "https://www.dataifx.com/post/henao-destaca-llegada-de-suarez-y-lafaurie-la-nueva-junta-directiva-de-ecopetrol",
-        "resumen": "Carlos Suárez, abogado y publicista y estratega de la campaña del presidente Abelardo De La Espriella, fue elegido este jueves como presidente de la junta directiva de Ecopetrol, en reemplazo del exministro Luis Felipe Henao",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Henao destaca llegada de Suárez y Lafaurie a la nueva junta directiva de Ecopetrol",
-        "capturado": "2026-09-17T13:05:25-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Trump amenaza con intervención militar en América Latina ante daños a intereses estadounidenses",
+        "url": "https://www.dataifx.com/post/trump-advierte-uso-de-fuerza-militar-en-latinoamerica-si-se-afectan-intereses-de-eeuu",
+        "resumen": "El presidente de Estados Unidos, Donald Trump, advirtió durante su intervención en la Asamblea General de la ONU que su país está dispuesto a recurrir al poder militar en América Latina si considera que sus intereses se ven amenazados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Trump advierte uso de fuerza militar en Latinoamérica si se afectan intereses de EE.UU.",
+        "capturado": "2026-09-22T13:01:55-05:00"
+      },
       {
         "titulo": "El sector fabril de EE. UU. frena cuatro meses de expansión y decepciona el pronóstico",
         "url": "https://www.dataifx.com/post/industria-estadounidense-interrumpe-cuatro-meses-de-crecimiento-y-decepciona-expectativas",
@@ -658,6 +668,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "ANIF afirma que tasa de usura fija margina a familias de bajos recursos y las empuja al gota a gota",
+        "url": "https://www.dataifx.com/post/techo-de-usura-rigido-excluye-hogares-vulnerables-y-los-lleva-al-gota-gota-anif",
+        "resumen": "El acceso al crédito formal en Colombia continúa siendo limitado y plantea un desafío para la política pública",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Techo de usura rígido excluye a hogares vulnerables y los lleva al gota a gota: ANIF",
+        "capturado": "2026-09-22T13:01:55-05:00"
+      },
+      {
+        "titulo": "Temblor motiva a la Sociedad Portuaria de Buenaventura a girar 4000 millones para reparar escuelas",
+        "url": "https://www.dataifx.com/post/sociedad-portuaria-de-buenaventura-destina-4000-millones-para-reconstruccion-de-colegios-tras-el",
+        "resumen": "La Asamblea General de Accionistas de la Sociedad Portuaria Regional de Buenaventura aprobó la propuesta de la Junta Directiva y la Gerencia General para destinar $4",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Sociedad Portuaria de Buenaventura destina $4.000 millones para reconstrucción de colegios tras el terremoto",
+        "capturado": "2026-09-22T13:01:55-05:00"
+      },
       {
         "titulo": "Banco de Occidente acuerda préstamo subordinado por US$150 millones con DEG",
         "url": "https://www.dataifx.com/post/banco-de-occidente-firma-credito-subordinado-por-us150-millones-con-deg",
@@ -1087,26 +1117,6 @@
         "publicacion": "",
         "titulo_fuente": "Mercado de capitales, clave para recuperar la inversión y acelerar el crecimiento económico de Colombia",
         "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá respaldará iniciativa fotovoltaica por $300.000 millones en Santander",
-        "url": "https://www.dataifx.com/post/banco-de-bogota-financiara-proyecto-solar-por-300000-millones-en-santander",
-        "resumen": "El Banco de Bogotá anunció la financiación de $300",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá financiará proyecto solar por $300.000 millones en Santander",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Usuarios de Bancolombia tendrán la opción de sacar efectivo en locales Ísimo",
-        "url": "https://www.dataifx.com/post/clientes-de-bancolombia-podran-retirar-dinero-en-tiendas-isimo",
-        "resumen": "Bancolombia y Tiendas Ísimo anunciaron una alianza que permitirá a los clientes de la entidad realizar retiros de efectivo con o sin tarjeta en más de 300 establecimientos de la cadena en todo el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Clientes de Bancolombia podrán retirar dinero en Tiendas Ísimo",
-        "capturado": "2026-09-14T09:56:09-05:00"
       }
     ],
     "Empresas Internacional": [
