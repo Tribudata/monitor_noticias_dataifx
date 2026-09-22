@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-21T19:41:13-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-22T02:35:36-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Parlamento y Gobierno discuten Presupuesto 2027 y alertan falta de recursos para inversión",
+        "url": "https://www.dataifx.com/post/congreso-busca-consenso-con-el-gobierno-en-presupuesto-2027-pero-advierte-insuficiencia-en",
+        "resumen": "El senador Cristhian Garcés aseguró en declaraciones a Blu Radio, que “hay ánimo del Congreso de ponerse de acuerdo con el Gobierno” frente al Presupuesto General de la Nación para 2027, aunque persiste la preocupación por los recursos destinados a inversión, considerados insuficientes ante las necesidades de las regiones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Congreso busca consenso con el Gobierno en Presupuesto 2027, pero advierte insuficiencia en inversión",
+        "capturado": "2026-09-22T02:35:36-05:00"
+      },
       {
         "titulo": "Las compras externas colombianas llegaron a un pico récord en julio",
         "url": "https://www.dataifx.com/post/importaciones-de-colombia-alcanzaron-maximo-historico-en-julio",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Fenalco reprograma Congreso de Comerciantes y llevará Junta Nacional a Pereira tras terremoto",
-        "capturado": "2026-09-16T19:16:15-05:00"
-      },
-      {
-        "titulo": "ANDI señala que la industria sigue creciendo de forma moderada pero exige más inversión y confianza",
-        "url": "https://www.dataifx.com/post/andi-industria-mantiene-crecimiento-moderado-pero-requiere-mas-inversion-y-confianza",
-        "resumen": "La Encuesta Mensual Manufacturera con Enfoque Territorial (EMMET) publicada por el Dane reveló que en julio la producción industrial cayó 2,3 % y las ventas disminuyeron 1,8 % frente al mismo mes de 2025, cuando se habían registrado variaciones positivas de 5,8 % y 6,4 %, respectivamente",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDI: industria mantiene crecimiento moderado pero requiere más inversión y confianza",
         "capturado": "2026-09-16T19:16:15-05:00"
       }
     ],
