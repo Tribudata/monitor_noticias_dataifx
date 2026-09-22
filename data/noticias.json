@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-22T13:01:55-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-22T17:51:16-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno pretende suspender y reestructurar a dos años pasivos agropecuarios por 55 billones de pesos",
+        "url": "https://www.dataifx.com/post/gobierno-busca-congelar-y-reperfilar-dos-anos-deuda-agropecuaria-por-55-billones",
+        "resumen": "El Gobierno Nacional prepara una medida para congelar durante varios meses los pagos de una cartera agropecuaria que asciende a $55 billones y avanzar, de manera paralela, en un reperfilamiento de esas obligaciones a un plazo de dos años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca congelar y reperfilar a dos años deuda agropecuaria por $55 billones",
+        "capturado": "2026-09-22T17:51:16-05:00"
+      },
+      {
+        "titulo": "Tarifas de transporte de carga aumentaron 6,07% en agosto debido a mayores pagos en peajes y combustibles",
+        "url": "https://www.dataifx.com/post/costos-del-transporte-de-carga-subieron-607-en-agosto-por-mayores-gastos-en-peajes-y-combustibles",
+        "resumen": "El Departamento Administrativo Nacional de Estadística (DANE) informó que en agosto de 2026 el Índice de Costos del Transporte de Carga por Carretera (ICTC) registró una variación mensual de -0,11% frente a julio, resultado explicado principalmente por la reducción en los costos fijos y peajes, que restaron -0,09 puntos porcentuales al indicador",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Costos del transporte de carga subieron 6,07% en agosto por mayores gastos en peajes y combustibles",
+        "capturado": "2026-09-22T17:51:16-05:00"
+      },
       {
         "titulo": "Taxis circularán entre municipios vecinos sin planilla, salvo en zonas impactadas por sismo",
         "url": "https://www.dataifx.com/post/taxis-podran-movilizarse-entre-municipios-contiguos-sin-planilla-excepto-en-territorios-afectados",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "MinHacienda lleva a Nueva York diagnóstico de las finanzas públicas y plantea ruta para recuperar la confianza de los mercados",
         "capturado": "2026-09-17T17:46:18-05:00"
-      },
-      {
-        "titulo": "Luis Felipe Henao sale de la presidencia de la junta de Ecopetrol y su puesto lo ocupa Carlos Suárez",
-        "url": "https://www.dataifx.com/post/ecopetrol-cambia-presidente-de-junta-carlos-suarez-reemplaza-luis-felipe-henao",
-        "resumen": "Carlos Suárez, abogado y publicista y estratega de la campaña del presidente Abelardo De La Espriella, fue elegido este jueves como presidente de la junta directiva de Ecopetrol, en reemplazo del exministro Luis Felipe Henao",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol cambia presidente de Junta: Carlos Suárez reemplaza a Luis Felipe Henao",
-        "capturado": "2026-09-17T17:46:18-05:00"
-      },
-      {
-        "titulo": "Asofondos señala el incremento del salario mínimo como causa del hueco de $5 billones en pensiones de 2026",
-        "url": "https://www.dataifx.com/post/asofondos-atribuye-faltante-de-5-billones-en-pensiones-de-2026-al-aumento-del-salario-minimo",
-        "resumen": "El presidente de Asofondos, Andrés Velasco, explicó que el faltante cercano a $5 billones que enfrenta el Gobierno Nacional para atender el pago de las pensiones al cierre de 2026 se origina en la diferencia entre las estimaciones con las que se construyó el presupuesto y el aumento del salario mínimo decretado para este año",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Asofondos atribuye faltante de $5 billones en pensiones de 2026 al aumento del salario mínimo",
-        "capturado": "2026-09-17T13:05:25-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "XM establece fecha límite a Afinia, subsidiaria de EPM, para cancelar deudas de electricidad",
+        "url": "https://www.dataifx.com/post/xm-fija-plazo-perentorio-afinia-filial-de-epm-para-pago-de-obligaciones-de-energia",
+        "resumen": "Empresas Públicas de Medellín (EPM) informó que su filial Caribemar de la Costa S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "XM fija plazo perentorio a Afinia, filial de EPM, para pago de obligaciones de energía",
+        "capturado": "2026-09-22T17:51:16-05:00"
+      },
+      {
+        "titulo": "Bolsa de Valores de Colombia aumenta su porcentaje en la crcc al 75,28% tras adquirir títulos",
+        "url": "https://www.dataifx.com/post/bolsa-de-valores-de-colombia-eleva-participacion-en-la-crcc-al-7528-tras-compra-de-acciones",
+        "resumen": "La Bolsa de Valores de Colombia (bvc) informó que incrementó su participación en la Cámara de Riesgo Central de Contraparte de Colombia S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bolsa de Valores de Colombia eleva participación en la crcc al 75,28% tras compra de acciones",
+        "capturado": "2026-09-22T17:51:16-05:00"
+      },
+      {
+        "titulo": "Juan Valdez debuta en Canadá con más de 400 locales comerciales",
+        "url": "https://www.dataifx.com/post/juan-valdez-inicia-presencia-en-canada-con-mas-de-400-puntos-de-venta",
+        "resumen": "La marca Juan Valdez anunció su llegada a Canadá como parte de su estrategia de expansión en Norteamérica, con el objetivo de posicionar el café colombiano en un mercado con alta cultura de consumo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Valdez inicia presencia en Canadá con más de 400 puntos de venta",
+        "capturado": "2026-09-22T17:51:16-05:00"
+      },
       {
         "titulo": "ANIF afirma que tasa de usura fija margina a familias de bajos recursos y las empuja al gota a gota",
         "url": "https://www.dataifx.com/post/techo-de-usura-rigido-excluye-hogares-vulnerables-y-los-lleva-al-gota-gota-anif",
@@ -1086,36 +1116,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Barranquilleros podrán recargar Transmetro desde Nequi",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Siniestros pagados por aseguradoras a raíz del sismo llegan a $184.770 millones",
-        "url": "https://www.dataifx.com/post/pagos-de-aseguradoras-por-terremoto-alcanzan-184770-millones",
-        "resumen": "La Federación de Aseguradores Colombianos (Fasecolda) reportó que, a corte del 11 de septiembre, el valor estimado para atender los siniestros asegurados derivados del terremoto del pasado 10 de agosto asciende a $4,4 billones, un incremento del 19 % frente a la semana anterior",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pagos de aseguradoras por terremoto alcanzan $184.770 millones",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Visita de inspección estatal verifica el entorno laboral en local de Zara",
-        "url": "https://www.dataifx.com/post/inspeccion-oficial-constata-condiciones-laborales-en-establecimiento-de-zara",
-        "resumen": "El Ministerio del Trabajo realizó una inspección presencial en un establecimiento de Zara, operado por Texmoda S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inspección oficial constata condiciones laborales en establecimiento de Zara",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Bolsa de valores, vital para reactivar capitales y estimular el desarrollo financiero nacional",
-        "url": "https://www.dataifx.com/post/mercado-de-capitales-clave-para-recuperar-la-inversion-y-acelerar-el-crecimiento-economico-de",
-        "resumen": "Durante el Congreso Regional de Mercado de Capitales, el gerente general de la Bolsa de Valores de Colombia y gerente corporativo de Mercados de nuam, Andrés Restrepo, señaló que el país necesita recuperar su capacidad de inversión para volver a crecer a tasas más altas, y que el mercado de capitales será una pieza central en ese proceso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mercado de capitales, clave para recuperar la inversión y acelerar el crecimiento económico de Colombia",
         "capturado": "2026-09-14T15:15:03-05:00"
       }
     ],
