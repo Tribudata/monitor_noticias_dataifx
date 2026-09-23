@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-23T06:16:45-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-23T11:38:47-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Bancolombia prevé desaceleración y moderación de precios a causa del Fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/bancolombia-proyecta-menor-crecimiento-y-ajuste-inflacionario-por-efectos-del-fenomeno-de-el-nino",
+        "resumen": "Bancolombia actualizó sus proyecciones económicas para Colombia y anticipa que 2027 será un año de ajuste macroeconómico, con avances en materia inflacionaria y fiscal",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia proyecta menor crecimiento y ajuste inflacionario por efectos del Fenómeno de El Niño",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Galán afirma que iniciativa del Concejo recortaría el ICA a cuatro quintos de locales en Bogotá",
+        "url": "https://www.dataifx.com/post/galan-asegura-que-proyecto-en-el-concejo-reduciria-el-ica-al-82-de-los-comercios-en-bogota",
+        "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, se refirió al proyecto de acuerdo que actualmente estudia el Concejo de Bogotá y aseguró que la propuesta contempla una reducción del impuesto de industria y comercio, ICA, para la mayoría de los comercios e industrias de la ciudad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Galán asegura que proyecto en el Concejo reduciría el ICA al 82% de los comercios en Bogotá",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Sondeo de Fedesarrollo sube al 6,82% la expectativa inflacionaria para el país al terminar 2026",
+        "url": "https://www.dataifx.com/post/encuesta-de-fedesarrollo-eleva-682-su-proyeccion-de-inflacion-para-colombia-al-cierre-de-2026",
+        "resumen": "La Encuesta de Opinión Financiera (EOF) de septiembre de 2026, elaborada por Fedesarrollo y la Bolsa de Valores de Colombia (bvc), registró un incremento en las proyecciones de inflación para el cierre del año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Encuesta de Fedesarrollo eleva a 6,82% su proyección de inflación para Colombia al cierre de 2026",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Ataque a vías férreas de Cerrejón daña convoy que transitaba sin carga en La Guajira",
+        "url": "https://www.dataifx.com/post/atentado-contra-infraestructura-ferrea-de-cerrejon-afecta-tren-que-se-movilizaba-vacio-en-la",
+        "resumen": "Cerrejón informó que en la noche del 22 de septiembre se registró un atentado contra su infraestructura férrea, en un hecho que afectó un tren que se movilizaba vacío en dirección sur",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Atentado contra infraestructura férrea de Cerrejón afecta tren que se movilizaba vacío en La Guajira",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Comercio minorista mermó su ritmo en agosto por efecto del sismo, reporta Fenalco",
+        "url": "https://www.dataifx.com/post/actividad-comercial-perdio-velocidad-en-agosto-por-impacto-del-terremoto-segun-fenalco",
+        "resumen": "La actividad comercial en Colombia perdió velocidad durante agosto, en medio del impacto que tuvo el terremoto del 10 de agosto sobre las ciudades y regiones más afectadas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Actividad comercial perdió velocidad en agosto por impacto del terremoto, según Fenalco",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Contraloría de Bogotá traslada sus datos del Metro a la CGR tras reciente control fiscal",
+        "url": "https://www.dataifx.com/post/contraloria-de-bogota-pone-disposicion-de-la-cgr-su-informacion-sobre-el-metro-tras-nuevo",
+        "resumen": "La Contraloría General de la República decidió realizar un nuevo seguimiento permanente, en el marco del control concomitante y preventivo, sobre la Primera Línea del Metro de Bogotá y ejercer su competencia prevalente para asumir de manera integral la vigilancia y el control fiscal del proyecto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Contraloría de Bogotá pone a disposición de la CGR su información sobre el Metro tras nuevo seguimiento fiscal",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Citadas las comisiones económicas para el primer debate de la ponencia del Presupuesto de 2027",
+        "url": "https://www.dataifx.com/post/lista-la-ponencia-del-presupuesto-de-2027-comisiones-economicas-fueron-citadas-al-primer-debate",
+        "resumen": "El proyecto de Presupuesto General de la Nación para 2027 ya tiene ponencia mayoritaria y avanza hacia su primer debate en las comisiones económicas del Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lista la ponencia del Presupuesto de 2027: comisiones económicas fueron citadas al primer debate",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "MinHacienda solicita a la Corte un incidente de impacto fiscal sobre la reforma pensional",
+        "url": "https://www.dataifx.com/post/minhacienda-pide-la-corte-incidente-de-impacto-fiscal-por-reforma-pensional",
+        "resumen": "El Ministerio de Hacienda pidió a la Corte Constitucional iniciar el estudio de un incidente de impacto fiscal sobre la sentencia que pone en marcha la reforma pensional el próximo 1 de abril, al considerar que sus efectos podrían poner en riesgo las finanzas públicas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda pide a la Corte incidente de impacto fiscal por reforma pensional",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
+      {
+        "titulo": "Colpensiones solicita a la Corte postergar hasta abril de 2028 la vigencia de la reforma pensional",
+        "url": "https://www.dataifx.com/post/colpensiones-pide-la-corte-aplazar-hasta-abril-de-2028-la-entrada-en-vigencia-de-la-reforma",
+        "resumen": "Colpensiones solicitó a la Corte Constitucional aplazar hasta el 1 de abril de 2028 la entrada en vigencia de las disposiciones de la reforma pensional que fueron declaradas exequibles en la Sentencia C-264 de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colpensiones pide a la Corte aplazar hasta abril de 2028 la entrada en vigencia de la reforma pensional",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
       {
         "titulo": "Proyecto del Presupuesto 2027 contempla asignar dos billones de pesos más para Salud",
         "url": "https://www.dataifx.com/post/ponencia-del-presupuesto-2027-propone-destinar-2-billones-adicionales-salud",
@@ -363,96 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "David Vélez, fundador de Nubank, acompañará al Gobierno como asesor en transformación digital",
         "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Economía nacional arrancó el segundo semestre con un ritmo más lento",
-        "url": "https://www.dataifx.com/post/actividad-de-economia-colombiana-inicio-segundo-semestre-con-menor-dinamismo",
-        "resumen": "La economía colombiana registró un crecimiento de 1,11 % anual en julio, según el Indicador de Seguimiento a la Economía (ISE) publicado por el DANE",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Actividad de economía colombiana inició segundo semestre con menor dinamismo",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Prosperidad Social frena exigencias para entregar ayudas en zonas golpeadas por el sismo",
-        "url": "https://www.dataifx.com/post/prosperidad-social-suspende-requisitos-para-pagar-subsidios-en-en-departamentos-afectados-por-el",
-        "resumen": "El Departamento Administrativo para la Prosperidad Social quedó facultado para suspender de manera transitoria la verificación de condicionalidades y corresponsabilidades que exigen sus programas de transferencias monetarias, según el Decreto Legislativo 1426 del 17 de septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Prosperidad Social suspende requisitos para pagar subsidios en en departamentos afectados por el terremoto",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Prosperidad Social frena exigencias para entregar subsidios en dieciséis departamentos",
-        "url": "https://www.dataifx.com/post/prosperidad-social-suspende-requisitos-para-pagar-subsidios-en-16-departamentos",
-        "resumen": "El Departamento Administrativo para la Prosperidad Social quedó facultado para suspender de manera transitoria la verificación de condicionalidades y corresponsabilidades que exigen sus programas de transferencias monetarias, según el Decreto Legislativo 1426 del 17 de septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Prosperidad Social suspende requisitos para pagar subsidios en 16 departamentos",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Medio año de ayudas a arrendatarios y negocios en zonas afectadas por sismo",
-        "url": "https://www.dataifx.com/post/seis-meses-de-alivios-para-arrendatarios-y-comercios-en-municipios-impactados-por-terremoto",
-        "resumen": "El Decreto Legislativo 1423 de 2026 establece medidas excepcionales en materia de arrendamiento y propiedad horizontal, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Seis meses de alivios para arrendatarios y comercios en municipios impactados por terremoto",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Gobierno decreta de utilidad pública la gestión de escombros por el movimiento telúrico",
-        "url": "https://www.dataifx.com/post/gobierno-declara-utilidad-publica-el-manejo-de-escombros-por-el-terremoto",
-        "resumen": "El Gobierno Nacional expidió el Decreto 1425 del 17 de septiembre de 2026, firmado por el presidente de la República y la totalidad del gabinete, con el cual adopta un conjunto de medidas ambientales dentro del Estado de Emergencia Económica, Social y Ecológica declarado por el sismo del 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno declara utilidad pública el manejo de escombros por el terremoto",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Gobierno lanza decreto para fomentar inversión de privados en territorios golpeados por el sismo",
-        "url": "https://www.dataifx.com/post/gobierno-expide-decreto-para-atraer-inversion-privada-en-zonas-afectadas-por-el-sismo",
-        "resumen": "El Gobierno del presidente Abelardo De la Espriella expidió el Decreto 1413 de 2026, mediante el cual se establece un régimen tributario excepcional y temporal para incentivar la inversión privada en los municipios afectados por el terremoto del 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno expide decreto para atraer inversión privada en zonas afectadas por el sismo",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Dinero destrabado por 7.500 millones de pesos dinamiza iniciativas hídricas en La Guajira",
-        "url": "https://www.dataifx.com/post/recursos-destrabados-por-7500-millones-impulsan-proyectos-de-agua-en-la-guajira",
-        "resumen": "El Gobierno nacional confirmó la destinación de $7",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Recursos destrabados por $7.500 millones impulsan proyectos de agua en La Guajira",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Carlos Augusto Suárez asume la presidencia de la Junta Directiva de Ecopetrol",
-        "url": "https://www.dataifx.com/post/ecopetrol-elige-carlos-augusto-suarez-como-presidente-de-su-junta-directiva",
-        "resumen": "La nueva Junta Directiva de Ecopetrol comenzó a definir su estructura interna este 17 de septiembre, con la elección de Carlos Augusto Suárez Rojas como presidente del órgano y de Claudia Margarita Lafaurie Taboada como vicepresidenta",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol elige a Carlos Augusto Suárez como presidente de su Junta Directiva",
-        "capturado": "2026-09-17T23:16:38-05:00"
-      },
-      {
-        "titulo": "Colpensiones designa a Carlos René Montoya Muñoz como su nuevo presidente",
-        "url": "https://www.dataifx.com/post/carlos-rene-montoya-munoz-fue-elegido-como-nuevo-presidente-de-colpensiones",
-        "resumen": "La Junta Directiva de Colpensiones eligió a Carlos René Montoya Muñoz como nuevo presidente de la entidad, en una decisión que pone al frente de la administradora de pensiones a un abogado con experiencia en el sector público, privado y en asuntos relacionados con el mundo laboral",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Carlos René Montoya Muñoz fue elegido como nuevo presidente de Colpensiones",
-        "capturado": "2026-09-17T23:16:38-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "FinDev Canadá otorga préstamo por US$60 millones a Davivienda para vivienda social y transición verde",
+        "url": "https://www.dataifx.com/post/davivienda-obtiene-credito-de-us60-millones-de-findev-canada-para-vivienda-social-y-transicion-baja",
+        "resumen": "Davivienda anunció la obtención de un crédito por US$60 millones, equivalente a $192 mil millones, otorgado por FinDev Canadá, con el propósito de impulsar la acción climática y la inclusión financiera en Colombia",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda obtiene crédito de US$60 millones de FinDev Canadá para vivienda social y transición baja en carbono",
+        "capturado": "2026-09-23T11:38:47-05:00"
+      },
       {
         "titulo": "Accionistas de Pei aprueban compra de los activos inmobiliarios de Terranum",
         "url": "https://www.dataifx.com/post/asamblea-de-pei-respalda-adquisicion-del-portafolio-inmobiliario-de-terranum",
@@ -1106,16 +1116,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Transporte intermunicipal se sienta con el Gobierno para hablar de turismo y empleo",
-        "capturado": "2026-09-15T08:23:00-05:00"
-      },
-      {
-        "titulo": "Ecopetrol reporta modificaciones en su Junta Directiva y Alta Dirección",
-        "url": "https://www.dataifx.com/post/ecopetrol-anuncia-cambios-en-su-junta-directiva-y-en-la-alta-direccion",
-        "resumen": "Ecopetrol S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol anuncia cambios en su Junta Directiva y en la Alta Dirección",
         "capturado": "2026-09-15T08:23:00-05:00"
       }
     ],
