@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-22T17:51:16-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-22T23:22:58-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Proyecto del Presupuesto 2027 contempla asignar dos billones de pesos más para Salud",
+        "url": "https://www.dataifx.com/post/ponencia-del-presupuesto-2027-propone-destinar-2-billones-adicionales-salud",
+        "resumen": "La discusión del Presupuesto General de la Nación (PGN) para 2027 entra en una nueva etapa con una ponencia que mantiene en $634,9 billones el monto que ya fue aprobado por las comisiones económicas, pero introduce cambios en la forma en que esos recursos quedarían distribuidos entre los sectores",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ponencia del Presupuesto 2027 propone destinar $2 billones adicionales a Salud",
+        "capturado": "2026-09-22T23:22:58-05:00"
+      },
       {
         "titulo": "Gobierno pretende suspender y reestructurar a dos años pasivos agropecuarios por 55 billones de pesos",
         "url": "https://www.dataifx.com/post/gobierno-busca-congelar-y-reperfilar-dos-anos-deuda-agropecuaria-por-55-billones",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Carlos René Montoya Muñoz fue elegido como nuevo presidente de Colpensiones",
         "capturado": "2026-09-17T23:16:38-05:00"
-      },
-      {
-        "titulo": "MinHacienda expone en Nueva York estado fiscal y traza plan para restablecer confianza bursátil",
-        "url": "https://www.dataifx.com/post/minhacienda-lleva-nueva-york-diagnostico-de-las-finanzas-publicas-y-plantea-ruta-para-recuperar-la",
-        "resumen": "El ministro de Hacienda y Crédito Público, Miguel Gómez Martínez, inició este jueves 17 de septiembre una agenda de reuniones en Nueva York con inversionistas internacionales, agencias calificadoras de riesgo y representantes de la banca de inversión, en la que expondrá el diagnóstico del Gobierno sobre el estado de las finanzas públicas y las medidas que contempla para atender la situación fiscal",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda lleva a Nueva York diagnóstico de las finanzas públicas y plantea ruta para recuperar la confianza de los mercados",
-        "capturado": "2026-09-17T17:46:18-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Accionistas de Pei aprueban compra de los activos inmobiliarios de Terranum",
+        "url": "https://www.dataifx.com/post/asamblea-de-pei-respalda-adquisicion-del-portafolio-inmobiliario-de-terranum",
+        "resumen": "En Asamblea Extraordinaria de Inversionistas, Pei aprobó un mecanismo transitorio que le permitirá avanzar en la adquisición del portafolio inmobiliario de Terranum, operación que se venía planteando desde la Asamblea Ordinaria de marzo de este año",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Asamblea de Pei respalda adquisición del portafolio inmobiliario de Terranum",
+        "capturado": "2026-09-22T23:22:58-05:00"
+      },
+      {
+        "titulo": "FENALCO advierte peligros y solicita al Concejo capitalino rechazar nuevos impuestos distritales",
+        "url": "https://www.dataifx.com/post/fenalco-reitera-riesgos-y-pide-concejo-de-bogota-no-aprobar-mas-cargas-tributarias-en-la-reforma",
+        "resumen": "La Plenaria del Concejo de Bogotá se prepara para votar la Reforma Tributaria Distrital en medio de advertencias de FENALCO Bogotá Cundinamarca sobre los efectos de los incrementos propuestos en el impuesto de industria y comercio (ICA) para sectores específicos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FENALCO reitera riesgos y pide a Concejo de Bogotá no aprobar más cargas tributarias en la reforma distrital",
+        "capturado": "2026-09-22T23:22:58-05:00"
+      },
+      {
+        "titulo": "UPME entrega al Grupo Energía Bogotá la obra de transmisión Aguaclara en Boyacá y Casanare",
+        "url": "https://www.dataifx.com/post/upme-adjudica-al-grupo-energia-bogota-proyecto-de-transmision-aguaclara-en-casanare-y-boyaca",
+        "resumen": "La Unidad de Planeación Minero Energética (UPME) adjudicó al Grupo Energía Bogotá (GEB), a través de su filial Enlaza, el proyecto de transmisión de energía Aguaclara, que contempla la construcción de una nueva subestación de 230 kV en Casanare y cerca de 133 kilómetros de líneas de transmisión asociadas",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "UPME adjudica al Grupo Energía Bogotá proyecto de transmisión Aguaclara en Casanare y Boyacá",
+        "capturado": "2026-09-22T23:22:58-05:00"
+      },
       {
         "titulo": "XM establece fecha límite a Afinia, subsidiaria de EPM, para cancelar deudas de electricidad",
         "url": "https://www.dataifx.com/post/xm-fija-plazo-perentorio-afinia-filial-de-epm-para-pago-de-obligaciones-de-energia",
@@ -1087,36 +1117,6 @@
         "publicacion": "",
         "titulo_fuente": "Ecopetrol anuncia cambios en su Junta Directiva y en la Alta Dirección",
         "capturado": "2026-09-15T08:23:00-05:00"
-      },
-      {
-        "titulo": "Enel Colombia multiplica por dos la capacidad de la Subestación Nueva Esperanza en Soacha",
-        "url": "https://www.dataifx.com/post/enel-colombia-duplica-capacidad-de-subestacion-nueva-esperanza-en-soacha",
-        "resumen": "La Subestación Nueva Esperanza, ubicada en el municipio de Soacha, duplicó su capacidad de 450 MVA a 900 MVA tras la instalación de un segundo banco de autotransformación 500/115 kV",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Enel Colombia duplica capacidad de Subestación Nueva Esperanza en Soacha",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Suben las consultas de pasajes de avión hacia Colombia con miras al segundo semestre",
-        "url": "https://www.dataifx.com/post/aumentan-busquedas-de-tiquetes-aereos-hacia-colombia-para-el-segundo-semestre",
-        "resumen": "El interés internacional por viajar a Colombia continúa en ascenso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aumentan búsquedas de tiquetes aéreos hacia Colombia para el segundo semestre",
-        "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Usuarios de Transmetro en Barranquilla tendrán recargas habilitadas desde Nequi",
-        "url": "https://www.dataifx.com/post/barranquilleros-podran-recargar-transmetro-desde-nequi",
-        "resumen": "Los usuarios de Nequi ya pueden recargar sus tarjetas del sistema de transporte masivo Transmetro directamente desde la aplicación, con montos entre $3",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Barranquilleros podrán recargar Transmetro desde Nequi",
-        "capturado": "2026-09-14T15:15:03-05:00"
       }
     ],
     "Empresas Internacional": [
