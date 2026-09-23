@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-23T11:38:47-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-23T16:23:01-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Vicepresidente alerta peligro de apagón y exige reactivar la inversión energética",
+        "url": "https://www.dataifx.com/post/vicepresidente-advierte-riesgo-de-apagon-y-pide-recuperar-inversion-en-energia",
+        "resumen": "Durante la instalación del Congreso de Andesco 28, realizado en Cartagena, y en donde dataiFX está presente, el vicepresidente de la República, José Manuel Restrepo, afirmó que el Gobierno nacional trabaja para evitar que Colombia llegue a un escenario de apagón energético y señaló las dificultades que, según dijo, encontró la actual administración en el sector",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Vicepresidente advierte riesgo de apagón y pide recuperar inversión en energía",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
+      {
+        "titulo": "Peticiones en la Corte Constitucional alterarían las fechas de la reforma pensional",
+        "url": "https://www.dataifx.com/post/solicitudes-ante-corte-constitucional-podrian-cambiar-cronograma-de-reforma-pensional",
+        "resumen": "El presidente de Asofondos, Andrés Velasco, explicó que la reforma pensional aprobada por la Corte Constitucional enfrenta nuevas solicitudes que podrían modificar las fechas de su entrada en vigencia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Solicitudes ante Corte Constitucional podrían cambiar cronograma de reforma pensional",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
+      {
+        "titulo": "Galán informa que pasivos tributarios y sanciones tendrían rebaja del 60% al pasar tributaria",
+        "url": "https://www.dataifx.com/post/alcalde-galan-anuncia-que-deudas-con-impuestos-y-multas-tendrian-alivio-del-60-si-se-aprueba",
+        "resumen": "El alcalde mayor de Bogotá, Carlos Fernando Galán, anunció que si el Concejo aprueba el Acuerdo por una Ciudad Inteligente, los ciudadanos con deudas por impuestos o multas de tránsito podrían acceder a un descuento de hasta el 60%",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Alcalde Galán anuncia que deudas con impuestos y multas tendrían alivio del 60% si se aprueba tributaria",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
       {
         "titulo": "Bancolombia prevé desaceleración y moderación de precios a causa del Fenómeno de El Niño",
         "url": "https://www.dataifx.com/post/bancolombia-proyecta-menor-crecimiento-y-ajuste-inflacionario-por-efectos-del-fenomeno-de-el-nino",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Banco de la República restablece servicio de ventanilla de tesorería en Cali",
         "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Ejecutivo habilitará trabajos extras a concesiones para arreglar vías dañadas por temblor",
-        "url": "https://www.dataifx.com/post/gobierno-podra-ordenar-obras-adicionales-concesionarios-para-recuperar-vias-afectadas-por-el-sismo",
-        "resumen": "La recuperación de las vías afectadas por el sismo del 10 de agosto tendrá un mecanismo distinto al previsto normalmente para modificar o ampliar los contratos de concesión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno podrá ordenar obras adicionales a concesionarios para recuperar vías afectadas por el sismo",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Afectados tendrán casa propia sin dar cuota inicial ni tener ahorro previo",
-        "url": "https://www.dataifx.com/post/damnificados-accederan-vivienda-sin-cuota-inicial-ni-ahorro-previo",
-        "resumen": "El acceso a los subsidios de vivienda para las familias afectadas por el sismo del 10 de agosto tendrá, de manera temporal, reglas distintas a las que operan en condiciones normales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Damnificados accederán a vivienda sin cuota inicial ni ahorro previo",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "David Vélez, creador de Nubank, asesorará al Gobierno en transformación digital",
-        "url": "https://www.dataifx.com/post/david-velez-fundador-de-nubank-acompanara-al-gobierno-como-asesor-en-transformacion-digital",
-        "resumen": "El presidente electo Abelardo De La Espriella anunció que David Vélez, fundador de Nubank, asumirá el rol de asesor ad honorem en el proceso de incorporación de inteligencia artificial en Colombia",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "David Vélez, fundador de Nubank, acompañará al Gobierno como asesor en transformación digital",
-        "capturado": "2026-09-18T15:45:02-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Apple habilita en Colombia un método inédito para pagos mediante iPhone",
+        "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
+        "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
+      {
+        "titulo": "Fedegán calcula en $100.000 millones las pérdidas ganaderas por El Niño",
+        "url": "https://www.dataifx.com/post/perdidas-en-ganaderia-por-fenomeno-el-nino-rondan-los-100000-millones-segun-fedegan",
+        "resumen": "Las afectaciones causadas por el fenómeno de El Niño continúan impactando al sector ganadero colombiano",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pérdidas en ganadería por fenómeno El Niño rondan los $100.000 millones, según Fedegán",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
+      {
+        "titulo": "Findeter y Banco de Bogotá respaldan proyecto solar en Meta por $105.000 millones",
+        "url": "https://www.dataifx.com/post/banco-de-bogota-y-findeter-financian-con-105000-millones-proyecto-de-energia-solar-en-el-meta",
+        "resumen": "La infraestructura energética del departamento del Meta sumará una nueva capacidad de generación renovable tras concretarse el cierre financiero para un portafolio solar de 39 MWp (megavatios pico)",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Banco de Bogotá y Findeter financian con $105.000 millones proyecto de energía solar en el Meta",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
       {
         "titulo": "FinDev Canadá otorga préstamo por US$60 millones a Davivienda para vivienda social y transición verde",
         "url": "https://www.dataifx.com/post/davivienda-obtiene-credito-de-us60-millones-de-findev-canada-para-vivienda-social-y-transicion-baja",
@@ -1087,39 +1117,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno y Red Invest definen ruta para acelerar inversiones en las regiones",
         "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Ventas crecen por Amor y Amistad y se enciende Bogotá Despierta",
-        "url": "https://www.dataifx.com/post/amor-y-amistad-impulsa-las-ventas-y-activa-bogota-despierta",
-        "resumen": "La celebración de Amor y Amistad este sábado 19 de septiembre marca uno de los momentos más importantes del calendario comercial en Bogotá",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Amor y Amistad impulsa las ventas y activa Bogotá Despierta",
-        "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Enel Colombia lanza más de 120 puestos de pasantías para 2027",
-        "url": "https://www.dataifx.com/post/enel-colombia-abre-mas-de-120-vacantes-para-practicas-profesionales-en-2027",
-        "resumen": "Enel Colombia anunció la apertura de más de 120 cupos para estudiantes universitarios que deseen realizar sus prácticas profesionales durante el primer semestre de 2027",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Enel Colombia abre más de 120 vacantes para prácticas profesionales en 2027",
-        "capturado": "2026-09-15T13:04:43-05:00"
-      },
-      {
-        "titulo": "Transporte intermunicipal dialoga con el Ejecutivo sobre turismo y empleo",
-        "url": "https://www.dataifx.com/post/transporte-intermunicipal-se-sienta-con-el-gobierno-para-hablar-de-turismo-y-empleo",
-        "resumen": "El próximo 17 de septiembre se llevará a cabo en Montenegro, Quindío, el Congreso Nacional de Transporte y Turismo, un encuentro que reunirá a empresarios del transporte intermunicipal, autoridades del Gobierno Nacional y congresistas para definir una agenda que impulse la reactivación del sector y fortalezca la conectividad en el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Transporte intermunicipal se sienta con el Gobierno para hablar de turismo y empleo",
-        "capturado": "2026-09-15T08:23:00-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Apple habilita en Colombia una nueva modalidad de cobros mediante iPhone",
+        "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
+        "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
+        "capturado": "2026-09-23T16:23:01-05:00"
+      },
       {
         "titulo": "Bold alista su llegada a Perú y robustece su portafolio en Colombia",
         "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
