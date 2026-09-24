@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-24T02:30:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T08:27:56-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Las comisiones económicas aprueban en primer debate el presupuesto de 2027 por 634,9 billones que avanza en el Congreso",
+        "url": "https://www.dataifx.com/post/presupuesto-de-2027-por-6349-billones-avanza-en-el-congreso-tras-aprobacion-de-las-comisiones",
+        "resumen": "Las comisiones económicas conjuntas del Congreso aprobaron en primer debate el proyecto de Presupuesto General de la Nación para 2027, que contempla apropiaciones por $634,952 billones y continuará ahora su trámite en las plenarias del Senado y la Cámara de Representantes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2027 por $634,9 billones avanza en el Congreso tras aprobación de las comisiones económicas en primer debate",
+        "capturado": "2026-09-24T08:27:56-05:00"
+      },
       {
         "titulo": "Ecopetrol debe recuperar su puesto como la principal compañía nacional según el líder de Andesco",
         "url": "https://www.dataifx.com/post/ecopetrol-tiene-que-volverse-nuevamente-la-primera-empresa-del-pais-presidente-de-andesco",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Decreto 1414 permite destinar al menos 30% de saldos de regalías a atender la emergencia por el terremoto",
-        "capturado": "2026-09-18T19:05:27-05:00"
-      },
-      {
-        "titulo": "Gobierno autoriza al FFIE a remodelar universidades públicas impactadas por el temblor",
-        "url": "https://www.dataifx.com/post/gobierno-habilita-al-ffie-para-intervenir-universidades-publicas-afectadas-por-el-terremoto",
-        "resumen": "El Ministerio de Educación Nacional obtuvo, mediante el Decreto 1421 del 17 de septiembre de 2026, la facultad transitoria para que el Fondo de Financiamiento de la Infraestructura Educativa (FFIE) intervenga en instituciones de educación superior, un nivel que la ley no contemplaba dentro de su objeto original",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno habilita al FFIE para intervenir universidades públicas afectadas por el terremoto",
         "capturado": "2026-09-18T19:05:27-05:00"
       }
     ],
