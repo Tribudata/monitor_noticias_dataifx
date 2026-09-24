@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-24T13:21:59-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-24T18:08:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "USO aplaude nombramiento de Joaquín Gutiérrez en Ecopetrol y solicita robustecer el sector petrolero",
+        "url": "https://www.dataifx.com/post/uso-saluda-designacion-de-joaquin-gutierrez-en-ecopetrol-y-pide-fortalecer-la-industria-petrolera",
+        "resumen": "La Unión Sindical Obrera, USO, se pronunció sobre la designación de Joaquín Gutiérrez Caballero como nuevo presidente y representante legal principal de Ecopetrol y manifestó su disposición a establecer un diálogo con la nueva administración de la compañía",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "USO saluda designación de Joaquín Gutiérrez en Ecopetrol y pide fortalecer la industria petrolera",
+        "capturado": "2026-09-24T18:08:35-05:00"
+      },
+      {
+        "titulo": "Desde la ONU, el vicepresidente invita a poner capital y expandirse en el territorio nacional",
+        "url": "https://www.dataifx.com/post/vengan-colombia-vicepresidente-llama-desde-la-onu-invertir-y-crecer-en-el-pais",
+        "resumen": "En la Asamblea General de las Naciones Unidas, el vicepresidente José Manuel Restrepo, en representación del presidente Abelardo De La Espriella, dejó un mensaje sobre el rumbo que busca tomar Colombia: un país que quiere volver a confiar en sí mismo, recuperar oportunidades y abrirse al mundo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "“Vengan a Colombia”: Vicepresidente llama desde la ONU a invertir y crecer en el país",
+        "capturado": "2026-09-24T18:08:35-05:00"
+      },
       {
         "titulo": "Procurador crea Delegada para servicios públicos y avisa sobre pasivos de entes territoriales",
         "url": "https://www.dataifx.com/post/procurador-anuncia-creacion-de-procuraduria-nacional-delegada-para-servicios-publicos-y-advierte",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "EPM avanza en el aumento gradual del embalse de Hidroituango ante condiciones de sequía",
         "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Anif resalta la sustitución del Sisbén por el RUI para orientar las ayudas sociales",
-        "url": "https://www.dataifx.com/post/anif-destaca-el-cambio-del-sisben-al-rui-para-focalizar-los-programas-sociales",
-        "resumen": "El Centro de Pensamiento Económico de Anif presentó en su Informe Semanal No",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Anif destaca el cambio del Sisbén al RUI para focalizar los programas sociales",
-        "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Administración distrital y Gobierno fijan plan para promover iniciativas de turismo y producción",
-        "url": "https://www.dataifx.com/post/gobierno-y-alcaldia-de-cartagena-acuerdan-agenda-para-impulsar-proyectos-turisticos-y-productivos",
-        "resumen": "El Gobierno del presidente Abelardo De La Espriella y la Alcaldía de Cartagena acordaron trabajar de manera conjunta en una agenda orientada a acelerar proyectos estratégicos para la ciudad y fortalecer su posición como destino turístico en Colombia y el Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno y Alcaldía de Cartagena acuerdan agenda para impulsar proyectos turísticos y productivos",
-        "capturado": "2026-09-21T15:22:01-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Exploración, gas y bombeo: focos que gremios sugieren al nuevo líder de Ecopetrol",
+        "url": "https://www.dataifx.com/post/produccion-gas-y-exploracion-prioridades-que-gremios-plantean-nuevo-presidente-de-ecopetrol",
+        "resumen": "Varios gremios relacionados con la industria energética expresaron su respaldo al nombramiento de Joaquín Gutiérrez Caballero como nuevo presidente de Ecopetrol S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Producción, gas y exploración: prioridades que gremios plantean a nuevo presidente de Ecopetrol",
+        "capturado": "2026-09-24T18:08:35-05:00"
+      },
+      {
+        "titulo": "Uber Mujeres desembarca en el país: pasajeras tendrán opción de viajes con conductoras",
+        "url": "https://www.dataifx.com/post/uber-mujeres-llega-colombia-usuarias-podran-solicitar-viajes-con-conductoras",
+        "resumen": "La plataforma Uber anunció el lanzamiento de Uber Mujeres en Colombia, una nueva opción dentro de su aplicación que permitirá a las usuarias solicitar trayectos preferiblemente con conductoras",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Uber Mujeres llega a Colombia: usuarias podrán solicitar viajes con conductoras",
+        "capturado": "2026-09-24T18:08:35-05:00"
+      },
+      {
+        "titulo": "Es oficial: Joaquín Gutiérrez asume la presidencia de Ecopetrol",
+        "url": "https://www.dataifx.com/post/confirmado-joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol",
+        "resumen": "Ecopetrol informó que su Junta Directiva designó por unanimidad a Joaquín Gutiérrez Caballero como nuevo presidente y representante legal principal de la compañía",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "¡Confirmado! Joaquín Gutiérrez es el nuevo presidente de Ecopetrol",
+        "capturado": "2026-09-24T18:08:35-05:00"
+      },
       {
         "titulo": "Temas centrales del Congreso Colombiano de la Construcción: IA, inversión y vivienda",
         "url": "https://www.dataifx.com/post/vivienda-inversion-e-ia-los-temas-que-marcaran-el-congreso-colombiano-de-la-construccion",
@@ -1087,36 +1117,6 @@
         "publicacion": "",
         "titulo_fuente": "MinTIC advierte riesgos en acceso a fibra óptica por integración entre Comcel y Azteca",
         "capturado": "2026-09-16T11:37:41-05:00"
-      },
-      {
-        "titulo": "Imponen sanción a Productos EPA Colombia por errores en garantías y datos a compradores",
-        "url": "https://www.dataifx.com/post/sancionan-productos-epa-colombia-por-fallas-en-garantias-e-informacion-al-consumidor",
-        "resumen": "La Superintendencia de Industria y Comercio (SIC) impuso una multa de $140,4 millones a Productos EPA Colombia S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Sancionan a Productos EPA Colombia por fallas en garantías e información al consumidor",
-        "capturado": "2026-09-16T11:37:41-05:00"
-      },
-      {
-        "titulo": "Grupo Aval anticipa golpe de 500.000 millones de pesos ante alza del ICA en Bogotá",
-        "url": "https://www.dataifx.com/post/grupo-aval-advierte-impacto-de-500000-millones-por-posible-aumento-del-ica-en-bogota",
-        "resumen": "La propuesta de la Alcaldía de Bogotá de elevar la tarifa del Impuesto de Industria y Comercio (ICA) para las actividades del sector financiero ha generado nuevas reacciones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Aval advierte impacto de $500.000 millones por posible aumento del ICA en Bogotá",
-        "capturado": "2026-09-15T17:49:26-05:00"
-      },
-      {
-        "titulo": "Revolut consigue permiso para operar como banco en Colombia y alista su apertura",
-        "url": "https://www.dataifx.com/post/revolut-obtiene-licencia-bancaria-en-colombia-y-se-prepara-para-su-lanzamiento",
-        "resumen": "La Superintendencia Financiera de Colombia (SFC) otorgó a Revolut su licencia de funcionamiento, lo que marca el último paso regulatorio antes de su entrada oficial al mercado colombiano",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Revolut obtiene licencia bancaria en Colombia y se prepara para su lanzamiento",
-        "capturado": "2026-09-15T17:49:26-05:00"
       }
     ],
     "Empresas Internacional": [
