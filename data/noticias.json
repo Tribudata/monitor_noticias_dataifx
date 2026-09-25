@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-25T11:59:28-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-25T16:24:29-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Arrancan trabajos de la ALO Sur para optimizar movilidad entre Bogotá, Soacha y Sibaté",
+        "url": "https://www.dataifx.com/post/inician-obras-de-la-alo-sur-proyecto-vial-que-busca-mejorar-conexion-entre-bogota-soacha-y-sibate",
+        "resumen": "Las obras de la Avenida Longitudinal de Occidente (ALO) Sur entraron oficialmente en fase de construcción, según informó la Agencia Nacional de Infraestructura (ANI), entidad que lidera el proyecto junto con el Instituto de Desarrollo Urbano (IDU) y otras autoridades",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inician obras de la ALO Sur, proyecto vial que busca mejorar conexión entre Bogotá, Soacha y Sibaté",
+        "capturado": "2026-09-25T16:24:29-05:00"
+      },
+      {
+        "titulo": "José Camilo Manzur dimite a la dirección de ASOCODIS tras dos décadas liderando el gremio",
+        "url": "https://www.dataifx.com/post/jose-camilo-manzur-renuncia-la-presidencia-de-asocodis-tras-20-anos-al-frente-del-gremio",
+        "resumen": "José Camilo Manzur Jattin presentó su carta de renuncia a la presidencia de la Asociación Colombiana de Distribuidores y Comercializadores de Energía Eléctrica, ASOCODIS, luego de 20 años de acompañar a las empresas afiliadas y ejercer la representación del sector de distribución y comercialización de energía eléctrica en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "José Camilo Manzur renuncia a la presidencia de ASOCODIS tras 20 años al frente del gremio",
+        "capturado": "2026-09-25T16:24:29-05:00"
+      },
       {
         "titulo": "Olibia emerge como solución de inteligencia artificial para servicios públicos latinoamericanos",
         "url": "https://www.dataifx.com/post/olibia-se-lanza-como-plataforma-de-inteligencia-artificial-para-empresas-de-servicios-publicos-en",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Contraloría asume control fiscal sobre la Primera Línea del Metro de Bogotá ante retrasos en la ejecución",
         "capturado": "2026-09-22T08:18:35-05:00"
-      },
-      {
-        "titulo": "Ejecutivo aplicará compra de cartera con tasa cero para destrabar servicios de salud",
-        "url": "https://www.dataifx.com/post/gobierno-implementara-compra-de-cartera-al-0-de-interes-para-destrabar-atencion-en-salud",
-        "resumen": "El Gobierno Nacional anunció la primera fase de un Plan de Choque en Salud que busca atender a más de un millón de pacientes que tienen pendientes medicamentos, tratamientos o procedimientos médicos especializados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno implementará compra de cartera al 0% de interés para destrabar atención en salud",
-        "capturado": "2026-09-22T08:18:35-05:00"
-      },
-      {
-        "titulo": "Parlamento y Gobierno discuten Presupuesto 2027 y alertan falta de recursos para inversión",
-        "url": "https://www.dataifx.com/post/congreso-busca-consenso-con-el-gobierno-en-presupuesto-2027-pero-advierte-insuficiencia-en",
-        "resumen": "El senador Cristhian Garcés aseguró en declaraciones a Blu Radio, que “hay ánimo del Congreso de ponerse de acuerdo con el Gobierno” frente al Presupuesto General de la Nación para 2027, aunque persiste la preocupación por los recursos destinados a inversión, considerados insuficientes ante las necesidades de las regiones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Congreso busca consenso con el Gobierno en Presupuesto 2027, pero advierte insuficiencia en inversión",
-        "capturado": "2026-09-22T02:35:36-05:00"
       }
     ],
     "Macro Internacional": [
@@ -678,6 +678,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "GEB concreta préstamo hasta por $2 billones con Bancolombia destinado a propósitos corporativos",
+        "url": "https://www.dataifx.com/post/grupo-energia-bogota-firma-credito-por-hasta-2-billones-con-bancolombia-para-fines-corporativos",
+        "resumen": "El Grupo Energía Bogotá (GEB) informó que suscribió un contrato de crédito con Bancolombia por hasta $2 billones, recursos que serán destinados a atender necesidades corporativas generales de la compañía",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Energía Bogotá firma crédito por hasta $2 billones con Bancolombia para fines corporativos",
+        "capturado": "2026-09-25T16:24:29-05:00"
+      },
+      {
+        "titulo": "El directorio de 4-72 saca a Fuad Abdala de la presidencia de la entidad",
+        "url": "https://www.dataifx.com/post/junta-directiva-de-4-72-retira-de-la-presidencia-fuad-abdala",
+        "resumen": "La Junta Directiva de la empresa estatal de servicios postales 4-72 decidió remover de la presidencia de la compañía a Fuad Abdala Salaiman Verbel, según informó este viernes el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Junta Directiva de 4-72 retira de la presidencia a Fuad Abdala",
+        "capturado": "2026-09-25T16:24:29-05:00"
+      },
       {
         "titulo": "Bruce Mac Master habla y pide cuidar la independencia de la ANDI",
         "url": "https://www.dataifx.com/post/bruce-mac-master-rompe-el-silencio-y-llama-proteger-la-autonomia-de-la-andi",
@@ -1106,26 +1126,6 @@
         "subseccion": "Macro Colombia",
         "publicacion": "",
         "titulo_fuente": "Ventas minoristas crecieron 5,3% en julio",
-        "capturado": "2026-09-16T11:37:41-05:00"
-      },
-      {
-        "titulo": "Obras portuarias en Cartagena atenderán hasta el 85% de la demanda nacional de GLP",
-        "url": "https://www.dataifx.com/post/infraestructura-portuaria-en-cartagena-permitira-cubrir-hasta-el-85-de-la-demanda-nacional-de-glp",
-        "resumen": "El sector del Gas Licuado del Petróleo (GLP) en Colombia avanza en la consolidación de su infraestructura portuaria en Cartagena, con el objetivo de garantizar el suministro nacional ante la caída sostenida de la producción de gas natural",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Infraestructura portuaria en Cartagena permitirá cubrir hasta el 85% de la demanda nacional de GLP",
-        "capturado": "2026-09-16T11:37:41-05:00"
-      },
-      {
-        "titulo": "Modificación sanitaria viabiliza la entrada de bienes compuestos colombianos a la UE",
-        "url": "https://www.dataifx.com/post/ajuste-sanitario-facilita-ingreso-de-productos-compuestos-colombianos-la-union-europea",
-        "resumen": "El Ministerio de Comercio, Industria y Turismo informó que la Unión Europea aprobó un ajuste en los requisitos sanitarios para la importación de productos compuestos colombianos, lo que permitirá simplificar procesos y abrir nuevas oportunidades de exportación",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ajuste sanitario facilita ingreso de productos compuestos colombianos a la Unión Europea",
         "capturado": "2026-09-16T11:37:41-05:00"
       }
     ],
