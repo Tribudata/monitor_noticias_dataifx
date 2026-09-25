@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-24T18:08:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-24T23:31:01-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Banco Mundial gira US$200 millones extra para ayudar en la reconstrucción colombiana por sismo",
+        "url": "https://www.dataifx.com/post/banco-mundial-aprueba-us200-millones-adicionales-para-apoyar-recuperacion-de-colombia-tras",
+        "resumen": "El Grupo Banco Mundial anunció la aprobación de un financiamiento adicional por US$200 millones para fortalecer la respuesta y la recuperación de Colombia tras el terremoto ocurrido el pasado 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco Mundial aprueba US$200 millones adicionales para apoyar recuperación de Colombia tras terremoto",
+        "capturado": "2026-09-24T23:31:01-05:00"
+      },
+      {
+        "titulo": "Mandatario De La Espriella solicitó la salida del director de Colpensiones tras intervención en Senado",
+        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-pidio-renuncia-del-presidente-de-colpensiones-tras-presentacion-en-el",
+        "resumen": "El presidente de la República, Abelardo De La Espriella, solicitó la renuncia del presidente de Colpensiones, Carlos René Montoya Muñoz, quien puso su cargo a disposición del Gobierno Nacional, según informó la Presidencia en un comunicado divulgado este 24 de septiembre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De La Espriella pidió renuncia del presidente de Colpensiones tras presentación en el Senado",
+        "capturado": "2026-09-24T23:31:01-05:00"
+      },
       {
         "titulo": "USO aplaude nombramiento de Joaquín Gutiérrez en Ecopetrol y solicita robustecer el sector petrolero",
         "url": "https://www.dataifx.com/post/uso-saluda-designacion-de-joaquin-gutierrez-en-ecopetrol-y-pide-fortalecer-la-industria-petrolera",
@@ -432,26 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Patria Investments vende a Isagen su participación controlante en el parque solar Puerta de Oro",
-        "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Cajas de Compensación podrán trasladar hasta $550 mil millones para auxiliar a familias damnificadas por el sismo",
-        "url": "https://www.dataifx.com/post/cajas-de-compensacion-podran-movilizar-hasta-550-mil-millones-para-atender-familias-afectadas-por",
-        "resumen": "Las Cajas de Compensación Familiar podrán movilizar hasta $550 mil millones para apoyar la recuperación de las familias y territorios afectados por el terremoto del pasado 10 de agosto, a partir de las medidas establecidas por el Gobierno Nacional en los Decretos 1417 y 1422 de 2026",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Cajas de Compensación podrán movilizar hasta $550 mil millones para atender a familias afectadas por el terremoto",
-        "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "EPM progresa en el incremento paulatino del embalse de Hidroituango frente a escenarios de escasez de lluvias",
-        "url": "https://www.dataifx.com/post/epm-avanza-en-el-aumento-gradual-del-embalse-de-hidroituango-ante-condiciones-de-sequia",
-        "resumen": "EPM avanza en el aumento gradual y controlado del nivel del embalse de Hidroituango hacia la cota 420 metros sobre el nivel del mar, como parte de las medidas adoptadas frente a las condiciones hidroclimáticas deficitarias asociadas al fenómeno de El Niño 2026–2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EPM avanza en el aumento gradual del embalse de Hidroituango ante condiciones de sequía",
         "capturado": "2026-09-21T15:22:01-05:00"
       }
     ],
