@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-25T16:24:29-05:00",
+  "actualizado": "2026-09-25T19:28:39-05:00",
   "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Corte Constitucional evaluará solicitud de Colpensiones para postergar la pensional al año 2028",
+        "url": "https://www.dataifx.com/post/corte-constitucional-estudiara-pedido-de-colpensiones-para-aplazar-la-pensional-hasta-2028",
+        "resumen": "La entrada en vigencia de la reforma pensional volverá a estar bajo análisis de la Corte Constitucional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Corte Constitucional estudiará pedido de Colpensiones para aplazar la pensional hasta 2028",
+        "capturado": "2026-09-25T19:28:39-05:00"
+      },
+      {
+        "titulo": "BBVA Research subió al 2,3% su pronóstico de expansión para Colombia en 2027",
+        "url": "https://www.dataifx.com/post/bbva-research-elevo-su-prevision-de-crecimiento-para-colombia-en-2027-al-23",
+        "resumen": "La economía colombiana se encamina hacia un cambio en sus motores de crecimiento",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BBVA Research elevó su previsión de crecimiento para Colombia en 2027 al 2,3%",
+        "capturado": "2026-09-25T19:28:39-05:00"
+      },
+      {
+        "titulo": "Racionamiento de gas: Andeg avisa impactos en el sector industrial",
+        "url": "https://www.dataifx.com/post/racionamiento-de-gas-andeg-advierte-efectos-sobre-la-industria",
+        "resumen": "La declaración de racionamiento programado de gas natural anunciada por el Ministerio de Minas y Energía responde a una condición técnica presentada en la infraestructura de regasificación de SPEC LNG, que redujo temporalmente la capacidad de entrega de gas importado al mercado nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Racionamiento de gas: Andeg advierte efectos sobre la industria",
+        "capturado": "2026-09-25T19:28:39-05:00"
+      },
+      {
+        "titulo": "Naturgas solicita agilizar iniciativas de gas tras falla operativa en SPEC",
+        "url": "https://www.dataifx.com/post/naturgas-pide-acelerar-proyectos-de-gas-tras-contingencia-operativa-en-spec",
+        "resumen": "La Asociación Colombiana de Gas Natural, Naturgas, señaló que la condición operativa imprevista reportada por SPEC LNG en uno de los cuatro trenes de su unidad flotante de almacenamiento y regasificación pone de manifiesto la necesidad de avanzar en proyectos orientados a fortalecer y diversificar el abastecimiento de gas natural en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Naturgas pide acelerar proyectos de gas tras contingencia operativa en SPEC",
+        "capturado": "2026-09-25T19:28:39-05:00"
+      },
       {
         "titulo": "Arrancan trabajos de la ALO Sur para optimizar movilidad entre Bogotá, Soacha y Sibaté",
         "url": "https://www.dataifx.com/post/inician-obras-de-la-alo-sur-proyecto-vial-que-busca-mejorar-conexion-entre-bogota-soacha-y-sibate",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Taxis podrán movilizarse entre municipios contiguos sin planilla, excepto en territorios afectados por terremoto",
         "capturado": "2026-09-22T13:01:55-05:00"
-      },
-      {
-        "titulo": "Andesco solicita anular la medida que fija el nuevo esquema de tarifas para el aseo",
-        "url": "https://www.dataifx.com/post/andesco-pide-revocar-resolucion-que-establece-nuevo-marco-tarifario-del-servicio-de-aseo",
-        "resumen": "La Asociación Nacional de Empresas de Servicios Públicos y Comunicaciones, Andesco, presentó ante el Gobierno Nacional una solicitud de revocatoria directa de la Resolución CRA 1040 del 30 de julio de 2026, mediante la cual se establece el nuevo marco tarifario para el servicio público de aseo en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Andesco pide revocar resolución que establece nuevo marco tarifario del servicio de aseo",
-        "capturado": "2026-09-22T08:18:35-05:00"
-      },
-      {
-        "titulo": "FNC sube la tarifa de adquisición de la pasilla por impactos del Fenómeno de El Niño",
-        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-eleva-el-precio-de-compra-de-la-pasilla-ante-efectos-del-fenomeno-de-el",
-        "resumen": "La Federación Nacional de Cafeteros anunció un ajuste en el precio de compra de la pasilla contenida en el café pergamino, que pasó de $10",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Federación de Cafeteros eleva el precio de compra de la pasilla ante efectos del Fenómeno de El Niño",
-        "capturado": "2026-09-22T08:18:35-05:00"
-      },
-      {
-        "titulo": "Sencia detalla cronograma de El Campín por show de BTS y obras",
-        "url": "https://www.dataifx.com/post/sencia-aclara-agenda-de-el-campin-ante-concierto-de-bts-y-mantenimiento",
-        "resumen": "Sencia, operador del estadio Nemesio Camacho de Bogotá, informó a la ciudadanía sobre la programación de eventos deportivos y culturales que se ha desarrollado durante 2026 en el escenario, así como sobre las actividades previstas entre el 23 de septiembre y el 16 de octubre",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Sencia aclara agenda de El Campín ante concierto de BTS y mantenimiento",
-        "capturado": "2026-09-22T08:18:35-05:00"
-      },
-      {
-        "titulo": "Contraloría toma vigilancia fiscal de la Primera Línea del Metro por demoras en la obra",
-        "url": "https://www.dataifx.com/post/contraloria-asume-control-fiscal-sobre-la-primera-linea-del-metro-de-bogota-ante-retrasos-en-la",
-        "resumen": "La Contraloría General de la República ordenó un nuevo seguimiento permanente a la Primera Línea del Metro de Bogotá y asumió la competencia prevalente para ejercer de manera integral la vigilancia y el control fiscal sobre el proyecto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Contraloría asume control fiscal sobre la Primera Línea del Metro de Bogotá ante retrasos en la ejecución",
-        "capturado": "2026-09-22T08:18:35-05:00"
       }
     ],
     "Macro Internacional": [
