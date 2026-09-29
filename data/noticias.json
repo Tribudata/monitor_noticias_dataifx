@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-28T20:43:24-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-29T03:16:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Ministerio de Hacienda solicita al FMI anticipar la visita para analizar la economía nacional",
+        "url": "https://www.dataifx.com/post/minhacienda-pide-al-fmi-adelantar-su-mision-para-evaluar-la-situacion-economica-de-colombia",
+        "resumen": "El Gobierno anunció que solicitó al Fondo Monetario Internacional (FMI) adelantar la misión de su equipo técnico para realizar una evaluación de la situación económica y fiscal de Colombia, así como de los planes de la administración en materia macroeconómica",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda pide al FMI adelantar su misión para evaluar la situación económica de Colombia",
+        "capturado": "2026-09-29T03:16:19-05:00"
+      },
       {
         "titulo": "Administración colombiana solicita al FMI examinar las cuentas y la economía nacional",
         "url": "https://www.dataifx.com/post/gobierno-de-colombia-pide-al-fmi-revisar-las-finanzas-y-la-economia-del-pais",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "MinVivienda pone el foco en los proyectos de agua sin financiación y pide al sector buscar nuevas alternativas",
-        "capturado": "2026-09-23T19:21:27-05:00"
-      },
-      {
-        "titulo": "MinVivienda advierte peligro en localidades por el Fenómeno del Niño y urge activar estrategias",
-        "url": "https://www.dataifx.com/post/minvivienda-alerta-por-municipios-en-riesgo-ante-el-fenomeno-del-nino-y-pide-activar-planes-de",
-        "resumen": "Durante la instalación del Congreso Andesco en Cartagena, el ministro de Vivienda, Jaime Andrés Beltrán, llamó la atención sobre las condiciones que enfrentan distintos municipios del país ante el Fenómeno del Niño y pidió a las entidades territoriales y a los prestadores de los servicios de agua activar desde ahora mecanismos de prevención y respuesta",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinVivienda alerta por municipios en riesgo ante el Fenómeno del Niño y pide activar planes de acción",
         "capturado": "2026-09-23T19:21:27-05:00"
       }
     ],
