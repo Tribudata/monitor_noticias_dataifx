@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-29T03:16:19-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-29T11:26:55-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
       {
@@ -679,6 +679,36 @@
     ],
     "Empresas Colombia": [
       {
+        "titulo": "Desde octubre Satena inaugurará vuelo sin escalas entre Montería y Ciudad de Panamá",
+        "url": "https://www.dataifx.com/post/satena-abrira-ruta-directa-entre-monteria-y-ciudad-de-panama-desde-octubre",
+        "resumen": "La aerolínea estatal SATENA anunció la apertura de una ruta internacional directa entre Montería y Ciudad de Panamá, una operación que comenzará el próximo 26 de octubre y que busca ampliar las opciones de conectividad aérea para el departamento de Córdoba y la región Caribe",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "SATENA abrirá ruta directa entre Montería y Ciudad de Panamá desde octubre",
+        "capturado": "2026-09-29T11:26:55-05:00"
+      },
+      {
+        "titulo": "Tejo Turmequé retorna a a2censo por hasta $2.700 millones para fondear su crecimiento",
+        "url": "https://www.dataifx.com/post/tejo-turmeque-vuelve-a2censo-en-busca-de-hasta-2700-millones-para-financiar-su-expansion",
+        "resumen": "La compañía de entretenimiento Tejo Turmequé abrió una nueva campaña de financiación en a2censo, la plataforma de inversión de la Bolsa de Valores de Colombia (bvc), con la que busca recaudar entre $1",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Tejo Turmequé vuelve a a2censo en busca de hasta $2.700 millones para financiar su expansión",
+        "capturado": "2026-09-29T11:26:55-05:00"
+      },
+      {
+        "titulo": "Avianca y Terpel extienden pacto de suministro de combustible hasta septiembre de 2027",
+        "url": "https://www.dataifx.com/post/avianca-y-terpel-prolongan-acuerdo-de-abastecimiento-de-combustible-hasta-septiembre-de-2027",
+        "resumen": "Organización Terpel anunció la extensión por un año adicional del contrato que mantiene para el suministro de combustible de aviación a varias compañías vinculadas al grupo Avianca, acuerdo cuyo valor estimado para el nuevo periodo asciende a US$557,6 millones",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Avianca y Terpel prolongan acuerdo de abastecimiento de combustible hasta septiembre de 2027",
+        "capturado": "2026-09-29T11:26:55-05:00"
+      },
+      {
         "titulo": "Socios del GEB aprueban trámite para una posible llegada a la bolsa de Estados Unidos",
         "url": "https://www.dataifx.com/post/accionistas-de-geb-avalan-proceso-para-buscar-un-eventual-ingreso-al-mercado-bursatil-de-estados",
         "resumen": "La Asamblea General de Accionistas del Grupo Energía Bogotá (GEB) autorizó a la compañía para iniciar el trámite de registro ante la U",
@@ -1097,36 +1127,6 @@
         "publicacion": "",
         "titulo_fuente": "Lulo Bank amplía su operación a empresas: así funcionará su nueva oferta de banca digital",
         "capturado": "2026-09-17T17:46:18-05:00"
-      },
-      {
-        "titulo": "SuperGIROS aportará quince mil millones de pesos para levantar seiscientas veinte casas por sismo en Chocó",
-        "url": "https://www.dataifx.com/post/supergiros-donara-15000-millones-para-reconstruir-620-viviendas-afectadas-por-terremoto-en-choco",
-        "resumen": "SuperGIROS anunció una donación de $15",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SuperGIROS donará $15.000 millones para reconstruir 620 viviendas afectadas por terremoto en Chocó",
-        "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "El setenta por ciento de créditos con respaldo de FGA Fondo de Garantías fue creado por fintechs de enero a julio de 2026",
-        "url": "https://www.dataifx.com/post/fintechs-originaron-70-de-creditos-respaldados-por-fga-fondo-de-garantias-entre-enero-y-julio-de",
-        "resumen": "Las fintechs tuvieron una participación mayoritaria en las operaciones de crédito respaldadas por FGA Fondo de Garantías durante los primeros siete meses de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fintechs originaron 70% de créditos respaldados por FGA Fondo de Garantías entre enero y julio de 2026",
-        "capturado": "2026-09-17T13:05:25-05:00"
-      },
-      {
-        "titulo": "GeoPark alcanza el puntaje provisional más alto en concurso petrolero y gasífero de Neuquén en Argentina",
-        "url": "https://www.dataifx.com/post/geopark-obtiene-mayor-puntaje-provisional-en-licitacion-de-gas-y-petroleo-en-neuquen-argentina",
-        "resumen": "Gas y Petróleo del Neuquén S",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark obtiene mayor puntaje provisional en licitación de gas y petróleo en Neuquén, Argentina",
-        "capturado": "2026-09-17T13:05:25-05:00"
       }
     ],
     "Empresas Internacional": [
