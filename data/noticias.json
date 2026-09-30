@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-30T07:21:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-30T14:02:49-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El desempleo en el país repuntó y se situó en el 9,4% durante agosto",
+        "url": "https://www.dataifx.com/post/desempleo-volvio-subir-en-colombia-y-alcanzo-94-en-agosto",
+        "resumen": "El Departamento Administrativo Nacional de Estadística (DANE) presentó los resultados de la Gran Encuesta Integrada de Hogares (GEIH) correspondientes a agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo volvió a subir en Colombia y alcanzó 9,4% en agosto",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
       {
         "titulo": "XM indica que la tarifa en bolsa de energía subió 18,7 % en agosto de 2026",
         "url": "https://www.dataifx.com/post/xm-reporta-aumento-de-187-en-el-precio-de-bolsa-de-energia-en-agosto-de-2026",
@@ -443,19 +453,39 @@
         "publicacion": "",
         "titulo_fuente": "“No llega solo”: Joaquín Gutiérrez llegará a Ecopetrol con un equipo técnico de altísimo nivel, dice presidente de la Junta",
         "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Cabildo de Bogotá adelanta tributaria con aval a recargo de alumbrado y modificaciones del ICA",
-        "url": "https://www.dataifx.com/post/concejo-de-bogota-avanza-en-reforma-tributaria-con-aprobacion-de-sobretasa-al-alumbrado-y-cambios",
-        "resumen": "La plenaria del Concejo de Bogotá avanzó este jueves en la discusión y votación del proyecto de Acuerdo por una Ciudad Inteligente, con la aprobación de medidas relacionadas con el alumbrado público, el impuesto de Industria y Comercio, ICA, y otros componentes de la reforma tributaria distrital",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Concejo de Bogotá avanza en reforma tributaria con aprobación de sobretasa al alumbrado y cambios en el ICA",
-        "capturado": "2026-09-25T11:59:28-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "EE. UU. ajusta hacia arriba el PIB del segundo trimestre gracias al consumo y la inversión",
+        "url": "https://www.dataifx.com/post/eeuu-revisa-al-alza-pib-del-segundo-trimestre-por-mayor-consumo-e-inversion",
+        "resumen": "El Departamento de Comercio de Estados Unidos informó una revisión en las cifras de crecimiento del Producto Interno Bruto (PIB) correspondientes al segundo trimestre del año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EE.UU. revisa al alza PIB del segundo trimestre por mayor consumo e inversión",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
+      {
+        "titulo": "El PIB británico sube y llega a 0,5% en el segundo trimestre tras revisión",
+        "url": "https://www.dataifx.com/post/pib-del-reino-unido-se-revisa-al-alza-y-alcanza-05-en-el-segundo-trimestre",
+        "resumen": "La Oficina Nacional de Estadísticas (ONS) publicó este miércoles datos revisados sobre el desempeño económico del Reino Unido en el segundo trimestre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "PIB del Reino Unido se revisa al alza y alcanza 0,5% en el segundo trimestre",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
+      {
+        "titulo": "Termina la medida de ahorro de gas luego de superarse la emergencia en la red de SPEC",
+        "url": "https://www.dataifx.com/post/finaliza-racionamiento-preventivo-de-gas-tras-superar-contingencia-en-infraestructura-de-spec",
+        "resumen": "El Ministerio de Minas y Energíainformó que concluyó el racionamiento preventivo de gas natural luego de superar la contingencia presentada en la infraestructura de regasificación de SPEC LNG, ubicada en Cartagena",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Finaliza racionamiento preventivo de gas tras superar contingencia en infraestructura de SPEC",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
       {
         "titulo": "Precio del petróleo Brent baja casi un 3 por ciento por la posible reapertura de Ormuz",
         "url": "https://www.dataifx.com/post/petroleo-brent-cae-cerca-de-3-ante-expectativa-de-reapertura-de-ormuz",
@@ -678,6 +708,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Wompi extiende alcance de cobros celulares y modifica costos",
+        "url": "https://www.dataifx.com/post/wompi-amplia-cobertura-de-pagos-moviles-y-ajusta-tarifas",
+        "resumen": "La plataforma de pagos Wompi, perteneciente al Grupo Cibest, anunció nuevas funcionalidades que buscan facilitar las transacciones digitales en el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Wompi amplía cobertura de pagos móviles y ajusta tarifas",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
+      {
+        "titulo": "ISA obtiene aval para crédito local con Bancolombia por $400.000 millones",
+        "url": "https://www.dataifx.com/post/isa-recibe-autorizacion-para-emprestito-interno-con-bancolombia-por-400000-millones",
+        "resumen": "La empresa Interconexión Eléctrica S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA recibe autorización para empréstito interno con Bancolombia por $400.000 millones",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
+      {
+        "titulo": "Grupo Nutresa firma pacto para comprar la totalidad de Empaques Industriales de Colombia",
+        "url": "https://www.dataifx.com/post/grupo-nutresa-suscribe-acuerdo-para-adquirir-100-de-empaques-industriales-de-colombia",
+        "resumen": "Grupo Nutresa S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Nutresa suscribe acuerdo para adquirir 100% de Empaques Industriales de Colombia",
+        "capturado": "2026-09-30T14:02:49-05:00"
+      },
       {
         "titulo": "Desde octubre Satena inaugurará vuelo sin escalas entre Montería y Ciudad de Panamá",
         "url": "https://www.dataifx.com/post/satena-abrira-ruta-directa-entre-monteria-y-ciudad-de-panama-desde-octubre",
@@ -1097,36 +1157,6 @@
         "publicacion": "",
         "titulo_fuente": "Seis meses de alivios para arrendatarios y comercios en municipios impactados por terremoto",
         "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Administración nacional firma decreto con beneficios fiscales tras sismo",
-        "url": "https://www.dataifx.com/post/gobierno-expide-decreto-con-alivios-tributarios-tras-terremoto",
-        "resumen": "El Gobierno nacional expidió el Decreto Legislativo 1419 de 2026, mediante el cual se adoptan medidas tributarias, aduaneras y cambiarias en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno expide decreto con alivios tributarios tras terremoto",
-        "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "A julio las utilidades de la banca colombiana subieron casi un 40 por ciento",
-        "url": "https://www.dataifx.com/post/julio-ganancias-de-bancos-en-colombia-aumentaron-cerca-de-40",
-        "resumen": "Las entidades bancarias que operan en Colombia reportaron utilidades acumuladas de $10,12 billones en los primeros siete meses del año, de acuerdo con cifras de la Superintendencia Financiera de Colombia",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "A julio ganancias de bancos en Colombia aumentaron cerca de 40%",
-        "capturado": "2026-09-17T17:46:18-05:00"
-      },
-      {
-        "titulo": "Lulo Bank llega al segmento corporativo con su nuevo servicio financiero virtual",
-        "url": "https://www.dataifx.com/post/lulo-bank-amplia-su-operacion-empresas-asi-funcionara-su-nueva-oferta-de-banca-digital",
-        "resumen": "Lulo Bank anunció la puesta en marcha de Lulo Empresas, una propuesta de banca empresarial completamente digital que reúne en un mismo entorno servicios como pagos, recaudos, administración de tesorería, nómina, integraciones tecnológicas y opciones de financiación",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Lulo Bank amplía su operación a empresas: así funcionará su nueva oferta de banca digital",
-        "capturado": "2026-09-17T17:46:18-05:00"
       }
     ],
     "Empresas Internacional": [
