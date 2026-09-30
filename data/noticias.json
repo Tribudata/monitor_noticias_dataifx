@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-30T14:02:49-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-30T18:38:15-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "CARF calcula hueco fiscal de 7,8% del PIB para 2026 y de 9,5% para 2027",
+        "url": "https://www.dataifx.com/post/carf-estima-deficit-fiscal-de-78-del-pib-en-2026-y-de-95-en-2027",
+        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) presentó este 30 de septiembre su informe al Congreso de la República, en el que proyecta un déficit total del Gobierno Nacional Central de 7,8% del PIB para 2026 y de 9,5% del PIB para 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CARF estima déficit fiscal de 7,8% del PIB en 2026 y de 9,5% en 2027",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
+      {
+        "titulo": "Superintendencia Financiera registra 469 reclamos contra aseguradoras por tardanzas post sismo",
+        "url": "https://www.dataifx.com/post/superfinanciera-reporta-469-quejas-contra-aseguradoras-por-demoras-tras-el-terremoto",
+        "resumen": "El superintendente Financiero, Pablo Andrés Rivas Herazo, informó que la entidad ha recibido 469 quejas de afectados por el terremoto del 10 de agosto de 2026 contra compañías aseguradoras",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superfinanciera reporta 469 quejas contra aseguradoras por demoras tras el terremoto",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
+      {
+        "titulo": "Fedearroz solicita auxilios financieros para cultivadores golpeados por caída de precios y baja cosecha",
+        "url": "https://www.dataifx.com/post/fedearroz-pide-medidas-de-alivio-financiero-para-productores-afectados-por-bajos-precios-y-menor",
+        "resumen": "La Federación Nacional de Arroceros (Fedearroz) manifestó su preocupación por la situación económica que atraviesan los productores de arroz del país debido a los bajos precios de comercialización registrados durante 2025 y 2026 y a la reducción de la productividad asociada a factores climáticos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fedearroz pide medidas de alivio financiero para productores afectados por bajos precios y menor productividad",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
+      {
+        "titulo": "Aseguradoras cancelaron 14,38 billones a junio y Fasecolda sugiere póliza contra desastres",
+        "url": "https://www.dataifx.com/post/aseguradoras-pagaron-1438-billones-junio-y-fasecolda-propone-seguro-para-catastrofes",
+        "resumen": "Las aseguradoras colombianas pagaron $14,38 billones en reclamaciones durante los primeros seis meses de 2026, según cifras presentadas este 30 de septiembre por la Federación de Aseguradores Colombianos (Fasecolda) en el marco de la Convención Internacional de Seguros 2026, que se realiza en Cartagena de Indias",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras pagaron $14,38 billones a junio y Fasecolda propone seguro para catástrofes",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda apoya subida de tipos y prevé ley de reforma fiscal prontamente",
+        "url": "https://www.dataifx.com/post/minhacienda-respalda-alza-de-tasas-y-anuncia-ley-de-ajuste-fiscal-para-los-proximos-dias",
+        "resumen": "El ministro de Hacienda, Miguel Gómez Martínez, respaldó este miércoles el aumento de 25 puntos básicos en la tasa de interés del Banco de la República, que pasó de 12% a 12,25%, en la primera decisión de política monetaria en la que participa como integrante de la Junta Directiva del Emisor",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda respalda alza de tasas y anuncia ley de ajuste fiscal para los próximos días",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
+      {
+        "titulo": "Ecopetrol asiste al Congreso Internacional de Petróleo y Gas en Venezuela para revisar opciones mercantiles",
+        "url": "https://www.dataifx.com/post/ecopetrol-participa-en-congreso-internacional-de-petroleo-y-gas-en-venezuela-para-evaluar",
+        "resumen": "Ecopetrol participa en el Congreso Internacional de Petróleo y Gas que se desarrolla en Caracas, Venezuela, con la presencia de su presidente, Joaquín Gutiérrez Caballero",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol participa en Congreso Internacional de Petróleo y Gas en Venezuela para evaluar oportunidades de negocio",
+        "capturado": "2026-09-30T18:38:15-05:00"
+      },
       {
         "titulo": "El desempleo en el país repuntó y se situó en el 9,4% durante agosto",
         "url": "https://www.dataifx.com/post/desempleo-volvio-subir-en-colombia-y-alcanzo-94-en-agosto",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "José Camilo Manzur renuncia a la presidencia de ASOCODIS tras 20 años al frente del gremio",
         "capturado": "2026-09-25T16:24:29-05:00"
-      },
-      {
-        "titulo": "Olibia emerge como solución de inteligencia artificial para servicios públicos latinoamericanos",
-        "url": "https://www.dataifx.com/post/olibia-se-lanza-como-plataforma-de-inteligencia-artificial-para-empresas-de-servicios-publicos-en",
-        "resumen": "Olibia anunció su lanzamiento, en el marco del congreso de Andesco realizado en Cartagena, como compañía independiente de software B2B para empresas de servicios públicos y telecomunicaciones en América Latina",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Olibia se lanza como plataforma de inteligencia artificial para empresas de servicios públicos en Latinoamérica",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "La seguridad hídrica colombiana demanda mayor inversión, preservación de fuentes y planeación",
-        "url": "https://www.dataifx.com/post/seguridad-hidrica-en-colombia-exige-mas-inversion-proteccion-de-fuentes-y-planeacion-de-largo-plazo",
-        "resumen": "La protección de las fuentes de agua, la planeación frente a los eventos climáticos, la movilización de nuevas inversiones y el avance en el tratamiento de las aguas residuales fueron algunos de los principales asuntos abordados durante la agenda de agua y saneamiento del segundo día del 28 Congreso Andesco",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Seguridad hídrica en Colombia exige más inversión, protección de fuentes y planeación de largo plazo",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Acipet señala que Colombia necesita establecer el desarrollo de yacimientos no convencionales",
-        "url": "https://www.dataifx.com/post/colombia-debe-definir-como-desarrollar-los-yacimientos-no-convencionales-plantea-acipet",
-        "resumen": "En la clausura del XXIII Congreso de Petróleo, Gas y Energía, el director ejecutivo de la Asociación Colombiana de Ingenieros de Petróleos, Acipet, Óscar Ferney Rincón, planteó que Colombia debe avanzar en el desarrollo de los Yacimientos No Convencionales, YNC, como parte de una estrategia que permita ampliar las fuentes de suministro energético y, al mismo tiempo, generar actividad económica en las regiones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia debe definir cómo desarrollar los yacimientos no convencionales, plantea Acipet",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "MinEnergía anuncia racionamiento programado de gas debido a falla técnica en SPEC LNG",
-        "url": "https://www.dataifx.com/post/minenergia-declara-racionamiento-programado-de-gas-por-condicion-tecnica-en-spec-lng",
-        "resumen": "El Ministerio de Minas y Energía informó que se declaró un racionamiento programado de gas natural debido a una condición técnica presentada en la infraestructura de regasificación de SPEC LNG, situación que generó una reducción temporal en la capacidad de entrega de gas importado",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinEnergía declara racionamiento programado de gas por condición técnica en SPEC LNG",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "SPEC disminuye transitoriamente su capacidad de regasificación por labores de corrección",
-        "url": "https://www.dataifx.com/post/spec-reduce-temporalmente-su-capacidad-de-regasificacion-por-trabajos-correctivos",
-        "resumen": "La Sociedad Portuaria El Cayao S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SPEC reduce temporalmente su capacidad de regasificación por trabajos correctivos",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "El presidente de la Junta señala que Joaquín Gutiérrez ingresará a Ecopetrol acompañado de expertos",
-        "url": "https://www.dataifx.com/post/no-llega-solo-joaquin-gutierrez-llegara-ecopetrol-con-un-equipo-tecnico-de-altisimo-nivel-dice",
-        "resumen": "Luego de que Ecopetrol confirmara la designación de Joaquín Gutiérrez Caballero como nuevo presidente de la compañía, Carlos Suárez Rojas, presidente de la Junta Directiva, se refirió a la llegada del nuevo directivo y planteó algunos de los objetivos que tendrá la nueva etapa de la empresa",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "“No llega solo”: Joaquín Gutiérrez llegará a Ecopetrol con un equipo técnico de altísimo nivel, dice presidente de la Junta",
-        "capturado": "2026-09-25T11:59:28-05:00"
       }
     ],
     "Macro Internacional": [
