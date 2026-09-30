@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-29T17:07:25-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-09-30T00:09:19-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "XM indica que la tarifa en bolsa de energía subió 18,7 % en agosto de 2026",
+        "url": "https://www.dataifx.com/post/xm-reporta-aumento-de-187-en-el-precio-de-bolsa-de-energia-en-agosto-de-2026",
+        "resumen": "El precio promedio ponderado de la bolsa de energía en Colombia alcanzó $946,6 por kWh en agosto de 2026, de acuerdo con el informe publicado por XM, administrador del Mercado de Energía Mayorista (MEM)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "XM reporta aumento de 18,7 % en el precio de bolsa de energía en agosto de 2026",
+        "capturado": "2026-09-30T00:09:19-05:00"
+      },
+      {
+        "titulo": "MinTransporte señala que la región Caribe concentrará las inversiones viales",
+        "url": "https://www.dataifx.com/post/caribe-sera-prioridad-para-nuevas-inversiones-en-infraestructura-segun-mintransporte",
+        "resumen": "El Gobierno nacional anunció una estrategia para priorizar proyectos de infraestructura de transporte en la región Caribe, con énfasis en la interconexión vial, la modernización de aeropuertos y el mejoramiento de los accesos a los puertos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Caribe será prioridad para nuevas inversiones en infraestructura, según MinTransporte",
+        "capturado": "2026-09-30T00:09:19-05:00"
+      },
+      {
+        "titulo": "Camacol plantea reformar Mi Casa Ya para movilizar $61 billones habitacionales",
+        "url": "https://www.dataifx.com/post/camacol-propone-un-nuevo-mi-casa-ya-con-potencial-para-mover-61-billones-en-vivienda",
+        "resumen": "El programa de subsidios de vivienda Mi Casa Ya (MCY), que durante más de una década fue uno de los principales mecanismos de apoyo para la compra de vivienda formal en Colombia, completó un proceso de desmonte que, según la Cámara Colombiana de la Construcción (Camacol), culminó con la suspensión de nuevas postulaciones y una fuerte reducción en la asignación de subsidios",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Camacol propone un nuevo Mi Casa Ya con potencial para mover $61 billones en vivienda",
+        "capturado": "2026-09-30T00:09:19-05:00"
+      },
+      {
+        "titulo": "En agosto las remesas aumentaron 4,52 % y sumaron US$1.144,94 millones",
+        "url": "https://www.dataifx.com/post/remesas-crecieron-452-en-agosto-y-llegaron-us114494-millones",
+        "resumen": "En agosto de 2026, las remesas enviadas por los trabajadores colombianos en el exterior aumentaron al ubicarse en US$1",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Remesas crecieron 4,52% en agosto y llegaron a US$1.144,94 millones",
+        "capturado": "2026-09-30T00:09:19-05:00"
+      },
       {
         "titulo": "MinHacienda sugiere emplear regalías para actualizar el sistema eléctrico y solucionar la crisis caribeña",
         "url": "https://www.dataifx.com/post/minhacienda-propone-usar-regalias-para-modernizar-la-red-electrica-y-atender-de-fondo-la-crisis-del",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Concejo de Bogotá avanza en reforma tributaria con aprobación de sobretasa al alumbrado y cambios en el ICA",
         "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Claro Pay suma giros, abonos y recargas prepago mediante acuerdo de Claro con Grupo Aval",
-        "url": "https://www.dataifx.com/post/claro-pay-incorpora-transferencias-pagos-y-paquetes-prepago-tras-alianza-entre-claro-y-grupo-aval",
-        "resumen": "En el marco del Claro Tech Summit 2026, Claro Colombia y Grupo Aval anunciaron una alianza para impulsar la evolución de la billetera digital Claro Pay y ampliar el acceso a servicios financieros desde el celular",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Claro Pay incorpora transferencias, pagos y paquetes prepago tras alianza entre Claro y Grupo Aval",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Banco Mundial gira US$200 millones extra para ayudar en la reconstrucción colombiana por sismo",
-        "url": "https://www.dataifx.com/post/banco-mundial-aprueba-us200-millones-adicionales-para-apoyar-recuperacion-de-colombia-tras",
-        "resumen": "El Grupo Banco Mundial anunció la aprobación de un financiamiento adicional por US$200 millones para fortalecer la respuesta y la recuperación de Colombia tras el terremoto ocurrido el pasado 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco Mundial aprueba US$200 millones adicionales para apoyar recuperación de Colombia tras terremoto",
-        "capturado": "2026-09-24T23:31:01-05:00"
-      },
-      {
-        "titulo": "Mandatario De La Espriella solicitó la salida del director de Colpensiones tras intervención en Senado",
-        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-pidio-renuncia-del-presidente-de-colpensiones-tras-presentacion-en-el",
-        "resumen": "El presidente de la República, Abelardo De La Espriella, solicitó la renuncia del presidente de Colpensiones, Carlos René Montoya Muñoz, quien puso su cargo a disposición del Gobierno Nacional, según informó la Presidencia en un comunicado divulgado este 24 de septiembre",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente De La Espriella pidió renuncia del presidente de Colpensiones tras presentación en el Senado",
-        "capturado": "2026-09-24T23:31:01-05:00"
-      },
-      {
-        "titulo": "USO aplaude nombramiento de Joaquín Gutiérrez en Ecopetrol y solicita robustecer el sector petrolero",
-        "url": "https://www.dataifx.com/post/uso-saluda-designacion-de-joaquin-gutierrez-en-ecopetrol-y-pide-fortalecer-la-industria-petrolera",
-        "resumen": "La Unión Sindical Obrera, USO, se pronunció sobre la designación de Joaquín Gutiérrez Caballero como nuevo presidente y representante legal principal de Ecopetrol y manifestó su disposición a establecer un diálogo con la nueva administración de la compañía",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "USO saluda designación de Joaquín Gutiérrez en Ecopetrol y pide fortalecer la industria petrolera",
-        "capturado": "2026-09-24T18:08:35-05:00"
       }
     ],
     "Macro Internacional": [
