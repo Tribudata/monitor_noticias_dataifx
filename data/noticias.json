@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-01T14:23:37-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-01T18:50:06-05:00",
+  "nuevos_en_esta_corrida": 15,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno presenta al Congreso iniciativa de regalías 2027-2028 por $27,54 billones",
+        "url": "https://www.dataifx.com/post/gobierno-radica-proyecto-de-regalias-2027-2028-por-2754-billones-ante-el-congreso",
+        "resumen": "El Gobierno nacional radicó ante el Congreso de la República el proyecto de ley del Presupuesto del Sistema General de Regalías para el bienio 2027-2028, con ingresos proyectados por $27,54 billones, equivalentes al 1,4% del Producto Interno Bruto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno radica proyecto de regalías 2027-2028 por $27,54 billones ante el Congreso",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "MinSalud calcula que planes voluntarios de salud alcancen $15,7 billones en 2026",
+        "url": "https://www.dataifx.com/post/minsalud-proyecta-que-los-planes-voluntarios-de-salud-lleguen-157-billones-en-2026-0",
+        "resumen": "La viceministra de Protección Social, Marcela Brun Vergara, proyectó que los ingresos por primas de los planes voluntarios de salud (PVoS) alcancen $15,7 billones en 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinSalud proyecta que los planes voluntarios de salud lleguen a $15,7 billones en 2026",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Fitch señala que solvencia de aseguradoras en Colombia supera el capital",
+        "url": "https://www.dataifx.com/post/fitch-advierte-que-la-solvencia-de-las-aseguradoras-en-colombia-va-mas-alla-del-capital",
+        "resumen": "La capacidad financiera de las aseguradoras en América Latina no puede medirse únicamente a partir de los niveles de capital regulatorio que reportan las compañías",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fitch advierte que la solvencia de las aseguradoras en Colombia va más allá del capital",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Fasecolda sugiere al Gobierno crear política para disminuir déficit de seguro catastrófico",
+        "url": "https://www.dataifx.com/post/fasecolda-propone-al-gobierno-disenar-una-politica-para-reducir-la-brecha-de-aseguramiento-ante",
+        "resumen": "La baja cobertura de seguros frente a riesgos catastróficos es uno de los puntos que Fasecolda plantea abordar mediante una política pública que permita ampliar la protección de los hogares colombianos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fasecolda propone al Gobierno diseñar una política para reducir la brecha de aseguramiento ante riesgos catastróficos",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "MinHacienda solicita precisar recortes frente a peticiones de más fondos presupuestales",
+        "url": "https://www.dataifx.com/post/minhacienda-pide-definir-que-se-recorta-ante-solicitudes-de-mas-recursos-para-el-presupuesto",
+        "resumen": "El ministro de Hacienda, Miguel Gómez, llevó a sus redes sociales parte de los argumentos que expuso durante el debate del Presupuesto General de la Nación en la plenaria de la Cámara de Representantes, con énfasis en las solicitudes de mayores recursos, las fuentes de financiación y la necesidad de revisar el gasto público",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda pide definir qué se recorta ante solicitudes de más recursos para el Presupuesto",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "CAF autoriza créditos por US$1.250 millones destinados a obras en Colombia",
+        "url": "https://www.dataifx.com/post/caf-aprueba-financiamiento-por-us1250-millones-para-proyectos-en-colombia",
+        "resumen": "La CAF, banco de desarrollo de América Latina y el Caribe, aprobó un paquete de financiamiento por US$1",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CAF aprueba financiamiento por US$1.250 millones para proyectos en Colombia",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Swiss Re advierte el desafío asegurador en Colombia tras superar 90.000 siniestros por el sismo",
+        "url": "https://www.dataifx.com/post/swiss-re-senala-el-reto-del-sector-asegurador-en-colombia-tras-mas-de-90000-reclamos-por-el",
+        "resumen": "El terremoto ocurrido en Colombia el pasado 10 de agosto puso a prueba la capacidad de respuesta del mercado asegurador frente a un evento que dejó daños en diferentes zonas del país y que, semanas después, mantiene a las compañías en proceso de evaluación y ajuste de las reclamaciones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Swiss Re señala el reto del sector asegurador en Colombia tras más de 90.000 reclamos por el terremoto",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Filipinas habilita el ingreso de carne de res y cerdo de origen colombiano",
+        "url": "https://www.dataifx.com/post/filipinas-abre-su-mercado-las-carnes-bovina-y-porcina-colombianas",
+        "resumen": "Las carnes bovina y porcina de Colombia obtuvieron autorización para ingresar al mercado de Filipinas, una decisión que amplía los destinos de exportación para estos productos y abre una nueva posibilidad comercial para el sector cárnico nacional en Asia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Filipinas abre su mercado a las carnes bovina y porcina colombianas",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Vehículos híbridos y eléctricos superan por primera vez la mitad de las matrículas nuevas en Colombia",
+        "url": "https://www.dataifx.com/post/por-primera-vez-hibridos-y-electricos-superaron-el-50-de-las-ventas-de-vehiculos-nuevos-en-colombia",
+        "resumen": "La transformación tecnológica del mercado automotor colombiano alcanzó un nuevo hito en septiembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Por primera vez, híbridos y eléctricos superaron el 50% de las ventas de vehículos nuevos en Colombia",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
       {
         "titulo": "Bruce Mac Master saldrá de la dirección de la ANDI luego de superar 12 años liderando el gremio",
         "url": "https://www.dataifx.com/post/bruce-mac-master-dejara-la-presidencia-de-la-andi-tras-mas-de-12-anos-al-frente-del-gremio",
@@ -363,96 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Banco Pichincha Colombia concreta financiación por $1,275 billones para respaldar su estrategia de crecimiento",
         "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Nu Holdings retrocede más de 8% tras noticias sobre una eventual adquisición de Monzo",
-        "url": "https://www.dataifx.com/post/nu-holdings-cae-mas-de-8-tras-reportes-sobre-una-posible-compra-de-monzo",
-        "resumen": "Las acciones de Nu Holdings, matriz de Nubank, registraron una caída superior al 8% durante la jornada de este lunes 28 de septiembre, después de que trascendieran reportes sobre posibles acercamientos de la compañía con el banco digital británico Monzo para evaluar una eventual adquisición",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nu Holdings cae más de 8% tras reportes sobre una posible compra de Monzo",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Ejecutivo pacta aplazar mantenimientos de El Guavio y Chivor II por época de alta demanda eléctrica",
-        "url": "https://www.dataifx.com/post/gobierno-acuerda-reprogramar-mantenimientos-de-el-guavio-y-chivor-ii-ante-periodo-de-mayor",
-        "resumen": "El Gobierno nacional, a través del Ministerio de Minas y Energía, alcanzó un acuerdo con Enel Colombia y AES Colombia para evitar que los mantenimientos mayores programados en las centrales El Guavio y Chivor II coincidan durante los meses de mayor exigencia del Sistema Interconectado Nacional, en el marco de la preparación del país ante el fenómeno de El Niño 2026-2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno acuerda reprogramar mantenimientos de El Guavio y Chivor II ante periodo de mayor exigencia energética",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "El 28 Congreso Andesco concluyó centrado en resiliencia, inversión y cambio en servicios públicos",
-        "url": "https://www.dataifx.com/post/28-congreso-andesco-cerro-con-foco-en-resiliencia-inversion-y-transformacion-de-los-servicios",
-        "resumen": "Con más de 4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "28 Congreso Andesco cerró con foco en resiliencia, inversión y transformación de los servicios públicos",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "176 iniciativas nacionales buscarán inversión extranjera en Nueva York",
-        "url": "https://www.dataifx.com/post/nueva-york-sera-la-vitrina-de-176-proyectos-colombianos-en-busca-de-capital-extranjero",
-        "resumen": "El Gobierno nacional anunció la realización de la primera edición de la Milagro Week, un encuentro que se llevará a cabo el próximo 16 de noviembre en Nueva York y que buscará conectar proyectos estratégicos colombianos con inversionistas, fondos de capital y empresas internacionales interesadas en desarrollar iniciativas en el país",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Nueva York será la vitrina de 176 proyectos colombianos en busca de capital extranjero",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Director de Lumen Economic Intelligence apoya pacto con el FMI y propone metas fiscales comprobables",
-        "url": "https://www.dataifx.com/post/ceo-de-lumen-economic-intelligence-ve-correcto-buscar-un-acuerdo-con-el-fmi-y-plantea-metas",
-        "resumen": "El anuncio del presidente Abelardo De La Espriella de iniciar conversaciones con el Fondo Monetario Internacional (FMI) para enfrentar la crisis fiscal del país sigue generando reacciones entre economistas y analistas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CEO de Lumen Economic Intelligence ve “correcto” buscar un acuerdo con el FMI y plantea metas verificables para el ajuste fiscal",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Líder de Asobancaria apoya diálogo con el FMI y resalta créditos con menores tasas",
-        "url": "https://www.dataifx.com/post/presidente-de-asobancaria-respalda-acercamiento-al-fmi-y-destaca-acceso-financiacion-mas-barata",
-        "resumen": "La decisión del presidente Abelardo De La Espriella de iniciar conversaciones con el Fondo Monetario Internacional (FMI) para enfrentar la compleja situación fiscal del país sigue generando reacciones entre los principales actores del sector económico y financiero",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Asobancaria respalda acercamiento al FMI y destaca acceso a financiación más barata",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Nueva directora de Colpensiones asume con trayectoria en seguridad social y pleitos pensionales",
-        "url": "https://www.dataifx.com/post/nueva-presidenta-de-colpensiones-llega-con-experiencia-en-litigios-pensionales-y-seguridad-social",
-        "resumen": "La designación de Beatriz Eugenia Vélez Vengoechea al frente de Colpensiones pone a una especialista en derecho laboral y seguridad social al mando de una de las entidades más relevantes del sistema pensional colombiano",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nueva presidenta de Colpensiones llega con experiencia en litigios pensionales y seguridad social",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "CARF señala que un pacto con el FMI exigirá pactos en materia de recaudos y gasto estatal",
-        "url": "https://www.dataifx.com/post/carf-advierte-que-un-acuerdo-con-el-fmi-podria-requerir-compromisos-sobre-ingresos-y-gasto-publico",
-        "resumen": "Colombia enfrenta uno de los mayores retos para sus finanzas públicas de los últimos años, con una brecha estimada cercana a los $200 billones entre los ingresos previstos y las obligaciones de gasto proyectadas para 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CARF advierte que un acuerdo con el FMI podría requerir compromisos sobre ingresos y gasto público",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Ejecutivo dialoga con el FMI por el empeoramiento de las finanzas estatales",
-        "url": "https://www.dataifx.com/post/gobierno-anuncia-acercamientos-con-el-fmi-ante-el-deterioro-de-las-cuentas-fiscales",
-        "resumen": "El presidente Abelardo De La Espriella informó que su administración iniciará contactos con el Fondo Monetario Internacional (FMI) con el objetivo de explorar alternativas que permitan enfrentar la compleja situación de las finanzas públicas del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia acercamientos con el FMI ante el deterioro de las cuentas fiscales",
-        "capturado": "2026-09-28T15:28:28-05:00"
       }
     ],
     "Macro Internacional": [
@@ -708,6 +708,56 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Viajeros mantienen preferencia por los sitios habituales en la semana de receso 2026",
+        "url": "https://www.dataifx.com/post/semana-de-receso-2026-viajeros-siguen-apostando-por-los-destinos-de-siempre",
+        "resumen": "Los productos turísticos tradicionales continúan siendo los más demandados por los viajeros colombianos para la Semana de Receso de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Semana de Receso 2026: viajeros siguen apostando por los destinos de siempre",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "LAIKA inaugura su primer establecimiento físico en territorio chileno",
+        "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
+        "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Distrito de Barranquilla se encargará de realizar las obras de modernización del aeropuerto Ernesto Cortissoz",
+        "url": "https://www.dataifx.com/post/alcaldia-de-barranquilla-asumira-ejecucion-de-obras-para-modernizar-el-aeropuerto-ernesto-cortissoz",
+        "resumen": "La modernización y culminación de las obras del aeropuerto Ernesto Cortissoz entran en una nueva etapa tras la firma de un convenio mediante el cual la Alcaldía de Barranquilla participará en la ejecución de los trabajos pendientes en la terminal aérea",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Alcaldía de Barranquilla asumirá ejecución de obras para modernizar el aeropuerto Ernesto Cortissoz",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Presentaciones musicales de BTS en Bogotá alcanzarían un efecto financiero de 126.054 millones de pesos",
+        "url": "https://www.dataifx.com/post/conciertos-de-bts-en-bogota-podrian-generar-un-impacto-economico-de-126054-millones",
+        "resumen": "Los dos conciertos de la agrupación surcoreana BTS previstos en Bogotá tendrían un impacto económico estimado de $126",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Conciertos de BTS en Bogotá podrían generar un impacto económico de $126.054 millones",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
+      {
+        "titulo": "Café de Colombia incrementa su presencia global y ya llega a 108 naciones",
+        "url": "https://www.dataifx.com/post/cafe-colombiano-amplia-su-alcance-internacional-y-ya-esta-presente-en-108-paises",
+        "resumen": "El café colombiano continúa ampliando su presencia internacional a través de una estrategia enfocada en la diferenciación por origen, calidad y perfiles de sabor",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Café colombiano amplía su alcance internacional y ya está presente en 108 países",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
       {
         "titulo": "Operadores celulares tienen prohibido poner trabas para cancelar planes desde hoy",
         "url": "https://www.dataifx.com/post/desde-hoy-cancelar-un-plan-movil-sera-mas-facil-operadores-no-podran-poner-trabas",
@@ -1107,59 +1157,19 @@
         "publicacion": "",
         "titulo_fuente": "XM fija plazo perentorio a Afinia, filial de EPM, para pago de obligaciones de energía",
         "capturado": "2026-09-22T17:51:16-05:00"
-      },
-      {
-        "titulo": "Bolsa de Valores de Colombia aumenta su porcentaje en la crcc al 75,28% tras adquirir títulos",
-        "url": "https://www.dataifx.com/post/bolsa-de-valores-de-colombia-eleva-participacion-en-la-crcc-al-7528-tras-compra-de-acciones",
-        "resumen": "La Bolsa de Valores de Colombia (bvc) informó que incrementó su participación en la Cámara de Riesgo Central de Contraparte de Colombia S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bolsa de Valores de Colombia eleva participación en la crcc al 75,28% tras compra de acciones",
-        "capturado": "2026-09-22T17:51:16-05:00"
-      },
-      {
-        "titulo": "Juan Valdez debuta en Canadá con más de 400 locales comerciales",
-        "url": "https://www.dataifx.com/post/juan-valdez-inicia-presencia-en-canada-con-mas-de-400-puntos-de-venta",
-        "resumen": "La marca Juan Valdez anunció su llegada a Canadá como parte de su estrategia de expansión en Norteamérica, con el objetivo de posicionar el café colombiano en un mercado con alta cultura de consumo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Valdez inicia presencia en Canadá con más de 400 puntos de venta",
-        "capturado": "2026-09-22T17:51:16-05:00"
-      },
-      {
-        "titulo": "ANIF afirma que tasa de usura fija margina a familias de bajos recursos y las empuja al gota a gota",
-        "url": "https://www.dataifx.com/post/techo-de-usura-rigido-excluye-hogares-vulnerables-y-los-lleva-al-gota-gota-anif",
-        "resumen": "El acceso al crédito formal en Colombia continúa siendo limitado y plantea un desafío para la política pública",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Techo de usura rígido excluye a hogares vulnerables y los lleva al gota a gota: ANIF",
-        "capturado": "2026-09-22T13:01:55-05:00"
-      },
-      {
-        "titulo": "Temblor motiva a la Sociedad Portuaria de Buenaventura a girar 4000 millones para reparar escuelas",
-        "url": "https://www.dataifx.com/post/sociedad-portuaria-de-buenaventura-destina-4000-millones-para-reconstruccion-de-colegios-tras-el",
-        "resumen": "La Asamblea General de Accionistas de la Sociedad Portuaria Regional de Buenaventura aprobó la propuesta de la Junta Directiva y la Gerencia General para destinar $4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Sociedad Portuaria de Buenaventura destina $4.000 millones para reconstrucción de colegios tras el terremoto",
-        "capturado": "2026-09-22T13:01:55-05:00"
-      },
-      {
-        "titulo": "Banco de Occidente acuerda préstamo subordinado por US$150 millones con DEG",
-        "url": "https://www.dataifx.com/post/banco-de-occidente-firma-credito-subordinado-por-us150-millones-con-deg",
-        "resumen": "El Banco de Occidente suscribió un contrato de crédito subordinado por USD 150 millones con DEG, institución alemana de financiamiento para el desarrollo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Occidente firma crédito subordinado por US$150 millones con DEG",
-        "capturado": "2026-09-21T19:41:13-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "LAIKA inaugura su primer establecimiento físico en territorio chileno",
+        "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
+        "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
+        "capturado": "2026-10-01T18:50:06-05:00"
+      },
       {
         "titulo": "Qatar Airways y LATAM Colombia firman alianza de códigos compartidos hacia Medio Oriente y Asia",
         "url": "https://www.dataifx.com/post/latam-colombia-y-qatar-airways-acuerdan-compartir-codigos-en-rutas-hacia-asia-y-medio-oriente",
