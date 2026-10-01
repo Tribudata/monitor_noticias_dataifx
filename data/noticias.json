@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-09-30T18:38:15-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-01T00:24:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
       {
@@ -709,6 +709,56 @@
     ],
     "Empresas Colombia": [
       {
+        "titulo": "Fedesarrollo indicó que la confianza de industriales y comerciantes bajó en agosto",
+        "url": "https://www.dataifx.com/post/comerciantes-e-industriales-reportaron-menor-confianza-en-agosto-fedesarrollo",
+        "resumen": "La confianza de los comerciantes y de los industriales registró retrocesos en agosto de 2026, de acuerdo con los resultados más recientes de la Encuesta de Opinión Empresarial elaborada por Fedesarrollo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comerciantes e industriales reportaron menor confianza en agosto: Fedesarrollo",
+        "capturado": "2026-10-01T00:24:14-05:00"
+      },
+      {
+        "titulo": "El Movistar Arena finaliza ciclo de ocho años y adoptará una nueva imagen",
+        "url": "https://www.dataifx.com/post/movistar-arena-cierra-etapa-de-ocho-anos-y-tendra-nueva-identidad",
+        "resumen": "El Movistar Arena Bogotá dejará de llevar el nombre de Movistar a partir del 31 de octubre de 2026, poniendo fin a una alianza que acompañó la operación del escenario durante los últimos ocho años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Movistar Arena cierra etapa de ocho años y tendrá nueva identidad",
+        "capturado": "2026-10-01T00:24:14-05:00"
+      },
+      {
+        "titulo": "Analdex solicita acciones extra para salvaguardar a los agroexportadores",
+        "url": "https://www.dataifx.com/post/analdex-pide-medidas-adicionales-para-proteger-los-agroexportadores",
+        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) solicitó al Gobierno nacional la adopción de un paquete adicional de medidas para apoyar al sector agroexportador, al considerar que los productores y exportadores enfrentan una coyuntura marcada por el Fenómeno de El Niño, la revaluación del peso colombiano, el aumento de los costos internos y la persistencia de barreras en algunos mercados internacionales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Analdex pide medidas adicionales para proteger a los agroexportadores",
+        "capturado": "2026-10-01T00:24:14-05:00"
+      },
+      {
+        "titulo": "Bogotá da inicio a las obras del escenario deportivo que sustituirá a El Campín",
+        "url": "https://www.dataifx.com/post/bogota-inicia-la-construccion-del-estadio-que-reemplazara-el-campin",
+        "resumen": "La construcción de un nuevo estadio para Bogotá entró oficialmente en su fase de ejecución luego de la firma del acta de inicio de la etapa constructiva entre Sencia y el IDRD, un paso que marca el comienzo de las obras de una infraestructura que busca reemplazar el escenario actual y ampliar su capacidad para albergar eventos deportivos y espectáculos de gran formato",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá inicia la construcción del estadio que reemplazará a El Campín",
+        "capturado": "2026-10-01T00:24:14-05:00"
+      },
+      {
+        "titulo": "Labores en El Dorado y Pacífico 2 facilitarán recursos previos para Odinsa y socios",
+        "url": "https://www.dataifx.com/post/operaciones-en-el-dorado-y-pacifico-2-permitiran-anticipar-recursos-para-odinsa-y-sus-accionistas",
+        "resumen": "Grupo Argos informó que avanzó en la ejecución de su programa ACE 1",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Operaciones en El Dorado y Pacífico 2 permitirán anticipar recursos para Odinsa y sus accionistas",
+        "capturado": "2026-10-01T00:24:14-05:00"
+      },
+      {
         "titulo": "Wompi extiende alcance de cobros celulares y modifica costos",
         "url": "https://www.dataifx.com/post/wompi-amplia-cobertura-de-pagos-moviles-y-ajusta-tarifas",
         "resumen": "La plataforma de pagos Wompi, perteneciente al Grupo Cibest, anunció nuevas funcionalidades que buscan facilitar las transacciones digitales en el país",
@@ -1107,56 +1157,6 @@
         "publicacion": "",
         "titulo_fuente": "SIC sanciona a distribuidora de medicamentos por superar precios regulados",
         "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Desembolsos de aseguradoras por el sismo del diez de agosto llegan a cinco billones quinientos mil millones",
-        "url": "https://www.dataifx.com/post/pagos-de-aseguradoras-por-el-terremoto-del-10-de-agosto-ascienden-55-billones",
-        "resumen": "La Federación de Aseguradores Colombianos (Fasecolda) informó que el valor asegurado asociado a los siniestros reportados tras el terremoto del 10 de agosto alcanzó $5,5 billones, un incremento de $1 billón frente al reporte de la semana anterior",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Pagos de aseguradoras por el terremoto del 10 de agosto ascienden a $5,5 billones",
-        "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Wenia incluye oro digital en su oferta",
-        "url": "https://www.dataifx.com/post/wenia-incorpora-oro-digital-su-portafolio",
-        "resumen": "Wenia, empresa de activos digitales del Grupo Cibest, anunció la incorporación de PAXG, un token cuyo valor está ligado directamente al precio del oro",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Wenia incorpora oro digital a su portafolio",
-        "capturado": "2026-09-21T15:22:01-05:00"
-      },
-      {
-        "titulo": "Nu Colombia destina cinco billones de pesos para crecer su oferta y operaciones locales",
-        "url": "https://www.dataifx.com/post/nu-colombia-anuncia-inversion-de-5-billones-para-ampliar-portafolio-y-operacion-en-el-pais",
-        "resumen": "Nu Colombia informó que entre 2026 y 2030 invertirá cerca de $5 billones de pesos en el país, con el propósito de respaldar el desarrollo de nuevos productos, tecnología, expansión de la operación y fortalecimiento de su base financiera",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nu Colombia anuncia inversión de $5 billones para ampliar portafolio y operación en el país",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "El fundador de Nubank, David Vélez, será consejero del Gobierno en transformación digital",
-        "url": "https://www.dataifx.com/post/david-velez-fundador-de-nubank-acompanara-al-gobierno-como-asesor-en-transformacion-digital",
-        "resumen": "El presidente electo Abelardo De La Espriella anunció que David Vélez, fundador de Nubank, asumirá el rol de asesor ad honorem en el proceso de incorporación de inteligencia artificial en Colombia",
-        "autor": "",
-        "subseccion": "Macro Colombia",
-        "publicacion": "",
-        "titulo_fuente": "David Vélez, fundador de Nubank, acompañará al Gobierno como asesor en transformación digital",
-        "capturado": "2026-09-18T15:45:02-05:00"
-      },
-      {
-        "titulo": "Med medio año de ayudas a inquilinos y negocios en zonas afectadas por sismo",
-        "url": "https://www.dataifx.com/post/seis-meses-de-alivios-para-arrendatarios-y-comercios-en-municipios-impactados-por-terremoto",
-        "resumen": "El Decreto Legislativo 1423 de 2026 establece medidas excepcionales en materia de arrendamiento y propiedad horizontal, en el marco del Estado de Emergencia Económica, Social y Ecológica declarado tras el terremoto del 10 de agosto",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Seis meses de alivios para arrendatarios y comercios en municipios impactados por terremoto",
-        "capturado": "2026-09-18T11:13:41-05:00"
       }
     ],
     "Empresas Internacional": [
