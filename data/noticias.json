@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-02T14:06:56-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-10-02T18:40:29-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Vuelve el Plan Meteoro: Ejecutivo confirma mayor vigilancia vial y ajustes para facilitar carga",
+        "url": "https://www.dataifx.com/post/regresa-el-plan-meteoro-gobierno-anuncia-refuerzo-de-seguridad-en-carreteras-y-cambios-para",
+        "resumen": "El Gobierno anunció el regreso del Plan Meteoro, una estrategia de seguridad en corredores viales que contará con presencia de la Fuerza Pública, junto con una serie de medidas orientadas a reducir bloqueos en las carreteras, simplificar trámites y agilizar las operaciones del transporte de carga en el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Regresa el Plan Meteoro: Gobierno anuncia refuerzo de seguridad en carreteras y cambios para agilizar el transporte de carga",
+        "capturado": "2026-10-02T18:40:29-05:00"
+      },
+      {
+        "titulo": "Colombia arranca reestructuración de pasivos mediante permuta de TES por 19,8 billones",
+        "url": "https://www.dataifx.com/post/colombia-inicia-reperfilamiento-de-deuda-con-canje-de-tes-por-198-billones",
+        "resumen": "El Ministerio de Hacienda y Crédito Público inició el programa de reperfilamiento de vencimientos de la deuda pública con una operación de intercambio de Títulos de Tesorería TES por $19,8 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia inicia reperfilamiento de deuda con canje de TES por $19,8 billones",
+        "capturado": "2026-10-02T18:40:29-05:00"
+      },
       {
         "titulo": "El BanRep señala que el ajuste fiscal será vital para bajar la inflación y reducir las tasas de interés",
         "url": "https://www.dataifx.com/post/banrep-advierte-que-ajuste-fiscal-sera-clave-para-reducir-la-inflacion-y-bajar-las-tasas-de-interes",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "MinHacienda pide al FMI adelantar su misión para evaluar la situación económica de Colombia",
         "capturado": "2026-09-29T03:16:19-05:00"
-      },
-      {
-        "titulo": "Administración colombiana solicita al FMI examinar las cuentas y la economía nacional",
-        "url": "https://www.dataifx.com/post/gobierno-de-colombia-pide-al-fmi-revisar-las-finanzas-y-la-economia-del-pais",
-        "resumen": "El Gobierno nacional solicitó al Fondo Monetario Internacional (FMI) iniciar la misión de su equipo técnico para realizar la Consulta del Artículo IV, mecanismo mediante el cual el organismo evalúa de manera independiente la situación económica de un país y sus principales políticas macroeconómicas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de Colombia pide al FMI revisar las finanzas y la economía del país",
-        "capturado": "2026-09-28T20:43:24-05:00"
-      },
-      {
-        "titulo": "Colombia veda compras externas con labor coactiva, mas el tributo estadounidense continúa",
-        "url": "https://www.dataifx.com/post/colombia-prohibe-importaciones-hechas-con-trabajo-forzoso-pero-el-arancel-de-ee-uu-sigue-vigente",
-        "resumen": "El Gobierno Nacional expidió el Decreto 1444 de 2026, mediante el cual Colombia prohíbe el ingreso al territorio aduanero nacional de mercancías que hayan sido producidas total o parcialmente mediante trabajo forzoso u obligatorio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia prohíbe importaciones hechas con trabajo forzoso, pero el arancel de EE. UU. sigue vigente",
-        "capturado": "2026-09-28T20:43:24-05:00"
       }
     ],
     "Macro Internacional": [
@@ -728,6 +728,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Fenalco aplaude pausa a decreto de negociación sindical multinivel y avala su demanda en Consejo de Estado",
+        "url": "https://www.dataifx.com/post/fenalco-celebra-suspension-del-decreto-sobre-negociacion-colectiva-multinivel-y-defiende-su-demanda",
+        "resumen": "El Consejo de Estado suspendió de manera provisional los efectos del Decreto 234 de 2026, una norma que establecía nuevas disposiciones sobre negociación colectiva multinivel",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fenalco celebra suspensión del decreto sobre negociación colectiva multinivel y defiende su demanda ante el Consejo de Estado",
+        "capturado": "2026-10-02T18:40:29-05:00"
+      },
+      {
+        "titulo": "Consejo de Estado frena de manera temporal el decreto de negociación colectiva unificada por niveles",
+        "url": "https://www.dataifx.com/post/consejo-de-estado-suspende-provisionalmente-decreto-sobre-negociacion-colectiva-unificada-por",
+        "resumen": "El Ministerio del Trabajo informó que fue notificado del auto emitido el 1 de octubre de 2026 por la Sección Segunda, Subsección A, del Consejo de Estado, mediante el cual se decretó la suspensión provisional de los efectos del Decreto 234 del 6 de marzo de 2026, que establecía disposiciones sobre negociación colectiva unificada por niveles",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Consejo de Estado suspende provisionalmente decreto sobre negociación colectiva unificada por niveles",
+        "capturado": "2026-10-02T18:40:29-05:00"
+      },
       {
         "titulo": "Iniciativa Ruta Milagro pretende recuperar 3500 comercios golpeados por el sismo de agosto",
         "url": "https://www.dataifx.com/post/ruta-milagro-busca-reactivar-3500-negocios-afectados-por-el-terremoto-de-agosto",
@@ -1157,26 +1177,6 @@
         "publicacion": "",
         "titulo_fuente": "Restaurantes lideraron celebración de Amor y Amistad en Bogotá con crecimiento superior al 16%",
         "capturado": "2026-09-23T19:21:27-05:00"
-      },
-      {
-        "titulo": "Apple habilita en Colombia un método inédito para pagos mediante iPhone",
-        "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
-        "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
-        "capturado": "2026-09-23T16:23:01-05:00"
-      },
-      {
-        "titulo": "Fedegán calcula en $100.000 millones las pérdidas ganaderas por El Niño",
-        "url": "https://www.dataifx.com/post/perdidas-en-ganaderia-por-fenomeno-el-nino-rondan-los-100000-millones-segun-fedegan",
-        "resumen": "Las afectaciones causadas por el fenómeno de El Niño continúan impactando al sector ganadero colombiano",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pérdidas en ganadería por fenómeno El Niño rondan los $100.000 millones, según Fedegán",
-        "capturado": "2026-09-23T16:23:01-05:00"
       }
     ],
     "Empresas Internacional": [
