@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-02T00:12:08-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-02T07:17:54-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -456,6 +456,16 @@
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El costo de la energía disparó la inflación de la zona euro a su cota más alta en tres años",
+        "url": "https://www.dataifx.com/post/inflacion-en-zona-euro-alcanzo-su-nivel-mas-alto-en-tres-anos-por-aumento-de-costos-energeticos",
+        "resumen": "La inflación en los países que comparten el euro volvió a acelerarse en septiembre y alcanzó su nivel más alto en tres años, impulsada principalmente por el encarecimiento de la energía en medio de las tensiones geopolíticas en Oriente Medio y sus efectos sobre los mercados internacionales de combustibles",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en zona euro alcanzó su nivel más alto en tres años por aumento de costos energéticos",
+        "capturado": "2026-10-02T07:17:54-05:00"
+      },
       {
         "titulo": "EE. UU. ajusta hacia arriba el PIB del segundo trimestre gracias al consumo y la inversión",
         "url": "https://www.dataifx.com/post/eeuu-revisa-al-alza-pib-del-segundo-trimestre-por-mayor-consumo-e-inversion",
