@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-02T07:17:54-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-02T14:06:56-05:00",
+  "nuevos_en_esta_corrida": 14,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El BanRep señala que el ajuste fiscal será vital para bajar la inflación y reducir las tasas de interés",
+        "url": "https://www.dataifx.com/post/banrep-advierte-que-ajuste-fiscal-sera-clave-para-reducir-la-inflacion-y-bajar-las-tasas-de-interes",
+        "resumen": "Durante la Convención Internacional de Seguros organizada por Fasecolda, el gerente del Banco de la República explicó la situación actual de la inflación, las tasas de interés, el déficit fiscal y la tasa de cambio, y señaló que la coordinación entre la política monetaria y el ajuste de las finanzas públicas será determinante para que el país pueda avanzar hacia menores niveles de inflación y, posteriormente, hacia una reducción de las tasas de interés",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BanRep advierte que ajuste fiscal será clave para reducir la inflación y bajar las tasas de interés",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Viceministro de Hacienda confirma reducción del gasto por $21,9 billones para el año 2026",
+        "url": "https://www.dataifx.com/post/viceministro-de-hacienda-reitera-recorte-del-gasto-por-219-billones-en-2026",
+        "resumen": "El viceministro de Hacienda y Crédito Público, Andrés Ricardo Quevedo Caro, reiteró la reducción del gasto por $21,9 billones en 2026 durante su presentación en la Convención Internacional de Seguros de Fasecolda",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Viceministro de Hacienda reitera recorte del gasto por $21,9 billones en 2026",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Fasecolda reporta que solicitudes por sismo del 10 de agosto suman $5,7 billones",
+        "url": "https://www.dataifx.com/post/reclamaciones-por-terremoto-del-10-de-agosto-alcanzan-57-billones-fasecolda",
+        "resumen": "Las aseguradoras han recibido más de 90",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reclamaciones por terremoto del 10 de agosto alcanzan $5,7 billones: Fasecolda",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "CFI Financial Group participa en Bolsa Millonaria 2026 y promueve la educación financiera local",
+        "url": "https://www.dataifx.com/post/cfi-financial-group-se-suma-bolsa-millonaria-2026-y-apuesta-por-la-educacion-financiera-en-colombia",
+        "resumen": "CFI Financial Group participará como patrocinador de Bolsa Millonaria 2026, la competencia de educación financiera organizada por la Bolsa de Valores de Colombia (bvc), parte de nuam exchange, y Trii",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CFI Financial Group se suma a Bolsa Millonaria 2026 y apuesta por la educación financiera en Colombia",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Extracción aurífera aluvial sumó 118.410 hectáreas en el país durante 2025: el 75% es ilegal",
+        "url": "https://www.dataifx.com/post/explotacion-de-oro-de-aluvion-llego-118410-hectareas-en-colombia-en-2025-75-es-ilicita",
+        "resumen": "La explotación de oro de aluvión en Colombia alcanzó 118",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Explotación de oro de aluvión llegó a 118.410 hectáreas en Colombia en 2025: 75% es ilícita",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
       {
         "titulo": "Gobierno presenta al Congreso iniciativa de regalías 2027-2028 por $27,54 billones",
         "url": "https://www.dataifx.com/post/gobierno-radica-proyecto-de-regalias-2027-2028-por-2754-billones-ante-el-congreso",
@@ -403,59 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Colombia prohíbe importaciones hechas con trabajo forzoso, pero el arancel de EE. UU. sigue vigente",
         "capturado": "2026-09-28T20:43:24-05:00"
-      },
-      {
-        "titulo": "Fitch alerta sobre menor liquidez y trabas de crédito para compañías colombianas",
-        "url": "https://www.dataifx.com/post/fitch-advierte-sobre-menor-flujo-de-caja-y-restricciones-de-financiamiento-para-empresas",
-        "resumen": "Los perfiles crediticios de las empresas colombianas continúan enfrentando presiones asociadas con una menor generación de flujo de caja, una reducción en la capacidad de servicio de la deuda y condiciones de financiamiento restrictivas, según un análisis de Fitch Ratings divulgado el 25 de septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fitch advierte sobre menor flujo de caja y restricciones de financiamiento para empresas colombianas",
-        "capturado": "2026-09-28T20:43:24-05:00"
-      },
-      {
-        "titulo": "Nequi Negocios activa cobros con tarjeta por celular y funciones inéditas para locales",
-        "url": "https://www.dataifx.com/post/nequi-negocios-habilita-pagos-con-tarjeta-desde-el-celular-y-nuevas-funciones-para-comercios",
-        "resumen": "Nequi Negocios incorporó nuevas funcionalidades para comerciantes, emprendedores e independientes que utilizan la plataforma",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Nequi Negocios habilita pagos con tarjeta desde el celular y nuevas funciones para comercios",
-        "capturado": "2026-09-28T20:43:24-05:00"
-      },
-      {
-        "titulo": "Cabildo distrital avaló el tributo para Bogotá y pasa a firma del alcalde Galán",
-        "url": "https://www.dataifx.com/post/concejo-de-bogota-aprobo-la-reforma-tributaria-para-la-capital-y-ahora-pasa-sancion-del-alcalde",
-        "resumen": "La plenaria del Concejo de Bogotá aprobó en segundo debate el proyecto de Acuerdo por una Ciudad Inteligente, una iniciativa de la Administración Distrital que termina así su trámite en la corporación y pasa ahora a sanción del alcalde mayor",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Concejo de Bogotá aprobó la reforma tributaria para la capital y ahora pasa a sanción del alcalde Galán",
-        "capturado": "2026-09-28T20:43:24-05:00"
-      },
-      {
-        "titulo": "Puntored extiende a 650 locales de OXXO su oferta de servicios financieros en Colombia",
-        "url": "https://www.dataifx.com/post/puntored-amplia-650-tiendas-oxxo-su-red-de-servicios-financieros-en-colombia",
-        "resumen": "Puntored amplió de cerca de 30 a 650 las tiendas OXXO conectadas a su infraestructura en Colombia, como parte de una alianza que busca extender la disponibilidad de servicios financieros y de recaudo a puntos físicos de proximidad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Puntored amplía a 650 tiendas OXXO su red de servicios financieros en Colombia",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Banco Pichincha Colombia asegura créditos por $1,275 billones para impulsar su plan de expansión",
-        "url": "https://www.dataifx.com/post/banco-pichincha-colombia-concreta-financiacion-por-1275-billones-para-respaldar-su-estrategia-de",
-        "resumen": "Banco Pichincha Colombia concretó una nueva estructura de financiación por $1,275 billones, con la que busca respaldar su estrategia de crecimiento y consolidación en el mercado colombiano",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco Pichincha Colombia concreta financiación por $1,275 billones para respaldar su estrategia de crecimiento",
-        "capturado": "2026-09-28T15:28:28-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El empleo en Estados Unidos frenó su ritmo en septiembre y el desempleo escaló a 4,2%",
+        "url": "https://www.dataifx.com/post/creacion-de-empleo-en-eeuu-se-desacelero-en-septiembre-y-desempleo-subio-42",
+        "resumen": "El mercado laboral de Estados Unidos mostró señales de menor dinamismo durante septiembre, luego de que la economía generara 29",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Creación de empleo en EE.UU. se desaceleró en septiembre y desempleo subió a 4,2%",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
       {
         "titulo": "El costo de la energía disparó la inflación de la zona euro a su cota más alta en tres años",
         "url": "https://www.dataifx.com/post/inflacion-en-zona-euro-alcanzo-su-nivel-mas-alto-en-tres-anos-por-aumento-de-costos-energeticos",
@@ -718,6 +728,66 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Iniciativa Ruta Milagro pretende recuperar 3500 comercios golpeados por el sismo de agosto",
+        "url": "https://www.dataifx.com/post/ruta-milagro-busca-reactivar-3500-negocios-afectados-por-el-terremoto-de-agosto",
+        "resumen": "La iniciativa denominada \"Ruta Milagro\" comenzó su fase de implementación con el objetivo de contribuir a la recuperación de 3",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ruta Milagro busca reactivar 3.500 negocios afectados por el terremoto de agosto",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Centro Cultural de Cine Colombia recibe reconocimiento en la trigésima Bienal Colombiana de Arquitectura",
+        "url": "https://www.dataifx.com/post/centro-cultural-de-cine-colombia-galardonado-en-la-xxx-bienal-colombiana-de-arquitectura-y",
+        "resumen": "Foto: Cine Colombia En una ceremonia realizada en el Teatro Adolfo Mejía, la Sociedad Colombiana de Arquitectos (SCA) entregó los reconocimientos de la XXX Bienal Colombiana de Arquitectura y Urbanismo 2026, consolidando este encuentro como el escenario más importante para la exaltación de la excelencia arquitectónica y urbana del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Centro Cultural de Cine Colombia, galardonado en la XXX Bienal Colombiana de Arquitectura y Urbanismo 2026",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Nación fomenta sector del tatuaje que alcanza unos 40 millones de dólares en la región",
+        "url": "https://www.dataifx.com/post/colombia-impulsa-una-industria-del-tatuaje-que-mueve-cerca-de-us40-millones-en-america-latina",
+        "resumen": "La industria del tatuaje continúa ampliando su alcance económico en América Latina y Colombia figura entre los países que están impulsando la expansión de este mercado junto con Brasil, México y Argentina",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia impulsa una industria del tatuaje que mueve cerca de US$40 millones en América Latina",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Ejecutivo, sector privado y empleados pactan espacio para examinar legislación de trabajo",
+        "url": "https://www.dataifx.com/post/gobierno-empresarios-y-trabajadores-acuerdan-mesa-para-revisar-normas-laborales-y-fortalecer-el",
+        "resumen": "El Gobierno nacional, representantes de los trabajadores y delegados del sector empresarial acordaron avanzar en la creación de una instancia técnica para revisar distintas normas laborales y consolidar una agenda permanente de concertación, durante una sesión extraordinaria de la Comisión Permanente de Concertación de Políticas Salariales y Laborales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno, empresarios y trabajadores acuerdan mesa para revisar normas laborales y fortalecer el diálogo permanente",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Crédito de Europa apoyará expansión de fábrica de biológicos en Colombia hasta 250 millones de dosis",
+        "url": "https://www.dataifx.com/post/financiamiento-europeo-respaldara-ampliacion-de-planta-de-vacunas-en-colombia-con-capacidad-de",
+        "resumen": "Una nueva operación financiera respaldada por instituciones europeas buscará fortalecer la capacidad de producción de vacunas y productos biológicos en Colombia, en un proyecto que también apunta a aumentar la autonomía regional en materia sanitaria y mejorar la preparación ante futuras emergencias epidemiológicas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Financiamiento europeo respaldará ampliación de planta de vacunas en Colombia con capacidad de hasta 250 millones de dosis al año",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "El consumo de café en Rappi es encabezado por la Costa Caribe durante 2026",
+        "url": "https://www.dataifx.com/post/costa-caribe-lidera-el-crecimiento-del-consumo-de-cafe-en-rappi-durante-2026",
+        "resumen": "Aunque Bogotá y Medellín continúan concentrando buena parte de las compras de café realizadas a través de plataformas digitales, las mayores tasas de crecimiento durante 2026 se registraron en varias ciudades de la Costa Caribe",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Costa Caribe lidera el crecimiento del consumo de café en Rappi durante 2026",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
       {
         "titulo": "Viajeros mantienen preferencia por los sitios habituales en la semana de receso 2026",
         "url": "https://www.dataifx.com/post/semana-de-receso-2026-viajeros-siguen-apostando-por-los-destinos-de-siempre",
@@ -1107,69 +1177,29 @@
         "publicacion": "",
         "titulo_fuente": "Pérdidas en ganadería por fenómeno El Niño rondan los $100.000 millones, según Fedegán",
         "capturado": "2026-09-23T16:23:01-05:00"
-      },
-      {
-        "titulo": "Findeter y Banco de Bogotá respaldan proyecto solar en Meta por $105.000 millones",
-        "url": "https://www.dataifx.com/post/banco-de-bogota-y-findeter-financian-con-105000-millones-proyecto-de-energia-solar-en-el-meta",
-        "resumen": "La infraestructura energética del departamento del Meta sumará una nueva capacidad de generación renovable tras concretarse el cierre financiero para un portafolio solar de 39 MWp (megavatios pico)",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Banco de Bogotá y Findeter financian con $105.000 millones proyecto de energía solar en el Meta",
-        "capturado": "2026-09-23T16:23:01-05:00"
-      },
-      {
-        "titulo": "FinDev Canadá otorga préstamo por US$60 millones a Davivienda para vivienda social y transición verde",
-        "url": "https://www.dataifx.com/post/davivienda-obtiene-credito-de-us60-millones-de-findev-canada-para-vivienda-social-y-transicion-baja",
-        "resumen": "Davivienda anunció la obtención de un crédito por US$60 millones, equivalente a $192 mil millones, otorgado por FinDev Canadá, con el propósito de impulsar la acción climática y la inclusión financiera en Colombia",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda obtiene crédito de US$60 millones de FinDev Canadá para vivienda social y transición baja en carbono",
-        "capturado": "2026-09-23T11:38:47-05:00"
-      },
-      {
-        "titulo": "Accionistas de Pei aprueban compra de los activos inmobiliarios de Terranum",
-        "url": "https://www.dataifx.com/post/asamblea-de-pei-respalda-adquisicion-del-portafolio-inmobiliario-de-terranum",
-        "resumen": "En Asamblea Extraordinaria de Inversionistas, Pei aprobó un mecanismo transitorio que le permitirá avanzar en la adquisición del portafolio inmobiliario de Terranum, operación que se venía planteando desde la Asamblea Ordinaria de marzo de este año",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Asamblea de Pei respalda adquisición del portafolio inmobiliario de Terranum",
-        "capturado": "2026-09-22T23:22:58-05:00"
-      },
-      {
-        "titulo": "FENALCO advierte peligros y solicita al Concejo capitalino rechazar nuevos impuestos distritales",
-        "url": "https://www.dataifx.com/post/fenalco-reitera-riesgos-y-pide-concejo-de-bogota-no-aprobar-mas-cargas-tributarias-en-la-reforma",
-        "resumen": "La Plenaria del Concejo de Bogotá se prepara para votar la Reforma Tributaria Distrital en medio de advertencias de FENALCO Bogotá Cundinamarca sobre los efectos de los incrementos propuestos en el impuesto de industria y comercio (ICA) para sectores específicos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FENALCO reitera riesgos y pide a Concejo de Bogotá no aprobar más cargas tributarias en la reforma distrital",
-        "capturado": "2026-09-22T23:22:58-05:00"
-      },
-      {
-        "titulo": "UPME entrega al Grupo Energía Bogotá la obra de transmisión Aguaclara en Boyacá y Casanare",
-        "url": "https://www.dataifx.com/post/upme-adjudica-al-grupo-energia-bogota-proyecto-de-transmision-aguaclara-en-casanare-y-boyaca",
-        "resumen": "La Unidad de Planeación Minero Energética (UPME) adjudicó al Grupo Energía Bogotá (GEB), a través de su filial Enlaza, el proyecto de transmisión de energía Aguaclara, que contempla la construcción de una nueva subestación de 230 kV en Casanare y cerca de 133 kilómetros de líneas de transmisión asociadas",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "UPME adjudica al Grupo Energía Bogotá proyecto de transmisión Aguaclara en Casanare y Boyacá",
-        "capturado": "2026-09-22T23:22:58-05:00"
-      },
-      {
-        "titulo": "XM establece fecha límite a Afinia, subsidiaria de EPM, para cancelar deudas de electricidad",
-        "url": "https://www.dataifx.com/post/xm-fija-plazo-perentorio-afinia-filial-de-epm-para-pago-de-obligaciones-de-energia",
-        "resumen": "Empresas Públicas de Medellín (EPM) informó que su filial Caribemar de la Costa S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "XM fija plazo perentorio a Afinia, filial de EPM, para pago de obligaciones de energía",
-        "capturado": "2026-09-22T17:51:16-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Skydance bautizará al nuevo coloso del entretenimiento creado por la unión de Paramount y Warner Bros",
+        "url": "https://www.dataifx.com/post/skydance-sera-el-nombre-de-la-nueva-gigante-del-entretenimiento-surgida-de-la-fusion-entre",
+        "resumen": "La compañía que nacerá de la integración entre Paramount y Warner Bros",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Skydance será el nombre de la nueva gigante del entretenimiento surgida de la fusión entre Paramount y Warner Bros.",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
+      {
+        "titulo": "Mallplaza y Falabella reestructuran bienes raíces comerciales en territorio peruano y chileno",
+        "url": "https://www.dataifx.com/post/falabella-y-mallplaza-reorganizan-activos-inmobiliarios-en-chile-y-peru",
+        "resumen": "Las compañías Falabella S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Falabella y Mallplaza reorganizan activos inmobiliarios en Chile y Perú",
+        "capturado": "2026-10-02T14:06:56-05:00"
+      },
       {
         "titulo": "LAIKA inaugura su primer establecimiento físico en territorio chileno",
         "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
