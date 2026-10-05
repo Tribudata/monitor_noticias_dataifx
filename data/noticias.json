@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-05T00:10:45-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-05T09:16:52-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Efecto de las elecciones en Brasil sacude los mercados y hunde el dólar bajo 5 reales",
+        "url": "https://www.dataifx.com/post/resultado-electoral-en-brasil-mueve-los-mercados-y-lleva-al-dolar-por-debajo-de-los-5-reales",
+        "resumen": "Los mercados brasileños reaccionaron al resultado de la primera vuelta de las elecciones presidenciales con una valorización del real frente al dólar y avances en el mercado accionario",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Resultado electoral en Brasil mueve los mercados y lleva al dólar por debajo de los 5 reales",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "Moneda de Brasil trepa 4,4% por votaciones y jala a las divisas latinoamericanas",
+        "url": "https://www.dataifx.com/post/real-brasileno-se-dispara-44-tras-las-elecciones-y-contagia-las-monedas-de-america-latina",
+        "resumen": "El resultado de la primera vuelta de las elecciones presidenciales en Brasil modificó el comportamiento de los mercados de la región",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Real brasileño se dispara 4,4% tras las elecciones y contagia a las monedas de América Latina",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "Petrobras y Ecopetrol finalizan exploración en el Caribe profundo por US$ 1.000 millones",
+        "url": "https://www.dataifx.com/post/petrobras-y-ecopetrol-culminan-campana-exploratoria-de-us-1000-millones-en-aguas-profundas-del",
+        "resumen": "Petrobras International Braspetro B",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Petrobras y Ecopetrol culminan campaña exploratoria de US$ 1.000 millones en aguas profundas del Caribe",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "Ejecutivo traspasa a Barranquilla el manejo de sección del aeropuerto Ernesto Cortissoz",
+        "url": "https://www.dataifx.com/post/gobierno-entrega-barranquilla-la-administracion-de-parte-de-la-infraestructura-del-aeropuerto",
+        "resumen": "El Gobierno Nacional, a través del Ministerio de Transporte y la Aeronáutica Civil, y el Distrito Especial, Industrial y Portuario de Barranquilla oficializaron un convenio interadministrativo mediante el cual el Distrito asumirá la administración, operación, mantenimiento y explotación de la infraestructura del Aeropuerto Internacional Ernesto Cortissoz correspondiente al lado tierra, además de sus plataformas y servicios aeroportuarios delimitados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno entrega a Barranquilla la administración de parte de la infraestructura del aeropuerto Ernesto Cortissoz",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "XM advierte baja oferta eléctrica y alza de consumo para el verano 2026-2027",
+        "url": "https://www.dataifx.com/post/xm-alerta-por-menor-disponibilidad-de-energia-y-mayor-demanda-para-el-verano-2026-2027",
+        "resumen": "El Sistema Interconectado Nacional, SIN, enfrenta una combinación de factores que inciden sobre la disponibilidad de energía de cara al verano de 2026-2027, de acuerdo con el Boletín energético 362 de XM, publicado el 2 de octubre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "XM alerta por menor disponibilidad de energía y mayor demanda para el verano 2026-2027",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "MinHacienda aclara que recomendación de no sembrar arroz se refería a La Guajira y anuncia revisión de recursos de Fedearroz",
+        "url": "https://www.dataifx.com/post/minagricultura-aclara-que-recomendacion-de-no-sembrar-arroz-se-referia-la-guajira-y-anuncia",
+        "resumen": "El ministro de Agricultura, Indalecio Dangón, aclaró que su recomendación de buscar alternativas al cultivo de arroz no estaba dirigida a los productores de todo el país, sino a un agricultor de Fonseca, La Guajira, que le manifestó que estaba registrando pérdidas con esa actividad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura aclara que recomendación de no sembrar arroz se refería a La Guajira y anuncia revisión de recursos de Fedearroz",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "Fedearroz asegura que dineros del sector han sido auditados y avalados por MinAgricultura",
+        "url": "https://www.dataifx.com/post/fedearroz-asegura-que-recursos-del-sector-han-sido-auditados-y-avalados-por-minagricultura",
+        "resumen": "La Federación Nacional de Arroceros, Fedearroz, respondió por escrito al ministro de Agricultura y Desarrollo Rural, Indalecio Dangond Baquero, sobre la administración y el destino de los recursos parafiscales del sector arrocero y de los recursos Col Rice",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fedearroz asegura que recursos del sector han sido auditados y avalados por MinAgricultura",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
       {
         "titulo": "Vuelve el Plan Meteoro: Ejecutivo confirma mayor vigilancia vial y ajustes para facilitar carga",
         "url": "https://www.dataifx.com/post/regresa-el-plan-meteoro-gobierno-anuncia-refuerzo-de-seguridad-en-carreteras-y-cambios-para",
@@ -383,79 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Transporte aéreo en Colombia creció 4,6% y superó los 39 millones de pasajeros",
         "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Equipos de perforación activos en el país subieron 1,8% en agosto de 2026 y alcanzaron 114",
-        "url": "https://www.dataifx.com/post/taladros-activos-en-colombia-aumentaron-18-en-agosto-de-2026-y-llegaron-114-equipos",
-        "resumen": "Las importaciones de gas natural alcanzaron un promedio de 341,4 millones de pies cúbicos diarios (MPCD) en agosto de 2026, lo que representó un incremento de 126,9% frente al mismo mes de 2025 y de 13,1% respecto a julio, de acuerdo con el más reciente Informe CAMPETROL: Taladros y Producción",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Taladros activos en Colombia aumentaron 1,8% en agosto de 2026 y llegaron a 114 equipos",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Administración estatal informa gestión para tumbar decreto sobre mercados de carbono en el país",
-        "url": "https://www.dataifx.com/post/gobierno-anuncia-tramite-para-revocar-decreto-que-regula-los-mercados-de-carbono-en-colombia",
-        "resumen": "El Gobierno de De La Espriella adelanta el trámite para revocar el Decreto 973 de 2026, mediante el cual se estableció un marco para los mercados de carbono en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia trámite para revocar decreto que regula los mercados de carbono en Colombia",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda presentó iniciativa para girar 1,2 billones de pesos a redes eléctricas caribeñas",
-        "url": "https://www.dataifx.com/post/minhacienda-radico-proyecto-para-trasladar-12-billones-al-sistema-electrico-de-la-costa-caribe",
-        "resumen": "El ministro de Hacienda, Miguel Gómez, confirmó ante la Comisión Quinta que el Gobierno radicó con mensaje de urgencia un proyecto de ley que contempla un traslado presupuestal de $1,2 billones para atender las necesidades del sistema eléctrico de la Costa Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda radicó proyecto para trasladar $1,2 billones al sistema eléctrico de la Costa Caribe",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Administración central sugiere adicionar 2,7 billones al Fondo Milagro y girar 1,2 billones para energía",
-        "url": "https://www.dataifx.com/post/gobierno-propone-sumar-27-billones-al-fondo-milagro-y-trasladar-12-billones-energia",
-        "resumen": "El Gobierno nacional presentó al Congreso de la República un proyecto de ley que modifica el Presupuesto General de la Nación (PGN) de 2026, aprobado mediante la Ley 2559 de 2025",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propone sumar $2,7 billones al Fondo Milagro y trasladar $1,2 billones a energía",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Consumo de energía en el país aumentó 6,75% durante agosto debido a temperaturas más altas",
-        "url": "https://www.dataifx.com/post/demanda-de-energia-en-colombia-crecio-675-en-agosto-por-mayores-temperaturas",
-        "resumen": "El consumo de energía eléctrica en Colombia mantuvo una tendencia de crecimiento durante agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Demanda de energía en Colombia creció 6,75% en agosto por mayores temperaturas",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "Ejecutivo afianza vínculos con el FMI; se hará cita en Washington y la entidad brinda respaldo",
-        "url": "https://www.dataifx.com/post/gobierno-profundiza-acercamiento-con-el-fmi-habra-reunion-en-washington-y-el-organismo-ofrece-apoyo",
-        "resumen": "El acercamiento entre el Gobierno colombiano y el Fondo Monetario Internacional (FMI) comenzó a tomar forma tras la visita a Bogotá del subdirector gerente del organismo, Nigel Clarke, quien sostuvo reuniones con las principales autoridades económicas del país y confirmó que la próxima semana una delegación del Ministerio de Hacienda viajará a Washington para continuar las conversaciones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno profundiza acercamiento con el FMI; habrá reunión en Washington y el organismo ofrece apoyo",
-        "capturado": "2026-09-29T17:07:25-05:00"
-      },
-      {
-        "titulo": "El Ministerio de Hacienda solicita al FMI anticipar la visita para analizar la economía nacional",
-        "url": "https://www.dataifx.com/post/minhacienda-pide-al-fmi-adelantar-su-mision-para-evaluar-la-situacion-economica-de-colombia",
-        "resumen": "El Gobierno anunció que solicitó al Fondo Monetario Internacional (FMI) adelantar la misión de su equipo técnico para realizar una evaluación de la situación económica y fiscal de Colombia, así como de los planes de la administración en materia macroeconómica",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda pide al FMI adelantar su misión para evaluar la situación económica de Colombia",
-        "capturado": "2026-09-29T03:16:19-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Alza del 7,59% en la inflación energética de agosto y alerta de XM sobre baja oferta generadora",
+        "url": "https://www.dataifx.com/post/inflacion-de-la-energia-sube-759-en-agosto-y-xm-alerta-por-menor-disponibilidad-de-generacion",
+        "resumen": "La situación del sector energético empieza a tener un mayor peso dentro del panorama económico colombiano, en un contexto en el que la demanda de electricidad mantiene una tendencia de crecimiento y el Sistema Interconectado Nacional enfrenta menores niveles de disponibilidad de generación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación de la energía sube 7,59% en agosto y XM alerta por menor disponibilidad de generación",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
+      {
+        "titulo": "Habrá segunda vuelta en Brasil entre Lula y Flávio Bolsonaro tras una primera votación sin mayoría",
+        "url": "https://www.dataifx.com/post/brasil-ira-segunda-vuelta-entre-lula-y-flavio-bolsonaro-tras-una-primera-votacion-sin-mayoria",
+        "resumen": "Brasil definió este domingo los candidatos que disputarán la Presidencia en la segunda vuelta del próximo 25 de octubre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Brasil irá a segunda vuelta entre Lula y Flávio Bolsonaro tras una primera votación sin mayoría",
+        "capturado": "2026-10-05T09:16:52-05:00"
+      },
       {
         "titulo": "El empleo en Estados Unidos frenó su ritmo en septiembre y el desempleo escaló a 4,2%",
         "url": "https://www.dataifx.com/post/creacion-de-empleo-en-eeuu-se-desacelero-en-septiembre-y-desempleo-subio-42",
