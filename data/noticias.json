@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-06T00:56:28-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-06T08:12:50-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Luis Guillermo Quintero Martínez asume la gerencia tras pasar del Movistar Arena a Juan Valdez",
+        "url": "https://www.dataifx.com/post/del-movistar-arena-juan-valdez-luis-guillermo-quintero-martinez-llega-la-gerencia",
+        "resumen": "La Junta Directiva de Procafecol anunció el nombramiento de Luis Guillermo Quintero Martínez como nuevo gerente general de la compañía, que está detrás de la operación de Juan Valdez, tanto en sus tiendas como en la comercialización de café empacado en los canales nacionales e internacionales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Del Movistar Arena a Juan Valdez: Luis Guillermo Quintero Martínez llega a la gerencia",
+        "capturado": "2026-10-06T08:12:50-05:00"
+      },
+      {
+        "titulo": "Gabriel Sánchez Olea toma la Gerencia General para arrancar una nueva etapa en el Movistar Arena",
+        "url": "https://www.dataifx.com/post/movistar-arena-inicia-nueva-etapa-con-gabriel-sanchez-olea-en-la-gerencia-general",
+        "resumen": "El escenario que hasta ahora se ha conocido como Movistar Arena inicia una nueva etapa con cambios en su administración y en el patrocinio de sus derechos de nombre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Movistar Arena inicia nueva etapa con Gabriel Sánchez Olea en la Gerencia General",
+        "capturado": "2026-10-06T08:12:50-05:00"
+      },
+      {
+        "titulo": "Indemnizaciones por terremoto suman $571.010 millones y las reservas alcanzan $6,3 billones",
+        "url": "https://www.dataifx.com/post/pagos-de-seguros-por-siniestros-del-terremoto-llegan-571010-millones-y-reservas-ascienden-63",
+        "resumen": "Las aseguradoras han recibido 97",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pagos de seguros por siniestros del terremoto llegan a $571.010 millones y reservas ascienden a $6,3 billones",
+        "capturado": "2026-10-06T08:12:50-05:00"
+      },
       {
         "titulo": "La mayor parte de codirectores del BanRep avizora dudas ante el panorama fiscal y las movidas del nuevo Gobierno",
         "url": "https://www.dataifx.com/post/mayoria-de-codirectores-del-banrep-advierte-incertidumbre-por-la-situacion-fiscal-y-el-ajuste-del",
@@ -422,36 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Fedearroz pide medidas de alivio financiero para productores afectados por bajos precios y menor productividad",
-        "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "Aseguradoras cancelaron 14,38 billones a junio y Fasecolda sugiere póliza contra desastres",
-        "url": "https://www.dataifx.com/post/aseguradoras-pagaron-1438-billones-junio-y-fasecolda-propone-seguro-para-catastrofes",
-        "resumen": "Las aseguradoras colombianas pagaron $14,38 billones en reclamaciones durante los primeros seis meses de 2026, según cifras presentadas este 30 de septiembre por la Federación de Aseguradores Colombianos (Fasecolda) en el marco de la Convención Internacional de Seguros 2026, que se realiza en Cartagena de Indias",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras pagaron $14,38 billones a junio y Fasecolda propone seguro para catástrofes",
-        "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda apoya subida de tipos y prevé ley de reforma fiscal prontamente",
-        "url": "https://www.dataifx.com/post/minhacienda-respalda-alza-de-tasas-y-anuncia-ley-de-ajuste-fiscal-para-los-proximos-dias",
-        "resumen": "El ministro de Hacienda, Miguel Gómez Martínez, respaldó este miércoles el aumento de 25 puntos básicos en la tasa de interés del Banco de la República, que pasó de 12% a 12,25%, en la primera decisión de política monetaria en la que participa como integrante de la Junta Directiva del Emisor",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda respalda alza de tasas y anuncia ley de ajuste fiscal para los próximos días",
-        "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "Ecopetrol asiste al Congreso Internacional de Petróleo y Gas en Venezuela para revisar opciones mercantiles",
-        "url": "https://www.dataifx.com/post/ecopetrol-participa-en-congreso-internacional-de-petroleo-y-gas-en-venezuela-para-evaluar",
-        "resumen": "Ecopetrol participa en el Congreso Internacional de Petróleo y Gas que se desarrolla en Caracas, Venezuela, con la presencia de su presidente, Joaquín Gutiérrez Caballero",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol participa en Congreso Internacional de Petróleo y Gas en Venezuela para evaluar oportunidades de negocio",
         "capturado": "2026-09-30T18:38:15-05:00"
       }
     ],
