@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-06T08:12:50-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-06T14:24:04-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El IPP en Colombia aumentó un 2,2% en septiembre por el agro y la minería",
+        "url": "https://www.dataifx.com/post/precios-al-productor-en-colombia-subieron-22-en-septiembre-impulsados-por-mineria-y-productos",
+        "resumen": "Los precios de los bienes producidos en Colombia registraron un aumento de 2,2% en septiembre frente a agosto de 2026, según informó el DANE en su más reciente reporte del Índice de Precios del Productor (IPP)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Precios al productor en Colombia subieron 2,2% en septiembre, impulsados por minería y productos agrícolas",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "El presidente De La Espriella ratifica la conformación del Fondo Milagro",
+        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-confirma-que-ya-esta-constituido-el-fondo-milagro",
+        "resumen": "El presidente Abelardo De La Espriella anunció desde Pereira que ya quedó constituido el Fondo Milagro, mecanismo con el que el Gobierno busca avanzar en la atención y reconstrucción de las zonas afectadas por el terremoto del pasado 10 de agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De La Espriella confirma que ya está constituido el Fondo Milagro",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "El Banco de la República sugiere que Bre-B opere montos mayores a $12 millones",
+        "url": "https://www.dataifx.com/post/banco-de-la-republica-plantea-que-bre-b-llegue-operaciones-superiores-12-millones",
+        "resumen": "A un año de su puesta en marcha, Bre-B se ha consolidado como uno de los principales canales de pagos inmediatos en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco de la República plantea que Bre-B llegue a operaciones superiores a $12 millones",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Bogotá acogió a más de 78.500 personas en velada de conciertos con BTS, Romeo Santos y Prince Royce",
+        "url": "https://www.dataifx.com/post/bogota-recibio-mas-de-78500-asistentes-en-una-noche-de-conciertos-con-bts-romeo-santos-y-prince",
+        "resumen": "Bogotá cerró el viernes 2 y el sábado 3 de octubre con una agenda de conciertos que concentró a decenas de miles de personas en distintos escenarios de la ciudad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá recibió más de 78.500 asistentes en una noche de conciertos con BTS, Romeo Santos y Prince Royce",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo alista modificaciones a la consulta previa con expedientes digitales y encargados",
+        "url": "https://www.dataifx.com/post/gobierno-prepara-cambios-la-consulta-previa-expedientes-digitales-y-responsables-para-destrabar",
+        "resumen": "El Gobierno prepara una reforma al procedimiento de consulta previa con la que busca cambiar la manera en que se administran y hacen seguimiento a los procesos que permanecen abiertos durante meses o años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno prepara cambios a la consulta previa: expedientes digitales y responsables para destrabar procesos",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Banco Mundial conserva la proyección de expansión colombiana en 2,3% para 2026",
+        "url": "https://www.dataifx.com/post/banco-mundial-mantiene-prevision-de-crecimiento-de-colombia-en-23-para-2026",
+        "resumen": "El Banco Mundial mantuvo en 2,3% su proyección de crecimiento económico para Colombia en 2026, sin cambios frente a las estimaciones divulgadas en junio, y prevé que la actividad económica del país continúe expandiéndose por encima del promedio de América Latina y el Caribe durante los próximos años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco Mundial mantiene previsión de crecimiento de Colombia en 2,3% para 2026",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
       {
         "titulo": "Luis Guillermo Quintero Martínez asume la gerencia tras pasar del Movistar Arena a Juan Valdez",
         "url": "https://www.dataifx.com/post/del-movistar-arena-juan-valdez-luis-guillermo-quintero-martinez-llega-la-gerencia",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "UPME adjudica al Grupo Energía Bogotá proyecto para construir subestación Corzo en Cundinamarca",
         "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "CARF prevé un déficit fiscal de 7,8% del PIB para 2026, superando al cálculo oficial en 0,6 puntos",
-        "url": "https://www.dataifx.com/post/carf-proyecta-deficit-fiscal-de-78-del-pib-en-2026-06-puntos-por-encima-del-estimado-por-el",
-        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) estima que el déficit total del Gobierno Nacional Central cerrará 2026 en 7,8% del PIB, por encima del 7,2% que proyecta el Gobierno en la actualización del Plan Financiero de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CARF proyecta déficit fiscal de 7,8% del PIB en 2026, 0,6 puntos por encima del estimado por el Gobierno",
-        "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "El mandatario pide al Ministerio de Minas echar atrás el alza de gasolina prevista para octubre",
-        "url": "https://www.dataifx.com/post/presidente-solicita-minminas-reversar-el-incremento-de-la-gasolina-anunciado-para-octubre",
-        "resumen": "El presidente de la República Abelardo De La Espriella, pidió revertir el incremento de la gasolina previsto para octubre, luego de conocer el ajuste anunciado por el Gobierno para este mes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente solicita a MinMinas reversar el incremento de la gasolina anunciado para octubre",
-        "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Subida de $46 en el combustible pretende ayudar a cultivadores de caña golpeados por el sismo",
-        "url": "https://www.dataifx.com/post/alza-de-46-en-la-gasolina-busca-apoyar-productores-de-cana-afectados-por-el-terremoto",
-        "resumen": "El incremento promedio de $46 por galón en el precio de la gasolina corriente durante octubre no obedece a una decisión asociada a mayores costos internacionales del combustible ni a un ajuste generalizado de la política de precios, sino a la actualización del valor reconocido al etanol, un componente utilizado en la mezcla de la gasolina y cuya producción está estrechamente ligada al sector cañicultor del Valle del Cauca",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alza de $46 en la gasolina busca apoyar a productores de caña afectados por el terremoto",
-        "capturado": "2026-10-01T07:55:23-05:00"
-      },
-      {
-        "titulo": "CARF calcula hueco fiscal de 7,8% del PIB para 2026 y de 9,5% para 2027",
-        "url": "https://www.dataifx.com/post/carf-estima-deficit-fiscal-de-78-del-pib-en-2026-y-de-95-en-2027",
-        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) presentó este 30 de septiembre su informe al Congreso de la República, en el que proyecta un déficit total del Gobierno Nacional Central de 7,8% del PIB para 2026 y de 9,5% del PIB para 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CARF estima déficit fiscal de 7,8% del PIB en 2026 y de 9,5% en 2027",
-        "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "Superintendencia Financiera registra 469 reclamos contra aseguradoras por tardanzas post sismo",
-        "url": "https://www.dataifx.com/post/superfinanciera-reporta-469-quejas-contra-aseguradoras-por-demoras-tras-el-terremoto",
-        "resumen": "El superintendente Financiero, Pablo Andrés Rivas Herazo, informó que la entidad ha recibido 469 quejas de afectados por el terremoto del 10 de agosto de 2026 contra compañías aseguradoras",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Superfinanciera reporta 469 quejas contra aseguradoras por demoras tras el terremoto",
-        "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "Fedearroz solicita auxilios financieros para cultivadores golpeados por caída de precios y baja cosecha",
-        "url": "https://www.dataifx.com/post/fedearroz-pide-medidas-de-alivio-financiero-para-productores-afectados-por-bajos-precios-y-menor",
-        "resumen": "La Federación Nacional de Arroceros (Fedearroz) manifestó su preocupación por la situación económica que atraviesan los productores de arroz del país debido a los bajos precios de comercialización registrados durante 2025 y 2026 y a la reducción de la productividad asociada a factores climáticos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fedearroz pide medidas de alivio financiero para productores afectados por bajos precios y menor productividad",
-        "capturado": "2026-09-30T18:38:15-05:00"
       }
     ],
     "Macro Internacional": [
@@ -738,6 +738,56 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "BBVA Colombia estrenó bonos sostenibles con una emisión inicial de $250.000 millones",
+        "url": "https://www.dataifx.com/post/bbva-colombia-debuto-en-mercado-de-bonos-sostenibles-con-colocacion-inicial-de-250000-millones",
+        "resumen": "BBVA Colombia realizó su primera emisión de bonos sostenibles en el mercado local de capitales, una operación mediante la cual adjudicó $250",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "BBVA Colombia debutó en mercado de bonos sostenibles con colocación inicial de $250.000 millones",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Homecenter Sodimac Colombia adquiere el control accionario mayoritario de Sumatec",
+        "url": "https://www.dataifx.com/post/homecenter-sodimac-colombia-toma-participacion-mayoritaria-en-sumatec",
+        "resumen": "Homecenter Sodimac Colombia anunció la adquisición de una participación mayoritaria en Sumatec, empresa colombiana especializada en la distribución de suministros técnicos para actividades de mantenimiento, reparación y operación industrial, conocidas en el sector como servicios MRO (Maintenance, Repair and Operations)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Homecenter Sodimac Colombia toma participación mayoritaria en Sumatec",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Analdex solicita a la DIAN declarar contingencia por fallas en sistemas informáticos aduaneros",
+        "url": "https://www.dataifx.com/post/analdex-pide-la-dian-declarar-contingencia-tras-fallas-en-servicios-informaticos-aduaneros",
+        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) solicitó a la Dirección de Impuestos y Aduanas Nacionales (DIAN) declarar la contingencia prevista en la regulación aduanera, luego de que se registraran fallas en los servicios informáticos utilizados para las operaciones de comercio exterior del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Analdex pide a la DIAN declarar contingencia tras fallas en servicios informáticos aduaneros",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Grupo SURA pone en marcha la ejecución de su plan de recompra de acciones",
+        "url": "https://www.dataifx.com/post/grupo-sura-inicia-ejecucion-de-su-programa-de-readquisicion-de-acciones",
+        "resumen": "Grupo de Inversiones Suramericana S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Grupo SURA inicia ejecución de su programa de readquisición de acciones",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
+      {
+        "titulo": "Superfinanciera autoriza a Davivienda para asumir la actividad bancaria de Davibank",
+        "url": "https://www.dataifx.com/post/superfinanciera-da-luz-verde-davivienda-para-recibir-la-operacion-bancaria-de-davibank",
+        "resumen": "La Superintendencia Financiera de Colombia (SFC) autorizó una serie de operaciones corporativas que permitirán avanzar en la integración de los negocios de DAVIbank con distintas filiales del grupo financiero Davivienda Group S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superfinanciera da luz verde a Davivienda para recibir la operación bancaria de Davibank",
+        "capturado": "2026-10-06T14:24:04-05:00"
+      },
       {
         "titulo": "Bruce Mac Master sale de la presidencia de la ANDI y arranca proceso para buscar su reemplazo",
         "url": "https://www.dataifx.com/post/andi-acepta-renuncia-de-bruce-mac-master-e-inicia-busqueda-para-elegir-sucesor",
@@ -1137,56 +1187,6 @@
         "publicacion": "",
         "titulo_fuente": "Accionistas dieron luz verde y Grupo SURA reglamenta recompra de acciones",
         "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Exploración, gas y bombeo: focos que gremios sugieren al nuevo líder de Ecopetrol",
-        "url": "https://www.dataifx.com/post/produccion-gas-y-exploracion-prioridades-que-gremios-plantean-nuevo-presidente-de-ecopetrol",
-        "resumen": "Varios gremios relacionados con la industria energética expresaron su respaldo al nombramiento de Joaquín Gutiérrez Caballero como nuevo presidente de Ecopetrol S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Producción, gas y exploración: prioridades que gremios plantean a nuevo presidente de Ecopetrol",
-        "capturado": "2026-09-24T18:08:35-05:00"
-      },
-      {
-        "titulo": "Uber Mujeres desembarca en el país: pasajeras tendrán opción de viajes con conductoras",
-        "url": "https://www.dataifx.com/post/uber-mujeres-llega-colombia-usuarias-podran-solicitar-viajes-con-conductoras",
-        "resumen": "La plataforma Uber anunció el lanzamiento de Uber Mujeres en Colombia, una nueva opción dentro de su aplicación que permitirá a las usuarias solicitar trayectos preferiblemente con conductoras",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Uber Mujeres llega a Colombia: usuarias podrán solicitar viajes con conductoras",
-        "capturado": "2026-09-24T18:08:35-05:00"
-      },
-      {
-        "titulo": "Es oficial: Joaquín Gutiérrez asume la presidencia de Ecopetrol",
-        "url": "https://www.dataifx.com/post/confirmado-joaquin-gutierrez-es-el-nuevo-presidente-de-ecopetrol",
-        "resumen": "Ecopetrol informó que su Junta Directiva designó por unanimidad a Joaquín Gutiérrez Caballero como nuevo presidente y representante legal principal de la compañía",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "¡Confirmado! Joaquín Gutiérrez es el nuevo presidente de Ecopetrol",
-        "capturado": "2026-09-24T18:08:35-05:00"
-      },
-      {
-        "titulo": "Temas centrales del Congreso Colombiano de la Construcción: IA, inversión y vivienda",
-        "url": "https://www.dataifx.com/post/vivienda-inversion-e-ia-los-temas-que-marcaran-el-congreso-colombiano-de-la-construccion",
-        "resumen": "Cartagena será escenario de uno de los principales encuentros del sector constructor colombiano durante octubre",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Vivienda, inversión e IA: los temas que marcarán el Congreso Colombiano de la Construcción",
-        "capturado": "2026-09-24T13:21:59-05:00"
-      },
-      {
-        "titulo": "ISAGEN transferirá activos de generación dentro de su estrategia verde",
-        "url": "https://www.dataifx.com/post/isagen-vendera-activos-de-generacion-como-parte-de-su-plan-de-expansion-renovable",
-        "resumen": "ISAGEN anunció la firma de un acuerdo para vender un grupo de activos de generación hidroeléctrica y solar a un grupo integrado por EDF power solutions y BTG Pactual Commodities, en una operación que hace parte de la estrategia de rotación de capital que la compañía viene desarrollando para financiar nuevas inversiones y fortalecer su capacidad de crecimiento en el sector energético",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISAGEN venderá activos de generación como parte de su plan de expansión renovable",
-        "capturado": "2026-09-24T13:21:59-05:00"
       }
     ],
     "Empresas Internacional": [
