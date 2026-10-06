@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-05T17:28:14-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-06T00:56:28-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "La mayor parte de codirectores del BanRep avizora dudas ante el panorama fiscal y las movidas del nuevo Gobierno",
+        "url": "https://www.dataifx.com/post/mayoria-de-codirectores-del-banrep-advierte-incertidumbre-por-la-situacion-fiscal-y-el-ajuste-del",
+        "resumen": "Las minutas de la reunión de septiembre de la Junta Directiva del Banco de la República evidenciaron diferencias importantes entre los codirectores sobre la necesidad de continuar elevando las tasas de interés en un contexto marcado por una inflación persistente, riesgos externos, incertidumbre fiscal y señales mixtas de la actividad económica",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mayoría de codirectores del BanRep advierte incertidumbre por la situación fiscal y el ajuste del nuevo Gobierno",
+        "capturado": "2026-10-06T00:56:28-05:00"
+      },
       {
         "titulo": "DIAN decomisa productos por 20.155 millones de pesos en dos acciones anticontrabando",
         "url": "https://www.dataifx.com/post/dian-reporta-medidas-sobre-mercancias-por-20155-millones-en-dos-operativos-contra-el-contrabando",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Ecopetrol participa en Congreso Internacional de Petróleo y Gas en Venezuela para evaluar oportunidades de negocio",
         "capturado": "2026-09-30T18:38:15-05:00"
-      },
-      {
-        "titulo": "El desempleo en el país repuntó y se situó en el 9,4% durante agosto",
-        "url": "https://www.dataifx.com/post/desempleo-volvio-subir-en-colombia-y-alcanzo-94-en-agosto",
-        "resumen": "El Departamento Administrativo Nacional de Estadística (DANE) presentó los resultados de la Gran Encuesta Integrada de Hogares (GEIH) correspondientes a agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Desempleo volvió a subir en Colombia y alcanzó 9,4% en agosto",
-        "capturado": "2026-09-30T14:02:49-05:00"
       }
     ],
     "Macro Internacional": [
@@ -738,6 +738,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Bruce Mac Master sale de la presidencia de la ANDI y arranca proceso para buscar su reemplazo",
+        "url": "https://www.dataifx.com/post/andi-acepta-renuncia-de-bruce-mac-master-e-inicia-busqueda-para-elegir-sucesor",
+        "resumen": "La Junta de Dirección General de la Asociación Nacional de Empresarios de Colombia (ANDI) anunció que recibió la decisión de Bruce Mac Master de concluir su etapa al frente del gremio, cargo que ocupó durante los últimos 13 años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDI acepta renuncia de Bruce Mac Master e inicia búsqueda para elegir sucesor",
+        "capturado": "2026-10-06T00:56:28-05:00"
+      },
       {
         "titulo": "Bolsa de Brasil trepa 7,7% a máximos tras festejo de mercados por ventaja de Flávio Bolsonaro",
         "url": "https://www.dataifx.com/post/mercados-celebran-ventaja-de-flavio-bolsonaro-bolsa-de-brasil-salta-77-y-alcanza-maximos",
@@ -1176,16 +1186,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "ISAGEN venderá activos de generación como parte de su plan de expansión renovable",
-        "capturado": "2026-09-24T13:21:59-05:00"
-      },
-      {
-        "titulo": "Nueva opción de inversión en la bolsa colombiana lanzada por Protección",
-        "url": "https://www.dataifx.com/post/proteccion-apuesta-por-mercado-accionario-colombiano-con-nueva-alternativa-de-inversion",
-        "resumen": "Protección anunció el lanzamiento de una nueva alternativa de inversión dirigida a personas interesadas en participar en el comportamiento del mercado accionario colombiano, incorporando un mecanismo que busca preservar el capital invertido al finalizar el plazo establecido para el producto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Protección apuesta por mercado accionario colombiano con nueva alternativa de inversión",
         "capturado": "2026-09-24T13:21:59-05:00"
       }
     ],
