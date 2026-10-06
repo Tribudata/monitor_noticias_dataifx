@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-06T14:24:04-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-06T18:42:58-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Presidente Abelardo De La Espriella juramentó a Beatriz Eugenia Vélez como nueva directora de Colpensiones",
+        "url": "https://www.dataifx.com/post/presidente-abelardo-de-la-espriella-posesiono-beatriz-eugenia-velez-como-nueva-presidenta-de",
+        "resumen": "El presidente de la República, Abelardo De La Espriella, posesionó a Beatriz Eugenia Vélez Vengoechea como nueva presidenta de Colpensiones, entidad encargada de administrar el sistema público de pensiones en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente Abelardo De La Espriella posesionó a Beatriz Eugenia Vélez como nueva presidenta de Colpensiones",
+        "capturado": "2026-10-06T18:42:58-05:00"
+      },
+      {
+        "titulo": "Coprocesamiento: la opción para transformar desechos en electricidad",
+        "url": "https://www.dataifx.com/post/coprocesamiento-la-alternativa-que-busca-convertir-residuos-en-energia",
+        "resumen": "Colombia enfrenta un escenario de presión sobre su sistema de disposición final de residuos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Coprocesamiento: la alternativa que busca convertir residuos en energía",
+        "capturado": "2026-10-06T18:42:58-05:00"
+      },
       {
         "titulo": "El IPP en Colombia aumentó un 2,2% en septiembre por el agro y la minería",
         "url": "https://www.dataifx.com/post/precios-al-productor-en-colombia-subieron-22-en-septiembre-impulsados-por-mineria-y-productos",
@@ -433,29 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Bruce Mac Master dejará la presidencia de la ANDI tras más de 12 años al frente del gremio",
         "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Septiembre registró un alza de 23,6% en la venta de motos con más de 127.000 unidades superadas",
-        "url": "https://www.dataifx.com/post/ventas-de-motocicletas-crecieron-236-en-septiembre-y-superaron-las-127000-unidades",
-        "resumen": "El mercado de motocicletas mantuvo su tendencia de crecimiento en septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ventas de motocicletas crecieron 23,6% en septiembre y superaron las 127.000 unidades",
-        "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Grupo Energía Bogotá gana adjudicación de la UPME para la subestación Corzo en Cundinamarca",
-        "url": "https://www.dataifx.com/post/upme-adjudica-al-grupo-energia-bogota-proyecto-para-construir-subestacion-corzo-en-cundinamarca",
-        "resumen": "La Unidad de Planeación Minero Energética (UPME) adjudicó al Grupo Energía Bogotá S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "UPME adjudica al Grupo Energía Bogotá proyecto para construir subestación Corzo en Cundinamarca",
-        "capturado": "2026-10-01T14:23:37-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El desbalance comercial estadounidense subió a US$105.600 millones en agosto por alza de compras externas",
+        "url": "https://www.dataifx.com/post/deficit-comercial-de-eeuu-aumento-us105600-millones-en-agosto-por-fuerte-crecimiento-de-las",
+        "resumen": "El déficit comercial de bienes y servicios de Estados Unidos se amplió durante agosto de 2026 y alcanzó los US$105",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Déficit comercial de EE.UU. aumentó a US$105.600 millones en agosto por fuerte crecimiento de las importaciones",
+        "capturado": "2026-10-06T18:42:58-05:00"
+      },
       {
         "titulo": "Alza del 7,59% en la inflación energética de agosto y alerta de XM sobre baja oferta generadora",
         "url": "https://www.dataifx.com/post/inflacion-de-la-energia-sube-759-en-agosto-y-xm-alerta-por-menor-disponibilidad-de-generacion",
@@ -665,79 +675,29 @@
         "publicacion": "",
         "titulo_fuente": "Brent alcanza los US$100 mientras crece la tensión militar entre EE. UU. e Irán",
         "capturado": "2026-09-09T11:23:55-05:00"
-      },
-      {
-        "titulo": "PIB de Estados Unidos crece de forma moderada por mayor consumo e importaciones",
-        "url": "https://www.dataifx.com/post/economia-estadounidense-registra-expansion-moderada-consumo-al-alza-e-importaciones-presionan-el",
-        "resumen": "El Buró de Análisis Económico (BEA) publicó este miércoles la segunda estimación del producto interno bruto (PIB) de Estados Unidos correspondiente al periodo abril-junio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Economía estadounidense registra expansión moderada: consumo al alza e importaciones presionan el PIB",
-        "capturado": "2026-09-06T15:07:46-05:00"
-      },
-      {
-        "titulo": "Canadá fija gravámenes de hasta el 50 por ciento a compras externas hechas a Estados Unidos",
-        "url": "https://www.dataifx.com/post/canada-anuncia-aranceles-de-hasta-50-importaciones-desde-estados-unidos",
-        "resumen": "El Gobierno de Canadá informó que aplicará aranceles de hasta 50% a productos estadounidenses por un valor cercano a 20",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Canadá anuncia aranceles de hasta 50% a importaciones desde Estados Unidos",
-        "capturado": "2026-09-06T15:07:46-05:00"
-      },
-      {
-        "titulo": "María Corina Machado dice que sin un gobierno legítimo no hay confianza para invertir en Venezuela",
-        "url": "https://www.dataifx.com/post/maria-corina-machado-sin-un-gobierno-legitimo-no-hay-confianza-para-invertir-en-venezuela",
-        "resumen": "La dirigente venezolana María Corina Machado se pronunció sobre el acuerdo petrolero anunciado entre el gobierno de los Estados Unidos y la administración de Delcy Rodríguez, calificándolo como un tema que genera “profunda preocupación por las implicaciones que tiene para el futuro de nuestro país”",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "María Corina Machado: sin un gobierno legítimo no hay confianza para invertir en Venezuela",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Fenómeno El Niño seguirá hasta febrero de 2027 y sería el más fuerte en 40 años",
-        "url": "https://www.dataifx.com/post/fenomeno-el-nino-persistira-hasta-febrero-de-2027-y-podria-ser-el-mas-intenso-en-40-anos",
-        "resumen": "El fenómeno El Niño continúa intensificándose y, según la Organización Meteorológica Mundial (OMM), podría convertirse en el más fuerte registrado desde que comenzaron los monitoreos hace más de 40 años",
-        "autor": "",
-        "subseccion": "Macro Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Fenómeno El Niño persistirá hasta febrero de 2027 y podría ser el más intenso en 40 años",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "Brent sube más de 4% y pasa de US$94 por conflicto en el estrecho de Ormuz",
-        "url": "https://www.dataifx.com/post/brent-se-dispara-mas-de-4-y-supera-los-us94-por-tension-en-estrecho-de-ormuz",
-        "resumen": "El mercado petrolero volvió a reaccionar con fuerza ante la escalada del conflicto en Medio Oriente",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Brent se dispara más de 4% y supera los US$94 por tensión en estrecho de Ormuz",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "IPC de la zona euro pasa del 3% y aviva previsión de alza del BCE",
-        "url": "https://www.dataifx.com/post/inflacion-de-la-zona-euro-supera-el-3-y-refuerza-expectativa-de-subida-del-bce",
-        "resumen": "La inflación en la zona euro volvió a superar el 3 % en agosto, impulsada principalmente por el encarecimiento de la energía",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inflación de la zona euro supera el 3% y refuerza expectativa de subida del BCE",
-        "capturado": "2026-09-06T15:01:47-05:00"
-      },
-      {
-        "titulo": "EE. UU. divulga pacto petrolero con Venezuela, visto como el más grande de su historia",
-        "url": "https://www.dataifx.com/post/estados-unidos-anuncia-acuerdo-petrolero-con-venezuela-considerado-el-mayor-en-su-historia",
-        "resumen": "El gobierno de Estados Unidos informó la firma de un acuerdo petrolero de gran magnitud con Venezuela, que fue calificado como el más importante en la historia de las relaciones energéticas entre ambos países",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Estados Unidos anuncia acuerdo petrolero con Venezuela, considerado el mayor en su historia",
-        "capturado": "2026-09-06T15:01:47-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Invest Pacific comunica cambio en su gerencia ejecutiva",
+        "url": "https://www.dataifx.com/post/invest-pacific-anuncia-relevo-en-su-direccion-ejecutiva",
+        "resumen": "La agencia de promoción de inversión Invest Pacific anunció la salida de Juan Carlos Castro de su cargo como director ejecutivo, luego de un periodo en el que se consolidaron proyectos de inversión extranjera y se fortaleció la proyección internacional del Valle del Cauca",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Invest Pacific anuncia relevo en su dirección ejecutiva",
+        "capturado": "2026-10-06T18:42:58-05:00"
+      },
+      {
+        "titulo": "DIAN normaliza plataformas tras fallo de energía en el centro de datos",
+        "url": "https://www.dataifx.com/post/dian-restablece-servicios-tras-interrupcion-electrica-que-afecto-centro-de-datos",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) informó que logró restablecer la totalidad de sus servicios tecnológicos luego de una interrupción registrada durante la mañana de este 6 de octubre, que afectó el funcionamiento de algunas de sus plataformas a nivel nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "DIAN restablece servicios tras interrupción eléctrica que afectó centro de datos",
+        "capturado": "2026-10-06T18:42:58-05:00"
+      },
       {
         "titulo": "BBVA Colombia estrenó bonos sostenibles con una emisión inicial de $250.000 millones",
         "url": "https://www.dataifx.com/post/bbva-colombia-debuto-en-mercado-de-bonos-sostenibles-con-colocacion-inicial-de-250000-millones",
@@ -1167,26 +1127,6 @@
         "publicacion": "",
         "titulo_fuente": "Junta Directiva de 4-72 retira de la presidencia a Fuad Abdala",
         "capturado": "2026-09-25T16:24:29-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master habla y pide cuidar la independencia de la ANDI",
-        "url": "https://www.dataifx.com/post/bruce-mac-master-rompe-el-silencio-y-llama-proteger-la-autonomia-de-la-andi",
-        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI) atraviesa un momento de debate público luego de las controversias surgidas en los últimos días alrededor de la organización",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bruce Mac Master rompe el silencio y llama a proteger la autonomía de la ANDI",
-        "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Inversionistas aprobaron y Grupo SURA dispone la recompra de acciones",
-        "url": "https://www.dataifx.com/post/accionistas-dieron-luz-verde-y-grupo-sura-reglamenta-recompra-de-acciones",
-        "resumen": "La junta directiva de Grupo de Inversiones Suramericana S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Accionistas dieron luz verde y Grupo SURA reglamenta recompra de acciones",
-        "capturado": "2026-09-25T11:59:28-05:00"
       }
     ],
     "Empresas Internacional": [
