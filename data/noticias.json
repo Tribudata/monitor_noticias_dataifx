@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-07T00:30:00-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-07T08:05:36-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno suma proveedores para abastecer combustible a plantas térmicas por El Niño",
+        "url": "https://www.dataifx.com/post/gobierno-amplia-proveedores-para-abastecimiento-de-combustibles-de-plantas-termicas-ante-el-nino",
+        "resumen": "El Gobierno Nacional expidió el Decreto 1491 del 6 de octubre de 2026, mediante el cual amplía las alternativas de abastecimiento de combustibles para las plantas de generación térmica, como parte de las medidas preventivas frente al fenómeno de El Niño 2026-2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno amplía proveedores para abastecimiento de combustibles de plantas térmicas ante El Niño",
+        "capturado": "2026-10-07T08:05:36-05:00"
+      },
+      {
+        "titulo": "Gobierno quita el tope del 30 % para invertir fondos de pensiones afuera",
+        "url": "https://www.dataifx.com/post/gobierno-elimina-limite-del-30-las-inversiones-de-fondos-de-pensiones-en-el-exterior",
+        "resumen": "El Gobierno Nacional expidió el Decreto 1490 de 2026, mediante el cual modifica el régimen de inversión de los fondos de pensiones obligatorias y elimina el límite global del 30 % para las inversiones en activos del exterior, establecido en abril de este año mediante el Decreto 0369 de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno elimina límite del 30 % a las inversiones de fondos de pensiones en el exterior",
+        "capturado": "2026-10-07T08:05:36-05:00"
+      },
+      {
+        "titulo": "Gobierno oficializa 624656 millones de pesos al Fondo Milagro tras sismo del 10 de agosto",
+        "url": "https://www.dataifx.com/post/gobierno-formaliza-624656-millones-para-el-fondo-milagro-tras-el-terremoto-del-10-de-agosto",
+        "resumen": "El Gobierno Nacional formalizó la destinación de $624",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno formaliza $624.656 millones para el Fondo Milagro tras el terremoto del 10 de agosto",
+        "capturado": "2026-10-07T08:05:36-05:00"
+      },
+      {
+        "titulo": "Fondo Milagro: estos son los cinco miembros de su Junta Directiva",
+        "url": "https://www.dataifx.com/post/fondo-milagro-estos-son-los-cinco-integrantes-de-su-junta-directiva",
+        "resumen": "El Fondo Milagro, creado para atender las necesidades derivadas de la emergencia tras el terremoto del pasado 10 de agosto, ya tiene definida su estructura directiva",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fondo Milagro: estos son los cinco integrantes de su Junta Directiva",
+        "capturado": "2026-10-07T08:05:36-05:00"
+      },
       {
         "titulo": "Presidente Abelardo De La Espriella juramentó a Beatriz Eugenia Vélez como nueva directora de Colpensiones",
         "url": "https://www.dataifx.com/post/presidente-abelardo-de-la-espriella-posesiono-beatriz-eugenia-velez-como-nueva-presidenta-de",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "CAF aprueba financiamiento por US$1.250 millones para proyectos en Colombia",
         "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Swiss Re advierte el desafío asegurador en Colombia tras superar 90.000 siniestros por el sismo",
-        "url": "https://www.dataifx.com/post/swiss-re-senala-el-reto-del-sector-asegurador-en-colombia-tras-mas-de-90000-reclamos-por-el",
-        "resumen": "El terremoto ocurrido en Colombia el pasado 10 de agosto puso a prueba la capacidad de respuesta del mercado asegurador frente a un evento que dejó daños en diferentes zonas del país y que, semanas después, mantiene a las compañías en proceso de evaluación y ajuste de las reclamaciones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Swiss Re señala el reto del sector asegurador en Colombia tras más de 90.000 reclamos por el terremoto",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Filipinas habilita el ingreso de carne de res y cerdo de origen colombiano",
-        "url": "https://www.dataifx.com/post/filipinas-abre-su-mercado-las-carnes-bovina-y-porcina-colombianas",
-        "resumen": "Las carnes bovina y porcina de Colombia obtuvieron autorización para ingresar al mercado de Filipinas, una decisión que amplía los destinos de exportación para estos productos y abre una nueva posibilidad comercial para el sector cárnico nacional en Asia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Filipinas abre su mercado a las carnes bovina y porcina colombianas",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Vehículos híbridos y eléctricos superan por primera vez la mitad de las matrículas nuevas en Colombia",
-        "url": "https://www.dataifx.com/post/por-primera-vez-hibridos-y-electricos-superaron-el-50-de-las-ventas-de-vehiculos-nuevos-en-colombia",
-        "resumen": "La transformación tecnológica del mercado automotor colombiano alcanzó un nuevo hito en septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Por primera vez, híbridos y eléctricos superaron el 50% de las ventas de vehículos nuevos en Colombia",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master saldrá de la dirección de la ANDI luego de superar 12 años liderando el gremio",
-        "url": "https://www.dataifx.com/post/bruce-mac-master-dejara-la-presidencia-de-la-andi-tras-mas-de-12-anos-al-frente-del-gremio",
-        "resumen": "Bruce Mac Master dejará la Presidencia de la Asociación Nacional de Empresarios de Colombia, ANDI, después de más de 12 años al frente del gremio empresarial",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bruce Mac Master dejará la presidencia de la ANDI tras más de 12 años al frente del gremio",
-        "capturado": "2026-10-01T14:23:37-05:00"
       }
     ],
     "Macro Internacional": [
