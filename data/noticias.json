@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-08T12:19:39-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-08T18:11:45-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinTrabajo abre espacio técnico para vigilar la situación laboral tras liquidarse el MinIgualdad",
+        "url": "https://www.dataifx.com/post/mintrabajo-instala-mesa-tecnica-para-seguimiento-laboral-en-liquidacion-del-ministerio-de-igualdad",
+        "resumen": "El Ministerio del Trabajo informó que acompaña el proceso de liquidación del Ministerio de Igualdad y Equidad, con el objetivo de asegurar el respeto de los derechos laborales de los servidores públicos vinculados a esa entidad",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinTrabajo instala mesa técnica para seguimiento laboral en liquidación del Ministerio de Igualdad",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
       {
         "titulo": "SEN y GASNOVA instruyen a 112 comerciantes callejeros de comida de Bogotá sobre uso seguro del GLP",
         "url": "https://www.dataifx.com/post/gasnova-y-sena-capacitan-112-vendedores-informales-de-alimentos-en-bogota-en-manejo-seguro-del-glp",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "MinAgricultura aclara que recomendación de no sembrar arroz se refería a La Guajira y anuncia revisión de recursos de Fedearroz",
         "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "Fedearroz asegura que dineros del sector han sido auditados y avalados por MinAgricultura",
-        "url": "https://www.dataifx.com/post/fedearroz-asegura-que-recursos-del-sector-han-sido-auditados-y-avalados-por-minagricultura",
-        "resumen": "La Federación Nacional de Arroceros, Fedearroz, respondió por escrito al ministro de Agricultura y Desarrollo Rural, Indalecio Dangond Baquero, sobre la administración y el destino de los recursos parafiscales del sector arrocero y de los recursos Col Rice",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fedearroz asegura que recursos del sector han sido auditados y avalados por MinAgricultura",
-        "capturado": "2026-10-05T09:16:52-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El costo de vida en Chile llega al 4,1% interanual por alza en pasajes y comida",
+        "url": "https://www.dataifx.com/post/inflacion-en-chile-sube-41-anual-impulsada-por-transporte-y-alimentos",
+        "resumen": "Los precios al consumidor en Chile registraron un incremento de 0,4% durante septiembre, con lo que la inflación acumulada en lo corrido de 2026 llegó a 4,0% y la variación anual se situó en 4,1%, según informó el Instituto Nacional de Estadísticas (INE) de ese país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en Chile sube a 4,1% anual impulsada por transporte y alimentos",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
       {
         "titulo": "Reserva Federal deja abierta la posibilidad de más aumentos de tasas por la persistencia de la inflación",
         "url": "https://www.dataifx.com/post/fed-mantiene-abierta-puerta-nuevas-alzas-de-tasas-mientras-persisten-preocupaciones-inflacionarias",
@@ -688,6 +698,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Peligran US$27.000 millones de comercio exterior por sobretasa a la carga en Buenaventura",
+        "url": "https://www.dataifx.com/post/en-riesgo-us27000-millones-en-comercio-exterior-por-sobretasa-la-carga-en-buenaventura",
+        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) advirtió sobre las implicaciones económicas del Decreto Distrital 0338 de 2026, expedido por la Alcaldía de Buenaventura, que fija un cobro de $4",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En riesgo US$27.000 millones en comercio exterior por sobretasa a la carga en Buenaventura",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
+      {
+        "titulo": "Minagricultura pide a la banca facilitar créditos para arroceros de Casanare",
+        "url": "https://www.dataifx.com/post/minagricultura-solicita-la-banca-flexibilizar-creditos-para-arroceros-de-casanare",
+        "resumen": "El Ministerio de Agricultura y Desarrollo Rural envió una carta a la Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria) en la que pidió apoyo para el reperfilamiento de los créditos de los productores arroceros de Casanare, afectados por las inundaciones de este año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Minagricultura solicita a la banca flexibilizar créditos para arroceros de Casanare",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
+      {
+        "titulo": "ANDI alerta del efecto económico de nueva tarifa en Buenaventura",
+        "url": "https://www.dataifx.com/post/andi-advierte-sobre-impacto-economico-de-nuevo-cobro-en-buenaventura",
+        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI)expresó su preocupación frente al Decreto Distrital 0338 de 2026, expedido en Buenaventura, que establece un cobro de $4",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDI advierte sobre impacto económico de nuevo cobro en Buenaventura",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
+      {
+        "titulo": "Altia multiplica por dos su capacidad instalada al comprar cinco activos renovables de ISAGEN",
+        "url": "https://www.dataifx.com/post/altia-duplica-su-capacidad-instalada-tras-adquirir-cinco-activos-renovables-de-isagen",
+        "resumen": "Altia Energy e ISAGEN anunciaron el cierre de una operación mediante la cual la primera adquiere cinco activos de generación renovable que formaban parte del portafolio de ISAGEN, una transacción que incorpora 219 megavatios (MW) de capacidad instalada a Altia y modifica la composición de su negocio de generación eléctrica en Colombia",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Altia duplica su capacidad instalada tras adquirir cinco activos renovables de ISAGEN",
+        "capturado": "2026-10-08T18:11:45-05:00"
+      },
       {
         "titulo": "Aumento de 11,5% en los viajes de colombianos al extranjero de enero a agosto",
         "url": "https://www.dataifx.com/post/salidas-de-colombianos-al-exterior-crecen-115-entre-enero-y-agosto",
@@ -1097,46 +1147,6 @@
         "publicacion": "",
         "titulo_fuente": "Wompi amplía cobertura de pagos móviles y ajusta tarifas",
         "capturado": "2026-09-30T14:02:49-05:00"
-      },
-      {
-        "titulo": "ISA obtiene aval para crédito local con Bancolombia por $400.000 millones",
-        "url": "https://www.dataifx.com/post/isa-recibe-autorizacion-para-emprestito-interno-con-bancolombia-por-400000-millones",
-        "resumen": "La empresa Interconexión Eléctrica S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA recibe autorización para empréstito interno con Bancolombia por $400.000 millones",
-        "capturado": "2026-09-30T14:02:49-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa firma pacto para comprar la totalidad de Empaques Industriales de Colombia",
-        "url": "https://www.dataifx.com/post/grupo-nutresa-suscribe-acuerdo-para-adquirir-100-de-empaques-industriales-de-colombia",
-        "resumen": "Grupo Nutresa S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Nutresa suscribe acuerdo para adquirir 100% de Empaques Industriales de Colombia",
-        "capturado": "2026-09-30T14:02:49-05:00"
-      },
-      {
-        "titulo": "Desde octubre Satena inaugurará vuelo sin escalas entre Montería y Ciudad de Panamá",
-        "url": "https://www.dataifx.com/post/satena-abrira-ruta-directa-entre-monteria-y-ciudad-de-panama-desde-octubre",
-        "resumen": "La aerolínea estatal SATENA anunció la apertura de una ruta internacional directa entre Montería y Ciudad de Panamá, una operación que comenzará el próximo 26 de octubre y que busca ampliar las opciones de conectividad aérea para el departamento de Córdoba y la región Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SATENA abrirá ruta directa entre Montería y Ciudad de Panamá desde octubre",
-        "capturado": "2026-09-29T11:26:55-05:00"
-      },
-      {
-        "titulo": "Tejo Turmequé retorna a a2censo por hasta $2.700 millones para fondear su crecimiento",
-        "url": "https://www.dataifx.com/post/tejo-turmeque-vuelve-a2censo-en-busca-de-hasta-2700-millones-para-financiar-su-expansion",
-        "resumen": "La compañía de entretenimiento Tejo Turmequé abrió una nueva campaña de financiación en a2censo, la plataforma de inversión de la Bolsa de Valores de Colombia (bvc), con la que busca recaudar entre $1",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Tejo Turmequé vuelve a a2censo en busca de hasta $2.700 millones para financiar su expansión",
-        "capturado": "2026-09-29T11:26:55-05:00"
       }
     ],
     "Empresas Internacional": [
