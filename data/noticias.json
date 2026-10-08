@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-07T14:50:56-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-07T19:06:41-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El índice de precios al consumidor anual llegó al 6,29% en septiembre en el país",
+        "url": "https://www.dataifx.com/post/en-septiembre-inflacion-anual-de-colombia-fue-del-629",
+        "resumen": "La inflación en Colombia siguió su tendencia alcista durante septiembre y se ubicó en 6,29% anual, después de haber registrado una variación de 6,24% en agosto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En septiembre inflación anual de Colombia fue del 6,29%",
+        "capturado": "2026-10-07T19:06:41-05:00"
+      },
+      {
+        "titulo": "En agosto la fabricación de concreto premezclado subió 5,6% por las obras",
+        "url": "https://www.dataifx.com/post/produccion-de-concreto-premezclado-crecio-56-en-agosto-impulsada-por-edificaciones",
+        "resumen": "La producción de concreto premezclado en Colombia alcanzó 655",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción de concreto premezclado creció 5,6% en agosto, impulsada por edificaciones",
+        "capturado": "2026-10-07T19:06:41-05:00"
+      },
       {
         "titulo": "Asociaciones solicitan pasar del potencial de los yacimientos no convencionales a reservas de crudo y gas",
         "url": "https://www.dataifx.com/post/gremios-piden-avanzar-del-potencial-de-los-yacimientos-no-convencionales-reservas-de-petroleo-y-gas",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "CFI Financial Group se suma a Bolsa Millonaria 2026 y apuesta por la educación financiera en Colombia",
         "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Extracción aurífera aluvial sumó 118.410 hectáreas en el país durante 2025: el 75% es ilegal",
-        "url": "https://www.dataifx.com/post/explotacion-de-oro-de-aluvion-llego-118410-hectareas-en-colombia-en-2025-75-es-ilicita",
-        "resumen": "La explotación de oro de aluvión en Colombia alcanzó 118",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Explotación de oro de aluvión llegó a 118.410 hectáreas en Colombia en 2025: 75% es ilícita",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Gobierno presenta al Congreso iniciativa de regalías 2027-2028 por $27,54 billones",
-        "url": "https://www.dataifx.com/post/gobierno-radica-proyecto-de-regalias-2027-2028-por-2754-billones-ante-el-congreso",
-        "resumen": "El Gobierno nacional radicó ante el Congreso de la República el proyecto de ley del Presupuesto del Sistema General de Regalías para el bienio 2027-2028, con ingresos proyectados por $27,54 billones, equivalentes al 1,4% del Producto Interno Bruto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno radica proyecto de regalías 2027-2028 por $27,54 billones ante el Congreso",
-        "capturado": "2026-10-01T18:50:06-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Santiago Pardo asumió la presidencia ejecutiva de Analdex tras la aceptación de la dimisión de Javier Díaz por la junta",
+        "url": "https://www.dataifx.com/post/junta-directiva-de-analdex-acepto-la-renuncia-de-javier-diaz-y-designo-santiago-pardo-como-nuevo",
+        "resumen": "La Junta Directiva de la Asociación Nacional de Comercio Exterior (Analdex) aceptó la renuncia de Javier Díaz Molina a la Presidencia Ejecutiva del gremio, cargo que ocupó desde 1997",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Junta Directiva de Analdex aceptó la renuncia de Javier Díaz y designó a Santiago Pardo como nuevo presidente ejecutivo",
+        "capturado": "2026-10-07T19:06:41-05:00"
+      },
       {
         "titulo": "Juan Valdez repartió más de 13.000 tazas de café tras jornada por el Día Internacional del Café",
         "url": "https://www.dataifx.com/post/juan-valdez-entrego-mas-de-13000-tazas-de-cafe-tras-campana-por-el-dia-internacional-del-cafe",
@@ -1126,16 +1136,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Davivienda y DaviPlata amplían su red de corresponsales con la incorporación de tiendas Olímpica",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "PepsiCo destinará 1.000 millones de dólares en el país durante el próximo lustro",
-        "url": "https://www.dataifx.com/post/pepsico-anuncia-inversion-de-us1000-millones-en-colombia-para-los-proximos-cinco-anos",
-        "resumen": "La multinacional PepsiCo destinará US$1",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "PepsiCo anuncia inversión de US$1.000 millones en Colombia para los próximos cinco años",
         "capturado": "2026-09-28T15:28:28-05:00"
       }
     ],
