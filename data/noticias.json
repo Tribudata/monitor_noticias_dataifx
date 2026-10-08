@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-07T19:06:41-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-08T03:43:58-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Aprobados tres créditos externos por 497 millones de euros para financiar el presupuesto de 2026",
+        "url": "https://www.dataifx.com/post/luz-verde-tres-emprestitos-externos-por-497-millones-de-euros-para-financiar-presupuesto-de-2026",
+        "resumen": "La Comisión Interparlamentaria de Crédito Público emitió concepto favorable para que la Nación avance en la contratación de tres empréstitos externos con el banco de desarrollo alemán KfW por hasta 497 millones de euros, recursos que, según el Ministerio de Hacienda, se destinarían a apoyar la financiación del Presupuesto General de la Nación de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz verde a tres empréstitos externos por 497 millones de euros para financiar presupuesto de 2026",
+        "capturado": "2026-10-08T03:43:58-05:00"
+      },
       {
         "titulo": "El índice de precios al consumidor anual llegó al 6,29% en septiembre en el país",
         "url": "https://www.dataifx.com/post/en-septiembre-inflacion-anual-de-colombia-fue-del-629",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Reclamaciones por terremoto del 10 de agosto alcanzan $5,7 billones: Fasecolda",
         "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "CFI Financial Group participa en Bolsa Millonaria 2026 y promueve la educación financiera local",
-        "url": "https://www.dataifx.com/post/cfi-financial-group-se-suma-bolsa-millonaria-2026-y-apuesta-por-la-educacion-financiera-en-colombia",
-        "resumen": "CFI Financial Group participará como patrocinador de Bolsa Millonaria 2026, la competencia de educación financiera organizada por la Bolsa de Valores de Colombia (bvc), parte de nuam exchange, y Trii",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CFI Financial Group se suma a Bolsa Millonaria 2026 y apuesta por la educación financiera en Colombia",
-        "capturado": "2026-10-02T14:06:56-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Julio César Aldana Bula asume la dirección de Positiva",
+        "url": "https://www.dataifx.com/post/julio-cesar-aldana-bula-llega-la-presidencia-de-positiva",
+        "resumen": "El Ministerio de Hacienda anunció la llegada de Julio César Aldana Bula a la Presidencia de Positiva, entidad aseguradora vinculada al sector público",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Julio César Aldana Bula llega a la presidencia de Positiva",
+        "capturado": "2026-10-08T03:43:58-05:00"
+      },
       {
         "titulo": "Santiago Pardo asumió la presidencia ejecutiva de Analdex tras la aceptación de la dimisión de Javier Díaz por la junta",
         "url": "https://www.dataifx.com/post/junta-directiva-de-analdex-acepto-la-renuncia-de-javier-diaz-y-designo-santiago-pardo-como-nuevo",
@@ -1126,16 +1136,6 @@
         "subseccion": "Macro Colombia",
         "publicacion": "",
         "titulo_fuente": "Nueva York será la vitrina de 176 proyectos colombianos en busca de capital extranjero",
-        "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Davivienda y su billetera digital suman supermercados Olímpica a su red de aliados",
-        "url": "https://www.dataifx.com/post/davivienda-y-daviplata-amplian-su-red-de-corresponsales-con-la-incorporacion-de-tiendas-olimpica",
-        "resumen": "Los clientes de Davivienda y DaviPlata podrán realizar operaciones financieras en las tiendas de Olímpica S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda y DaviPlata amplían su red de corresponsales con la incorporación de tiendas Olímpica",
         "capturado": "2026-09-28T15:28:28-05:00"
       }
     ],
