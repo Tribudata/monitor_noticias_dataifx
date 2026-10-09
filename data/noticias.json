@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-08T18:11:45-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-09T00:42:53-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Gobierno alinea supervisiones en Puerto Antioquia para acortar plazos de salida al exterior",
+        "url": "https://www.dataifx.com/post/gobierno-coordina-controles-en-puerto-antioquia-para-reducir-tiempos-de-exportacion",
+        "resumen": "El Ministerio de Comercio, Industria y Turismo anunció una estrategia de coordinación institucional en Puerto Antioquia con el objetivo de hacer más eficiente el proceso de exportación de mercancías desde esta terminal portuaria",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno coordina controles en Puerto Antioquia para reducir tiempos de exportación",
+        "capturado": "2026-10-09T00:42:53-05:00"
+      },
+      {
+        "titulo": "Fedesarrollo presenta al Ejecutivo guía con sugerencias sobre tributación, sanidad, orden y energía",
+        "url": "https://www.dataifx.com/post/fedesarrollo-entrega-al-gobierno-hoja-de-ruta-con-recomendaciones-en-fiscalidad-salud-seguridad-y",
+        "resumen": "Fedesarrollo presentó al Gobierno nacional una serie de propuestas de política pública para el período 2026-2030, con recomendaciones dirigidas a atender desafíos en materia fiscal, seguridad, justicia, salud, educación, energía, lucha contra la corrupción y licenciamiento ambiental",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fedesarrollo entrega al Gobierno hoja de ruta con recomendaciones en fiscalidad, salud, seguridad y energía",
+        "capturado": "2026-10-09T00:42:53-05:00"
+      },
       {
         "titulo": "MinTrabajo abre espacio técnico para vigilar la situación laboral tras liquidarse el MinIgualdad",
         "url": "https://www.dataifx.com/post/mintrabajo-instala-mesa-tecnica-para-seguimiento-laboral-en-liquidacion-del-ministerio-de-igualdad",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno entrega a Barranquilla la administración de parte de la infraestructura del aeropuerto Ernesto Cortissoz",
         "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "XM advierte baja oferta eléctrica y alza de consumo para el verano 2026-2027",
-        "url": "https://www.dataifx.com/post/xm-alerta-por-menor-disponibilidad-de-energia-y-mayor-demanda-para-el-verano-2026-2027",
-        "resumen": "El Sistema Interconectado Nacional, SIN, enfrenta una combinación de factores que inciden sobre la disponibilidad de energía de cara al verano de 2026-2027, de acuerdo con el Boletín energético 362 de XM, publicado el 2 de octubre",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "XM alerta por menor disponibilidad de energía y mayor demanda para el verano 2026-2027",
-        "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "MinHacienda aclara que recomendación de no sembrar arroz se refería a La Guajira y anuncia revisión de recursos de Fedearroz",
-        "url": "https://www.dataifx.com/post/minagricultura-aclara-que-recomendacion-de-no-sembrar-arroz-se-referia-la-guajira-y-anuncia",
-        "resumen": "El ministro de Agricultura, Indalecio Dangón, aclaró que su recomendación de buscar alternativas al cultivo de arroz no estaba dirigida a los productores de todo el país, sino a un agricultor de Fonseca, La Guajira, que le manifestó que estaba registrando pérdidas con esa actividad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura aclara que recomendación de no sembrar arroz se refería a La Guajira y anuncia revisión de recursos de Fedearroz",
-        "capturado": "2026-10-05T09:16:52-05:00"
       }
     ],
     "Macro Internacional": [
@@ -698,6 +698,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Ejecutivo y Mazda entablan diálogos para analizar nuevos capitales en el país",
+        "url": "https://www.dataifx.com/post/gobierno-y-mazda-inician-conversaciones-para-evaluar-nuevas-inversiones-en-colombia",
+        "resumen": "El Gobierno colombiano inició conversaciones con representantes de Mazda para explorar posibilidades de inversión en el país, incluido un eventual regreso de operaciones industriales que podrían abarcar una planta de ensamblaje y la participación de proveedores nacionales en la cadena de suministro de la compañía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno y Mazda inician conversaciones para evaluar nuevas inversiones en Colombia",
+        "capturado": "2026-10-09T00:42:53-05:00"
+      },
       {
         "titulo": "Peligran US$27.000 millones de comercio exterior por sobretasa a la carga en Buenaventura",
         "url": "https://www.dataifx.com/post/en-riesgo-us27000-millones-en-comercio-exterior-por-sobretasa-la-carga-en-buenaventura",
@@ -1137,16 +1147,6 @@
         "publicacion": "",
         "titulo_fuente": "Operaciones en El Dorado y Pacífico 2 permitirán anticipar recursos para Odinsa y sus accionistas",
         "capturado": "2026-10-01T00:24:14-05:00"
-      },
-      {
-        "titulo": "Wompi extiende alcance de cobros celulares y modifica costos",
-        "url": "https://www.dataifx.com/post/wompi-amplia-cobertura-de-pagos-moviles-y-ajusta-tarifas",
-        "resumen": "La plataforma de pagos Wompi, perteneciente al Grupo Cibest, anunció nuevas funcionalidades que buscan facilitar las transacciones digitales en el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Wompi amplía cobertura de pagos móviles y ajusta tarifas",
-        "capturado": "2026-09-30T14:02:49-05:00"
       }
     ],
     "Empresas Internacional": [
