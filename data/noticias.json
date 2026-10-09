@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-09T14:23:43-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-09T18:56:28-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno revela decreto para renovar contratos portuarios y promover nuevas inversiones",
+        "url": "https://www.dataifx.com/post/gobierno-anuncia-decreto-para-actualizar-las-concesiones-portuarias-y-facilitar-nuevas-inversiones",
+        "resumen": "El presidente Abelardo de la Espriella anunció la expedición de un decreto para actualizar el régimen de concesiones portuarias en Colombia, con el propósito de facilitar nuevas inversiones, ampliar la infraestructura logística y establecer reglas para la operación de las terminales marítimas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia decreto para actualizar las concesiones portuarias y facilitar nuevas inversiones",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
+      {
+        "titulo": "Directora de Catedral de Sal de Zipaquirá figura entre 100 gerentes mundiales en Best CEO Awards 2026",
+        "url": "https://www.dataifx.com/post/gerente-de-catedral-de-sal-de-zipaquira-es-reconocida-entre-los-100-ceo-del-mundo-en-los-best-ceo",
+        "resumen": "Yenny Páez Sabogal, gerente de la Catedral de Sal de Zipaquirá, fue seleccionada entre los 100 CEO del mundo en los Best CEO Awards 2026, un reconocimiento que evalúa el desempeño de líderes empresariales a partir de criterios como innovación, liderazgo, desarrollo estratégico, internacionalización y gobierno corporativo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gerente de Catedral de Sal de Zipaquirá es reconocida entre los 100 CEO del mundo en los Best CEO Awards 2026",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
+      {
+        "titulo": "MinComercio lanza línea de crédito de $20.000 millones para impulsar reactivación económica del Quindío",
+        "url": "https://www.dataifx.com/post/mincomercio-anuncia-linea-de-credito-por-20000-millones-para-apoyar-recuperacion-economica-del",
+        "resumen": "Mauricio Gómez Amín, ministro de Comercio, Industria y Turismo, anunció una línea especial de crédito por $20",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinComercio anuncia línea de crédito por $20.000 millones para apoyar recuperación económica del Quindío",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
       {
         "titulo": "OP Gold Capital suscribe dos acuerdos de búsqueda de cobre dentro de la Ronda Minera de la ANM",
         "url": "https://www.dataifx.com/post/op-gold-capital-firma-dos-contratos-de-exploracion-de-cobre-en-la-ronda-minera-de-la-anm",
@@ -423,39 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Exportaciones de Colombia crecen a agosto, pero el aumento sigue concentrado en el sector minero-energético",
         "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "Madecentro alcanza 250 almacenes y prevé rebasar el billón de pesos en ventas para el año 2026",
-        "url": "https://www.dataifx.com/post/madecentro-llega-250-tiendas-y-proyecta-superar-el-billon-de-pesos-en-ingresos-en-2026",
-        "resumen": "Madecentro conmemora 25 años de operación con la apertura de su tienda número 250, ubicada en el Centro Comercial Santafé de Medellín, ciudad desde la que inició sus operaciones y desde donde ha desarrollado una red con presencia en diferentes regiones de Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Madecentro llega a 250 tiendas y proyecta superar el billón de pesos en ingresos en 2026",
-        "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "LATAM y Turkish Airlines extienden su alianza de código compartido para unir ocho urbes colombianas",
-        "url": "https://www.dataifx.com/post/latam-y-turkish-airlines-amplian-su-acuerdo-de-codigo-compartido-para-conectar-ocho-ciudades-de",
-        "resumen": "LATAM Airlines Colombia y Turkish Airlines ampliaron su acuerdo de cooperación mediante un nuevo esquema de código compartido que permitirá a la aerolínea turca comercializar bajo su propio código ocho rutas domésticas operadas por LATAM dentro de Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "LATAM y Turkish Airlines amplían su acuerdo de código compartido para conectar ocho ciudades de Colombia",
-        "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "ANIF sugiere que el país lograría bajar hasta 290 puntos básicos el endeudamiento con un pacto del FMI",
-        "url": "https://www.dataifx.com/post/anif-plantea-que-colombia-podria-reducir-hasta-290-puntos-basicos-el-costo-de-la-deuda-con-un",
-        "resumen": "Colombia podría reducir hasta 290 puntos básicos el costo de su financiamiento externo si accede a un programa de crédito con el Fondo Monetario Internacional, en comparación con las tasas que paga actualmente por títulos de deuda internacional con plazos similares",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANIF plantea que Colombia podría reducir hasta 290 puntos básicos el costo de la deuda con un acuerdo de financiamiento del FMI",
-        "capturado": "2026-10-05T17:28:14-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Buenaventura recibe barcaza para guardar hasta 146.000 metros cúbicos de GNL",
+        "url": "https://www.dataifx.com/post/buenaventura-recibe-unidad-flotante-para-almacenar-hasta-146000-metros-cubicos-de-gnl",
+        "resumen": "La embarcación FSU Tura, destinada al almacenamiento de gas natural licuado (GNL), arribó a la bahía de Buenaventura como parte del proyecto que desarrolla Regasificadora del Pacífico para la importación, almacenamiento, transporte y regasificación de este combustible en Colombia",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Buenaventura recibe unidad flotante para almacenar hasta 146.000 metros cúbicos de GNL",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
+      {
+        "titulo": "Aeropuerto de Tocumen frena operaciones por fuerte temblor en Panamá y desvía vuelos",
+        "url": "https://www.dataifx.com/post/aeropuerto-de-tocumen-suspende-operaciones-tras-fuerte-sismo-en-panama-vuelos-fueron-redirigidos",
+        "resumen": "El Aeropuerto Internacional de Tocumen, principal terminal aérea de Panamá, suspendió temporalmente sus operaciones luego del fuerte terremoto que sacudió este viernes el sur del país, una medida adoptada mientras se realizan inspecciones de seguridad en las instalaciones y en la torre de control",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aeropuerto de Tocumen suspende operaciones tras fuerte sismo en Panamá; vuelos fueron redirigidos",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
       {
         "titulo": "El costo de vida en Chile llega al 4,1% interanual por alza en pasajes y comida",
         "url": "https://www.dataifx.com/post/inflacion-en-chile-sube-41-anual-impulsada-por-transporte-y-alimentos",
@@ -688,6 +708,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Temporal de lluvias afecta el sistema eléctrico capitalino y cundinamarqués: Enel despliega operativo",
+        "url": "https://www.dataifx.com/post/fuertes-lluvias-impactan-redes-electricas-en-bogota-y-cundinamarca-enel-activa-plan-de-contingencia",
+        "resumen": "Las lluvias, tormentas eléctricas y fuertes vientos registrados durante los últimos días en Bogotá y varios municipios de Cundinamarca han generado afectaciones en las redes de distribución de energía, ocasionando interrupciones temporales del servicio en distintos sectores, según informó Enel Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fuertes lluvias impactan redes eléctricas en Bogotá y Cundinamarca: Enel activa plan de contingencia",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
+      {
+        "titulo": "La CCI resalta la nueva norma portuaria y su capacidad para fomentar capitales",
+        "url": "https://www.dataifx.com/post/cci-destaca-nuevo-decreto-portuario-y-su-potencial-para-impulsar-inversiones",
+        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) destacó el nuevo decreto que reglamenta las concesiones portuarias en Colombia y afirmó que la normativa incorpora varios planteamientos que el sector venía discutiendo con el Gobierno para fortalecer la inversión y el desarrollo de la infraestructura portuaria",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CCI destaca nuevo decreto portuario y su potencial para impulsar inversiones",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
+      {
+        "titulo": "Fenalco Bogotá acepta la dimisión de Juan Esteban Orrego por su nombramiento en la CCB",
+        "url": "https://www.dataifx.com/post/fenalco-bogota-acepta-renuncia-de-juan-esteban-orrego-tras-su-designacion-al-frente-de-la-ccb",
+        "resumen": "La Junta Directiva de Fenalco Bogotá Cundinamarca aceptó la renuncia de Juan Esteban Orrego Calle como director ejecutivo de la organización, luego de su designación como presidente ejecutivo de la Cámara de Comercio de Bogotá, cargo que asumirá el próximo 13 de octubre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fenalco Bogotá acepta renuncia de Juan Esteban Orrego tras su designación al frente de la CCB",
+        "capturado": "2026-10-09T18:56:28-05:00"
+      },
       {
         "titulo": "Designan a Juan Pablo Saldarriaga como presidente de Chubb Seguros Colombia",
         "url": "https://www.dataifx.com/post/juan-pablo-saldarriaga-es-nombrado-presidente-de-chubb-seguros-colombia",
@@ -1106,36 +1156,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Comerciantes e industriales reportaron menor confianza en agosto: Fedesarrollo",
-        "capturado": "2026-10-01T00:24:14-05:00"
-      },
-      {
-        "titulo": "El Movistar Arena finaliza ciclo de ocho años y adoptará una nueva imagen",
-        "url": "https://www.dataifx.com/post/movistar-arena-cierra-etapa-de-ocho-anos-y-tendra-nueva-identidad",
-        "resumen": "El Movistar Arena Bogotá dejará de llevar el nombre de Movistar a partir del 31 de octubre de 2026, poniendo fin a una alianza que acompañó la operación del escenario durante los últimos ocho años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Movistar Arena cierra etapa de ocho años y tendrá nueva identidad",
-        "capturado": "2026-10-01T00:24:14-05:00"
-      },
-      {
-        "titulo": "Analdex solicita acciones extra para salvaguardar a los agroexportadores",
-        "url": "https://www.dataifx.com/post/analdex-pide-medidas-adicionales-para-proteger-los-agroexportadores",
-        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) solicitó al Gobierno nacional la adopción de un paquete adicional de medidas para apoyar al sector agroexportador, al considerar que los productores y exportadores enfrentan una coyuntura marcada por el Fenómeno de El Niño, la revaluación del peso colombiano, el aumento de los costos internos y la persistencia de barreras en algunos mercados internacionales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Analdex pide medidas adicionales para proteger a los agroexportadores",
-        "capturado": "2026-10-01T00:24:14-05:00"
-      },
-      {
-        "titulo": "Bogotá da inicio a las obras del escenario deportivo que sustituirá a El Campín",
-        "url": "https://www.dataifx.com/post/bogota-inicia-la-construccion-del-estadio-que-reemplazara-el-campin",
-        "resumen": "La construcción de un nuevo estadio para Bogotá entró oficialmente en su fase de ejecución luego de la firma del acta de inicio de la etapa constructiva entre Sencia y el IDRD, un paso que marca el comienzo de las obras de una infraestructura que busca reemplazar el escenario actual y ampliar su capacidad para albergar eventos deportivos y espectáculos de gran formato",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá inicia la construcción del estadio que reemplazará a El Campín",
         "capturado": "2026-10-01T00:24:14-05:00"
       }
     ],
