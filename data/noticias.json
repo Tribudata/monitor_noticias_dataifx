@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-09T07:59:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-09T14:23:43-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "OP Gold Capital suscribe dos acuerdos de búsqueda de cobre dentro de la Ronda Minera de la ANM",
+        "url": "https://www.dataifx.com/post/op-gold-capital-firma-dos-contratos-de-exploracion-de-cobre-en-la-ronda-minera-de-la-anm",
+        "resumen": "OP Gold Capital, compañía perteneciente al grupo OPG, suscribió dos contratos de exploración de cobre correspondientes a los bloques 2 y 3 de la Ronda Minera de Cobre, un proceso adelantado por la Agencia Nacional de Minería (ANM) que comenzó en diciembre de 2025",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "OP Gold Capital firma dos contratos de exploración de cobre en la Ronda Minera de la ANM",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
+      {
+        "titulo": "Gremca alcanza balance negativo de emisiones al fabricar aceite de palma",
+        "url": "https://www.dataifx.com/post/gremca-obtiene-balance-negativo-de-emisiones-en-su-produccion-de-aceite-de-palma",
+        "resumen": "Gremca, Agricultura y Energía Sostenible S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gremca obtiene balance negativo de emisiones en su producción de aceite de palma",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
+      {
+        "titulo": "Comercio de casas nuevas en Colombia suma retroceso de 11,7% en 2026",
+        "url": "https://www.dataifx.com/post/ventas-de-vivienda-nueva-en-colombia-acumulan-caida-de-117-en-2026",
+        "resumen": "La actividad de vivienda en Colombia continúa mostrando señales de desaceleración durante 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ventas de vivienda nueva en Colombia acumulan caída de 11,7% en 2026",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
+      {
+        "titulo": "Colombia finalizó el periodo cafetero 2025/26 con un descenso de 15% en la cosecha",
+        "url": "https://www.dataifx.com/post/colombia-cerro-el-ano-cafetero-202526-con-una-caida-de-15-en-la-produccion",
+        "resumen": "La producción de café en Colombia cerró el año cafetero 2025/26 con una reducción de 15%, de acuerdo con las cifras divulgadas por la Federación Nacional de Cafeteros (FNC)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia cerró el año cafetero 2025/26 con una caída de 15% en la producción",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
+      {
+        "titulo": "Ideam anuncia formalmente el fenómeno de El Niño en Colombia y el Ejecutivo da plazo a regiones hasta noviembre",
+        "url": "https://www.dataifx.com/post/ideam-declara-oficialmente-el-fenomeno-de-el-nino-en-colombia-gobierno-fija-plazo-hasta-noviembre",
+        "resumen": "El Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) declaró oficialmente la presencia del fenómeno de El Niño en Colombia, luego de identificar condiciones oceánicas que cumplen los criterios técnicos establecidos para confirmar el evento climático",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ideam declara oficialmente el fenómeno de El Niño en Colombia: Gobierno fija plazo hasta noviembre para preparar los territorios",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
       {
         "titulo": "El Gobierno alinea supervisiones en Puerto Antioquia para acortar plazos de salida al exterior",
         "url": "https://www.dataifx.com/post/gobierno-coordina-controles-en-puerto-antioquia-para-reducir-tiempos-de-exportacion",
@@ -403,56 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "ANIF plantea que Colombia podría reducir hasta 290 puntos básicos el costo de la deuda con un acuerdo de financiamiento del FMI",
         "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "Ventas externas del país aumentaron 15,1% en agosto y llegaron a US$4.456 millones",
-        "url": "https://www.dataifx.com/post/exportaciones-de-colombia-crecieron-151-en-agosto-y-alcanzaron-us4456-millones",
-        "resumen": "Las exportaciones de Colombia alcanzaron US$4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de Colombia crecieron 15,1% en agosto y alcanzaron US$4.456 millones",
-        "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "Efecto de las elecciones en Brasil sacude los mercados y hunde el dólar bajo 5 reales",
-        "url": "https://www.dataifx.com/post/resultado-electoral-en-brasil-mueve-los-mercados-y-lleva-al-dolar-por-debajo-de-los-5-reales",
-        "resumen": "Los mercados brasileños reaccionaron al resultado de la primera vuelta de las elecciones presidenciales con una valorización del real frente al dólar y avances en el mercado accionario",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Resultado electoral en Brasil mueve los mercados y lleva al dólar por debajo de los 5 reales",
-        "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "Moneda de Brasil trepa 4,4% por votaciones y jala a las divisas latinoamericanas",
-        "url": "https://www.dataifx.com/post/real-brasileno-se-dispara-44-tras-las-elecciones-y-contagia-las-monedas-de-america-latina",
-        "resumen": "El resultado de la primera vuelta de las elecciones presidenciales en Brasil modificó el comportamiento de los mercados de la región",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Real brasileño se dispara 4,4% tras las elecciones y contagia a las monedas de América Latina",
-        "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "Petrobras y Ecopetrol finalizan exploración en el Caribe profundo por US$ 1.000 millones",
-        "url": "https://www.dataifx.com/post/petrobras-y-ecopetrol-culminan-campana-exploratoria-de-us-1000-millones-en-aguas-profundas-del",
-        "resumen": "Petrobras International Braspetro B",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Petrobras y Ecopetrol culminan campaña exploratoria de US$ 1.000 millones en aguas profundas del Caribe",
-        "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "Ejecutivo traspasa a Barranquilla el manejo de sección del aeropuerto Ernesto Cortissoz",
-        "url": "https://www.dataifx.com/post/gobierno-entrega-barranquilla-la-administracion-de-parte-de-la-infraestructura-del-aeropuerto",
-        "resumen": "El Gobierno Nacional, a través del Ministerio de Transporte y la Aeronáutica Civil, y el Distrito Especial, Industrial y Portuario de Barranquilla oficializaron un convenio interadministrativo mediante el cual el Distrito asumirá la administración, operación, mantenimiento y explotación de la infraestructura del Aeropuerto Internacional Ernesto Cortissoz correspondiente al lado tierra, además de sus plataformas y servicios aeroportuarios delimitados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno entrega a Barranquilla la administración de parte de la infraestructura del aeropuerto Ernesto Cortissoz",
-        "capturado": "2026-10-05T09:16:52-05:00"
       }
     ],
     "Macro Internacional": [
@@ -685,19 +685,19 @@
         "publicacion": "",
         "titulo_fuente": "Brent se dispara y supera US$108, impulsado por escalada bélica en Oriente Medio",
         "capturado": "2026-09-10T18:55:55-05:00"
-      },
-      {
-        "titulo": "El Brent llega a 100 dólares ante el aumento de la fricción militar entre Estados Unidos e Irán",
-        "url": "https://www.dataifx.com/post/brent-alcanza-los-us100-mientras-crece-la-tension-militar-entre-ee-uu-e-iran",
-        "resumen": "El precio del petróleo Brent superó este miércoles los 100 dólares por barril, en medio de la escalada de las acciones militares entre Estados Unidos e Irán y de la preocupación de los mercados por una posible interrupción del suministro de crudo desde Oriente Medio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Brent alcanza los US$100 mientras crece la tensión militar entre EE. UU. e Irán",
-        "capturado": "2026-09-09T11:23:55-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Designan a Juan Pablo Saldarriaga como presidente de Chubb Seguros Colombia",
+        "url": "https://www.dataifx.com/post/juan-pablo-saldarriaga-es-nombrado-presidente-de-chubb-seguros-colombia",
+        "resumen": "Chubb anunció el nombramiento de Juan Pablo Saldarriaga como presidente de Chubb Seguros Colombia S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Juan Pablo Saldarriaga es nombrado presidente de Chubb Seguros Colombia",
+        "capturado": "2026-10-09T14:23:43-05:00"
+      },
       {
         "titulo": "Ejecutivo y Mazda entablan diálogos para analizar nuevos capitales en el país",
         "url": "https://www.dataifx.com/post/gobierno-y-mazda-inician-conversaciones-para-evaluar-nuevas-inversiones-en-colombia",
@@ -1136,16 +1136,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Bogotá inicia la construcción del estadio que reemplazará a El Campín",
-        "capturado": "2026-10-01T00:24:14-05:00"
-      },
-      {
-        "titulo": "Labores en El Dorado y Pacífico 2 facilitarán recursos previos para Odinsa y socios",
-        "url": "https://www.dataifx.com/post/operaciones-en-el-dorado-y-pacifico-2-permitiran-anticipar-recursos-para-odinsa-y-sus-accionistas",
-        "resumen": "Grupo Argos informó que avanzó en la ejecución de su programa ACE 1",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Operaciones en El Dorado y Pacífico 2 permitirán anticipar recursos para Odinsa y sus accionistas",
         "capturado": "2026-10-01T00:24:14-05:00"
       }
     ],
