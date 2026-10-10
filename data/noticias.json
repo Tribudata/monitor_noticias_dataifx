@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-10T13:23:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-10T18:23:09-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -1161,6 +1161,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "Nu comienza actividades en EE UU y pone en marcha su cuenta global multidivisa",
+        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
+        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
+        "capturado": "2026-10-10T18:23:09-05:00"
+      },
+      {
         "titulo": "Chevron destinará US$7.000 millones en Venezuela para duplicar su bombeo en un lustro",
         "url": "https://www.dataifx.com/post/chevron-invertira-us7000-millones-en-venezuela-para-duplicar-su-produccion-en-cinco-anos",
         "resumen": "La petrolera Chevron anunció una inversión superior a US$7",
@@ -1349,16 +1359,6 @@
         "publicacion": "",
         "titulo_fuente": "Colombia avanza en fortalecimiento de su relación económica con Singapur",
         "capturado": "2026-09-11T15:49:50-05:00"
-      },
-      {
-        "titulo": "Nu comienza actividades en EE UU y pone en marcha su cuenta global multidivisa",
-        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
-        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
-        "capturado": "2026-09-10T15:43:32-05:00"
       }
     ]
   }
