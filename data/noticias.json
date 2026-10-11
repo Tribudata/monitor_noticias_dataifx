@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-10T18:23:09-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-11T00:19:38-05:00",
+  "nuevos_en_esta_corrida": 0,
   "secciones": {
     "Macro Colombia": [
       {
@@ -695,16 +695,6 @@
         "publicacion": "",
         "titulo_fuente": "Inflación de EE.UU. se mantiene en 3,4% y el IPC subyacente aumenta 0,3% en agosto",
         "capturado": "2026-09-11T11:17:19-05:00"
-      },
-      {
-        "titulo": "El petróleo Brent sube y pasa de US$108 por el conflicto en Oriente Medio",
-        "url": "https://www.dataifx.com/post/brent-se-dispara-y-supera-us108-impulsado-por-escalada-belica-en-oriente-medio",
-        "resumen": "Los mercados internacionales registraron este jueves un fuerte repunte en las cotizaciones del crudo, impulsado por la intensificación del conflicto en Oriente Medio y los ataques contra el transporte marítimo en rutas estratégicas",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Brent se dispara y supera US$108, impulsado por escalada bélica en Oriente Medio",
-        "capturado": "2026-09-10T18:55:55-05:00"
       }
     ],
     "Empresas Colombia": [
