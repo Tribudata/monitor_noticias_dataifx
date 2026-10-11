@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-11T13:44:43-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T18:33:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -1131,6 +1131,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "Colombia consolida el desarrollo de su vínculo comercial con Singapur",
+        "url": "https://www.dataifx.com/post/colombia-avanza-en-fortalecimiento-de-su-relacion-economica-con-singapur",
+        "resumen": "El Gobierno colombiano anunció nuevas medidas para estrechar los vínculos con Singapur, considerado uno de los referentes mundiales de transformación económica",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Colombia avanza en fortalecimiento de su relación económica con Singapur",
+        "capturado": "2026-10-11T18:33:13-05:00"
+      },
+      {
         "titulo": "Nu comienza actividades en EE UU y pone en marcha su cuenta global multidivisa",
         "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
         "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
@@ -1319,16 +1329,6 @@
         "publicacion": "",
         "titulo_fuente": "Pibank amplía su presencia internacional con el lanzamiento de su CD en Estados Unidos",
         "capturado": "2026-09-11T19:02:59-05:00"
-      },
-      {
-        "titulo": "Colombia progresa en la consolidación de sus vínculos comerciales con Singapur",
-        "url": "https://www.dataifx.com/post/colombia-avanza-en-fortalecimiento-de-su-relacion-economica-con-singapur",
-        "resumen": "El Gobierno colombiano anunció nuevas medidas para estrechar los vínculos con Singapur, considerado uno de los referentes mundiales de transformación económica",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Colombia avanza en fortalecimiento de su relación económica con Singapur",
-        "capturado": "2026-09-11T15:49:50-05:00"
       }
     ]
   }
