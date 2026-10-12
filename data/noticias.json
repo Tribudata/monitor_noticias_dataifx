@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-11T18:33:13-05:00",
+  "actualizado": "2026-10-12T00:31:51-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
@@ -1131,6 +1131,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "Pibank extiende su alcance global al introducir su depósito a plazo en Estados Unidos",
+        "url": "https://www.dataifx.com/post/pibank-amplia-su-presencia-internacional-con-el-lanzamiento-de-su-cd-en-estados-unidos",
+        "resumen": "Pibank, el banco 100% digital del Grupo Pichincha, anunció el lanzamiento oficial de su Certificado de Depósito (CD) en Estados Unidos, como parte de su estrategia de expansión internacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pibank amplía su presencia internacional con el lanzamiento de su CD en Estados Unidos",
+        "capturado": "2026-10-12T00:31:51-05:00"
+      },
+      {
         "titulo": "Colombia consolida el desarrollo de su vínculo comercial con Singapur",
         "url": "https://www.dataifx.com/post/colombia-avanza-en-fortalecimiento-de-su-relacion-economica-con-singapur",
         "resumen": "El Gobierno colombiano anunció nuevas medidas para estrechar los vínculos con Singapur, considerado uno de los referentes mundiales de transformación económica",
@@ -1319,16 +1329,6 @@
         "publicacion": "",
         "titulo_fuente": "Anthropic pide moderar el desarrollo de la inteligencia artificial mientras Trump rechaza frenar su avance",
         "capturado": "2026-09-14T09:56:09-05:00"
-      },
-      {
-        "titulo": "Pibank extiende su alcance global mediante la salida al mercado de su CD en Estados Unidos",
-        "url": "https://www.dataifx.com/post/pibank-amplia-su-presencia-internacional-con-el-lanzamiento-de-su-cd-en-estados-unidos",
-        "resumen": "Pibank, el banco 100% digital del Grupo Pichincha, anunció el lanzamiento oficial de su Certificado de Depósito (CD) en Estados Unidos, como parte de su estrategia de expansión internacional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pibank amplía su presencia internacional con el lanzamiento de su CD en Estados Unidos",
-        "capturado": "2026-09-11T19:02:59-05:00"
       }
     ]
   }
