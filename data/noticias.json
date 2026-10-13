@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-13T10:49:07-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-13T16:08:15-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Viceministro de Hacienda informó que el Gobierno radicará Ley de Rescate Económico para sanear la deuda",
+        "url": "https://www.dataifx.com/post/gobierno-presentara-ley-de-rescate-economico-para-estabilizar-la-deuda-publica-anuncio-viceministro",
+        "resumen": "El Gobierno Nacional presentará ante el Congreso de la República la Ley de Rescate Económico, una iniciativa que busca contribuir a la estabilización de la deuda pública y contener las presiones sobre las finanzas estatales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno presentará Ley de Rescate Económico para estabilizar la deuda pública, anunció viceministro de Hacienda",
+        "capturado": "2026-10-13T16:08:15-05:00"
+      },
       {
         "titulo": "Acolgen apoya acciones estatales ante El Niño y exige determinaciones para asegurar el servicio de luz",
         "url": "https://www.dataifx.com/post/acolgen-respalda-medidas-del-gobierno-para-enfrentar-el-fenomeno-de-el-nino-y-pide-decisiones-para",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "DIAN reporta medidas sobre mercancías por $20.155 millones en dos operativos contra el contrabando",
         "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "Estudio de Ipsos indica que inDrive generó 7,45 billones de pesos al país en 2025",
-        "url": "https://www.dataifx.com/post/indrive-aporto-745-billones-la-economia-colombiana-en-2025-segun-estudio-de-ipsos",
-        "resumen": "La actividad asociada a inDrive aportó $7,45 billones a la economía colombiana durante 2025, equivalentes al 0,4% del Producto Interno Bruto, de acuerdo con un estudio de impacto económico y social elaborado por Ipsos Napoleón Franco",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "inDrive aportó $7,45 billones a la economía colombiana en 2025, según estudio de Ipsos",
-        "capturado": "2026-10-05T17:28:14-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,46 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Fredy Gustavo Orjuela asume la gerencia general de Corabastos",
+        "url": "https://www.dataifx.com/post/fredy-gustavo-orjuela-fue-elegido-nuevo-gerente-de-corabastos",
+        "resumen": "La principal central mayorista de alimentos del país tendrá un nuevo liderazgo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fredy Gustavo Orjuela fue elegido nuevo gerente de Corabastos",
+        "capturado": "2026-10-13T16:08:15-05:00"
+      },
+      {
+        "titulo": "Davivienda fusionará los servicios de DAVIbank en Colombia desde noviembre",
+        "url": "https://www.dataifx.com/post/davivienda-integrara-operaciones-de-davibank-en-colombia-partir-de-noviembre",
+        "resumen": "Davivienda Group S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda integrará operaciones de DAVIbank en Colombia a partir de noviembre",
+        "capturado": "2026-10-13T16:08:15-05:00"
+      },
+      {
+        "titulo": "Mineros sube su pronóstico de producción para 2026 por mayor extracción de oro en el tercer trimestre",
+        "url": "https://www.dataifx.com/post/mineros-eleva-meta-de-produccion-para-2026-tras-aumento-en-extraccion-de-oro-durante-el-tercer",
+        "resumen": "La compañía Mineros S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mineros eleva meta de producción para 2026 tras aumento en extracción de oro durante el tercer trimestre",
+        "capturado": "2026-10-13T16:08:15-05:00"
+      },
+      {
+        "titulo": "Mónica de Greiff se aparta de la Junta Directiva de ISA",
+        "url": "https://www.dataifx.com/post/monica-de-greiff-renuncio-la-junta-directiva-de-isa",
+        "resumen": "La empresa Interconexión Eléctrica S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mónica de Greiff renunció a la Junta Directiva de ISA",
+        "capturado": "2026-10-13T16:08:15-05:00"
+      },
       {
         "titulo": "Temporal de lluvias afecta el sistema eléctrico capitalino y cundinamarqués: Enel despliega operativo",
         "url": "https://www.dataifx.com/post/fuertes-lluvias-impactan-redes-electricas-en-bogota-y-cundinamarca-enel-activa-plan-de-contingencia",
@@ -1097,46 +1137,6 @@
         "publicacion": "",
         "titulo_fuente": "Desde hoy, cancelar un plan móvil será más fácil: operadores no podrán poner trabas",
         "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Rutas a Medio Oriente y Asia integran a LATAM Colombia y Qatar Airways mediante código compartido",
-        "url": "https://www.dataifx.com/post/latam-colombia-y-qatar-airways-acuerdan-compartir-codigos-en-rutas-hacia-asia-y-medio-oriente",
-        "resumen": "Los pasajeros de LATAM Airlines Colombia podrán acceder desde noviembre a una red más amplia de destinos internacionales tras la firma de un acuerdo de código compartido con Qatar Airways, una alianza que busca integrar vuelos nacionales en Colombia con conexiones hacia mercados de Asia y Medio Oriente a través de Doha",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "LATAM Colombia y Qatar Airways acuerdan compartir códigos en rutas hacia Asia y Medio Oriente",
-        "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Tres designaciones en la alta gerencia de Ecopetrol para las áreas administrativa, jurídica y estratégica",
-        "url": "https://www.dataifx.com/post/ecopetrol-renueva-su-alta-gerencia-con-tres-nombramientos-en-areas-juridica-estrategica-y",
-        "resumen": "La junta directiva de Ecopetrol aprobó nuevos nombramientos en su equipo de alta dirección como parte de los cambios que la compañía viene impulsando para fortalecer áreas consideradas estratégicas en su nueva etapa corporativa",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol renueva su alta gerencia con tres nombramientos en áreas jurídica, estratégica y administrativa",
-        "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "Ecopetrol y Reficar reciben del Gobierno $683.990 millones del FEpc mediante TES",
-        "url": "https://www.dataifx.com/post/gobierno-paga-683990-millones-del-fepc-ecopetrol-y-reficar-con-tes",
-        "resumen": "El Gobierno nacional realizó un nuevo pago de obligaciones pendientes del Fondo de Estabilización de Precios de los Combustibles (FEPC) a favor del Grupo Ecopetrol, correspondiente a cuentas por cobrar originadas en el tercer y cuarto trimestre de 2025",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno paga $683.990 millones del FEPC a Ecopetrol y Reficar con TES",
-        "capturado": "2026-10-01T07:55:23-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo indicó que la confianza de industriales y comerciantes bajó en agosto",
-        "url": "https://www.dataifx.com/post/comerciantes-e-industriales-reportaron-menor-confianza-en-agosto-fedesarrollo",
-        "resumen": "La confianza de los comerciantes y de los industriales registró retrocesos en agosto de 2026, de acuerdo con los resultados más recientes de la Encuesta de Opinión Empresarial elaborada por Fedesarrollo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Comerciantes e industriales reportaron menor confianza en agosto: Fedesarrollo",
-        "capturado": "2026-10-01T00:24:14-05:00"
       }
     ],
     "Empresas Internacional": [
