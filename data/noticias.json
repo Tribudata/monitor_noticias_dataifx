@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-14T13:27:33-05:00",
+  "actualizado": "2026-10-14T18:06:04-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Creg alista subastas eléctricas para 2027 y modifica normas por el fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/creg-prepara-subastas-de-energia-para-2027-y-plantea-ajustes-regulatorios-ante-el-fenomeno-de-el",
+        "resumen": "La Comisión de Regulación de Energía y Gas (CREG) prepara nuevas subastas de energía y ajustes regulatorios para atender las necesidades de abastecimiento eléctrico de Colombia en los próximos años, en medio de los retos que plantea el fenómeno de El Niño",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CREG prepara subastas de energía para 2027 y plantea ajustes regulatorios ante el fenómeno de El Niño",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
+      {
+        "titulo": "Desde febrero de 2027 habría escasez de gas en Colombia y el Ejecutivo admite demoras en obras",
+        "url": "https://www.dataifx.com/post/colombia-podria-enfrentar-deficit-de-gas-desde-febrero-de-2027-gobierno-reconoce-retrasos-en",
+        "resumen": "Colombia podría enfrentar un déficit nacional de gas natural a partir de febrero de 2027, mientras el sistema eléctrico registra retrasos en proyectos de transmisión y una incorporación de nueva capacidad de generación por debajo de lo previsto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia podría enfrentar déficit de gas desde febrero de 2027; Gobierno reconoce retrasos en proyectos eléctricos",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
       {
         "titulo": "Ponencia del presupuesto 2027 baja en 8,36 billones la deuda y sube partidas a Minas y Hacienda",
         "url": "https://www.dataifx.com/post/presupuesto-de-2027-ponencia-reduce-en-836-billones-el-servicio-de-la-deuda-y-aumenta-recursos-para",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Precios al productor en Colombia subieron 2,2% en septiembre, impulsados por minería y productos agrícolas",
         "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "El presidente De La Espriella ratifica la conformación del Fondo Milagro",
-        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-confirma-que-ya-esta-constituido-el-fondo-milagro",
-        "resumen": "El presidente Abelardo De La Espriella anunció desde Pereira que ya quedó constituido el Fondo Milagro, mecanismo con el que el Gobierno busca avanzar en la atención y reconstrucción de las zonas afectadas por el terremoto del pasado 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente De La Espriella confirma que ya está constituido el Fondo Milagro",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "El Banco de la República sugiere que Bre-B opere montos mayores a $12 millones",
-        "url": "https://www.dataifx.com/post/banco-de-la-republica-plantea-que-bre-b-llegue-operaciones-superiores-12-millones",
-        "resumen": "A un año de su puesta en marcha, Bre-B se ha consolidado como uno de los principales canales de pagos inmediatos en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República plantea que Bre-B llegue a operaciones superiores a $12 millones",
-        "capturado": "2026-10-06T14:24:04-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Bogotá aplaza entrega de información exógena por problemas en portal de impuestos",
+        "url": "https://www.dataifx.com/post/bogota-amplia-plazo-para-reportar-informacion-exogena-tras-fallas-en-plataforma-tributaria",
+        "resumen": "La Secretaría de Hacienda de Bogotá anunció el levantamiento de la contingencia tecnológica que había sido declarada debido a inconvenientes técnicos presentados en la plataforma utilizada para la presentación de información exógena tributaria",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá amplía plazo para reportar información exógena tras fallas en plataforma tributaria",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
+      {
+        "titulo": "Manuel Fernández Ariza toma las riendas de la presidencia de Bancóldex",
+        "url": "https://www.dataifx.com/post/manuel-fernandez-ariza-asume-la-presidencia-de-bancoldex-0",
+        "resumen": "Manuel Fernández Ariza asumió la presidencia de Bancóldex con el objetivo de fortalecer el papel de la entidad como banco de desarrollo empresarial, enfocado en impulsar la inversión productiva y acompañar a las compañías en procesos de transformación, innovación e internacionalización",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Manuel Fernández Ariza asume la presidencia de Bancóldex",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda de Bogotá prolonga vigencia de contingencia informática en su sistema tributario",
+        "url": "https://www.dataifx.com/post/hacienda-bogota-extiende-efectos-de-contingencia-tecnologica-en-su-plataforma-tributaria",
+        "resumen": "La contingencia tecnológica que afecta la plataforma para la presentación de información exógena ante la Secretaría de Hacienda de Bogotá continúa vigente, según informó la entidad este miércoles",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Hacienda Bogotá extiende efectos de contingencia tecnológica en su plataforma tributaria",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
       {
         "titulo": "Bancolombia sigue primero en imagen empresarial y Alpina continúa en el segundo puesto del escalafón Merco 2026",
         "url": "https://www.dataifx.com/post/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-y-alpina-conserva-segundo-lugar-en-ranking",
@@ -1107,39 +1137,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno, empresarios y trabajadores acuerdan mesa para revisar normas laborales y fortalecer el diálogo permanente",
         "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Crédito de Europa apoyará expansión de fábrica de biológicos en Colombia hasta 250 millones de dosis",
-        "url": "https://www.dataifx.com/post/financiamiento-europeo-respaldara-ampliacion-de-planta-de-vacunas-en-colombia-con-capacidad-de",
-        "resumen": "Una nueva operación financiera respaldada por instituciones europeas buscará fortalecer la capacidad de producción de vacunas y productos biológicos en Colombia, en un proyecto que también apunta a aumentar la autonomía regional en materia sanitaria y mejorar la preparación ante futuras emergencias epidemiológicas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Financiamiento europeo respaldará ampliación de planta de vacunas en Colombia con capacidad de hasta 250 millones de dosis al año",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "El consumo de café en Rappi es encabezado por la Costa Caribe durante 2026",
-        "url": "https://www.dataifx.com/post/costa-caribe-lidera-el-crecimiento-del-consumo-de-cafe-en-rappi-durante-2026",
-        "resumen": "Aunque Bogotá y Medellín continúan concentrando buena parte de las compras de café realizadas a través de plataformas digitales, las mayores tasas de crecimiento durante 2026 se registraron en varias ciudades de la Costa Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Costa Caribe lidera el crecimiento del consumo de café en Rappi durante 2026",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Viajeros mantienen preferencia por los sitios habituales en la semana de receso 2026",
-        "url": "https://www.dataifx.com/post/semana-de-receso-2026-viajeros-siguen-apostando-por-los-destinos-de-siempre",
-        "resumen": "Los productos turísticos tradicionales continúan siendo los más demandados por los viajeros colombianos para la Semana de Receso de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Semana de Receso 2026: viajeros siguen apostando por los destinos de siempre",
-        "capturado": "2026-10-01T18:50:06-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "LATAM obtiene recursos por US$505 millones destinados a la ampliación y modernización de su flota",
+        "url": "https://www.dataifx.com/post/latam-asegura-financiamiento-por-us505-millones-para-renovar-y-ampliar-su-flota",
+        "resumen": "LATAM Airlines Group concretó un crédito por aproximadamente US$505 millones destinado a financiar la incorporación de 11 aeronaves de última generación durante el segundo semestre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "LATAM asegura financiamiento por US$505 millones para renovar y ampliar su flota",
+        "capturado": "2026-10-14T18:06:04-05:00"
+      },
       {
         "titulo": "Anthropic solicita frenar el avance de la inteligencia artificial y Trump se opone a detenerla",
         "url": "https://www.dataifx.com/post/anthropic-pide-moderar-el-desarrollo-de-la-inteligencia-artificial-mientras-trump-rechaza-frenar-su",
@@ -1329,16 +1339,6 @@
         "publicacion": "",
         "titulo_fuente": "Wall Street revierte ganancias y cierra a la baja tras anuncio de la Fed",
         "capturado": "2026-09-16T16:09:51-05:00"
-      },
-      {
-        "titulo": "LATAM consigue créditos por US$505 millones para modernizar y agrandar su parque aéreo",
-        "url": "https://www.dataifx.com/post/latam-asegura-financiamiento-por-us505-millones-para-renovar-y-ampliar-su-flota",
-        "resumen": "LATAM Airlines Group concretó un crédito por aproximadamente US$505 millones destinado a financiar la incorporación de 11 aeronaves de última generación durante el segundo semestre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "LATAM asegura financiamiento por US$505 millones para renovar y ampliar su flota",
-        "capturado": "2026-09-14T15:15:03-05:00"
       }
     ]
   }
