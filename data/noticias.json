@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-14T08:33:18-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-14T13:27:33-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Ponencia del presupuesto 2027 baja en 8,36 billones la deuda y sube partidas a Minas y Hacienda",
+        "url": "https://www.dataifx.com/post/presupuesto-de-2027-ponencia-reduce-en-836-billones-el-servicio-de-la-deuda-y-aumenta-recursos-para",
+        "resumen": "La ponencia para segundo debate del Presupuesto General de la Nación de 2027 mantiene el monto total de $634,9 billones, pero propone cambios en la distribución de los recursos, con una reducción en las apropiaciones para el servicio de la deuda pública y adiciones presupuestales para sectores como Hacienda y Minas y Energía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2027: ponencia reduce en $8,36 billones el servicio de la deuda y aumenta recursos para Hacienda y Minas",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
+      {
+        "titulo": "El Gobierno alista nueva misión del FMI para revisar la situación económica colombiana",
+        "url": "https://www.dataifx.com/post/gobierno-prepara-nueva-mision-del-fmi-para-evaluar-panorama-economico-de-colombia",
+        "resumen": "El Gobierno colombiano anunció que se alista para recibir una nueva misión técnica del Fondo Monetario Internacional (FMI) en Bogotá durante noviembre, como parte de un proceso de diálogo que incluye la revisión de la situación económica del país, la estrategia de estabilización de las finanzas públicas y posibles mecanismos de apoyo financiero",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno prepara nueva misión del FMI para evaluar panorama económico de Colombia",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
+      {
+        "titulo": "Buenaventura frena el cobro a camiones de carga establecido en el decreto distrital",
+        "url": "https://www.dataifx.com/post/buenaventura-no-aplicara-cobro-vehiculos-de-carga-previsto-en-decreto-distrital",
+        "resumen": "El cobro por circulación de vehículos de carga que había sido establecido en el Decreto Distrital 0338 de 2026 no entrará en vigencia en Buenaventura",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Buenaventura no aplicará cobro a vehículos de carga previsto en decreto distrital",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
       {
         "titulo": "Sube la confianza del consumidor a 15,7% en septiembre gracias a mejores expectativas según Fedesarrollo",
         "url": "https://www.dataifx.com/post/mejoran-las-expectativas-y-la-confianza-del-consumidor-alcanza-157-en-septiembre-fedesarrollo",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Banco de la República plantea que Bre-B llegue a operaciones superiores a $12 millones",
         "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Bogotá acogió a más de 78.500 personas en velada de conciertos con BTS, Romeo Santos y Prince Royce",
-        "url": "https://www.dataifx.com/post/bogota-recibio-mas-de-78500-asistentes-en-una-noche-de-conciertos-con-bts-romeo-santos-y-prince",
-        "resumen": "Bogotá cerró el viernes 2 y el sábado 3 de octubre con una agenda de conciertos que concentró a decenas de miles de personas en distintos escenarios de la ciudad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá recibió más de 78.500 asistentes en una noche de conciertos con BTS, Romeo Santos y Prince Royce",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo alista modificaciones a la consulta previa con expedientes digitales y encargados",
-        "url": "https://www.dataifx.com/post/gobierno-prepara-cambios-la-consulta-previa-expedientes-digitales-y-responsables-para-destrabar",
-        "resumen": "El Gobierno prepara una reforma al procedimiento de consulta previa con la que busca cambiar la manera en que se administran y hacen seguimiento a los procesos que permanecen abiertos durante meses o años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno prepara cambios a la consulta previa: expedientes digitales y responsables para destrabar procesos",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Banco Mundial conserva la proyección de expansión colombiana en 2,3% para 2026",
-        "url": "https://www.dataifx.com/post/banco-mundial-mantiene-prevision-de-crecimiento-de-colombia-en-23-para-2026",
-        "resumen": "El Banco Mundial mantuvo en 2,3% su proyección de crecimiento económico para Colombia en 2026, sin cambios frente a las estimaciones divulgadas en junio, y prevé que la actividad económica del país continúe expandiéndose por encima del promedio de América Latina y el Caribe durante los próximos años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco Mundial mantiene previsión de crecimiento de Colombia en 2,3% para 2026",
-        "capturado": "2026-10-06T14:24:04-05:00"
       }
     ],
     "Macro Internacional": [
@@ -685,19 +685,29 @@
         "publicacion": "",
         "titulo_fuente": "Déficit de gas dejó de ser coyuntural; Colombia enfrenta un riesgo estructural: Promigas",
         "capturado": "2026-09-15T08:23:00-05:00"
-      },
-      {
-        "titulo": "El crudo Brent trepa más de 4% y rebasa los US$109 por amenazas en vías de transporte",
-        "url": "https://www.dataifx.com/post/brent-gana-mas-de-4-y-supera-los-us109-ante-riesgos-en-rutas-de-suministro",
-        "resumen": "El mercado petrolero registra un nuevo repunte este lunes, con el Brent del Mar del Norte, referencia para Colombia, cotizándose en 109,25 dólares por barril, tras un aumento de 4,64 dólares (4,44 %)",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Brent gana más de 4% y supera los US$109 ante riesgos en rutas de suministro",
-        "capturado": "2026-09-14T09:56:09-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Bancolombia sigue primero en imagen empresarial y Alpina continúa en el segundo puesto del escalafón Merco 2026",
+        "url": "https://www.dataifx.com/post/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-y-alpina-conserva-segundo-lugar-en-ranking",
+        "resumen": "Bancolombia se mantuvo por segundo año consecutivo en el primer lugar del ranking de reputación corporativa de Merco Empresas Colombia 2026, mientras que Alpina conservó la segunda posición y Bavaria completó el podio de las compañías mejor valoradas del país, de acuerdo con los resultados divulgados por el monitor empresarial",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia mantiene liderazgo en reputación corporativa y Alpina conserva segundo lugar en ranking Merco 2026",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
+      {
+        "titulo": "Luego de aplazarse el encuentro en El Campín, Sencia comunica acciones y restituciones",
+        "url": "https://www.dataifx.com/post/tras-suspension-de-partido-en-el-campin-sencia-anuncia-medidas-y-compensaciones",
+        "resumen": "La cancelación del partido entre Millonarios y Once Caldas, programado para la noche del 13 de octubre en el estadio Nemesio Camacho El Campín de Bogotá, llevó a la empresa Sencia a pronunciarse oficialmente sobre lo ocurrido y a anunciar medidas para atender las consecuencias derivadas de la suspensión del encuentro",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tras suspensión de partido en El Campín, Sencia anuncia medidas y compensaciones",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
       {
         "titulo": "Siniestros asegurados por sismo en Colombia suman $6,5 billones y desembolsos alcanzan $786.543 millones",
         "url": "https://www.dataifx.com/post/perdidas-aseguradas-por-terremoto-en-colombia-ascienden-65-billones-pagos-llegan-786543-millones",
@@ -1127,29 +1137,19 @@
         "publicacion": "",
         "titulo_fuente": "Semana de Receso 2026: viajeros siguen apostando por los destinos de siempre",
         "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "LAIKA inaugura su primer establecimiento físico en territorio chileno",
-        "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
-        "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Distrito de Barranquilla se encargará de realizar las obras de modernización del aeropuerto Ernesto Cortissoz",
-        "url": "https://www.dataifx.com/post/alcaldia-de-barranquilla-asumira-ejecucion-de-obras-para-modernizar-el-aeropuerto-ernesto-cortissoz",
-        "resumen": "La modernización y culminación de las obras del aeropuerto Ernesto Cortissoz entran en una nueva etapa tras la firma de un convenio mediante el cual la Alcaldía de Barranquilla participará en la ejecución de los trabajos pendientes en la terminal aérea",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Alcaldía de Barranquilla asumirá ejecución de obras para modernizar el aeropuerto Ernesto Cortissoz",
-        "capturado": "2026-10-01T18:50:06-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Anthropic solicita frenar el avance de la inteligencia artificial y Trump se opone a detenerla",
+        "url": "https://www.dataifx.com/post/anthropic-pide-moderar-el-desarrollo-de-la-inteligencia-artificial-mientras-trump-rechaza-frenar-su",
+        "resumen": "El debate sobre la velocidad en el desarrollo de la inteligencia artificial (IA) se intensificó este fin de semana con mensajes opuestos desde el sector tecnológico y la política",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Anthropic pide moderar el desarrollo de la inteligencia artificial mientras Trump rechaza frenar su avance",
+        "capturado": "2026-10-14T13:27:33-05:00"
+      },
       {
         "titulo": "Pibank extiende su alcance global al introducir su depósito a plazo en Estados Unidos",
         "url": "https://www.dataifx.com/post/pibank-amplia-su-presencia-internacional-con-el-lanzamiento-de-su-cd-en-estados-unidos",
@@ -1339,16 +1339,6 @@
         "publicacion": "",
         "titulo_fuente": "LATAM asegura financiamiento por US$505 millones para renovar y ampliar su flota",
         "capturado": "2026-09-14T15:15:03-05:00"
-      },
-      {
-        "titulo": "Anthropic sugiere regular la creación de IA al tiempo que Trump se opone a detener su progreso",
-        "url": "https://www.dataifx.com/post/anthropic-pide-moderar-el-desarrollo-de-la-inteligencia-artificial-mientras-trump-rechaza-frenar-su",
-        "resumen": "El debate sobre la velocidad en el desarrollo de la inteligencia artificial (IA) se intensificó este fin de semana con mensajes opuestos desde el sector tecnológico y la política",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Anthropic pide moderar el desarrollo de la inteligencia artificial mientras Trump rechaza frenar su avance",
-        "capturado": "2026-09-14T09:56:09-05:00"
       }
     ]
   }
