@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-13T16:08:15-05:00",
+  "actualizado": "2026-10-13T20:03:09-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Asobancaria apoya topes al dinero físico en adquisiciones costosas por medio de la norma antiterrorista",
+        "url": "https://www.dataifx.com/post/asobancaria-respalda-restricciones-al-efectivo-en-compras-de-alto-valor-dentro-del-estatuto",
+        "resumen": "El sector financiero colombiano respaldó la posibilidad de limitar el uso del efectivo en transacciones de alto valor, como la compra de vehículos, apartamentos y lotes, una medida que el Gobierno Nacional contempla incluir en el estatuto antiterrorista que anunció el presidente de Colombia, Abelardo de la Espriella, y que será presentado ante el Congreso de la República",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asobancaria respalda restricciones al efectivo en compras de alto valor dentro del estatuto antiterrorista",
+        "capturado": "2026-10-13T20:03:09-05:00"
+      },
+      {
+        "titulo": "Christian Garcés sugiere disminuir 6,4 billones de pesos de la deuda en el gasto de 2027 y hacer austeridad",
+        "url": "https://www.dataifx.com/post/christian-garces-propone-recortar-64-billones-del-servicio-de-la-deuda-en-el-presupuesto-de-2027-y",
+        "resumen": "El servicio de la deuda del Presupuesto General de la Nación para 2027 se reducirá en $6,4 billones, de acuerdo con un entendimiento alcanzado entre los ponentes del proyecto y el Ministerio de Hacienda",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Christian Garcés propone recortar $6,4 billones del servicio de la deuda en el presupuesto de 2027 y aplicar un plan de austeridad",
+        "capturado": "2026-10-13T20:03:09-05:00"
+      },
+      {
+        "titulo": "Luego del máximo de 2025, las ganancias del Emisor bajarían a 8,6 billones de pesos en 2026",
+        "url": "https://www.dataifx.com/post/tras-record-de-2025-utilidades-del-banco-de-la-republica-se-reducirian-86-billones-en-2026",
+        "resumen": "Las ganancias del Banco de la República podrían moderarse en 2026 frente al resultado extraordinario alcanzado el año anterior",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tras récord de 2025, utilidades del Banco de la República se reducirían a $8,6 billones en 2026",
+        "capturado": "2026-10-13T20:03:09-05:00"
+      },
       {
         "titulo": "Viceministro de Hacienda informó que el Gobierno radicará Ley de Rescate Económico para sanear la deuda",
         "url": "https://www.dataifx.com/post/gobierno-presentara-ley-de-rescate-economico-para-estabilizar-la-deuda-publica-anuncio-viceministro",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Movistar Arena inicia nueva etapa con Gabriel Sánchez Olea en la Gerencia General",
         "capturado": "2026-10-06T08:12:50-05:00"
-      },
-      {
-        "titulo": "Indemnizaciones por terremoto suman $571.010 millones y las reservas alcanzan $6,3 billones",
-        "url": "https://www.dataifx.com/post/pagos-de-seguros-por-siniestros-del-terremoto-llegan-571010-millones-y-reservas-ascienden-63",
-        "resumen": "Las aseguradoras han recibido 97",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pagos de seguros por siniestros del terremoto llegan a $571.010 millones y reservas ascienden a $6,3 billones",
-        "capturado": "2026-10-06T08:12:50-05:00"
-      },
-      {
-        "titulo": "La mayor parte de codirectores del BanRep avizora dudas ante el panorama fiscal y las movidas del nuevo Gobierno",
-        "url": "https://www.dataifx.com/post/mayoria-de-codirectores-del-banrep-advierte-incertidumbre-por-la-situacion-fiscal-y-el-ajuste-del",
-        "resumen": "Las minutas de la reunión de septiembre de la Junta Directiva del Banco de la República evidenciaron diferencias importantes entre los codirectores sobre la necesidad de continuar elevando las tasas de interés en un contexto marcado por una inflación persistente, riesgos externos, incertidumbre fiscal y señales mixtas de la actividad económica",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mayoría de codirectores del BanRep advierte incertidumbre por la situación fiscal y el ajuste del nuevo Gobierno",
-        "capturado": "2026-10-06T00:56:28-05:00"
-      },
-      {
-        "titulo": "DIAN decomisa productos por 20.155 millones de pesos en dos acciones anticontrabando",
-        "url": "https://www.dataifx.com/post/dian-reporta-medidas-sobre-mercancias-por-20155-millones-en-dos-operativos-contra-el-contrabando",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales, DIAN, realizó dos operativos de control contra el contrabando que dejaron medidas cautelares sobre mercancías por un valor de $20",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "DIAN reporta medidas sobre mercancías por $20.155 millones en dos operativos contra el contrabando",
-        "capturado": "2026-10-05T17:28:14-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Manuel Fernández Ariza toma las riendas de Bancóldex",
+        "url": "https://www.dataifx.com/post/manuel-fernandez-ariza-asume-la-presidencia-de-bancoldex",
+        "resumen": "El economista Manuel Fernández Ariza fue designado como nuevo presidente de Bancóldex, entidad financiera de desarrollo empresarial del Estado, según informó el Ministerio de Comercio, Industria y Turismo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Manuel Fernández Ariza asume la presidencia de Bancóldex",
+        "capturado": "2026-10-13T20:03:09-05:00"
+      },
+      {
+        "titulo": "Ejecutivo, centrales obreras y gremios evaluaron agenda laboral en espacio de diálogo",
+        "url": "https://www.dataifx.com/post/gobierno-sindicatos-y-empresarios-revisaron-agenda-laboral-en-mesa-de-concertacion",
+        "resumen": "Representantes del Gobierno, las centrales sindicales y los gremios empresariales participaron este martes en una nueva sesión de la Subcomisión de Análisis y Seguimiento de Decretos y Leyes, instancia que hace parte de la Comisión Permanente de Concertación de Políticas Salariales y Laborales, con el propósito de analizar asuntos relacionados con la agenda laboral del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno, sindicatos y empresarios revisaron agenda laboral en mesa de concertación",
+        "capturado": "2026-10-13T20:03:09-05:00"
+      },
       {
         "titulo": "Fredy Gustavo Orjuela asume la gerencia general de Corabastos",
         "url": "https://www.dataifx.com/post/fredy-gustavo-orjuela-fue-elegido-nuevo-gerente-de-corabastos",
@@ -1117,26 +1137,6 @@
         "publicacion": "",
         "titulo_fuente": "Conciertos de BTS en Bogotá podrían generar un impacto económico de $126.054 millones",
         "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Café de Colombia incrementa su presencia global y ya llega a 108 naciones",
-        "url": "https://www.dataifx.com/post/cafe-colombiano-amplia-su-alcance-internacional-y-ya-esta-presente-en-108-paises",
-        "resumen": "El café colombiano continúa ampliando su presencia internacional a través de una estrategia enfocada en la diferenciación por origen, calidad y perfiles de sabor",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Café colombiano amplía su alcance internacional y ya está presente en 108 países",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Operadores celulares tienen prohibido poner trabas para cancelar planes desde hoy",
-        "url": "https://www.dataifx.com/post/desde-hoy-cancelar-un-plan-movil-sera-mas-facil-operadores-no-podran-poner-trabas",
-        "resumen": "A partir de este 1 de octubre entraron en vigencia nuevas reglas para la cancelación de servicios móviles en Colombia que buscan simplificar el proceso para los usuarios y limitar las prácticas de retención aplicadas por los operadores durante la solicitud de terminación de los contratos",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Desde hoy, cancelar un plan móvil será más fácil: operadores no podrán poner trabas",
-        "capturado": "2026-10-01T14:23:37-05:00"
       }
     ],
     "Empresas Internacional": [
