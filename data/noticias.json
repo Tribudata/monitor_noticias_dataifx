@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-14T02:24:25-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-14T08:33:18-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Sube la confianza del consumidor a 15,7% en septiembre gracias a mejores expectativas según Fedesarrollo",
+        "url": "https://www.dataifx.com/post/mejoran-las-expectativas-y-la-confianza-del-consumidor-alcanza-157-en-septiembre-fedesarrollo",
+        "resumen": "La confianza de los consumidores en Colombia registró una leve mejora durante septiembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Mejoran las expectativas y la confianza del consumidor alcanza 15,7% en septiembre: Fedesarrollo",
+        "capturado": "2026-10-14T08:33:18-05:00"
+      },
       {
         "titulo": "Christian Garcés informa disminución de $6,4 billones en pago de deuda para Presupuesto de 2027 por pacto oficial y austeridad",
         "url": "https://www.dataifx.com/post/christian-garces-anuncia-recorte-de-64-billones-en-el-servicio-de-la-deuda-del-presupuesto-de-2027",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Banco Mundial mantiene previsión de crecimiento de Colombia en 2,3% para 2026",
         "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Luis Guillermo Quintero Martínez asume la gerencia tras pasar del Movistar Arena a Juan Valdez",
-        "url": "https://www.dataifx.com/post/del-movistar-arena-juan-valdez-luis-guillermo-quintero-martinez-llega-la-gerencia",
-        "resumen": "La Junta Directiva de Procafecol anunció el nombramiento de Luis Guillermo Quintero Martínez como nuevo gerente general de la compañía, que está detrás de la operación de Juan Valdez, tanto en sus tiendas como en la comercialización de café empacado en los canales nacionales e internacionales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Del Movistar Arena a Juan Valdez: Luis Guillermo Quintero Martínez llega a la gerencia",
-        "capturado": "2026-10-06T08:12:50-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El costo de vida en EE. UU. trepó al 3,7% en septiembre por el alza en los combustibles",
+        "url": "https://www.dataifx.com/post/inflacion-en-estados-unidos-subio-37-en-septiembre-impulsada-por-el-encarecimiento-de-la-gasolina",
+        "resumen": "La inflación en Estados Unidos retomó su tendencia al alza en septiembre, luego de tres meses de variaciones relativamente moderadas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en Estados Unidos subió a 3,7% en septiembre, impulsada por el encarecimiento de la gasolina",
+        "capturado": "2026-10-14T08:33:18-05:00"
+      },
       {
         "titulo": "Premio Nobel de Economía otorgado a Hall y Woodford por sus contribuciones a las políticas de estabilización",
         "url": "https://www.dataifx.com/post/hall-y-woodford-reciben-el-nobel-de-economia-por-sus-aportes-las-politicas-de-estabilizacion",
@@ -688,6 +698,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Siniestros asegurados por sismo en Colombia suman $6,5 billones y desembolsos alcanzan $786.543 millones",
+        "url": "https://www.dataifx.com/post/perdidas-aseguradas-por-terremoto-en-colombia-ascienden-65-billones-pagos-llegan-786543-millones",
+        "resumen": "El valor estimado de las pérdidas aseguradas por el terremoto del pasado 10 de agosto llegó a $6,5 billones, mientras que las compañías de seguros han recibido 99",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Pérdidas aseguradas por terremoto en Colombia ascienden a $6,5 billones; pagos llegan a $786.543 millones",
+        "capturado": "2026-10-14T08:33:18-05:00"
+      },
       {
         "titulo": "Manuel Fernández Ariza toma las riendas de Bancóldex",
         "url": "https://www.dataifx.com/post/manuel-fernandez-ariza-asume-la-presidencia-de-bancoldex",
@@ -1126,16 +1146,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Alcaldía de Barranquilla asumirá ejecución de obras para modernizar el aeropuerto Ernesto Cortissoz",
-        "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Presentaciones musicales de BTS en Bogotá alcanzarían un efecto financiero de 126.054 millones de pesos",
-        "url": "https://www.dataifx.com/post/conciertos-de-bts-en-bogota-podrian-generar-un-impacto-economico-de-126054-millones",
-        "resumen": "Los dos conciertos de la agrupación surcoreana BTS previstos en Bogotá tendrían un impacto económico estimado de $126",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Conciertos de BTS en Bogotá podrían generar un impacto económico de $126.054 millones",
         "capturado": "2026-10-01T18:50:06-05:00"
       }
     ],
