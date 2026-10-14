@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-13T20:03:09-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-14T02:24:25-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Christian Garcés informa disminución de $6,4 billones en pago de deuda para Presupuesto de 2027 por pacto oficial y austeridad",
+        "url": "https://www.dataifx.com/post/christian-garces-anuncia-recorte-de-64-billones-en-el-servicio-de-la-deuda-del-presupuesto-de-2027",
+        "resumen": "El servicio de la deuda del Presupuesto General de la Nación para 2027 se reducirá en $6,4 billones, de acuerdo con un entendimiento alcanzado entre los ponentes del proyecto y el Ministerio de Hacienda",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Christian Garcés anuncia recorte de $6,4 billones en el servicio de la deuda del Presupuesto de 2027 tras acuerdo con el Gobierno y aplicación de plan de austeridad",
+        "capturado": "2026-10-14T02:24:25-05:00"
+      },
       {
         "titulo": "Asobancaria apoya topes al dinero físico en adquisiciones costosas por medio de la norma antiterrorista",
         "url": "https://www.dataifx.com/post/asobancaria-respalda-restricciones-al-efectivo-en-compras-de-alto-valor-dentro-del-estatuto",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Del Movistar Arena a Juan Valdez: Luis Guillermo Quintero Martínez llega a la gerencia",
-        "capturado": "2026-10-06T08:12:50-05:00"
-      },
-      {
-        "titulo": "Gabriel Sánchez Olea toma la Gerencia General para arrancar una nueva etapa en el Movistar Arena",
-        "url": "https://www.dataifx.com/post/movistar-arena-inicia-nueva-etapa-con-gabriel-sanchez-olea-en-la-gerencia-general",
-        "resumen": "El escenario que hasta ahora se ha conocido como Movistar Arena inicia una nueva etapa con cambios en su administración y en el patrocinio de sus derechos de nombre",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Movistar Arena inicia nueva etapa con Gabriel Sánchez Olea en la Gerencia General",
         "capturado": "2026-10-06T08:12:50-05:00"
       }
     ],
