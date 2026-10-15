@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-15T06:14:30-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-15T11:45:16-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "XM advierte que El Niño 2026-2027 pondría a prueba la capacidad del sistema eléctrico colombiano",
+        "url": "https://www.dataifx.com/post/xm-advierte-que-el-nino-2026-2027-pondria-prueba-la-capacidad-del-sistema-electrico-colombiano",
+        "resumen": "El sistema eléctrico colombiano enfrenta el fenómeno de El Niño 2026-2027 con una combinación de menores aportes hídricos, crecimiento de la demanda, restricciones en las redes de transmisión y dificultades financieras en el mercado mayorista de energía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "XM advierte que El Niño 2026-2027 pondría a prueba la capacidad del sistema eléctrico colombiano",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Juan Valdez 1959 apuesta por el café de origen y la producción propia para ampliar su oferta comercial",
+        "url": "https://www.dataifx.com/post/juan-valdez-1959-apuesta-por-el-cafe-de-origen-y-la-produccion-propia-para-ampliar-su-oferta",
+        "resumen": "Juan Valdez 1959 desarrolla un modelo de negocio que combina la comercialización de café de distintos orígenes, la tostión en sus instalaciones y una oferta gastronómica que incorpora productos colombianos",
+        "autor": "",
+        "subseccion": "Empresas",
+        "publicacion": "",
+        "titulo_fuente": "Juan Valdez 1959 apuesta por el café de origen y la producción propia para ampliar su oferta comercial",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
       {
         "titulo": "Gobierno y sector advierten que Colombia debe elevar un 65% su capacidad eléctrica instalada al 2032",
         "url": "https://www.dataifx.com/post/colombia-necesita-aumentar-65-su-capacidad-electrica-instalada-para-2032-advierten-gobierno-y",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno formaliza $624.656 millones para el Fondo Milagro tras el terremoto del 10 de agosto",
         "capturado": "2026-10-07T08:05:36-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro: estos son los cinco miembros de su Junta Directiva",
-        "url": "https://www.dataifx.com/post/fondo-milagro-estos-son-los-cinco-integrantes-de-su-junta-directiva",
-        "resumen": "El Fondo Milagro, creado para atender las necesidades derivadas de la emergencia tras el terremoto del pasado 10 de agosto, ya tiene definida su estructura directiva",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fondo Milagro: estos son los cinco integrantes de su Junta Directiva",
-        "capturado": "2026-10-07T08:05:36-05:00"
-      },
-      {
-        "titulo": "Presidente Abelardo De La Espriella juramentó a Beatriz Eugenia Vélez como nueva directora de Colpensiones",
-        "url": "https://www.dataifx.com/post/presidente-abelardo-de-la-espriella-posesiono-beatriz-eugenia-velez-como-nueva-presidenta-de",
-        "resumen": "El presidente de la República, Abelardo De La Espriella, posesionó a Beatriz Eugenia Vélez Vengoechea como nueva presidenta de Colpensiones, entidad encargada de administrar el sistema público de pensiones en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente Abelardo De La Espriella posesionó a Beatriz Eugenia Vélez como nueva presidenta de Colpensiones",
-        "capturado": "2026-10-06T18:42:58-05:00"
       }
     ],
     "Macro Internacional": [
@@ -665,29 +665,89 @@
         "publicacion": "",
         "titulo_fuente": "Reino Unido registra inflación de 3,1 % y el BoE optaría por una pausa de línea dura",
         "capturado": "2026-09-16T11:37:41-05:00"
-      },
-      {
-        "titulo": "Cita crucial de la Fed: inversionistas prevén aumento y Trump exige recortes",
-        "url": "https://www.dataifx.com/post/reunion-clave-de-la-fed-mercados-anticipan-alza-trump-presiona-por-bajas",
-        "resumen": "Los mercados financieros anticipan que la Reserva Federal de Estados Unidos (Fed) aprobará este miércoles un incremento de 25 puntos básicos en su tasa de referencia, en respuesta a la persistencia de la inflación y a un entorno económico marcado por tensiones geopolíticas y un mercado laboral aún sólido",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reunión clave de la Fed: mercados anticipan alza, Trump presiona por bajas",
-        "capturado": "2026-09-15T08:23:00-05:00"
-      },
-      {
-        "titulo": "Falta de gas pasó de ser pasajera a un peligro estructural para Colombia: Promigas",
-        "url": "https://www.dataifx.com/post/deficit-de-gas-dejo-de-ser-coyuntural-colombia-enfrenta-un-riesgo-estructural-promigas",
-        "resumen": "El XXVII Informe del Sector Gas Natural en Colombia, presentado por Promigas el 15 de septiembre de 2026, concluye que el déficit de gas dejó de ser coyuntural y se convirtió en una realidad estructural",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Déficit de gas dejó de ser coyuntural; Colombia enfrenta un riesgo estructural: Promigas",
-        "capturado": "2026-09-15T08:23:00-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Feria laboral en Corferias en Bogotá ofrece más de 18000 puestos y cuenta con 180 compañías",
+        "url": "https://www.dataifx.com/post/megaferia-de-empleo-de-bogota-reune-mas-de-18000-vacantes-y-180-empresas-en-corferias",
+        "resumen": "La cuarta edición de la Megaferia de Empleo de Bogotá abrió sus puertas este jueves en Corferias con la participación de más de 180 empresas y una oferta cercana a las 18",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Megaferia de Empleo de Bogotá reúne más de 18.000 vacantes y 180 empresas en Corferias",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "ISA planteará modificaciones para cambiar toda su junta directiva y facilitar elegir presidente",
+        "url": "https://www.dataifx.com/post/isa-propondra-cambios-que-permitirian-renovar-toda-su-junta-y-flexibilizar-la-eleccion-de",
+        "resumen": "Los accionistas de ISA votarán el próximo 28 de octubre una reforma estatutaria que podría modificar dos reglas clave de gobierno corporativo de la compañía",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA propondrá cambios que permitirían renovar toda su junta y flexibilizar la elección de presidente",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá avisa que los plásticos de Itaú dejarán de funcionar el 21 de octubre",
+        "url": "https://www.dataifx.com/post/tarjetas-de-credito-itau-dejaran-de-operar-el-21-de-octubre-recuerda-banco-de-bogota",
+        "resumen": "Los clientes que llegaron al Banco de Bogotá como parte del proceso de integración con Itaú tendrán plazo hasta el próximo 21 de octubre de 2026 para utilizar sus tarjetas de crédito emitidas por esa entidad financiera",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tarjetas de crédito Itaú dejarán de operar el 21 de octubre, recuerda Banco de Bogotá",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "EPM logra el sello de operación carbono neutral para sus actividades de energía en 2025",
+        "url": "https://www.dataifx.com/post/epm-obtiene-certificacion-de-operacion-carbono-neutral-en-sus-negocios-de-energia-durante-2025",
+        "resumen": "Los negocios de generación, transmisión y distribución de energía de EPM obtuvieron la certificación de operación carbono neutral correspondiente a 2025, un reconocimiento que, según la empresa, acredita la implementación de medidas para medir, reducir y compensar las emisiones de gases de efecto invernadero asociadas a estas actividades",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EPM obtiene certificación de operación carbono neutral en sus negocios de energía durante 2025",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Capital externo en la zona de Bogotá llegó a 456 millones de dólares entre enero y junio de 2026",
+        "url": "https://www.dataifx.com/post/inversion-extranjera-en-bogota-region-alcanzo-us456-millones-entre-enero-y-junio-de-2026",
+        "resumen": "Bogotá y los municipios de su área de influencia concentraron cerca de la mitad de los proyectos de inversión extranjera directa (IED) que llegaron al país durante el primer semestre de 2026, de acuerdo con un análisis divulgado por Invest in Bogotá",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inversión extranjera en Bogotá-Región alcanzó US$456 millones entre enero y junio de 2026",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Ecopetrol designa un nuevo Director Corporativo de Cumplimiento luego de la partida del pasado jefe",
+        "url": "https://www.dataifx.com/post/ecopetrol-nombra-nuevo-director-corporativo-de-cumplimiento-tras-salida-de-anterior-directivo",
+        "resumen": "Ecopetrol S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol nombra nuevo Director Corporativo de Cumplimiento tras salida de anterior directivo",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Atlético Nacional lideró la tabla de recaudos entre los equipos del balompié nacional",
+        "url": "https://www.dataifx.com/post/atletico-nacional-encabezo-el-ranking-de-ingresos-entre-los-clubes-del-futbol-colombiano",
+        "resumen": "Los clubes del fútbol profesional colombiano registraron una mejora en sus indicadores financieros durante 2025, impulsados por un aumento en los ingresos operacionales, mayores recursos provenientes de competiciones internacionales y una expansión de los activos del sector, de acuerdo con un informe presentado por la Superintendencia de Sociedades",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Atlético Nacional encabezó el ranking de ingresos entre los clubes del fútbol colombiano",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
+      {
+        "titulo": "Claro Colombia centra su atención en la red digital y comunica nuevas colocaciones de capital",
+        "url": "https://www.dataifx.com/post/claro-colombia-pone-el-foco-en-su-infraestructura-digital-y-anuncia-nuevas-inversiones",
+        "resumen": "La empresa de telecomunicaciones Claro Colombia presentó un manifiesto corporativo en el que expone su visión sobre la evolución del sector tecnológico en el país y detalla las capacidades de infraestructura que ha desarrollado en los últimos años para la prestación de servicios de conectividad y soluciones digitales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Claro Colombia pone el foco en su infraestructura digital y anuncia nuevas inversiones",
+        "capturado": "2026-10-15T11:45:16-05:00"
+      },
       {
         "titulo": "Bogotá aplaza entrega de información exógena por problemas en portal de impuestos",
         "url": "https://www.dataifx.com/post/bogota-amplia-plazo-para-reportar-informacion-exogena-tras-fallas-en-plataforma-tributaria",
@@ -1057,86 +1117,6 @@
         "publicacion": "",
         "titulo_fuente": "Superfinanciera da luz verde a Davivienda para recibir la operación bancaria de Davibank",
         "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Bruce Mac Master sale de la presidencia de la ANDI y arranca proceso para buscar su reemplazo",
-        "url": "https://www.dataifx.com/post/andi-acepta-renuncia-de-bruce-mac-master-e-inicia-busqueda-para-elegir-sucesor",
-        "resumen": "La Junta de Dirección General de la Asociación Nacional de Empresarios de Colombia (ANDI) anunció que recibió la decisión de Bruce Mac Master de concluir su etapa al frente del gremio, cargo que ocupó durante los últimos 13 años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDI acepta renuncia de Bruce Mac Master e inicia búsqueda para elegir sucesor",
-        "capturado": "2026-10-06T00:56:28-05:00"
-      },
-      {
-        "titulo": "Bolsa de Brasil trepa 7,7% a máximos tras festejo de mercados por ventaja de Flávio Bolsonaro",
-        "url": "https://www.dataifx.com/post/mercados-celebran-ventaja-de-flavio-bolsonaro-bolsa-de-brasil-salta-77-y-alcanza-maximos",
-        "resumen": "Los mercados financieros de Brasil registraron una fuerte reacción positiva este lunes después de los resultados de la primera vuelta presidencial",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mercados celebran ventaja de Flávio Bolsonaro: bolsa de Brasil salta 7,7% y alcanza máximos",
-        "capturado": "2026-10-05T17:28:14-05:00"
-      },
-      {
-        "titulo": "Fenalco aplaude pausa a decreto de negociación sindical multinivel y avala su demanda en Consejo de Estado",
-        "url": "https://www.dataifx.com/post/fenalco-celebra-suspension-del-decreto-sobre-negociacion-colectiva-multinivel-y-defiende-su-demanda",
-        "resumen": "El Consejo de Estado suspendió de manera provisional los efectos del Decreto 234 de 2026, una norma que establecía nuevas disposiciones sobre negociación colectiva multinivel",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fenalco celebra suspensión del decreto sobre negociación colectiva multinivel y defiende su demanda ante el Consejo de Estado",
-        "capturado": "2026-10-02T18:40:29-05:00"
-      },
-      {
-        "titulo": "Consejo de Estado frena de manera temporal el decreto de negociación colectiva unificada por niveles",
-        "url": "https://www.dataifx.com/post/consejo-de-estado-suspende-provisionalmente-decreto-sobre-negociacion-colectiva-unificada-por",
-        "resumen": "El Ministerio del Trabajo informó que fue notificado del auto emitido el 1 de octubre de 2026 por la Sección Segunda, Subsección A, del Consejo de Estado, mediante el cual se decretó la suspensión provisional de los efectos del Decreto 234 del 6 de marzo de 2026, que establecía disposiciones sobre negociación colectiva unificada por niveles",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Consejo de Estado suspende provisionalmente decreto sobre negociación colectiva unificada por niveles",
-        "capturado": "2026-10-02T18:40:29-05:00"
-      },
-      {
-        "titulo": "Iniciativa Ruta Milagro pretende recuperar 3500 comercios golpeados por el sismo de agosto",
-        "url": "https://www.dataifx.com/post/ruta-milagro-busca-reactivar-3500-negocios-afectados-por-el-terremoto-de-agosto",
-        "resumen": "La iniciativa denominada \"Ruta Milagro\" comenzó su fase de implementación con el objetivo de contribuir a la recuperación de 3",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ruta Milagro busca reactivar 3.500 negocios afectados por el terremoto de agosto",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Centro Cultural de Cine Colombia recibe reconocimiento en la trigésima Bienal Colombiana de Arquitectura",
-        "url": "https://www.dataifx.com/post/centro-cultural-de-cine-colombia-galardonado-en-la-xxx-bienal-colombiana-de-arquitectura-y",
-        "resumen": "Foto: Cine Colombia En una ceremonia realizada en el Teatro Adolfo Mejía, la Sociedad Colombiana de Arquitectos (SCA) entregó los reconocimientos de la XXX Bienal Colombiana de Arquitectura y Urbanismo 2026, consolidando este encuentro como el escenario más importante para la exaltación de la excelencia arquitectónica y urbana del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Centro Cultural de Cine Colombia, galardonado en la XXX Bienal Colombiana de Arquitectura y Urbanismo 2026",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Nación fomenta sector del tatuaje que alcanza unos 40 millones de dólares en la región",
-        "url": "https://www.dataifx.com/post/colombia-impulsa-una-industria-del-tatuaje-que-mueve-cerca-de-us40-millones-en-america-latina",
-        "resumen": "La industria del tatuaje continúa ampliando su alcance económico en América Latina y Colombia figura entre los países que están impulsando la expansión de este mercado junto con Brasil, México y Argentina",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia impulsa una industria del tatuaje que mueve cerca de US$40 millones en América Latina",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Ejecutivo, sector privado y empleados pactan espacio para examinar legislación de trabajo",
-        "url": "https://www.dataifx.com/post/gobierno-empresarios-y-trabajadores-acuerdan-mesa-para-revisar-normas-laborales-y-fortalecer-el",
-        "resumen": "El Gobierno nacional, representantes de los trabajadores y delegados del sector empresarial acordaron avanzar en la creación de una instancia técnica para revisar distintas normas laborales y consolidar una agenda permanente de concertación, durante una sesión extraordinaria de la Comisión Permanente de Concertación de Políticas Salariales y Laborales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno, empresarios y trabajadores acuerdan mesa para revisar normas laborales y fortalecer el diálogo permanente",
-        "capturado": "2026-10-02T14:06:56-05:00"
       }
     ],
     "Empresas Internacional": [
