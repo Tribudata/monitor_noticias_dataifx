@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-15T11:45:16-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-15T16:12:25-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Emcali pide aval al Concejo de Cali para comprar la hidroeléctrica Salvajina",
+        "url": "https://www.dataifx.com/post/emcali-busca-autorizacion-del-concejo-de-cali-para-adquirir-la-central-hidroelectrica-salvajina",
+        "resumen": "La Alcaldía de Santiago de Cali y las Empresas Municipales de Cali (EMCALI) radicaron ante el Concejo Distrital un proyecto de acuerdo para avanzar en la adquisición de la Central Hidroeléctrica Salvajina y permitir el ingreso de la empresa al negocio de generación de energía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EMCALI busca autorización del Concejo de Cali para adquirir la Central Hidroeléctrica Salvajina",
+        "capturado": "2026-10-15T16:12:25-05:00"
+      },
+      {
+        "titulo": "Mandatario sugiere evaluar subsidios y priorizar recaudo antes de nuevos tributos",
+        "url": "https://www.dataifx.com/post/presidente-pide-revisar-exenciones-y-subsidios-y-priorizar-el-recaudo-antes-de-crear-nuevos",
+        "resumen": "El presidente Abelardo de la Esperiella pidió revisar las exenciones tributarias y los subsidios que considere innecesarios, así como fortalecer el recaudo de los impuestos existentes antes de evaluar nuevas cargas para los contribuyentes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente pide revisar exenciones y subsidios y priorizar el recaudo antes de crear nuevos impuestos",
+        "capturado": "2026-10-15T16:12:25-05:00"
+      },
+      {
+        "titulo": "Ausencia de quórum detiene debate del Presupuesto 2027 en Cámara y apura al Congreso",
+        "url": "https://www.dataifx.com/post/falta-de-quorum-frena-discusion-del-presupuesto-de-2027-en-la-camara-y-deja-al-congreso-contra-el",
+        "resumen": "La discusión del Presupuesto General de la Nación para 2027 quedó aplazada en la Cámara de Representantes después de que la plenaria no lograra mantener el quórum necesario para continuar con el trámite",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Falta de quórum frena discusión del Presupuesto de 2027 en la Cámara y deja al Congreso contra el plazo legal",
+        "capturado": "2026-10-15T16:12:25-05:00"
+      },
+      {
+        "titulo": "Permisos de edificación bajaron 10% en agosto debido a menor aval de proyectos habitacionales",
+        "url": "https://www.dataifx.com/post/licencias-de-construccion-cayeron-10-en-agosto-por-menor-aprobacion-de-proyectos-de-vivienda",
+        "resumen": "El área licenciada para construcción en Colombia registró una caída anual durante agosto de 2026, reflejando una menor aprobación de proyectos de vivienda y de edificaciones con destinos no habitacionales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Licencias de construcción cayeron 10% en agosto por menor aprobación de proyectos de vivienda",
+        "capturado": "2026-10-15T16:12:25-05:00"
+      },
+      {
+        "titulo": "Édgar Chalhoub Succar llega a la presidencia de Finagro enfocado en financiación a largo plazo",
+        "url": "https://www.dataifx.com/post/edgar-chalhoub-succar-asume-la-presidencia-de-finagro-con-foco-en-el-credito-de-largo-plazo",
+        "resumen": "Édgar Chalhoub Succar fue designado como nuevo presidente del Fondo para el Financiamiento del Sector Agropecuario (Finagro), entidad de desarrollo que canaliza recursos de crédito, garantías e instrumentos de financiación para el campo colombiano a través de bancos públicos, privados y cooperativas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Édgar Chalhoub Succar asume la presidencia de Finagro con foco en el crédito de largo plazo",
+        "capturado": "2026-10-15T16:12:25-05:00"
+      },
       {
         "titulo": "XM advierte que El Niño 2026-2027 pondría a prueba la capacidad del sistema eléctrico colombiano",
         "url": "https://www.dataifx.com/post/xm-advierte-que-el-nino-2026-2027-pondria-prueba-la-capacidad-del-sistema-electrico-colombiano",
@@ -403,56 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "AFP podrán ampliar sus inversiones en el exterior tras eliminación del límite global del 30 %",
         "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Gobierno arranca en Pereira las reuniones regionales para armar las bases del PND 2026-2030",
-        "url": "https://www.dataifx.com/post/gobierno-inicia-en-pereira-los-encuentros-regionales-para-construir-las-bases-del-pnd-2026-2030",
-        "resumen": "El Gobierno Nacional inició en Pereira el primero de los 12 Encuentros Regionales previstos para recoger las propuestas de las comunidades y definir las bases del Plan Nacional de Desarrollo (PND) 2026-2030, denominado “Colombia la Patria Milagro: se levanta, se construye unida, firme y segura”",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno inicia en Pereira los encuentros regionales para construir las bases del PND 2026-2030",
-        "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Contraloría fija control fiscal a los dineros dirigidos a responder por la emergencia del sismo",
-        "url": "https://www.dataifx.com/post/contraloria-establece-vigilancia-fiscal-sobre-recursos-destinados-atender-emergencia-por-terremoto",
-        "resumen": "El Contralor General de la República, Jorge Laverde Vargas, expidió la Resolución Reglamentaria Orgánica 0075 de 2026, mediante la cual se establece un plan específico de vigilancia y control fiscal sobre los bienes, fondos y recursos destinados a atender la Emergencia Económica, Social y Ecológica declarada por el Gobierno Nacional tras el terremoto del pasado 10 de agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Contraloría establece vigilancia fiscal sobre recursos destinados a atender emergencia por terremoto",
-        "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Gobierno suma proveedores para abastecer combustible a plantas térmicas por El Niño",
-        "url": "https://www.dataifx.com/post/gobierno-amplia-proveedores-para-abastecimiento-de-combustibles-de-plantas-termicas-ante-el-nino",
-        "resumen": "El Gobierno Nacional expidió el Decreto 1491 del 6 de octubre de 2026, mediante el cual amplía las alternativas de abastecimiento de combustibles para las plantas de generación térmica, como parte de las medidas preventivas frente al fenómeno de El Niño 2026-2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno amplía proveedores para abastecimiento de combustibles de plantas térmicas ante El Niño",
-        "capturado": "2026-10-07T08:05:36-05:00"
-      },
-      {
-        "titulo": "Gobierno quita el tope del 30 % para invertir fondos de pensiones afuera",
-        "url": "https://www.dataifx.com/post/gobierno-elimina-limite-del-30-las-inversiones-de-fondos-de-pensiones-en-el-exterior",
-        "resumen": "El Gobierno Nacional expidió el Decreto 1490 de 2026, mediante el cual modifica el régimen de inversión de los fondos de pensiones obligatorias y elimina el límite global del 30 % para las inversiones en activos del exterior, establecido en abril de este año mediante el Decreto 0369 de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno elimina límite del 30 % a las inversiones de fondos de pensiones en el exterior",
-        "capturado": "2026-10-07T08:05:36-05:00"
-      },
-      {
-        "titulo": "Gobierno oficializa 624656 millones de pesos al Fondo Milagro tras sismo del 10 de agosto",
-        "url": "https://www.dataifx.com/post/gobierno-formaliza-624656-millones-para-el-fondo-milagro-tras-el-terremoto-del-10-de-agosto",
-        "resumen": "El Gobierno Nacional formalizó la destinación de $624",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno formaliza $624.656 millones para el Fondo Milagro tras el terremoto del 10 de agosto",
-        "capturado": "2026-10-07T08:05:36-05:00"
       }
     ],
     "Macro Internacional": [
