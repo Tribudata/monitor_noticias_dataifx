@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-14T18:06:04-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-14T23:12:13-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno y sector advierten que Colombia debe elevar un 65% su capacidad eléctrica instalada al 2032",
+        "url": "https://www.dataifx.com/post/colombia-necesita-aumentar-65-su-capacidad-electrica-instalada-para-2032-advierten-gobierno-y",
+        "resumen": "Colombia deberá ampliar su capacidad instalada de generación eléctrica hasta alcanzar 36,7 gigavatios (GW) en 2032, un incremento del 65% frente a la capacidad actual",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia necesita aumentar 65% su capacidad eléctrica instalada para 2032, advierten Gobierno y agentes del sector",
+        "capturado": "2026-10-14T23:12:13-05:00"
+      },
+      {
+        "titulo": "Tigo confirma inversiones de $8,5 billones en el país en cuatro años luego de unir su marca con Movistar",
+        "url": "https://www.dataifx.com/post/tigo-anuncia-inversiones-por-85-billones-en-colombia-durante-los-proximos-cuatro-anos-tras-unificar",
+        "resumen": "Tigo anunció este miércoles el inicio de una nueva etapa de sus operaciones en Colombia, con el lanzamiento de la campaña “Movistar ahora es Tigo” y un plan de inversión de $8,5 billones para los próximos cuatro años, dirigido a ampliar la cobertura, aumentar la capacidad de sus redes y modernizar su infraestructura de telecomunicaciones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Tigo anuncia inversiones por $8,5 billones en Colombia durante los próximos cuatro años tras unificar su marca con Movistar",
+        "capturado": "2026-10-14T23:12:13-05:00"
+      },
       {
         "titulo": "Creg alista subastas eléctricas para 2027 y modifica normas por el fenómeno de El Niño",
         "url": "https://www.dataifx.com/post/creg-prepara-subastas-de-energia-para-2027-y-plantea-ajustes-regulatorios-ante-el-fenomeno-de-el",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Presidente Abelardo De La Espriella posesionó a Beatriz Eugenia Vélez como nueva presidenta de Colpensiones",
         "capturado": "2026-10-06T18:42:58-05:00"
-      },
-      {
-        "titulo": "Coprocesamiento: la opción para transformar desechos en electricidad",
-        "url": "https://www.dataifx.com/post/coprocesamiento-la-alternativa-que-busca-convertir-residuos-en-energia",
-        "resumen": "Colombia enfrenta un escenario de presión sobre su sistema de disposición final de residuos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Coprocesamiento: la alternativa que busca convertir residuos en energía",
-        "capturado": "2026-10-06T18:42:58-05:00"
-      },
-      {
-        "titulo": "El IPP en Colombia aumentó un 2,2% en septiembre por el agro y la minería",
-        "url": "https://www.dataifx.com/post/precios-al-productor-en-colombia-subieron-22-en-septiembre-impulsados-por-mineria-y-productos",
-        "resumen": "Los precios de los bienes producidos en Colombia registraron un aumento de 2,2% en septiembre frente a agosto de 2026, según informó el DANE en su más reciente reporte del Índice de Precios del Productor (IPP)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Precios al productor en Colombia subieron 2,2% en septiembre, impulsados por minería y productos agrícolas",
-        "capturado": "2026-10-06T14:24:04-05:00"
       }
     ],
     "Macro Internacional": [
