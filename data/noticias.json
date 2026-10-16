@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-16T08:09:19-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-16T12:55:28-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Promigas suma más de 111.000 hectáreas a plan de conservación en Colombia",
+        "url": "https://www.dataifx.com/post/promigas-vincula-mas-de-111000-hectareas-estrategia-de-conservacion-en-colombia",
+        "resumen": "Promigas, en alianza con la Fundación Cataruben, vinculó más de 111",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Promigas vincula más de 111.000 hectáreas a estrategia de conservación en Colombia",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
+      {
+        "titulo": "Comercio minorista subió 7,3% en agosto gracias a vehículos y motos",
+        "url": "https://www.dataifx.com/post/ventas-de-comercio-minorista-crecieron-73-en-agosto-impulsadas-por-vehiculos-y-motocicletas",
+        "resumen": "Las ventas reales del comercio minorista en Colombia mantuvieron su tendencia positiva durante agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ventas de comercio minorista crecieron 7,3% en agosto impulsadas por vehículos y motocicletas",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
+      {
+        "titulo": "Manufactura bajó 3,7% en agosto y ocupación continuó cayendo",
+        "url": "https://www.dataifx.com/post/produccion-de-industria-manufacturera-cayo-37-en-agosto-y-empleo-siguio-disminuyendo",
+        "resumen": "La industria manufacturera colombiana registró un retroceso en agosto de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción de industria manufacturera cayó 3,7% en agosto y empleo siguió disminuyendo",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
+      {
+        "titulo": "ANI y ANLA pactan gestión para destrabar trámites ambientales de 16 obras",
+        "url": "https://www.dataifx.com/post/ani-y-anla-acuerdan-acciones-para-avanzar-en-tramites-ambientales-de-16-proyectos-de",
+        "resumen": "La Agencia Nacional de Infraestructura (ANI) y la Autoridad Nacional de Licencias Ambientales (ANLA) definieron una hoja de ruta para avanzar en la gestión de trámites ambientales relacionados con 16 proyectos de infraestructura considerados estratégicos para el país, en un esfuerzo por agilizar procesos regulatorios y dar seguimiento a expedientes que actualmente condicionan el avance de varias iniciativas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANI y ANLA acuerdan acciones para avanzar en trámites ambientales de 16 proyectos de infraestructura",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
       {
         "titulo": "FMI advierte tensión en las finanzas públicas del país y analiza opciones de apoyo",
         "url": "https://www.dataifx.com/post/fmi-ve-presiones-en-la-situacion-fiscal-de-colombia-y-explora-alternativas-de-acompanamiento",
@@ -413,49 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Federación de Cafeteros cuestiona cobro de $4.235 por tonelada de carga en Buenaventura",
         "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Ministerio de Transporte desaprueba nueva tarifa por tonelada de carga en Buenaventura",
-        "url": "https://www.dataifx.com/post/mintransporte-rechaza-nuevo-cobro-por-tonelada-de-carga-en-buenaventura",
-        "resumen": "El Ministerio de Transporte manifestó su desacuerdo con el nuevo cobro establecido por el Distrito de Buenaventura para los vehículos que movilizan carga desde y hacia las terminales portuarias de la ciudad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte rechaza nuevo cobro por tonelada de carga en Buenaventura",
-        "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Aprobados tres créditos externos por 497 millones de euros para financiar el presupuesto de 2026",
-        "url": "https://www.dataifx.com/post/luz-verde-tres-emprestitos-externos-por-497-millones-de-euros-para-financiar-presupuesto-de-2026",
-        "resumen": "La Comisión Interparlamentaria de Crédito Público emitió concepto favorable para que la Nación avance en la contratación de tres empréstitos externos con el banco de desarrollo alemán KfW por hasta 497 millones de euros, recursos que, según el Ministerio de Hacienda, se destinarían a apoyar la financiación del Presupuesto General de la Nación de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Luz verde a tres empréstitos externos por 497 millones de euros para financiar presupuesto de 2026",
-        "capturado": "2026-10-08T03:43:58-05:00"
-      },
-      {
-        "titulo": "El índice de precios al consumidor anual llegó al 6,29% en septiembre en el país",
-        "url": "https://www.dataifx.com/post/en-septiembre-inflacion-anual-de-colombia-fue-del-629",
-        "resumen": "La inflación en Colombia siguió su tendencia alcista durante septiembre y se ubicó en 6,29% anual, después de haber registrado una variación de 6,24% en agosto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En septiembre inflación anual de Colombia fue del 6,29%",
-        "capturado": "2026-10-07T19:06:41-05:00"
-      },
-      {
-        "titulo": "En agosto la fabricación de concreto premezclado subió 5,6% por las obras",
-        "url": "https://www.dataifx.com/post/produccion-de-concreto-premezclado-crecio-56-en-agosto-impulsada-por-edificaciones",
-        "resumen": "La producción de concreto premezclado en Colombia alcanzó 655",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Producción de concreto premezclado creció 5,6% en agosto, impulsada por edificaciones",
-        "capturado": "2026-10-07T19:06:41-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El costo de vida en la zona euro trepó al 3,8% en septiembre y tocó picos de tres años",
+        "url": "https://www.dataifx.com/post/inflacion-en-zona-euro-escalo-38-en-septiembre-y-alcanzo-maximos-de-tres-anos",
+        "resumen": "La inflación volvió a ganar fuerza en Europa durante septiembre y alcanzó su nivel más alto de los últimos tres años, impulsada principalmente por el aumento de los precios de la energía y de algunos alimentos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación en zona euro escaló a 3,8% en septiembre y alcanzó máximos de tres años",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
       {
         "titulo": "El costo de vida en EE. UU. trepó al 3,7% en septiembre por el alza en los combustibles",
         "url": "https://www.dataifx.com/post/inflacion-en-estados-unidos-subio-37-en-septiembre-impulsada-por-el-encarecimiento-de-la-gasolina",
@@ -655,19 +665,39 @@
         "publicacion": "",
         "titulo_fuente": "¡Como se esperaba! Reserva Federal subió sus tasas de interés",
         "capturado": "2026-09-16T16:09:51-05:00"
-      },
-      {
-        "titulo": "Inflación británica en 3,1 % haría que el BoE decida una pausa restrictiva",
-        "url": "https://www.dataifx.com/post/reino-unido-registra-inflacion-de-31-y-el-boe-optaria-por-una-pausa-de-linea-dura",
-        "resumen": "La inflación en el Reino Unido se situó en 3,1 % durante agosto, según el más reciente informe del Índice de Precios al Consumidor (IPC), en línea con las previsiones del mercado y ligeramente por encima del 2,9 % registrado en julio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reino Unido registra inflación de 3,1 % y el BoE optaría por una pausa de línea dura",
-        "capturado": "2026-09-16T11:37:41-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Supersociedades decreta la disolución de la sociedad que administra Presto",
+        "url": "https://www.dataifx.com/post/supersociedades-ordena-liquidacion-de-empresa-que-opera-presto",
+        "resumen": "La Superintendencia de Sociedades ordenó la apertura del proceso de liquidación judicial de Franquicias y Concesiones S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Supersociedades ordena liquidación de empresa que opera Presto",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
+      {
+        "titulo": "FNC abrirá en 2027 su primer hotel situado en el Quindío",
+        "url": "https://www.dataifx.com/post/fnc-inaugurara-en-2027-su-primer-hotel-ubicado-en-el-quindio",
+        "resumen": "La Federación Nacional de Cafeteros (FNC) anunció que en 2027 pondrá en funcionamiento su primer hotel, un proyecto que se desarrolla en el municipio de Montenegro, Quindío, y que forma parte de las actividades previstas para conmemorar los 100 años de creación del gremio cafetero",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FNC inaugurará en 2027 su primer hotel, ubicado en el Quindío",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
+      {
+        "titulo": "Supersociedades: conglomerados económicos alcanzaron ingresos de $658,6 billones en 2025",
+        "url": "https://www.dataifx.com/post/supersociedades-grupos-economicos-registraron-ingresos-por-6586-billones-en-2025",
+        "resumen": "Los grupos económicos supervisados por la Superintendencia de Sociedades registraron ingresos operacionales por $658,6 billones y utilidades netas por $28,8 billones durante 2025, según los resultados del informe “Grupos en Cifras 2025”, un documento que analiza la estructura y el desempeño financiero de los conglomerados empresariales con presencia en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Supersociedades: grupos económicos registraron ingresos por $658,6 billones en 2025",
+        "capturado": "2026-10-16T12:55:28-05:00"
+      },
       {
         "titulo": "Ignacio Bravo quedará al frente de la gerencia general de Banco Falabella Colombia",
         "url": "https://www.dataifx.com/post/ignacio-bravo-asumira-gerencia-general-de-banco-falabella-colombia",
@@ -1087,36 +1117,6 @@
         "publicacion": "",
         "titulo_fuente": "DIAN restablece servicios tras interrupción eléctrica que afectó centro de datos",
         "capturado": "2026-10-06T18:42:58-05:00"
-      },
-      {
-        "titulo": "BBVA Colombia estrenó bonos sostenibles con una emisión inicial de $250.000 millones",
-        "url": "https://www.dataifx.com/post/bbva-colombia-debuto-en-mercado-de-bonos-sostenibles-con-colocacion-inicial-de-250000-millones",
-        "resumen": "BBVA Colombia realizó su primera emisión de bonos sostenibles en el mercado local de capitales, una operación mediante la cual adjudicó $250",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "BBVA Colombia debutó en mercado de bonos sostenibles con colocación inicial de $250.000 millones",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Homecenter Sodimac Colombia adquiere el control accionario mayoritario de Sumatec",
-        "url": "https://www.dataifx.com/post/homecenter-sodimac-colombia-toma-participacion-mayoritaria-en-sumatec",
-        "resumen": "Homecenter Sodimac Colombia anunció la adquisición de una participación mayoritaria en Sumatec, empresa colombiana especializada en la distribución de suministros técnicos para actividades de mantenimiento, reparación y operación industrial, conocidas en el sector como servicios MRO (Maintenance, Repair and Operations)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Homecenter Sodimac Colombia toma participación mayoritaria en Sumatec",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Analdex solicita a la DIAN declarar contingencia por fallas en sistemas informáticos aduaneros",
-        "url": "https://www.dataifx.com/post/analdex-pide-la-dian-declarar-contingencia-tras-fallas-en-servicios-informaticos-aduaneros",
-        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) solicitó a la Dirección de Impuestos y Aduanas Nacionales (DIAN) declarar la contingencia prevista en la regulación aduanera, luego de que se registraran fallas en los servicios informáticos utilizados para las operaciones de comercio exterior del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Analdex pide a la DIAN declarar contingencia tras fallas en servicios informáticos aduaneros",
-        "capturado": "2026-10-06T14:24:04-05:00"
       }
     ],
     "Empresas Internacional": [
