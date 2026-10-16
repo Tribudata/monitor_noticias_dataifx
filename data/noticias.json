@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-16T12:55:28-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-16T15:50:50-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "La producción petrolera y de gas de GeoPark creció 2,6% durante el tercer trimestre de 2026",
+        "url": "https://www.dataifx.com/post/geopark-aumento-26-su-produccion-de-petroleo-y-gas-en-el-tercer-trimestre-de-2026",
+        "resumen": "GeoPark reportó una producción promedio consolidada de petróleo y gas de 27",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark aumentó 2,6% su producción de petróleo y gas en el tercer trimestre de 2026",
+        "capturado": "2026-10-16T15:50:50-05:00"
+      },
       {
         "titulo": "Promigas suma más de 111.000 hectáreas a plan de conservación en Colombia",
         "url": "https://www.dataifx.com/post/promigas-vincula-mas-de-111000-hectareas-estrategia-de-conservacion-en-colombia",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "FENALCO pide al Consejo de Estado anular decreto que fijó en 23 % el aumento del salario mínimo de 2026",
         "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Federación Nacional de Cafeteros objeta tarifa de $4.235 por tonelada de carga en el puerto de Buenaventura",
-        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-cuestiona-cobro-de-4235-por-tonelada-de-carga-en-buenaventura",
-        "resumen": "La Federación Nacional de Cafeteros manifestó su preocupación y desacuerdo con el Decreto Distrital 0338 del 26 de agosto de 2026, expedido por la Alcaldía de Buenaventura, que establece un cobro por la circulación de carga en el distrito",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Federación de Cafeteros cuestiona cobro de $4.235 por tonelada de carga en Buenaventura",
-        "capturado": "2026-10-08T12:19:39-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El valor del Brent trepa más de un 3% y repara arriba de los US$109 por cada barril",
+        "url": "https://www.dataifx.com/post/brent-sube-mas-de-3-y-supera-los-us109-por-barril",
+        "resumen": "Los precios internacionales del petróleo cerraron la jornada con fuertes ganancias impulsados por las crecientes tensiones en Oriente Medio y nuevas preocupaciones sobre la seguridad del suministro energético mundial",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Brent sube más de 3% y supera los US$109 por barril",
+        "capturado": "2026-10-16T15:50:50-05:00"
+      },
       {
         "titulo": "El costo de vida en la zona euro trepó al 3,8% en septiembre y tocó picos de tres años",
         "url": "https://www.dataifx.com/post/inflacion-en-zona-euro-escalo-38-en-septiembre-y-alcanzo-maximos-de-tres-anos",
@@ -668,6 +678,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "MinTrabajo plantea modificaciones a ocho decretos laborales e inicia participación ciudadana",
+        "url": "https://www.dataifx.com/post/mintrabajo-propone-cambios-ocho-decretos-laborales-y-abre-consulta-publica",
+        "resumen": "El Ministerio del Trabajo puso a consideración de la ciudadanía ocho proyectos de decreto con los que busca ajustar disposiciones reglamentarias relacionadas con la reforma laboral, al considerar que algunas normas vigentes presentan inconsistencias jurídicas, problemas de técnica normativa o disposiciones que excederían los alcances establecidos por la ley",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "MinTrabajo propone cambios a ocho decretos laborales y abre consulta pública",
+        "capturado": "2026-10-16T15:50:50-05:00"
+      },
+      {
+        "titulo": "Presto continuará funcionando a pesar de su ingreso a proceso de liquidación judicial",
+        "url": "https://www.dataifx.com/post/presto-seguira-operando-pese-entrar-en-liquidacion-judicial",
+        "resumen": "La cadena de restaurantes Presto continuará operando mientras avanza el proceso de liquidación judicial de Franquicias y Concesiones S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto seguirá operando pese a entrar en liquidación judicial",
+        "capturado": "2026-10-16T15:50:50-05:00"
+      },
       {
         "titulo": "Supersociedades decreta la disolución de la sociedad que administra Presto",
         "url": "https://www.dataifx.com/post/supersociedades-ordena-liquidacion-de-empresa-que-opera-presto",
@@ -1097,26 +1127,6 @@
         "publicacion": "",
         "titulo_fuente": "ISA cita asamblea extraordinaria para reformar estatutos y elegir nueva junta directiva",
         "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Invest Pacific comunica cambio en su gerencia ejecutiva",
-        "url": "https://www.dataifx.com/post/invest-pacific-anuncia-relevo-en-su-direccion-ejecutiva",
-        "resumen": "La agencia de promoción de inversión Invest Pacific anunció la salida de Juan Carlos Castro de su cargo como director ejecutivo, luego de un periodo en el que se consolidaron proyectos de inversión extranjera y se fortaleció la proyección internacional del Valle del Cauca",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Invest Pacific anuncia relevo en su dirección ejecutiva",
-        "capturado": "2026-10-06T18:42:58-05:00"
-      },
-      {
-        "titulo": "DIAN normaliza plataformas tras fallo de energía en el centro de datos",
-        "url": "https://www.dataifx.com/post/dian-restablece-servicios-tras-interrupcion-electrica-que-afecto-centro-de-datos",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) informó que logró restablecer la totalidad de sus servicios tecnológicos luego de una interrupción registrada durante la mañana de este 6 de octubre, que afectó el funcionamiento de algunas de sus plataformas a nivel nacional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "DIAN restablece servicios tras interrupción eléctrica que afectó centro de datos",
-        "capturado": "2026-10-06T18:42:58-05:00"
       }
     ],
     "Empresas Internacional": [
