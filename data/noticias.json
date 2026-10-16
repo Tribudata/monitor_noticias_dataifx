@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-16T01:58:00-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T08:09:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "FMI advierte tensión en las finanzas públicas del país y analiza opciones de apoyo",
+        "url": "https://www.dataifx.com/post/fmi-ve-presiones-en-la-situacion-fiscal-de-colombia-y-explora-alternativas-de-acompanamiento",
+        "resumen": "El Fondo Monetario Internacional (FMI) expresó su preocupación por el estado de las finanzas públicas de Colombia y advirtió que la trayectoria actual de las cuentas fiscales presenta desafíos que requieren ajustes para garantizar su sostenibilidad en el mediano plazo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FMI ve presiones en la situación fiscal de Colombia y explora alternativas de acompañamiento",
+        "capturado": "2026-10-16T08:09:19-05:00"
+      },
       {
         "titulo": "Secretaría de Hacienda de Bogotá anuncia nueva contingencia informática para reportar información exógena",
         "url": "https://www.dataifx.com/post/hacienda-de-bogota-declara-nueva-contingencia-tecnologica-para-la-presentacion-de-informacion",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Producción de concreto premezclado creció 5,6% en agosto, impulsada por edificaciones",
         "capturado": "2026-10-07T19:06:41-05:00"
-      },
-      {
-        "titulo": "Asociaciones solicitan pasar del potencial de los yacimientos no convencionales a reservas de crudo y gas",
-        "url": "https://www.dataifx.com/post/gremios-piden-avanzar-del-potencial-de-los-yacimientos-no-convencionales-reservas-de-petroleo-y-gas",
-        "resumen": "Los gremios organizadores de la IX Cumbre del Petróleo, Gas y Energía —la Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP), la Asociación Colombiana de Ingenieros (ACIEM), la Asociación Colombiana del Petróleo y Gas (ACP) y CAMPETROL— destacaron la presentación de los Ciclos Regionales de Conocimiento del Subsuelo de la Agencia Nacional de Hidrocarburos (ANH), al considerar que permite retomar la discusión técnica sobre la prospectividad de las cuencas sedimentarias del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gremios piden avanzar del potencial de los yacimientos no convencionales a reservas de petróleo y gas",
-        "capturado": "2026-10-07T14:50:56-05:00"
       }
     ],
     "Macro Internacional": [
