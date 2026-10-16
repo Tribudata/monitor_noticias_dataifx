@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-15T16:12:25-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-15T19:12:17-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Secretaría de Hacienda de Bogotá anuncia nueva contingencia informática para reportar información exógena",
+        "url": "https://www.dataifx.com/post/hacienda-de-bogota-declara-nueva-contingencia-tecnologica-para-la-presentacion-de-informacion",
+        "resumen": "La Secretaría Distrital de Hacienda de Bogotá declaró nuevamente la contingencia tecnológica para la presentación de información exógena, debido a inconvenientes técnicos registrados en la plataforma dispuesta para cumplir con esta obligación tributaria",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Hacienda de Bogotá declara nueva contingencia tecnológica para la presentación de información exógena",
+        "capturado": "2026-10-15T19:12:17-05:00"
+      },
+      {
+        "titulo": "Mercado bursátil colombiano registra un alza de 28,76% en 2026, de acuerdo con estudio de SURA Investments",
+        "url": "https://www.dataifx.com/post/bolsa-colombiana-acumula-una-valorizacion-de-2876-en-2026-segun-analisis-de-sura-investments",
+        "resumen": "La bolsa colombiana completó septiembre con una valorización de 5,76% y acumula una rentabilidad de 28,76% en lo corrido de 2026, de acuerdo con el más reciente informe mensual de mercados de SURA Investments, que destacó el desempeño del mercado accionario local en un contexto de mayores presiones inflacionarias y un aumento de las tasas de interés por parte del Banco de la República",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bolsa colombiana acumula una valorización de 28,76% en 2026, según análisis de SURA Investments",
+        "capturado": "2026-10-15T19:12:17-05:00"
+      },
       {
         "titulo": "Emcali pide aval al Concejo de Cali para comprar la hidroeléctrica Salvajina",
         "url": "https://www.dataifx.com/post/emcali-busca-autorizacion-del-concejo-de-cali-para-adquirir-la-central-hidroelectrica-salvajina",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gremios piden avanzar del potencial de los yacimientos no convencionales a reservas de petróleo y gas",
         "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Cien años de soledad produjo más de $525.000 millones a la economía colombiana",
-        "url": "https://www.dataifx.com/post/cien-anos-de-soledad-genero-mas-de-525000-millones-la-economia-colombiana",
-        "resumen": "La serie Cien años de soledad, producción de Netflix basada en la obra de Gabriel García Márquez, dejó un impacto de más de $525",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cien años de soledad generó más de $525.000 millones a la economía colombiana",
-        "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Fondos de pensiones podrán aumentar sus inversiones externas al quitarse el tope global del 30 %",
-        "url": "https://www.dataifx.com/post/afp-podran-ampliar-sus-inversiones-en-el-exterior-tras-eliminacion-del-limite-global-del-30",
-        "resumen": "Las administradoras de fondos de pensiones podrán definir con mayor margen la composición de sus portafolios entre activos nacionales e internacionales luego de que el Gobierno Nacional expidiera el Decreto 1490 de 2026, mediante el cual eliminó el límite global del 30 % para las inversiones en activos del exterior que había sido establecido en abril de este año mediante el Decreto 0369 de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "AFP podrán ampliar sus inversiones en el exterior tras eliminación del límite global del 30 %",
-        "capturado": "2026-10-07T14:50:56-05:00"
       }
     ],
     "Macro Internacional": [
@@ -668,6 +668,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Ignacio Bravo quedará al frente de la gerencia general de Banco Falabella Colombia",
+        "url": "https://www.dataifx.com/post/ignacio-bravo-asumira-gerencia-general-de-banco-falabella-colombia",
+        "resumen": "La Junta Directiva de Banco Falabella Colombia designó a Ignacio Bravo Ithurbisquy como nuevo gerente general de la entidad en el país, en reemplazo de Rodrigo Sabugal Armijo, quien regresará a Chile para asumir la gerencia general corporativa de Seguros Falabella",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ignacio Bravo asumirá gerencia general de Banco Falabella Colombia",
+        "capturado": "2026-10-15T19:12:17-05:00"
+      },
+      {
+        "titulo": "GEB emitió $400.000 millones en papeles comerciales y puso en marcha plan por hasta $2,5 billones",
+        "url": "https://www.dataifx.com/post/geb-coloco-400000-millones-en-papeles-comerciales-y-activo-programa-de-emisiones-por-hasta-25",
+        "resumen": "El Grupo Energía Bogotá (GEB) anunció la colocación de $400",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "GEB colocó $400.000 millones en papeles comerciales y activó programa de emisiones por hasta $2,5 billones",
+        "capturado": "2026-10-15T19:12:17-05:00"
+      },
       {
         "titulo": "Feria laboral en Corferias en Bogotá ofrece más de 18000 puestos y cuenta con 180 compañías",
         "url": "https://www.dataifx.com/post/megaferia-de-empleo-de-bogota-reune-mas-de-18000-vacantes-y-180-empresas-en-corferias",
@@ -1096,26 +1116,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Analdex pide a la DIAN declarar contingencia tras fallas en servicios informáticos aduaneros",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Grupo SURA pone en marcha la ejecución de su plan de recompra de acciones",
-        "url": "https://www.dataifx.com/post/grupo-sura-inicia-ejecucion-de-su-programa-de-readquisicion-de-acciones",
-        "resumen": "Grupo de Inversiones Suramericana S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Grupo SURA inicia ejecución de su programa de readquisición de acciones",
-        "capturado": "2026-10-06T14:24:04-05:00"
-      },
-      {
-        "titulo": "Superfinanciera autoriza a Davivienda para asumir la actividad bancaria de Davibank",
-        "url": "https://www.dataifx.com/post/superfinanciera-da-luz-verde-davivienda-para-recibir-la-operacion-bancaria-de-davibank",
-        "resumen": "La Superintendencia Financiera de Colombia (SFC) autorizó una serie de operaciones corporativas que permitirán avanzar en la integración de los negocios de DAVIbank con distintas filiales del grupo financiero Davivienda Group S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Superfinanciera da luz verde a Davivienda para recibir la operación bancaria de Davibank",
         "capturado": "2026-10-06T14:24:04-05:00"
       }
     ],
