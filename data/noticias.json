@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-16T15:50:50-05:00",
+  "actualizado": "2026-10-16T19:15:44-05:00",
   "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
@@ -457,6 +457,16 @@
     ],
     "Macro Internacional": [
       {
+        "titulo": "Colombia volverá a recibir energía eléctrica desde Ecuador",
+        "url": "https://www.dataifx.com/post/ecuador-retomara-el-suministro-electrico-de-colombia",
+        "resumen": "Colombia reanudará las exportaciones de energía eléctrica a Ecuador, luego de la suspensión que se mantenía desde el 22 de enero de 2026 por las diferencias comerciales entre los dos países",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecuador retomará el suministro eléctrico de Colombia",
+        "capturado": "2026-10-16T19:15:44-05:00"
+      },
+      {
         "titulo": "El valor del Brent trepa más de un 3% y repara arriba de los US$109 por cada barril",
         "url": "https://www.dataifx.com/post/brent-sube-mas-de-3-y-supera-los-us109-por-barril",
         "resumen": "Los precios internacionales del petróleo cerraron la jornada con fuertes ganancias impulsados por las crecientes tensiones en Oriente Medio y nuevas preocupaciones sobre la seguridad del suministro energético mundial",
@@ -665,19 +675,29 @@
         "publicacion": "",
         "titulo_fuente": "Comité dividido en el Banco de Inglaterra: estabilidad de tasas pero alerta sobre respiro temporal",
         "capturado": "2026-09-17T08:17:54-05:00"
-      },
-      {
-        "titulo": "Tal como se preveía, la Reserva Federal incrementó sus tipos de interés",
-        "url": "https://www.dataifx.com/post/como-se-esperaba-reserva-federal-subio-sus-tasas-de-interes",
-        "resumen": "La Reserva Federal de Estados Unidos (Fed) decidió aumentar en 25 puntos básicos su tasa de interés de referencia, llevándola al rango de 3,75 % a 4 %, en lo que constituye el primer ajuste desde 2023",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "¡Como se esperaba! Reserva Federal subió sus tasas de interés",
-        "capturado": "2026-09-16T16:09:51-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Findeter coloca bonos ordinarios por $300.000 millones para financiar el progreso regional",
+        "url": "https://www.dataifx.com/post/findeter-emite-bonos-ordinarios-por-300000-millones-para-impulsar-desarrollo-de-regiones",
+        "resumen": "La Financiera de Desarrollo Territorial (Findeter) realizó una emisión de bonos ordinarios por $300",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Findeter emite bonos ordinarios por $300.000 millones para impulsar desarrollo de regiones",
+        "capturado": "2026-10-16T19:15:44-05:00"
+      },
+      {
+        "titulo": "Utilidades de la banca colombiana aumentaron 37,5% de enero a agosto",
+        "url": "https://www.dataifx.com/post/ganancias-de-bancos-en-colombia-crecieron-375-entre-enero-y-agosto",
+        "resumen": "Las utilidades de los bancos que operan en Colombia alcanzaron los $11,40 billones entre enero y agosto de 2026, consolidando una recuperación frente a los resultados observados un año atrás",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ganancias de bancos en Colombia crecieron 37,5% entre enero y agosto",
+        "capturado": "2026-10-16T19:15:44-05:00"
+      },
       {
         "titulo": "MinTrabajo plantea modificaciones a ocho decretos laborales e inicia participación ciudadana",
         "url": "https://www.dataifx.com/post/mintrabajo-propone-cambios-ocho-decretos-laborales-y-abre-consulta-publica",
@@ -1107,29 +1127,19 @@
         "publicacion": "",
         "titulo_fuente": "Bancolombia ajusta su oferta de cuentas de ahorro y nómina con planes desde $0 y esquema de descuentos",
         "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Colfecar objeta nuevo cobro al transporte de carga en Buenaventura por ausencia de soporte técnico",
-        "url": "https://www.dataifx.com/post/colfecar-cuestiona-nuevo-cargo-la-carga-en-buenaventura-por-falta-de-sustento-tecnico",
-        "resumen": "La Federación Colombiana de Transportadores de Carga por Carretera (Colfecar) solicitó suspender la implementación de un nuevo cobro establecido por la Alcaldía Distrital de Buenaventura para los vehículos que movilizan mercancías desde y hacia las terminales portuarias de la ciudad, al considerar que la medida podría aumentar los costos logísticos en uno de los principales corredores de comercio exterior del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colfecar cuestiona nuevo cargo a la carga en Buenaventura por falta de sustento técnico",
-        "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "ISA convoca asamblea extraordinaria para modificar estatutos y nombrar nueva junta directiva",
-        "url": "https://www.dataifx.com/post/isa-cita-asamblea-extraordinaria-para-reformar-estatutos-y-elegir-nueva-junta-directiva",
-        "resumen": "Interconexión Eléctrica S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA cita asamblea extraordinaria para reformar estatutos y elegir nueva junta directiva",
-        "capturado": "2026-10-07T14:50:56-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Wall Street borra sus ganancias y finaliza en negativo tras comunicado de la Fed",
+        "url": "https://www.dataifx.com/post/wall-street-revierte-ganancias-y-cierra-la-baja-tras-anuncio-de-la-fed",
+        "resumen": "Los principales índices bursátiles de Estados Unidos finalizaron la jornada con pérdidas, luego de que la Reserva Federal anunciara un aumento de su tasa de referencia en 25 puntos básicos, situándola en el rango de 3,75 % a 4 %",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Wall Street revierte ganancias y cierra a la baja tras anuncio de la Fed",
+        "capturado": "2026-10-16T19:15:44-05:00"
+      },
       {
         "titulo": "LATAM obtiene recursos por US$505 millones destinados a la ampliación y modernización de su flota",
         "url": "https://www.dataifx.com/post/latam-asegura-financiamiento-por-us505-millones-para-renovar-y-ampliar-su-flota",
@@ -1319,16 +1329,6 @@
         "publicacion": "",
         "titulo_fuente": "Warren Buffett deja presidencia de Berkshire Hathaway después de seis décadas",
         "capturado": "2026-09-18T11:13:41-05:00"
-      },
-      {
-        "titulo": "Bolsa de Nueva York anula sus alzas y termina en negativo por decisión de la Fed",
-        "url": "https://www.dataifx.com/post/wall-street-revierte-ganancias-y-cierra-la-baja-tras-anuncio-de-la-fed",
-        "resumen": "Los principales índices bursátiles de Estados Unidos finalizaron la jornada con pérdidas, luego de que la Reserva Federal anunciara un aumento de su tasa de referencia en 25 puntos básicos, situándola en el rango de 3,75 % a 4 %",
-        "autor": "",
-        "subseccion": "Acciones USA",
-        "publicacion": "",
-        "titulo_fuente": "Wall Street revierte ganancias y cierra a la baja tras anuncio de la Fed",
-        "capturado": "2026-09-16T16:09:51-05:00"
       }
     ]
   }
