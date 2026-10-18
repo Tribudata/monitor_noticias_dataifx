@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-18T10:43:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T13:33:34-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -645,16 +645,6 @@
         "publicacion": "",
         "titulo_fuente": "Trump advierte uso de fuerza militar en Latinoamérica si se afectan intereses de EE.UU.",
         "capturado": "2026-09-22T13:01:55-05:00"
-      },
-      {
-        "titulo": "El sector fabril de EE. UU. frena cuatro meses de expansión y decepciona el pronóstico",
-        "url": "https://www.dataifx.com/post/industria-estadounidense-interrumpe-cuatro-meses-de-crecimiento-y-decepciona-expectativas",
-        "resumen": "La producción industrial de Estados Unidos no registró crecimiento en agosto, tras haber aumentado un 0,2 % en julio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Industria estadounidense interrumpe cuatro meses de crecimiento y decepciona expectativas",
-        "capturado": "2026-09-18T11:13:41-05:00"
       }
     ],
     "Empresas Colombia": [
@@ -1111,6 +1101,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "Warren Buffett sale de la dirección de Berkshire Hathaway tras sesenta años",
+        "url": "https://www.dataifx.com/post/warren-buffett-deja-presidencia-de-berkshire-hathaway-despues-de-seis-decadas",
+        "resumen": "El empresario Warren Buffett, considerado uno de los inversionistas más influyentes del mundo, anunció su retiro de la presidencia de Berkshire Hathaway, el conglomerado que dirigió desde 1965",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Warren Buffett deja presidencia de Berkshire Hathaway después de seis décadas",
+        "capturado": "2026-10-18T13:33:34-05:00"
+      },
+      {
         "titulo": "Wall Street borra sus ganancias y finaliza en negativo tras comunicado de la Fed",
         "url": "https://www.dataifx.com/post/wall-street-revierte-ganancias-y-cierra-la-baja-tras-anuncio-de-la-fed",
         "resumen": "Los principales índices bursátiles de Estados Unidos finalizaron la jornada con pérdidas, luego de que la Reserva Federal anunciara un aumento de su tasa de referencia en 25 puntos básicos, situándola en el rango de 3,75 % a 4 %",
@@ -1299,16 +1299,6 @@
         "publicacion": "",
         "titulo_fuente": "Bold prepara expansión a Perú y fortalece su oferta en Colombia",
         "capturado": "2026-09-21T19:41:13-05:00"
-      },
-      {
-        "titulo": "Warren Buffett abandona la dirección de Berkshire Hathaway tras sesenta años",
-        "url": "https://www.dataifx.com/post/warren-buffett-deja-presidencia-de-berkshire-hathaway-despues-de-seis-decadas",
-        "resumen": "El empresario Warren Buffett, considerado uno de los inversionistas más influyentes del mundo, anunció su retiro de la presidencia de Berkshire Hathaway, el conglomerado que dirigió desde 1965",
-        "autor": "",
-        "subseccion": "Acciones USA",
-        "publicacion": "",
-        "titulo_fuente": "Warren Buffett deja presidencia de Berkshire Hathaway después de seis décadas",
-        "capturado": "2026-09-18T11:13:41-05:00"
       }
     ]
   }
