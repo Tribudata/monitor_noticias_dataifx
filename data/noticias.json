@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-18T23:14:54-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-19T07:48:24-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Ante el déficit de suministro, Ecopetrol impulsa el gas local y acelera la ejecución de Sirius",
+        "url": "https://www.dataifx.com/post/ecopetrol-prioriza-la-produccion-nacional-de-gas-y-acelera-el-desarrollo-de-sirius-ante-el-deficit",
+        "resumen": "Ecopetrol anunció que concentrará sus esfuerzos en fortalecer la producción nacional de gas natural y acelerar el desarrollo del proyecto Sirius y otros activos estratégicos, con el propósito de contribuir a cerrar el déficit de abastecimiento que enfrenta Colombia en el mediano plazo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol prioriza la producción nacional de gas y acelera el desarrollo de Sirius ante el déficit de abastecimiento",
+        "capturado": "2026-10-19T07:48:24-05:00"
+      },
       {
         "titulo": "La producción petrolera y de gas de GeoPark creció 2,6% durante el tercer trimestre de 2026",
         "url": "https://www.dataifx.com/post/geopark-aumento-26-su-produccion-de-petroleo-y-gas-en-el-tercer-trimestre-de-2026",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Ingresos de ciudades de Asocapitales crecieron 17,1% en el primer semestre de 2026",
-        "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "FENALCO solicita al Consejo de Estado tumbar el decreto que estableció en 23 % el alza del salario mínimo",
-        "url": "https://www.dataifx.com/post/fenalco-pide-al-consejo-de-estado-anular-decreto-que-fijo-en-23-el-aumento-del-salario-minimo-de",
-        "resumen": "La Federación Nacional de Comerciantes Empresarios (FENALCO) presentó ante el Consejo de Estado sus alegatos de conclusión dentro del proceso en el que solicita la nulidad del Decreto 1469 de 2025, mediante el cual el Gobierno anterior estableció un incremento de 23 % para el salario mínimo de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FENALCO pide al Consejo de Estado anular decreto que fijó en 23 % el aumento del salario mínimo de 2026",
         "capturado": "2026-10-08T12:19:39-05:00"
       }
     ],
