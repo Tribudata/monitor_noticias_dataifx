@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-19T14:45:39-05:00",
+  "actualizado": "2026-10-19T18:30:26-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda defiende el Presupuesto 2027 y avisa que mantener la ruta actual conduciría a una grave crisis",
+        "url": "https://www.dataifx.com/post/minhacienda-defiende-presupuesto-2027-y-advierte-que-seguir-rumbo-actual-llevaria-al-pais-una",
+        "resumen": "El ministro de Hacienda, Miguel Gómez, advirtió ante la plenaria del Senado que Colombia podría enfrentar una crisis de pago y dificultades para financiar servicios esenciales del Estado si no se adoptan medidas para corregir el creciente desbalance de las finanzas públicas y no avanza la discusión del Presupuesto General de la Nación (PGN) para 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda defiende Presupuesto 2027 y advierte que seguir rumbo actual llevaría al país a una crisis profunda",
+        "capturado": "2026-10-19T18:30:26-05:00"
+      },
       {
         "titulo": "El desempeño de la economía nacional cayó en agosto",
         "url": "https://www.dataifx.com/post/actividad-de-economia-colombiana-se-contrajo-en-agosto",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno coordina controles en Puerto Antioquia para reducir tiempos de exportación",
         "capturado": "2026-10-09T00:42:53-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo presenta al Ejecutivo guía con sugerencias sobre tributación, sanidad, orden y energía",
-        "url": "https://www.dataifx.com/post/fedesarrollo-entrega-al-gobierno-hoja-de-ruta-con-recomendaciones-en-fiscalidad-salud-seguridad-y",
-        "resumen": "Fedesarrollo presentó al Gobierno nacional una serie de propuestas de política pública para el período 2026-2030, con recomendaciones dirigidas a atender desafíos en materia fiscal, seguridad, justicia, salud, educación, energía, lucha contra la corrupción y licenciamiento ambiental",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fedesarrollo entrega al Gobierno hoja de ruta con recomendaciones en fiscalidad, salud, seguridad y energía",
-        "capturado": "2026-10-09T00:42:53-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Campetrol calcula que hidrocarburos aportarían 695 billones a Colombia al 2050",
+        "url": "https://www.dataifx.com/post/campetrol-proyecta-que-petroleo-y-gas-podrian-generar-695-billones-para-colombia-hasta-2050",
+        "resumen": "Colombia podría recibir hasta $695 billones en ingresos fiscales provenientes de la actividad petrolera y gasífera entre 2025 y 2050, dependiendo de las decisiones que adopte en materia de exploración, producción e inversión energética",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Campetrol proyecta que petróleo y gas podrían generar $695 billones para Colombia hasta 2050",
+        "capturado": "2026-10-19T18:30:26-05:00"
+      },
+      {
+        "titulo": "Asociaciones de petróleo sugieren quitar sobretasa de renta en Ley de Rescate para fomentar inversión",
+        "url": "https://www.dataifx.com/post/gremios-petroleros-proponen-eliminar-la-sobretasa-de-renta-en-la-ley-de-rescate-para-impulsar-la",
+        "resumen": "Mientras avanza en el Congreso la discusión de la denominada Ley de Rescate, iniciativa con la que el Gobierno busca realizar un ajuste fiscal equivalente al 2,2% del PIB, varios gremios de la industria de hidrocarburos presentaron una serie de propuestas orientadas a incentivar la inversión y aumentar la producción de petróleo y gas en el país",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Gremios petroleros proponen eliminar la sobretasa de renta en la Ley de Rescate para impulsar la inversión",
+        "capturado": "2026-10-19T18:30:26-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda de Bogotá supera falla tecnológica y otorga plazo extra a afectados",
+        "url": "https://www.dataifx.com/post/hacienda-bogota-levanta-contingencia-en-plataforma-y-da-dia-adicional-contribuyentes-afectados",
+        "resumen": "La Secretaría de Hacienda de Bogotá informó que levantó la contingencia tecnológica que había sido declarada el pasado 15 de octubre debido a fallas en la plataforma utilizada para la presentación de información exógena",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Hacienda Bogotá levanta contingencia en plataforma y da día adicional a contribuyentes afectados",
+        "capturado": "2026-10-19T18:30:26-05:00"
+      },
       {
         "titulo": "Ventas externas de café nacional bajaron 13,8% a septiembre debido a menor envío y alza del peso",
         "url": "https://www.dataifx.com/post/exportaciones-de-cafe-colombiano-cayeron-138-hasta-septiembre-por-menores-despachos-y-revaluacion",
@@ -1067,39 +1097,19 @@
         "publicacion": "",
         "titulo_fuente": "Bancolombia participa en financiación para compra de activos renovables de ISAGEN",
         "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Rappi Turbo recibe el primer suplemento nacional elaborado con inteligencia artificial",
-        "url": "https://www.dataifx.com/post/primera-linea-colombiana-de-suplementos-creada-con-ia-llega-rappi-turbo",
-        "resumen": "La compañía Jungle Labspresentó oficialmente su nueva línea de nutrición funcional diaria, disponible de manera exclusiva a través de Rappi Turbo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Primera línea colombiana de suplementos creada con IA llega a Rappi Turbo",
-        "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Julio César Aldana Bula asume la dirección de Positiva",
-        "url": "https://www.dataifx.com/post/julio-cesar-aldana-bula-llega-la-presidencia-de-positiva",
-        "resumen": "El Ministerio de Hacienda anunció la llegada de Julio César Aldana Bula a la Presidencia de Positiva, entidad aseguradora vinculada al sector público",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Julio César Aldana Bula llega a la presidencia de Positiva",
-        "capturado": "2026-10-08T03:43:58-05:00"
-      },
-      {
-        "titulo": "Santiago Pardo asumió la presidencia ejecutiva de Analdex tras la aceptación de la dimisión de Javier Díaz por la junta",
-        "url": "https://www.dataifx.com/post/junta-directiva-de-analdex-acepto-la-renuncia-de-javier-diaz-y-designo-santiago-pardo-como-nuevo",
-        "resumen": "La Junta Directiva de la Asociación Nacional de Comercio Exterior (Analdex) aceptó la renuncia de Javier Díaz Molina a la Presidencia Ejecutiva del gremio, cargo que ocupó desde 1997",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Junta Directiva de Analdex aceptó la renuncia de Javier Díaz y designó a Santiago Pardo como nuevo presidente ejecutivo",
-        "capturado": "2026-10-07T19:06:41-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Elon Musk propone dar una acción de SpaceX a cada menor de edad en Estados Unidos",
+        "url": "https://www.dataifx.com/post/elon-musk-plantea-entregar-una-accion-de-spacex-cada-menor-de-edad-en-eeuu",
+        "resumen": "Elon Musk, fundador y principal accionista de SpaceX, anunció que tiene la intención de entregar una acción de la compañía a cada niño y adolescente menor de 18 años en Estados Unidos a partir del próximo año, una propuesta que, de concretarse, se convertiría en una de las mayores transferencias de patrimonio privado realizadas a gran escala",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Elon Musk plantea entregar una acción de SpaceX a cada menor de edad en EE.UU.",
+        "capturado": "2026-10-19T18:30:26-05:00"
+      },
       {
         "titulo": "Warren Buffett sale de la dirección de Berkshire Hathaway tras sesenta años",
         "url": "https://www.dataifx.com/post/warren-buffett-deja-presidencia-de-berkshire-hathaway-despues-de-seis-decadas",
