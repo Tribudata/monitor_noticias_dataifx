@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-19T07:48:24-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-19T14:45:39-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El desempeño de la economía nacional cayó en agosto",
+        "url": "https://www.dataifx.com/post/actividad-de-economia-colombiana-se-contrajo-en-agosto",
+        "resumen": "La actividad económica de Colombia registró una variación anual de -0,04% en agosto de 2026, según el Indicador de Seguimiento a la Economía (ISE) publicado por el DANE",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Actividad de economía colombiana se contrajo en agosto",
+        "capturado": "2026-10-19T14:45:39-05:00"
+      },
+      {
+        "titulo": "DIAN lanza remate virtual de alhajas, gemas y relojes hasta el 23 de octubre",
+        "url": "https://www.dataifx.com/post/dian-abre-subasta-virtual-de-joyas-piedras-preciosas-y-relojes-hasta-el-23-de-octubre",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) abrió una subasta pública virtual de joyas, metales preciosos, piedras preciosas y relojes, que se llevará a cabo entre el lunes 19 y el viernes 23 de octubre de 2026 a través de El Martillo del Banco Popular",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "DIAN abre subasta virtual de joyas, piedras preciosas y relojes hasta el 23 de octubre",
+        "capturado": "2026-10-19T14:45:39-05:00"
+      },
+      {
+        "titulo": "Ecopetrol rechazó propuestas para traer gas por temas comerciales y prioriza obras locales",
+        "url": "https://www.dataifx.com/post/ecopetrol-descarto-ofertas-para-importar-gas-por-condiciones-comerciales-y-acelera-proyectos",
+        "resumen": "Ecopetrol anunció que concentrará sus esfuerzos en fortalecer la producción nacional de gas natural y acelerar el desarrollo del proyecto Sirius y otros activos estratégicos, con el propósito de contribuir a cerrar el déficit de abastecimiento que enfrenta Colombia en el mediano plazo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol descartó ofertas para importar gas por condiciones comerciales y acelera proyectos nacionales",
+        "capturado": "2026-10-19T14:45:39-05:00"
+      },
       {
         "titulo": "Ante el déficit de suministro, Ecopetrol impulsa el gas local y acelera la ejecución de Sirius",
         "url": "https://www.dataifx.com/post/ecopetrol-prioriza-la-produccion-nacional-de-gas-y-acelera-el-desarrollo-de-sirius-ante-el-deficit",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Fedesarrollo entrega al Gobierno hoja de ruta con recomendaciones en fiscalidad, salud, seguridad y energía",
         "capturado": "2026-10-09T00:42:53-05:00"
-      },
-      {
-        "titulo": "MinTrabajo abre espacio técnico para vigilar la situación laboral tras liquidarse el MinIgualdad",
-        "url": "https://www.dataifx.com/post/mintrabajo-instala-mesa-tecnica-para-seguimiento-laboral-en-liquidacion-del-ministerio-de-igualdad",
-        "resumen": "El Ministerio del Trabajo informó que acompaña el proceso de liquidación del Ministerio de Igualdad y Equidad, con el objetivo de asegurar el respeto de los derechos laborales de los servidores públicos vinculados a esa entidad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinTrabajo instala mesa técnica para seguimiento laboral en liquidación del Ministerio de Igualdad",
-        "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "SEN y GASNOVA instruyen a 112 comerciantes callejeros de comida de Bogotá sobre uso seguro del GLP",
-        "url": "https://www.dataifx.com/post/gasnova-y-sena-capacitan-112-vendedores-informales-de-alimentos-en-bogota-en-manejo-seguro-del-glp",
-        "resumen": "La Asociación Colombiana de GLP (GASNOVA), el Servicio Nacional de Aprendizaje (SENA) y la compañía Empresas Gasco – Unigas / Vidagas capacitaron a 112 vendedores informales de alimentos de Bogotá que utilizan cilindros de gas licuado de petróleo (GLP) como parte de sus actividades comerciales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "GASNOVA y SENA capacitan a 112 vendedores informales de alimentos en Bogotá en manejo seguro del GLP",
-        "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Facturación de capitales asociadas subió 17,1% durante el primer semestre de 2026",
-        "url": "https://www.dataifx.com/post/ingresos-de-ciudades-de-asocapitales-crecieron-171-en-el-primer-semestre-de-2026",
-        "resumen": "Los ingresos de las ciudades asociadas a la Asociación Colombiana de Ciudades Capitales (Asocapitales) alcanzaron cerca de $52,4 billones durante el primer semestre de 2026, lo que representa un crecimiento de 17,1% frente al mismo periodo de 2025",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ingresos de ciudades de Asocapitales crecieron 17,1% en el primer semestre de 2026",
-        "capturado": "2026-10-08T12:19:39-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Ventas externas de café nacional bajaron 13,8% a septiembre debido a menor envío y alza del peso",
+        "url": "https://www.dataifx.com/post/exportaciones-de-cafe-colombiano-cayeron-138-hasta-septiembre-por-menores-despachos-y-revaluacion",
+        "resumen": "Las exportaciones de café colombiano acumularon una caída de 13,8% entre enero y septiembre de 2026, en un contexto marcado por menores despachos al exterior, la apreciación del peso frente al dólar y mayores costos operativos para las empresas del sector, según cifras divulgadas por la Asociación Nacional de Exportadores de Café de Colombia (Asoexport)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de café colombiano cayeron 13,8% hasta septiembre por menores despachos y revaluación del peso",
+        "capturado": "2026-10-19T14:45:39-05:00"
+      },
+      {
+        "titulo": "Cámara de Comercio de Montería procura alianza con Brasil para impulsar el agro cordobés",
+        "url": "https://www.dataifx.com/post/camara-de-comercio-de-monteria-busca-cooperacion-en-brasil-para-fortalecer-el-agro-de-cordoba",
+        "resumen": "La Cámara de Comercio de Montería firma un memorando de cooperación con el Instituto de Pesquisas Energéticas Nucleares (IPEN), de Brasil, para identificar oportunidades de formación, intercambio técnico y transferencia de conocimiento que contribuyan al fortalecimiento del sector agropecuario de Córdoba",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cámara de Comercio de Montería busca cooperación en Brasil para fortalecer el agro de Córdoba",
+        "capturado": "2026-10-19T14:45:39-05:00"
+      },
       {
         "titulo": "Findeter coloca bonos ordinarios por $300.000 millones para financiar el progreso regional",
         "url": "https://www.dataifx.com/post/findeter-emite-bonos-ordinarios-por-300000-millones-para-impulsar-desarrollo-de-regiones",
@@ -1077,26 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Junta Directiva de Analdex aceptó la renuncia de Javier Díaz y designó a Santiago Pardo como nuevo presidente ejecutivo",
         "capturado": "2026-10-07T19:06:41-05:00"
-      },
-      {
-        "titulo": "Juan Valdez repartió más de 13.000 tazas de café tras jornada por el Día Internacional del Café",
-        "url": "https://www.dataifx.com/post/juan-valdez-entrego-mas-de-13000-tazas-de-cafe-tras-campana-por-el-dia-internacional-del-cafe",
-        "resumen": "En el marco de la conmemoración del Día Internacional del Café, la marca Juan Valdez desarrolló una iniciativa en redes sociales que convirtió las interacciones de usuarios en entregas de café en diferentes países",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Juan Valdez entregó más de 13.000 tazas de café tras campaña por el Día Internacional del Café",
-        "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "Bancolombia modifica su portafolio de cuentas de ahorro y nómina con opciones desde $0 y rebajas",
-        "url": "https://www.dataifx.com/post/bancolombia-ajusta-su-oferta-de-cuentas-de-ahorro-y-nomina-con-planes-desde-0-y-esquema-de",
-        "resumen": "anunció cambios en su oferta de cuentas de ahorro y nómina mediante un nuevo modelo de suscripción que incluye alternativas sin costo mensual y un esquema de descuentos para algunos planes, condicionado al uso de determinados servicios financieros de la entidad",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia ajusta su oferta de cuentas de ahorro y nómina con planes desde $0 y esquema de descuentos",
-        "capturado": "2026-10-07T14:50:56-05:00"
       }
     ],
     "Empresas Internacional": [
