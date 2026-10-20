@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-20T06:18:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-20T11:42:45-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "BBVA habilitará pagos y giros en Bre-B usando el saldo de la tarjeta de crédito",
+        "url": "https://www.dataifx.com/post/bbva-permitira-hacer-pagos-y-transferencias-por-bre-b-con-el-cupo-de-la-tarjeta-de-credito",
+        "resumen": "BBVA incorporará una nueva alternativa para realizar pagos y transferencias mediante Bre-B, el sistema de pagos inmediatos en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BBVA permitirá hacer pagos y transferencias por Bre-B con el cupo de la tarjeta de crédito",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
+      {
+        "titulo": "Las órdenes de almuerzos corrientes por Rappi subieron 160% en 2026 y pasaron de 660.000",
+        "url": "https://www.dataifx.com/post/los-pedidos-de-corrientazos-por-rappi-crecieron-160-en-2026-y-superaron-los-660000",
+        "resumen": "El corrientazo, una de las opciones habituales de almuerzo en Colombia, amplió su presencia en las plataformas digitales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Los pedidos de corrientazos por Rappi crecieron 160% en 2026 y superaron los 660.000",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
+      {
+        "titulo": "Petróleo Brent pasa de US$111 por barril por la subida de tensiones en Medio Oriente",
+        "url": "https://www.dataifx.com/post/petroleo-brent-supera-los-us111-por-barril-ante-el-aumento-de-las-tensiones-en-medio-oriente",
+        "resumen": "Los precios internacionales del petróleo registraron alzas este martes, en medio del aumento de las tensiones en Medio Oriente y de la preocupación de los mercados por posibles interrupciones en el suministro de crudo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Petróleo Brent supera los US$111 por barril ante el aumento de las tensiones en Medio Oriente",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
+      {
+        "titulo": "Compañías de seguros han desembolsado más de $913.000 millones por sismo en Colombia",
+        "url": "https://www.dataifx.com/post/aseguradoras-han-pagado-mas-de-913000-millones-por-danos-del-terremoto-en-colombia",
+        "resumen": "Las compañías de seguros que atienden las reclamaciones relacionadas con el terremoto del pasado 10 de agosto han pagado $913",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras han pagado más de $913.000 millones por daños del terremoto en Colombia",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
       {
         "titulo": "El Senado progresa en la adopción del Presupuesto 2027 a la vez que continúa la discusión fiscal",
         "url": "https://www.dataifx.com/post/senado-avanza-en-aprobacion-de-presupuesto-2027-mientras-persiste-debate-sobre-situacion-fiscal",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "OP Gold Capital firma dos contratos de exploración de cobre en la Ronda Minera de la ANM",
         "capturado": "2026-10-09T14:23:43-05:00"
-      },
-      {
-        "titulo": "Gremca alcanza balance negativo de emisiones al fabricar aceite de palma",
-        "url": "https://www.dataifx.com/post/gremca-obtiene-balance-negativo-de-emisiones-en-su-produccion-de-aceite-de-palma",
-        "resumen": "Gremca, Agricultura y Energía Sostenible S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gremca obtiene balance negativo de emisiones en su producción de aceite de palma",
-        "capturado": "2026-10-09T14:23:43-05:00"
-      },
-      {
-        "titulo": "Comercio de casas nuevas en Colombia suma retroceso de 11,7% en 2026",
-        "url": "https://www.dataifx.com/post/ventas-de-vivienda-nueva-en-colombia-acumulan-caida-de-117-en-2026",
-        "resumen": "La actividad de vivienda en Colombia continúa mostrando señales de desaceleración durante 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ventas de vivienda nueva en Colombia acumulan caída de 11,7% en 2026",
-        "capturado": "2026-10-09T14:23:43-05:00"
-      },
-      {
-        "titulo": "Colombia finalizó el periodo cafetero 2025/26 con un descenso de 15% en la cosecha",
-        "url": "https://www.dataifx.com/post/colombia-cerro-el-ano-cafetero-202526-con-una-caida-de-15-en-la-produccion",
-        "resumen": "La producción de café en Colombia cerró el año cafetero 2025/26 con una reducción de 15%, de acuerdo con las cifras divulgadas por la Federación Nacional de Cafeteros (FNC)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia cerró el año cafetero 2025/26 con una caída de 15% en la producción",
-        "capturado": "2026-10-09T14:23:43-05:00"
-      },
-      {
-        "titulo": "Ideam anuncia formalmente el fenómeno de El Niño en Colombia y el Ejecutivo da plazo a regiones hasta noviembre",
-        "url": "https://www.dataifx.com/post/ideam-declara-oficialmente-el-fenomeno-de-el-nino-en-colombia-gobierno-fija-plazo-hasta-noviembre",
-        "resumen": "El Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) declaró oficialmente la presencia del fenómeno de El Niño en Colombia, luego de identificar condiciones oceánicas que cumplen los criterios técnicos establecidos para confirmar el evento climático",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ideam declara oficialmente el fenómeno de El Niño en Colombia: Gobierno fija plazo hasta noviembre para preparar los territorios",
-        "capturado": "2026-10-09T14:23:43-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Superfinanciera da luz verde a Kapital para fundar entidad de financiamiento empresarial",
+        "url": "https://www.dataifx.com/post/superfinanciera-autoriza-kapital-crear-una-compania-de-financiamiento-para-empresas",
+        "resumen": "La Superintendencia Financiera de Colombia autorizó la constitución de Kapital Colombia S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superfinanciera autoriza a Kapital crear una compañía de financiamiento para empresas",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
+      {
+        "titulo": "MinTrabajo implementa iniciativa que dará un cuarto de salario mínimo por cada empleo formal",
+        "url": "https://www.dataifx.com/post/mintrabajo-lanza-programa-que-entregara-25-de-un-salario-minimo-por-cada-nuevo-empleo-formal",
+        "resumen": "El Ministerio del Trabajo anunció la puesta en marcha de “Crea Empleo”, una estrategia que busca estimular la generación de nuevos puestos de trabajo formal mediante incentivos económicos dirigidos a empresas que amplíen sus nóminas con nuevos trabajadores",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "MinTrabajo lanza programa que entregará 25% de un salario mínimo por cada nuevo empleo formal",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
+      {
+        "titulo": "Clientes de EPM tendrán opciones de pago fraccionado y financiación para sus obligaciones",
+        "url": "https://www.dataifx.com/post/usuarios-de-epm-podran-acceder-planes-de-financiacion-y-pagos-parciales-para-sus-deudas",
+        "resumen": "Los usuarios y clientes de EPM que tengan financiaciones con intereses calculados a partir de la DTF deberán prepararse para un cambio en la metodología utilizada para determinar esos cobros",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Usuarios de EPM podrán acceder a planes de financiación y pagos parciales para sus deudas",
+        "capturado": "2026-10-20T11:42:45-05:00"
+      },
       {
         "titulo": "ISA comunica la salida de su directora de Riesgos y nombra un reemplazo temporal mientras sigue la selección",
         "url": "https://www.dataifx.com/post/isa-anuncia-salida-de-directora-de-riesgos-y-designa-encargado-mientras-avanza-proceso-de-seleccion",
@@ -1067,36 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Minagricultura solicita a la banca flexibilizar créditos para arroceros de Casanare",
         "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "ANDI alerta del efecto económico de nueva tarifa en Buenaventura",
-        "url": "https://www.dataifx.com/post/andi-advierte-sobre-impacto-economico-de-nuevo-cobro-en-buenaventura",
-        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI)expresó su preocupación frente al Decreto Distrital 0338 de 2026, expedido en Buenaventura, que establece un cobro de $4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDI advierte sobre impacto económico de nuevo cobro en Buenaventura",
-        "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "Altia multiplica por dos su capacidad instalada al comprar cinco activos renovables de ISAGEN",
-        "url": "https://www.dataifx.com/post/altia-duplica-su-capacidad-instalada-tras-adquirir-cinco-activos-renovables-de-isagen",
-        "resumen": "Altia Energy e ISAGEN anunciaron el cierre de una operación mediante la cual la primera adquiere cinco activos de generación renovable que formaban parte del portafolio de ISAGEN, una transacción que incorpora 219 megavatios (MW) de capacidad instalada a Altia y modifica la composición de su negocio de generación eléctrica en Colombia",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Altia duplica su capacidad instalada tras adquirir cinco activos renovables de ISAGEN",
-        "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "Aumento de 11,5% en los viajes de colombianos al extranjero de enero a agosto",
-        "url": "https://www.dataifx.com/post/salidas-de-colombianos-al-exterior-crecen-115-entre-enero-y-agosto",
-        "resumen": "El crecimiento del turismo y el aumento en la movilidad de viajeros han llevado a la Asociación Colombiana de Agencias de Viajes y Turismo (ANATO) a plantear la necesidad de avanzar hacia una mayor cultura de prevención frente a los riesgos que enfrentan tanto los turistas como las empresas del sector",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Salidas de colombianos al exterior crecen 11,5% entre enero y agosto",
-        "capturado": "2026-10-08T12:19:39-05:00"
       }
     ],
     "Empresas Internacional": [
