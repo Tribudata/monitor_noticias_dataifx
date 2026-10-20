@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-20T11:42:45-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-20T16:28:22-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Congreso dio luz verde al Presupuesto General de la Nación para 2027 por 634,95 billones de pesos",
+        "url": "https://www.dataifx.com/post/congreso-aprobo-el-presupuesto-general-de-la-nacion-de-2027-por-63495-billones",
+        "resumen": "El Congreso de la República aprobó el Presupuesto General de la Nación (PGN) para la vigencia fiscal de 2027, por $634,95 billones, luego de más de 12 horas de debate",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Congreso aprobó el Presupuesto General de la Nación de 2027 por $634,95 billones",
+        "capturado": "2026-10-20T16:28:22-05:00"
+      },
       {
         "titulo": "BBVA habilitará pagos y giros en Bre-B usando el saldo de la tarjeta de crédito",
         "url": "https://www.dataifx.com/post/bbva-permitira-hacer-pagos-y-transferencias-por-bre-b-con-el-cupo-de-la-tarjeta-de-credito",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "MinComercio anuncia línea de crédito por $20.000 millones para apoyar recuperación económica del Quindío",
         "capturado": "2026-10-09T18:56:28-05:00"
-      },
-      {
-        "titulo": "OP Gold Capital suscribe dos acuerdos de búsqueda de cobre dentro de la Ronda Minera de la ANM",
-        "url": "https://www.dataifx.com/post/op-gold-capital-firma-dos-contratos-de-exploracion-de-cobre-en-la-ronda-minera-de-la-anm",
-        "resumen": "OP Gold Capital, compañía perteneciente al grupo OPG, suscribió dos contratos de exploración de cobre correspondientes a los bloques 2 y 3 de la Ronda Minera de Cobre, un proceso adelantado por la Agencia Nacional de Minería (ANM) que comenzó en diciembre de 2025",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "OP Gold Capital firma dos contratos de exploración de cobre en la Ronda Minera de la ANM",
-        "capturado": "2026-10-09T14:23:43-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Finagro señala subida del 33% en créditos al campo a septiembre y el Banco Agrario alza colocaciones",
+        "url": "https://www.dataifx.com/post/finagro-reporta-aumento-de-33-en-credito-agropecuario-septiembre-y-banco-agrario-eleva-desembolsos",
+        "resumen": "El crédito agropecuario continuó mostrando un crecimiento durante septiembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Finagro reporta aumento de 33% en crédito agropecuario a septiembre y Banco Agrario eleva desembolsos",
+        "capturado": "2026-10-20T16:28:22-05:00"
+      },
+      {
+        "titulo": "Presto seguirá funcionando de manera provisional mientras avanza su cierre y mira posible venta",
+        "url": "https://www.dataifx.com/post/presto-mantendra-operaciones-temporales-mientras-avanza-proceso-de-liquidacion-y-explora-eventual",
+        "resumen": "La cadena de restaurantes Presto continuará operando de manera temporal pese a encontrarse en proceso de liquidación judicial, luego de que la Superintendencia de Sociedades autorizara la suspensión provisional de algunos de los efectos asociados a ese procedimiento, según documentos conocidos por Noticias Caracol",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presto mantendrá operaciones temporales mientras avanza proceso de liquidación y explora eventual venta",
+        "capturado": "2026-10-20T16:28:22-05:00"
+      },
       {
         "titulo": "Superfinanciera da luz verde a Kapital para fundar entidad de financiamiento empresarial",
         "url": "https://www.dataifx.com/post/superfinanciera-autoriza-kapital-crear-una-compania-de-financiamiento-para-empresas",
@@ -1077,26 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno y Mazda inician conversaciones para evaluar nuevas inversiones en Colombia",
         "capturado": "2026-10-09T00:42:53-05:00"
-      },
-      {
-        "titulo": "Peligran US$27.000 millones de comercio exterior por sobretasa a la carga en Buenaventura",
-        "url": "https://www.dataifx.com/post/en-riesgo-us27000-millones-en-comercio-exterior-por-sobretasa-la-carga-en-buenaventura",
-        "resumen": "La Asociación Nacional de Comercio Exterior (Analdex) advirtió sobre las implicaciones económicas del Decreto Distrital 0338 de 2026, expedido por la Alcaldía de Buenaventura, que fija un cobro de $4",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "En riesgo US$27.000 millones en comercio exterior por sobretasa a la carga en Buenaventura",
-        "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "Minagricultura pide a la banca facilitar créditos para arroceros de Casanare",
-        "url": "https://www.dataifx.com/post/minagricultura-solicita-la-banca-flexibilizar-creditos-para-arroceros-de-casanare",
-        "resumen": "El Ministerio de Agricultura y Desarrollo Rural envió una carta a la Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria) en la que pidió apoyo para el reperfilamiento de los créditos de los productores arroceros de Casanare, afectados por las inundaciones de este año",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Minagricultura solicita a la banca flexibilizar créditos para arroceros de Casanare",
-        "capturado": "2026-10-08T18:11:45-05:00"
       }
     ],
     "Empresas Internacional": [
