@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-19T18:30:26-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-19T23:26:33-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Senado progresa en la adopción del Presupuesto 2027 a la vez que continúa la discusión fiscal",
+        "url": "https://www.dataifx.com/post/senado-avanza-en-aprobacion-de-presupuesto-2027-mientras-persiste-debate-sobre-situacion-fiscal",
+        "resumen": "La plenaria del Senado dio un nuevo paso en la discusión del Presupuesto General de la Nación (PGN) para 2027 al aprobar un primer bloque de 65 artículos que no tenían proposiciones pendientes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Senado avanza en aprobación de Presupuesto 2027 mientras persiste debate sobre situación fiscal",
+        "capturado": "2026-10-19T23:26:33-05:00"
+      },
       {
         "titulo": "MinHacienda defiende el Presupuesto 2027 y avisa que mantener la ruta actual conduciría a una grave crisis",
         "url": "https://www.dataifx.com/post/minhacienda-defiende-presupuesto-2027-y-advierte-que-seguir-rumbo-actual-llevaria-al-pais-una",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Ideam declara oficialmente el fenómeno de El Niño en Colombia: Gobierno fija plazo hasta noviembre para preparar los territorios",
         "capturado": "2026-10-09T14:23:43-05:00"
-      },
-      {
-        "titulo": "El Gobierno alinea supervisiones en Puerto Antioquia para acortar plazos de salida al exterior",
-        "url": "https://www.dataifx.com/post/gobierno-coordina-controles-en-puerto-antioquia-para-reducir-tiempos-de-exportacion",
-        "resumen": "El Ministerio de Comercio, Industria y Turismo anunció una estrategia de coordinación institucional en Puerto Antioquia con el objetivo de hacer más eficiente el proceso de exportación de mercancías desde esta terminal portuaria",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno coordina controles en Puerto Antioquia para reducir tiempos de exportación",
-        "capturado": "2026-10-09T00:42:53-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "ISA comunica la salida de su directora de Riesgos y nombra un reemplazo temporal mientras sigue la selección",
+        "url": "https://www.dataifx.com/post/isa-anuncia-salida-de-directora-de-riesgos-y-designa-encargado-mientras-avanza-proceso-de-seleccion",
+        "resumen": "La compañía Interconexión Eléctrica S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA anuncia salida de directora de Riesgos y designa encargado mientras avanza proceso de selección",
+        "capturado": "2026-10-19T23:26:33-05:00"
+      },
       {
         "titulo": "Campetrol calcula que hidrocarburos aportarían 695 billones a Colombia al 2050",
         "url": "https://www.dataifx.com/post/campetrol-proyecta-que-petroleo-y-gas-podrian-generar-695-billones-para-colombia-hasta-2050",
@@ -1086,16 +1096,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Salidas de colombianos al exterior crecen 11,5% entre enero y agosto",
-        "capturado": "2026-10-08T12:19:39-05:00"
-      },
-      {
-        "titulo": "Bancolombia interviene en el crédito para adquirir activos verdes de ISAGEN",
-        "url": "https://www.dataifx.com/post/bancolombia-participa-en-financiacion-para-compra-de-activos-renovables-de-isagen",
-        "resumen": "Bancolombia hizo parte de una estructura de financiación que permitió a Altia adquirir un portafolio de generación de energía renovable que pertenecía a ISAGEN, en una operación valorada en $1,29 billones y desarrollada bajo la modalidad de project finance",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia participa en financiación para compra de activos renovables de ISAGEN",
         "capturado": "2026-10-08T12:19:39-05:00"
       }
     ],
