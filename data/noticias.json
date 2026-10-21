@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-21T08:39:03-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-21T13:31:23-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Bancolombia proyecta destinar mínimo un billón de pesos al año a energía y crecer en ese mercado",
+        "url": "https://www.dataifx.com/post/bancolombia-preve-invertir-al-menos-1-billon-anual-en-activos-energeticos-y-ampliar-su",
+        "resumen": "Bancolombia contempla destinar al menos $1 billón anual a activos energéticos en los que participe como accionista, a través de su negocio Renta y Uso, una estrategia con la que busca ampliar su presencia en el sector más allá de la financiación tradicional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia prevé invertir al menos $1 billón anual en activos energéticos y ampliar su participación en el sector",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
+      {
+        "titulo": "Nuevos proyectos de almacenamiento energético en Colombia enfrentan desafíos en normas y créditos",
+        "url": "https://www.dataifx.com/post/almacenamiento-de-energia-en-colombia-regulacion-y-financiacion-los-retos-para-desarrollar-nuevos",
+        "resumen": "El almacenamiento de energía y su papel en la operación del sistema eléctrico colombiano fueron los ejes de un evento organizado por Unergy en Bucaramanga, en el que estuvo presente DataiFX",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Almacenamiento de energía en Colombia: regulación y financiación, los retos para desarrollar nuevos proyectos",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
+      {
+        "titulo": "Fedesarrollo señala que expertos elevan su pronóstico de tasas de interés para diciembre de 2026",
+        "url": "https://www.dataifx.com/post/analistas-aumentan-expectativa-de-tasas-para-diciembre-de-2026-fedesarrollo",
+        "resumen": "Las expectativas de los analistas del mercado financiero apuntan a un escenario de crecimiento económico estable para Colombia hacia finales de 2026, aunque acompañado de mayores proyecciones de inflación, tasas de interés más altas y un dólar ligeramente más fuerte frente a lo previsto un mes atrás",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Analistas aumentan expectativa de tasas para diciembre de 2026: Fedesarrollo",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
+      {
+        "titulo": "Administración nacional expedirá presupuesto de 2027 por 634,9 billones y lanza plan fiscal",
+        "url": "https://www.dataifx.com/post/gobierno-decretara-presupuesto-de-2027-por-6349-billones-y-anuncia-nueva-iniciativa-de-ajuste",
+        "resumen": "El Gobierno Nacional expedirá por decreto el Presupuesto General de la Nación para 2027 por un monto de $634,9 billones, con base en el proyecto presentado y las modificaciones discutidas y aprobadas en el primer debate de las comisiones económicas del Congreso de la República",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno decretará presupuesto de 2027 por $634,9 billones y anuncia nueva iniciativa de ajuste fiscal",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
       {
         "titulo": "MinHacienda pide al Congreso avalar 1,2 billones para subsidios de luz y prevenir un apagón",
         "url": "https://www.dataifx.com/post/minhacienda-urge-al-congreso-aprobar-12-billones-para-subsidios-electricos-y-evitar-un-apagon",
@@ -413,49 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Colombia podría enfrentar déficit de gas desde febrero de 2027; Gobierno reconoce retrasos en proyectos eléctricos",
         "capturado": "2026-10-14T18:06:04-05:00"
-      },
-      {
-        "titulo": "Ponencia del presupuesto 2027 baja en 8,36 billones la deuda y sube partidas a Minas y Hacienda",
-        "url": "https://www.dataifx.com/post/presupuesto-de-2027-ponencia-reduce-en-836-billones-el-servicio-de-la-deuda-y-aumenta-recursos-para",
-        "resumen": "La ponencia para segundo debate del Presupuesto General de la Nación de 2027 mantiene el monto total de $634,9 billones, pero propone cambios en la distribución de los recursos, con una reducción en las apropiaciones para el servicio de la deuda pública y adiciones presupuestales para sectores como Hacienda y Minas y Energía",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto de 2027: ponencia reduce en $8,36 billones el servicio de la deuda y aumenta recursos para Hacienda y Minas",
-        "capturado": "2026-10-14T13:27:33-05:00"
-      },
-      {
-        "titulo": "El Gobierno alista nueva misión del FMI para revisar la situación económica colombiana",
-        "url": "https://www.dataifx.com/post/gobierno-prepara-nueva-mision-del-fmi-para-evaluar-panorama-economico-de-colombia",
-        "resumen": "El Gobierno colombiano anunció que se alista para recibir una nueva misión técnica del Fondo Monetario Internacional (FMI) en Bogotá durante noviembre, como parte de un proceso de diálogo que incluye la revisión de la situación económica del país, la estrategia de estabilización de las finanzas públicas y posibles mecanismos de apoyo financiero",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno prepara nueva misión del FMI para evaluar panorama económico de Colombia",
-        "capturado": "2026-10-14T13:27:33-05:00"
-      },
-      {
-        "titulo": "Buenaventura frena el cobro a camiones de carga establecido en el decreto distrital",
-        "url": "https://www.dataifx.com/post/buenaventura-no-aplicara-cobro-vehiculos-de-carga-previsto-en-decreto-distrital",
-        "resumen": "El cobro por circulación de vehículos de carga que había sido establecido en el Decreto Distrital 0338 de 2026 no entrará en vigencia en Buenaventura",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Buenaventura no aplicará cobro a vehículos de carga previsto en decreto distrital",
-        "capturado": "2026-10-14T13:27:33-05:00"
-      },
-      {
-        "titulo": "Sube la confianza del consumidor a 15,7% en septiembre gracias a mejores expectativas según Fedesarrollo",
-        "url": "https://www.dataifx.com/post/mejoran-las-expectativas-y-la-confianza-del-consumidor-alcanza-157-en-septiembre-fedesarrollo",
-        "resumen": "La confianza de los consumidores en Colombia registró una leve mejora durante septiembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Mejoran las expectativas y la confianza del consumidor alcanza 15,7% en septiembre: Fedesarrollo",
-        "capturado": "2026-10-14T08:33:18-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Las compras externas de Colombia subieron 31,7% en agosto por adquisiciones de combustibles y manufacturas",
+        "url": "https://www.dataifx.com/post/importaciones-de-colombia-crecieron-317-en-agosto-impulsadas-por-compras-de-combustibles-y",
+        "resumen": "Las importaciones colombianas alcanzaron los US$7",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Importaciones de Colombia crecieron 31,7% en agosto impulsadas por compras de combustibles y manufacturas",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
       {
         "titulo": "Colombia volverá a recibir energía eléctrica desde Ecuador",
         "url": "https://www.dataifx.com/post/ecuador-retomara-el-suministro-electrico-de-colombia",
@@ -648,6 +658,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Juan Carlos Mora, titular de Bancolombia, encabeza el escalafón Merco Líderes 2026",
+        "url": "https://www.dataifx.com/post/presidente-de-bancolombia-juan-carlos-mora-lidera-ranking-merco-lideres-2026",
+        "resumen": "El monitor de reputación corporativa Merco Líderes Colombia 2026 presentó su más reciente clasificación de los 100 líderes empresariales con mejor reputación en el país, un listado en el que Juan Carlos Mora Uribe, presidente de Bancolombia, conservó el primer lugar por segundo año consecutivo",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidente de Bancolombia, Juan Carlos Mora, lidera ranking Merco Líderes 2026",
+        "capturado": "2026-10-21T13:31:23-05:00"
+      },
       {
         "titulo": "Fitch conserva la nota AAA de Ecopetrol y advierte sobre el FEPC y el peligro soberano",
         "url": "https://www.dataifx.com/post/fitch-mantiene-calificacion-aaa-de-ecopetrol-y-pone-la-lupa-sobre-el-fepc-y-el-riesgo-soberano",
@@ -1086,16 +1106,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Fuertes lluvias impactan redes eléctricas en Bogotá y Cundinamarca: Enel activa plan de contingencia",
-        "capturado": "2026-10-09T18:56:28-05:00"
-      },
-      {
-        "titulo": "La CCI resalta la nueva norma portuaria y su capacidad para fomentar capitales",
-        "url": "https://www.dataifx.com/post/cci-destaca-nuevo-decreto-portuario-y-su-potencial-para-impulsar-inversiones",
-        "resumen": "La Cámara Colombiana de la Infraestructura (CCI) destacó el nuevo decreto que reglamenta las concesiones portuarias en Colombia y afirmó que la normativa incorpora varios planteamientos que el sector venía discutiendo con el Gobierno para fortalecer la inversión y el desarrollo de la infraestructura portuaria",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CCI destaca nuevo decreto portuario y su potencial para impulsar inversiones",
         "capturado": "2026-10-09T18:56:28-05:00"
       }
     ],
