@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-21T02:23:52-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-21T08:39:03-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda pide al Congreso avalar 1,2 billones para subsidios de luz y prevenir un apagón",
+        "url": "https://www.dataifx.com/post/minhacienda-urge-al-congreso-aprobar-12-billones-para-subsidios-electricos-y-evitar-un-apagon",
+        "resumen": "El ministro de Hacienda y Crédito Público, Miguel Gómez Martínez, pidió al Congreso de la República agilizar la aprobación de una adición presupuestal por $1,2 billones destinada a atender los subsidios eléctricos y contribuir a prevenir un eventual apagón en el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda urge al Congreso a aprobar $1,2 billones para subsidios eléctricos y evitar un apagón",
+        "capturado": "2026-10-21T08:39:03-05:00"
+      },
+      {
+        "titulo": "Presupuesto de 2027: discrepancias entre Senado y Cámara generan discusión sobre el trámite",
+        "url": "https://www.dataifx.com/post/presupuesto-de-2027-diferencias-entre-senado-y-camara-abren-debate-sobre-la-validez-del-tramite",
+        "resumen": "La aprobación del Presupuesto General de la Nación (PGN) para 2027 quedó bajo cuestionamiento por una posible diferencia entre los textos votados por el Senado y la Cámara de Representantes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2027: diferencias entre Senado y Cámara abren debate sobre la validez del trámite",
+        "capturado": "2026-10-21T08:39:03-05:00"
+      },
+      {
+        "titulo": "Enel Colombia finaliza el parque solar más grande del territorio con el inicio de Atlántico",
+        "url": "https://www.dataifx.com/post/enel-colombia-completa-el-complejo-solar-mas-grande-del-pais-con-la-entrada-en-operacion-de",
+        "resumen": "Enel Colombia declaró la operación comercial del parque solar Atlántico, de 256 megavatios de corriente continua (MWdc), con lo que completó el complejo de generación solar de mayor capacidad instalada del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Enel Colombia completa el complejo solar más grande del país con la entrada en operación de Atlántico",
+        "capturado": "2026-10-21T08:39:03-05:00"
+      },
       {
         "titulo": "Colombia vuelve a la red Egmont de inteligencia financiera tras cerca de veinticuatro meses suspendida",
         "url": "https://www.dataifx.com/post/colombia-restablece-conexion-con-red-internacional-de-inteligencia-financiera-egmont-tras-casi-dos",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Mejoran las expectativas y la confianza del consumidor alcanza 15,7% en septiembre: Fedesarrollo",
         "capturado": "2026-10-14T08:33:18-05:00"
-      },
-      {
-        "titulo": "Christian Garcés informa disminución de $6,4 billones en pago de deuda para Presupuesto de 2027 por pacto oficial y austeridad",
-        "url": "https://www.dataifx.com/post/christian-garces-anuncia-recorte-de-64-billones-en-el-servicio-de-la-deuda-del-presupuesto-de-2027",
-        "resumen": "El servicio de la deuda del Presupuesto General de la Nación para 2027 se reducirá en $6,4 billones, de acuerdo con un entendimiento alcanzado entre los ponentes del proyecto y el Ministerio de Hacienda",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Christian Garcés anuncia recorte de $6,4 billones en el servicio de la deuda del Presupuesto de 2027 tras acuerdo con el Gobierno y aplicación de plan de austeridad",
-        "capturado": "2026-10-14T02:24:25-05:00"
-      },
-      {
-        "titulo": "Asobancaria apoya topes al dinero físico en adquisiciones costosas por medio de la norma antiterrorista",
-        "url": "https://www.dataifx.com/post/asobancaria-respalda-restricciones-al-efectivo-en-compras-de-alto-valor-dentro-del-estatuto",
-        "resumen": "El sector financiero colombiano respaldó la posibilidad de limitar el uso del efectivo en transacciones de alto valor, como la compra de vehículos, apartamentos y lotes, una medida que el Gobierno Nacional contempla incluir en el estatuto antiterrorista que anunció el presidente de Colombia, Abelardo de la Espriella, y que será presentado ante el Congreso de la República",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Asobancaria respalda restricciones al efectivo en compras de alto valor dentro del estatuto antiterrorista",
-        "capturado": "2026-10-13T20:03:09-05:00"
-      },
-      {
-        "titulo": "Christian Garcés sugiere disminuir 6,4 billones de pesos de la deuda en el gasto de 2027 y hacer austeridad",
-        "url": "https://www.dataifx.com/post/christian-garces-propone-recortar-64-billones-del-servicio-de-la-deuda-en-el-presupuesto-de-2027-y",
-        "resumen": "El servicio de la deuda del Presupuesto General de la Nación para 2027 se reducirá en $6,4 billones, de acuerdo con un entendimiento alcanzado entre los ponentes del proyecto y el Ministerio de Hacienda",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Christian Garcés propone recortar $6,4 billones del servicio de la deuda en el presupuesto de 2027 y aplicar un plan de austeridad",
-        "capturado": "2026-10-13T20:03:09-05:00"
       }
     ],
     "Macro Internacional": [
