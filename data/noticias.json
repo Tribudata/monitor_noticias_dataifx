@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-22T12:06:41-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-22T16:25:06-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El biodiésel entregaría hasta 2.000 toneladas al mes para energía eléctrica frente al fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/biodiesel-podria-aportar-hasta-2000-toneladas-mensuales-para-la-generacion-electrica-ante-el-nino",
+        "resumen": "La industria colombiana de biocombustibles podría aportar entre 1",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Biodiésel podría aportar hasta 2.000 toneladas mensuales para la generación eléctrica ante El Niño",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "La próxima semana el Gobierno radicará Ley de Rescate Fiscal y fijará metas del Plan de Desarrollo",
+        "url": "https://www.dataifx.com/post/gobierno-presentara-ley-de-rescate-fiscal-la-proxima-semana-y-fija-prioridades-del-plan-nacional-de",
+        "resumen": "El Gobierno presentará la próxima semana la Ley de Rescate Fiscal, una iniciativa con la que busca intervenir las finanzas públicas y reducir la brecha entre los ingresos y los gastos del Estado",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno presentará Ley de Rescate Fiscal la próxima semana y fija prioridades del Plan Nacional de Desarrollo",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "CARF avisa que el gasto estatal sube y la caja del Tesoro permanece bajo su promedio histórico",
+        "url": "https://www.dataifx.com/post/carf-advierte-que-el-gasto-publico-aumenta-y-la-caja-del-tesoro-sigue-por-debajo-de-su-promedio",
+        "resumen": "El Comité Autónomo de la Regla Fiscal (CARF) identificó cambios en la ejecución del gasto público, el comportamiento de los títulos de deuda y la disponibilidad de recursos del Tesoro en su más reciente seguimiento fiscal, correspondiente a octubre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CARF advierte que el gasto público aumenta y la caja del Tesoro sigue por debajo de su promedio histórico",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "Tarifas de transporte intermunicipal subieron 8,08% al tercer trimestre por alzas en salarios, peajes y combustible",
+        "url": "https://www.dataifx.com/post/costos-del-transporte-intermunicipal-crecieron-808-en-el-tercer-trimestre-por-incrementos-en-mano",
+        "resumen": "El Índice de Costos del Transporte Intermunicipal de Pasajeros (ICTIP) registró una variación anual de 8,08% en el tercer trimestre de 2026 frente al mismo periodo de 2025, impulsada principalmente por el aumento de los costos fijos, según informó el Departamento Administrativo Nacional de Estadística (DANE)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Costos del transporte intermunicipal crecieron 8,08% en el tercer trimestre por incrementos en mano de obra, peajes y combustibles",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "Asomicrofinanzas solicita mayor acceso al crédito legal y alerta sobre la expansión del gota a gota en el país",
+        "url": "https://www.dataifx.com/post/asomicrofinanzas-pide-ampliar-el-acceso-al-credito-formal-y-advierte-sobre-el-alcance-del-gota-gota",
+        "resumen": "La ampliación del acceso al crédito formal, la financiación de los micronegocios y el desarrollo de herramientas tecnológicas para el sector financiero son algunos de los asuntos que marcan la agenda del 16",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Asomicrofinanzas pide ampliar el acceso al crédito formal y advierte sobre el alcance del ‘gota a gota’ en Colombia",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "Asobancaria señala que la correcta administración de riesgos y el crédito son vitales para retomar el crecimiento y la inversión",
+        "url": "https://www.dataifx.com/post/el-credito-y-la-adecuada-gestion-de-riesgos-son-claves-para-recuperar-la-inversion-y-el-crecimiento",
+        "resumen": "Durante el discurso de instalación del 24° Congreso de Riesgos, Jonathan Malagón, presidente de la Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria), destacó algunos indicadores que dan cuenta del deterioro de las finanzas públicas del país en los últimos años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El crédito y la adecuada gestión de riesgos son claves para recuperar la inversión y el crecimiento: Asobancaria",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
       {
         "titulo": "Banco de la República: Intereses elevados afectan la construcción y reducirlos depende de la inflación",
         "url": "https://www.dataifx.com/post/gerente-banrep-tasas-altas-son-un-problema-para-la-construccion-pero-bajarlas-depende-de-la",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Producción de industria manufacturera cayó 3,7% en agosto y empleo siguió disminuyendo",
         "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "ANI y ANLA pactan gestión para destrabar trámites ambientales de 16 obras",
-        "url": "https://www.dataifx.com/post/ani-y-anla-acuerdan-acciones-para-avanzar-en-tramites-ambientales-de-16-proyectos-de",
-        "resumen": "La Agencia Nacional de Infraestructura (ANI) y la Autoridad Nacional de Licencias Ambientales (ANLA) definieron una hoja de ruta para avanzar en la gestión de trámites ambientales relacionados con 16 proyectos de infraestructura considerados estratégicos para el país, en un esfuerzo por agilizar procesos regulatorios y dar seguimiento a expedientes que actualmente condicionan el avance de varias iniciativas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANI y ANLA acuerdan acciones para avanzar en trámites ambientales de 16 proyectos de infraestructura",
-        "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "FMI advierte tensión en las finanzas públicas del país y analiza opciones de apoyo",
-        "url": "https://www.dataifx.com/post/fmi-ve-presiones-en-la-situacion-fiscal-de-colombia-y-explora-alternativas-de-acompanamiento",
-        "resumen": "El Fondo Monetario Internacional (FMI) expresó su preocupación por el estado de las finanzas públicas de Colombia y advirtió que la trayectoria actual de las cuentas fiscales presenta desafíos que requieren ajustes para garantizar su sostenibilidad en el mediano plazo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FMI ve presiones en la situación fiscal de Colombia y explora alternativas de acompañamiento",
-        "capturado": "2026-10-16T08:09:19-05:00"
-      },
-      {
-        "titulo": "Secretaría de Hacienda de Bogotá anuncia nueva contingencia informática para reportar información exógena",
-        "url": "https://www.dataifx.com/post/hacienda-de-bogota-declara-nueva-contingencia-tecnologica-para-la-presentacion-de-informacion",
-        "resumen": "La Secretaría Distrital de Hacienda de Bogotá declaró nuevamente la contingencia tecnológica para la presentación de información exógena, debido a inconvenientes técnicos registrados en la plataforma dispuesta para cumplir con esta obligación tributaria",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Hacienda de Bogotá declara nueva contingencia tecnológica para la presentación de información exógena",
-        "capturado": "2026-10-15T19:12:17-05:00"
-      },
-      {
-        "titulo": "Mercado bursátil colombiano registra un alza de 28,76% en 2026, de acuerdo con estudio de SURA Investments",
-        "url": "https://www.dataifx.com/post/bolsa-colombiana-acumula-una-valorizacion-de-2876-en-2026-segun-analisis-de-sura-investments",
-        "resumen": "La bolsa colombiana completó septiembre con una valorización de 5,76% y acumula una rentabilidad de 28,76% en lo corrido de 2026, de acuerdo con el más reciente informe mensual de mercados de SURA Investments, que destacó el desempeño del mercado accionario local en un contexto de mayores presiones inflacionarias y un aumento de las tasas de interés por parte del Banco de la República",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bolsa colombiana acumula una valorización de 28,76% en 2026, según análisis de SURA Investments",
-        "capturado": "2026-10-15T19:12:17-05:00"
-      },
-      {
-        "titulo": "Emcali pide aval al Concejo de Cali para comprar la hidroeléctrica Salvajina",
-        "url": "https://www.dataifx.com/post/emcali-busca-autorizacion-del-concejo-de-cali-para-adquirir-la-central-hidroelectrica-salvajina",
-        "resumen": "La Alcaldía de Santiago de Cali y las Empresas Municipales de Cali (EMCALI) radicaron ante el Concejo Distrital un proyecto de acuerdo para avanzar en la adquisición de la Central Hidroeléctrica Salvajina y permitir el ingreso de la empresa al negocio de generación de energía",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EMCALI busca autorización del Concejo de Cali para adquirir la Central Hidroeléctrica Salvajina",
-        "capturado": "2026-10-15T16:12:25-05:00"
-      },
-      {
-        "titulo": "Mandatario sugiere evaluar subsidios y priorizar recaudo antes de nuevos tributos",
-        "url": "https://www.dataifx.com/post/presidente-pide-revisar-exenciones-y-subsidios-y-priorizar-el-recaudo-antes-de-crear-nuevos",
-        "resumen": "El presidente Abelardo de la Esperiella pidió revisar las exenciones tributarias y los subsidios que considere innecesarios, así como fortalecer el recaudo de los impuestos existentes antes de evaluar nuevas cargas para los contribuyentes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente pide revisar exenciones y subsidios y priorizar el recaudo antes de crear nuevos impuestos",
-        "capturado": "2026-10-15T16:12:25-05:00"
       }
     ],
     "Macro Internacional": [
@@ -645,19 +645,29 @@
         "publicacion": "",
         "titulo_fuente": "Petróleo Brent cae cerca de 3% ante expectativa de reapertura de Ormuz",
         "capturado": "2026-09-25T11:59:28-05:00"
-      },
-      {
-        "titulo": "Trump amenaza con intervención militar en América Latina ante daños a intereses estadounidenses",
-        "url": "https://www.dataifx.com/post/trump-advierte-uso-de-fuerza-militar-en-latinoamerica-si-se-afectan-intereses-de-eeuu",
-        "resumen": "El presidente de Estados Unidos, Donald Trump, advirtió durante su intervención en la Asamblea General de la ONU que su país está dispuesto a recurrir al poder militar en América Latina si considera que sus intereses se ven amenazados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Trump advierte uso de fuerza militar en Latinoamérica si se afectan intereses de EE.UU.",
-        "capturado": "2026-09-22T13:01:55-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Estados Unidos cancela visa a Ricardo Roa y a seis connacionales",
+        "url": "https://www.dataifx.com/post/eeuu-retira-visa-ricardo-roa-y-otros-seis-colombianos",
+        "resumen": "El Gobierno de Estados Unidos anunció la imposición de restricciones de visa a siete ciudadanos colombianos, entre ellos Ricardo Roa Barragán, expresidente de Ecopetrol, dentro de una medida que, según el Departamento de Estado, busca reforzar su estrategia regional contra la corrupción y el narcotráfico",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "EE.UU. retira visa a Ricardo Roa y a otros seis colombianos",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
+      {
+        "titulo": "DIAN efectuará remate electrónico de alhajas, gemas y cronógrafos del 19 al 23 de octubre",
+        "url": "https://www.dataifx.com/post/dian-realizara-subasta-virtual-de-joyas-piedras-preciosas-y-relojes-entre-el-19-y-el-23-de-octubre",
+        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) anunció la realización de una subasta pública virtual de joyas, metales preciosos, piedras preciosas y relojes entre el 19 y el 23 de octubre de 2026",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "DIAN realizará subasta virtual de joyas, piedras preciosas y relojes entre el 19 y el 23 de octubre",
+        "capturado": "2026-10-22T16:25:06-05:00"
+      },
       {
         "titulo": "El Niño genera perspectiva negativa en la nota global de EPM ratificada por Moody's",
         "url": "https://www.dataifx.com/post/moodys-mantiene-calificacion-internacional-de-epm-pero-cambia-su-perspectiva-negativa-por-el-nino",
@@ -1086,26 +1096,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Fredy Gustavo Orjuela fue elegido nuevo gerente de Corabastos",
-        "capturado": "2026-10-13T16:08:15-05:00"
-      },
-      {
-        "titulo": "Davivienda fusionará los servicios de DAVIbank en Colombia desde noviembre",
-        "url": "https://www.dataifx.com/post/davivienda-integrara-operaciones-de-davibank-en-colombia-partir-de-noviembre",
-        "resumen": "Davivienda Group S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda integrará operaciones de DAVIbank en Colombia a partir de noviembre",
-        "capturado": "2026-10-13T16:08:15-05:00"
-      },
-      {
-        "titulo": "Mineros sube su pronóstico de producción para 2026 por mayor extracción de oro en el tercer trimestre",
-        "url": "https://www.dataifx.com/post/mineros-eleva-meta-de-produccion-para-2026-tras-aumento-en-extraccion-de-oro-durante-el-tercer",
-        "resumen": "La compañía Mineros S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Mineros eleva meta de producción para 2026 tras aumento en extracción de oro durante el tercer trimestre",
         "capturado": "2026-10-13T16:08:15-05:00"
       }
     ],
