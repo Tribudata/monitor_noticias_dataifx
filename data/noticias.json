@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-22T06:38:10-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-22T12:06:41-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Banco de la República: Intereses elevados afectan la construcción y reducirlos depende de la inflación",
+        "url": "https://www.dataifx.com/post/gerente-banrep-tasas-altas-son-un-problema-para-la-construccion-pero-bajarlas-depende-de-la",
+        "resumen": "Durante su intervención en el Congreso Colombiano de la Construcción de Camacol en el que dataiFX está presente, el gerente del Banco de la República, Leonardo Villar, reconoció que las actuales tasas de interés representan una dificultad para sectores como la construcción y admitió que le gustaría que existieran las condiciones para reducirlas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gerente BanRep: Tasas altas son un problema para la construcción, pero bajarlas depende de la inflación",
+        "capturado": "2026-10-22T12:06:41-05:00"
+      },
+      {
+        "titulo": "Armando José Cuello Navarro asume como vicepresidente ejecutivo de Energías para la Transición en Ecopetrol",
+        "url": "https://www.dataifx.com/post/ecopetrol-nombra-armando-jose-cuello-navarro-como-vicepresidente-ejecutivo-de-energias-para-la",
+        "resumen": "Ecopetrol anunció el nombramiento de Armando José Cuello Navarro como vicepresidente ejecutivo de Energías para la Transición, una decisión aprobada por la Junta Directiva de la compañía en el marco de los cambios en su equipo de alta gerencia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol nombra a Armando José Cuello Navarro como vicepresidente ejecutivo de Energías para la Transición",
+        "capturado": "2026-10-22T12:06:41-05:00"
+      },
+      {
+        "titulo": "Alejandro Ordóñez releva a Rodrigo Lara al frente del Ministerio del Interior",
+        "url": "https://www.dataifx.com/post/rodrigo-lara-sale-del-ministerio-del-interior-y-alejandro-ordonez-asumira-la-cartera",
+        "resumen": "El presidente de la República, Abelardo de la Espriella, anunció la salida de Rodrigo Lara Restrepo del Ministerio del Interior y confirmó que Alejandro Ordóñez Maldonado asumirá la dirección de esa cartera",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Rodrigo Lara sale del Ministerio del Interior y Alejandro Ordóñez asumirá la cartera",
+        "capturado": "2026-10-22T12:06:41-05:00"
+      },
       {
         "titulo": "Camacol señala indispensable hacer ajuste fiscal previo a destinar más fondos para vivienda",
         "url": "https://www.dataifx.com/post/camacol-ve-necesario-avanzar-en-ajuste-fiscal-antes-de-ampliar-recursos-para-vivienda",
@@ -422,36 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Presidente pide revisar exenciones y subsidios y priorizar el recaudo antes de crear nuevos impuestos",
-        "capturado": "2026-10-15T16:12:25-05:00"
-      },
-      {
-        "titulo": "Ausencia de quórum detiene debate del Presupuesto 2027 en Cámara y apura al Congreso",
-        "url": "https://www.dataifx.com/post/falta-de-quorum-frena-discusion-del-presupuesto-de-2027-en-la-camara-y-deja-al-congreso-contra-el",
-        "resumen": "La discusión del Presupuesto General de la Nación para 2027 quedó aplazada en la Cámara de Representantes después de que la plenaria no lograra mantener el quórum necesario para continuar con el trámite",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Falta de quórum frena discusión del Presupuesto de 2027 en la Cámara y deja al Congreso contra el plazo legal",
-        "capturado": "2026-10-15T16:12:25-05:00"
-      },
-      {
-        "titulo": "Permisos de edificación bajaron 10% en agosto debido a menor aval de proyectos habitacionales",
-        "url": "https://www.dataifx.com/post/licencias-de-construccion-cayeron-10-en-agosto-por-menor-aprobacion-de-proyectos-de-vivienda",
-        "resumen": "El área licenciada para construcción en Colombia registró una caída anual durante agosto de 2026, reflejando una menor aprobación de proyectos de vivienda y de edificaciones con destinos no habitacionales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Licencias de construcción cayeron 10% en agosto por menor aprobación de proyectos de vivienda",
-        "capturado": "2026-10-15T16:12:25-05:00"
-      },
-      {
-        "titulo": "Édgar Chalhoub Succar llega a la presidencia de Finagro enfocado en financiación a largo plazo",
-        "url": "https://www.dataifx.com/post/edgar-chalhoub-succar-asume-la-presidencia-de-finagro-con-foco-en-el-credito-de-largo-plazo",
-        "resumen": "Édgar Chalhoub Succar fue designado como nuevo presidente del Fondo para el Financiamiento del Sector Agropecuario (Finagro), entidad de desarrollo que canaliza recursos de crédito, garantías e instrumentos de financiación para el campo colombiano a través de bancos públicos, privados y cooperativas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Édgar Chalhoub Succar asume la presidencia de Finagro con foco en el crédito de largo plazo",
         "capturado": "2026-10-15T16:12:25-05:00"
       }
     ],
