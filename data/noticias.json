@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-21T13:31:23-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-21T23:17:24-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Camacol señala indispensable hacer ajuste fiscal previo a destinar más fondos para vivienda",
+        "url": "https://www.dataifx.com/post/camacol-ve-necesario-avanzar-en-ajuste-fiscal-antes-de-ampliar-recursos-para-vivienda",
+        "resumen": "La discusión sobre el Presupuesto General de la Nación y las restricciones fiscales que enfrenta el país fueron algunos de los temas abordados por Guillermo Herrera, presidente de Camacol, durante el Congreso Colombiano de la Construcción 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Camacol ve necesario avanzar en ajuste fiscal antes de ampliar recursos para vivienda",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "El gremio energético colombiano avisa sobre desafíos en redes, créditos y alistamiento para El Niño",
+        "url": "https://www.dataifx.com/post/el-sector-energetico-colombiano-advierte-retos-en-redes-financiacion-y-preparacion-ante-el-nino",
+        "resumen": "Las restricciones de conexión a las redes eléctricas, las necesidades de financiación y los preparativos frente al fenómeno de El Niño estuvieron entre los temas centrales de la segunda edición de Conexión que Genera, un encuentro organizado por Unergy que reunió en Bucaramanga a representantes de empresas, operadores de red, entidades financieras, gremios y universidades",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El sector energético colombiano advierte retos en redes, financiación y preparación ante El Niño",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "Analdex calcula que las compras externas de Colombia finalizarían 2026 en máximo histórico de USD 80.000 millones",
+        "url": "https://www.dataifx.com/post/analdex-preve-que-importaciones-colombianas-cerrarian-2026-en-nivel-record-cercano-us80000-millones",
+        "resumen": "Las importaciones de Colombia mantienen una tendencia de crecimiento en 2026 y podrían cerrar el año en un nivel histórico, de acuerdo con la reacción de la Asociación Nacional de Comercio Exterior (Analdex) tras conocerse las cifras del período enero-agosto divulgadas por el DANE",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Analdex prevé que importaciones colombianas cerrarían 2026 en nivel récord cercano a US$80.000 millones",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "El esquema TechFin toma fuerza en Latinoamérica al sumar servicios financieros en apps",
+        "url": "https://www.dataifx.com/post/el-modelo-techfin-gana-terreno-en-america-latina-con-la-integracion-de-servicios-financieros-en",
+        "resumen": "La integración de servicios financieros en plataformas digitales está modificando la forma en que los usuarios acceden a pagos, créditos y otros productos en América Latina",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "El modelo TechFin gana terreno en América Latina con la integración de servicios financieros en plataformas digitales",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "GeoPark multiplica por tres su área en Vaca Muerta tras ganar el bloque Corralera Noreste",
+        "url": "https://www.dataifx.com/post/geopark-triplica-su-presencia-en-vaca-muerta-con-la-adjudicacion-del-bloque-corralera-noreste",
+        "resumen": "GeoPark amplió su posición en Vaca Muerta, Argentina, tras obtener la adjudicación del bloque Corralera Noreste, ubicado en la cuenca Neuquina, con lo que triplica su superficie en esta formación y suma un nuevo activo a su estrategia de crecimiento en el país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark triplica su presencia en Vaca Muerta con la adjudicación del bloque Corralera Noreste",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "En septiembre subieron 6,13% los costos del transporte de carga terrestre impulsados por peajes y personal",
+        "url": "https://www.dataifx.com/post/costos-del-transporte-de-carga-por-carretera-aumentaron-613-en-septiembre-peajes-y-mano-de-obra",
+        "resumen": "Los costos asociados al transporte de carga por carretera en Colombia registraron un aumento anual de 6,13% en septiembre de 2026 frente al mismo mes de 2025, de acuerdo con los resultados más recientes del Índice de Costos del Transporte de Carga por Carretera (ICTC) publicados por el DANE",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Costos del transporte de carga por carretera aumentaron 6,13% en septiembre; peajes y mano de obra lideraron las alzas",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
       {
         "titulo": "Bancolombia proyecta destinar mínimo un billón de pesos al año a energía y crecer en ese mercado",
         "url": "https://www.dataifx.com/post/bancolombia-preve-invertir-al-menos-1-billon-anual-en-activos-energeticos-y-ampliar-su",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Édgar Chalhoub Succar asume la presidencia de Finagro con foco en el crédito de largo plazo",
         "capturado": "2026-10-15T16:12:25-05:00"
-      },
-      {
-        "titulo": "XM advierte que El Niño 2026-2027 pondría a prueba la capacidad del sistema eléctrico colombiano",
-        "url": "https://www.dataifx.com/post/xm-advierte-que-el-nino-2026-2027-pondria-prueba-la-capacidad-del-sistema-electrico-colombiano",
-        "resumen": "El sistema eléctrico colombiano enfrenta el fenómeno de El Niño 2026-2027 con una combinación de menores aportes hídricos, crecimiento de la demanda, restricciones en las redes de transmisión y dificultades financieras en el mercado mayorista de energía",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "XM advierte que El Niño 2026-2027 pondría a prueba la capacidad del sistema eléctrico colombiano",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Juan Valdez 1959 apuesta por el café de origen y la producción propia para ampliar su oferta comercial",
-        "url": "https://www.dataifx.com/post/juan-valdez-1959-apuesta-por-el-cafe-de-origen-y-la-produccion-propia-para-ampliar-su-oferta",
-        "resumen": "Juan Valdez 1959 desarrolla un modelo de negocio que combina la comercialización de café de distintos orígenes, la tostión en sus instalaciones y una oferta gastronómica que incorpora productos colombianos",
-        "autor": "",
-        "subseccion": "Empresas",
-        "publicacion": "",
-        "titulo_fuente": "Juan Valdez 1959 apuesta por el café de origen y la producción propia para ampliar su oferta comercial",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Gobierno y sector advierten que Colombia debe elevar un 65% su capacidad eléctrica instalada al 2032",
-        "url": "https://www.dataifx.com/post/colombia-necesita-aumentar-65-su-capacidad-electrica-instalada-para-2032-advierten-gobierno-y",
-        "resumen": "Colombia deberá ampliar su capacidad instalada de generación eléctrica hasta alcanzar 36,7 gigavatios (GW) en 2032, un incremento del 65% frente a la capacidad actual",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia necesita aumentar 65% su capacidad eléctrica instalada para 2032, advierten Gobierno y agentes del sector",
-        "capturado": "2026-10-14T23:12:13-05:00"
-      },
-      {
-        "titulo": "Tigo confirma inversiones de $8,5 billones en el país en cuatro años luego de unir su marca con Movistar",
-        "url": "https://www.dataifx.com/post/tigo-anuncia-inversiones-por-85-billones-en-colombia-durante-los-proximos-cuatro-anos-tras-unificar",
-        "resumen": "Tigo anunció este miércoles el inicio de una nueva etapa de sus operaciones en Colombia, con el lanzamiento de la campaña “Movistar ahora es Tigo” y un plan de inversión de $8,5 billones para los próximos cuatro años, dirigido a ampliar la cobertura, aumentar la capacidad de sus redes y modernizar su infraestructura de telecomunicaciones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tigo anuncia inversiones por $8,5 billones en Colombia durante los próximos cuatro años tras unificar su marca con Movistar",
-        "capturado": "2026-10-14T23:12:13-05:00"
-      },
-      {
-        "titulo": "Creg alista subastas eléctricas para 2027 y modifica normas por el fenómeno de El Niño",
-        "url": "https://www.dataifx.com/post/creg-prepara-subastas-de-energia-para-2027-y-plantea-ajustes-regulatorios-ante-el-fenomeno-de-el",
-        "resumen": "La Comisión de Regulación de Energía y Gas (CREG) prepara nuevas subastas de energía y ajustes regulatorios para atender las necesidades de abastecimiento eléctrico de Colombia en los próximos años, en medio de los retos que plantea el fenómeno de El Niño",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CREG prepara subastas de energía para 2027 y plantea ajustes regulatorios ante el fenómeno de El Niño",
-        "capturado": "2026-10-14T18:06:04-05:00"
-      },
-      {
-        "titulo": "Desde febrero de 2027 habría escasez de gas en Colombia y el Ejecutivo admite demoras en obras",
-        "url": "https://www.dataifx.com/post/colombia-podria-enfrentar-deficit-de-gas-desde-febrero-de-2027-gobierno-reconoce-retrasos-en",
-        "resumen": "Colombia podría enfrentar un déficit nacional de gas natural a partir de febrero de 2027, mientras el sistema eléctrico registra retrasos en proyectos de transmisión y una incorporación de nueva capacidad de generación por debajo de lo previsto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia podría enfrentar déficit de gas desde febrero de 2027; Gobierno reconoce retrasos en proyectos eléctricos",
-        "capturado": "2026-10-14T18:06:04-05:00"
       }
     ],
     "Macro Internacional": [
@@ -658,6 +658,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "El Niño genera perspectiva negativa en la nota global de EPM ratificada por Moody's",
+        "url": "https://www.dataifx.com/post/moodys-mantiene-calificacion-internacional-de-epm-pero-cambia-su-perspectiva-negativa-por-el-nino",
+        "resumen": "La calificadora de riesgo Moody’s ratificó la calificación internacional de Empresas Públicas de Medellín (EPM) en Baa3, pero modificó su perspectiva de estable a negativa",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Moody’s mantiene calificación internacional de EPM, pero cambia su perspectiva a negativa por El Niño",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
+      {
+        "titulo": "Para cubrir requerimientos de caja, GEB firmó un empréstito por 390.000 millones de pesos",
+        "url": "https://www.dataifx.com/post/geb-suscribio-credito-por-390000-millones-para-atender-necesidades-de-liquidez",
+        "resumen": "El Grupo Energía Bogotá (GEB) informó que el 21 de octubre de 2026 suscribió un crédito de tesorería con Bancolombia por $390",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "GEB suscribió crédito por $390.000 millones para atender necesidades de liquidez",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
       {
         "titulo": "Juan Carlos Mora, titular de Bancolombia, encabeza el escalafón Merco Líderes 2026",
         "url": "https://www.dataifx.com/post/presidente-de-bancolombia-juan-carlos-mora-lidera-ranking-merco-lideres-2026",
@@ -1087,29 +1107,19 @@
         "publicacion": "",
         "titulo_fuente": "Mineros eleva meta de producción para 2026 tras aumento en extracción de oro durante el tercer trimestre",
         "capturado": "2026-10-13T16:08:15-05:00"
-      },
-      {
-        "titulo": "Mónica de Greiff se aparta de la Junta Directiva de ISA",
-        "url": "https://www.dataifx.com/post/monica-de-greiff-renuncio-la-junta-directiva-de-isa",
-        "resumen": "La empresa Interconexión Eléctrica S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Mónica de Greiff renunció a la Junta Directiva de ISA",
-        "capturado": "2026-10-13T16:08:15-05:00"
-      },
-      {
-        "titulo": "Temporal de lluvias afecta el sistema eléctrico capitalino y cundinamarqués: Enel despliega operativo",
-        "url": "https://www.dataifx.com/post/fuertes-lluvias-impactan-redes-electricas-en-bogota-y-cundinamarca-enel-activa-plan-de-contingencia",
-        "resumen": "Las lluvias, tormentas eléctricas y fuertes vientos registrados durante los últimos días en Bogotá y varios municipios de Cundinamarca han generado afectaciones en las redes de distribución de energía, ocasionando interrupciones temporales del servicio en distintos sectores, según informó Enel Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fuertes lluvias impactan redes eléctricas en Bogotá y Cundinamarca: Enel activa plan de contingencia",
-        "capturado": "2026-10-09T18:56:28-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Bold alista su llegada a Perú y robustece su portafolio en Colombia",
+        "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
+        "resumen": "La fintech Bold cerrará el año con una estrategia que combina crecimiento internacional y desarrollo de nuevos productos en Colombia",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Bold prepara expansión a Perú y fortalece su oferta en Colombia",
+        "capturado": "2026-10-21T23:17:24-05:00"
+      },
       {
         "titulo": "Elon Musk propone dar una acción de SpaceX a cada menor de edad en Estados Unidos",
         "url": "https://www.dataifx.com/post/elon-musk-plantea-entregar-una-accion-de-spacex-cada-menor-de-edad-en-eeuu",
@@ -1309,16 +1319,6 @@
         "publicacion": "",
         "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
         "capturado": "2026-09-23T16:23:01-05:00"
-      },
-      {
-        "titulo": "Bold alista su llegada a Perú y robustece su portafolio en Colombia",
-        "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
-        "resumen": "La fintech Bold cerrará el año con una estrategia que combina crecimiento internacional y desarrollo de nuevos productos en Colombia",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bold prepara expansión a Perú y fortalece su oferta en Colombia",
-        "capturado": "2026-09-21T19:41:13-05:00"
       }
     ]
   }
