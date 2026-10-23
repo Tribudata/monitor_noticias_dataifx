@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-22T16:25:06-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-22T19:35:11-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Los 7 pilares del Plan de Desarrollo oficial para elevar la economía al 6 por ciento",
+        "url": "https://www.dataifx.com/post/estos-son-los-7-ejes-del-plan-de-desarrollo-del-gobierno-para-poner-crecer-la-economia-al-6",
+        "resumen": "El Gobierno nacional presentó una hoja de ruta compuesta por siete ejes estratégicos con los que busca acelerar el crecimiento económico del país hasta alcanzar una expansión de 6%, una meta que contrasta con la proyección oficial de crecimiento de 2,4% para este año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Estos son los 7 ejes del Plan de Desarrollo del gobierno para poner a crecer la economía al 6%",
+        "capturado": "2026-10-22T19:35:11-05:00"
+      },
       {
         "titulo": "El biodiésel entregaría hasta 2.000 toneladas al mes para energía eléctrica frente al fenómeno de El Niño",
         "url": "https://www.dataifx.com/post/biodiesel-podria-aportar-hasta-2000-toneladas-mensuales-para-la-generacion-electrica-ante-el-nino",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Ventas de comercio minorista crecieron 7,3% en agosto impulsadas por vehículos y motocicletas",
         "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "Manufactura bajó 3,7% en agosto y ocupación continuó cayendo",
-        "url": "https://www.dataifx.com/post/produccion-de-industria-manufacturera-cayo-37-en-agosto-y-empleo-siguio-disminuyendo",
-        "resumen": "La industria manufacturera colombiana registró un retroceso en agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Producción de industria manufacturera cayó 3,7% en agosto y empleo siguió disminuyendo",
-        "capturado": "2026-10-16T12:55:28-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Titular del Grupo Argos sugiere elevar el capital privado y respaldar la reconstrucción sismológica",
+        "url": "https://www.dataifx.com/post/presidente-de-grupo-argos-plantea-aumentar-la-inversion-privada-y-apoyar-la-reconstruccion-tras-el",
+        "resumen": "Durante el Congreso Colombiano de la Construcción de Camacol, en el que dataiFX está presente, el presidente de Grupo Argos, Juan Esteban Calle, hizo un llamado al sector empresarial para acelerar las decisiones de inversión en Colombia y destinar capacidades técnicas, financieras y humanas a proyectos que contriuyan al crecimiento económico y a la reconstrucción de las zonas afectadas por el terremoto ocurrido el pasado 10 de agosto",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidente de Grupo Argos plantea aumentar la inversión privada y apoyar la reconstrucción tras el terremoto",
+        "capturado": "2026-10-22T19:35:11-05:00"
+      },
+      {
+        "titulo": "Pequeñas y medianas empresas obtendrían más crédito por pacto de US$50 millones entre BID Invest y Banco de Bogotá",
+        "url": "https://www.dataifx.com/post/mipymes-recibirian-mayor-acceso-credito-tras-acuerdo-entre-bid-invest-y-banco-de-bogota-por-us50",
+        "resumen": "Las micro, pequeñas y medianas empresas (mipymes) en Colombia podrían contar con mayores opciones de financiamiento tras el anuncio de una operación entre BID Invest y el Banco de Bogotá, que contempla recursos por hasta US$70 millones",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mipymes recibirían mayor acceso a crédito tras acuerdo entre BID Invest y Banco de Bogotá por US$50 millones",
+        "capturado": "2026-10-22T19:35:11-05:00"
+      },
       {
         "titulo": "Estados Unidos cancela visa a Ricardo Roa y a seis connacionales",
         "url": "https://www.dataifx.com/post/eeuu-retira-visa-ricardo-roa-y-otros-seis-colombianos",
@@ -1077,26 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Manuel Fernández Ariza asume la presidencia de Bancóldex",
         "capturado": "2026-10-13T20:03:09-05:00"
-      },
-      {
-        "titulo": "Ejecutivo, centrales obreras y gremios evaluaron agenda laboral en espacio de diálogo",
-        "url": "https://www.dataifx.com/post/gobierno-sindicatos-y-empresarios-revisaron-agenda-laboral-en-mesa-de-concertacion",
-        "resumen": "Representantes del Gobierno, las centrales sindicales y los gremios empresariales participaron este martes en una nueva sesión de la Subcomisión de Análisis y Seguimiento de Decretos y Leyes, instancia que hace parte de la Comisión Permanente de Concertación de Políticas Salariales y Laborales, con el propósito de analizar asuntos relacionados con la agenda laboral del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno, sindicatos y empresarios revisaron agenda laboral en mesa de concertación",
-        "capturado": "2026-10-13T20:03:09-05:00"
-      },
-      {
-        "titulo": "Fredy Gustavo Orjuela asume la gerencia general de Corabastos",
-        "url": "https://www.dataifx.com/post/fredy-gustavo-orjuela-fue-elegido-nuevo-gerente-de-corabastos",
-        "resumen": "La principal central mayorista de alimentos del país tendrá un nuevo liderazgo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fredy Gustavo Orjuela fue elegido nuevo gerente de Corabastos",
-        "capturado": "2026-10-13T16:08:15-05:00"
       }
     ],
     "Empresas Internacional": [
