@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-22T19:35:11-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-23T02:17:58-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Asignación de 2027 llega a $634,9 billones: deuda pública, educación y salud absorben los fondos",
+        "url": "https://www.dataifx.com/post/presupuesto-de-2027-queda-en-6349-billones-deuda-publica-educacion-y-salud-concentran-los-recursos",
+        "resumen": "El Gobierno Nacional expidió, mediante el Decreto 1599 de 2026, el Presupuesto General de la Nación (PGN) para la vigencia de 2027, por un total de $634,9 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presupuesto de 2027 queda en $634,9 billones: deuda pública, educación y salud concentran los recursos",
+        "capturado": "2026-10-23T02:17:58-05:00"
+      },
       {
         "titulo": "Los 7 pilares del Plan de Desarrollo oficial para elevar la economía al 6 por ciento",
         "url": "https://www.dataifx.com/post/estos-son-los-7-ejes-del-plan-de-desarrollo-del-gobierno-para-poner-crecer-la-economia-al-6",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Promigas vincula más de 111.000 hectáreas a estrategia de conservación en Colombia",
         "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "Comercio minorista subió 7,3% en agosto gracias a vehículos y motos",
-        "url": "https://www.dataifx.com/post/ventas-de-comercio-minorista-crecieron-73-en-agosto-impulsadas-por-vehiculos-y-motocicletas",
-        "resumen": "Las ventas reales del comercio minorista en Colombia mantuvieron su tendencia positiva durante agosto de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ventas de comercio minorista crecieron 7,3% en agosto impulsadas por vehículos y motocicletas",
-        "capturado": "2026-10-16T12:55:28-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Daniel Briceño expone labor con el Gobierno para promover seguridad jurídica hasta de 20 años en grandes capitales",
+        "url": "https://www.dataifx.com/post/daniel-briceno-revela-trabajo-con-el-gobierno-para-impulsar-estabilidad-juridica-de-hasta-20-anos",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, evento en el que dataiFX estuvo presente, el representante a la Cámara por Bogotá, Daniel Briceño, aseguró que viene trabajando con el Gobierno Nacional en una iniciativa orientada a crear condiciones de estabilidad jurídica de largo plazo para atraer grandes inversiones al país",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "Daniel Briceño revela trabajo con el Gobierno para impulsar estabilidad jurídica de hasta 20 años para grandes inversiones",
+        "capturado": "2026-10-23T02:17:58-05:00"
+      },
+      {
+        "titulo": "Nutresa pretende adquirir Presto tras suscribir convenio de compra",
+        "url": "https://www.dataifx.com/post/nutresa-busca-quedarse-con-presto-tras-firmar-acuerdo-de-adquisicion",
+        "resumen": "Grupo Nutresa anunció la suscripción de un acuerdo para asumir el control de los restaurantes Presto, en una operación que contempla la continuidad del negocio, la conservación de las marcas y la sustitución patronal de los empleados",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nutresa busca quedarse con Presto tras firmar acuerdo de adquisición",
+        "capturado": "2026-10-23T02:17:58-05:00"
+      },
       {
         "titulo": "Titular del Grupo Argos sugiere elevar el capital privado y respaldar la reconstrucción sismológica",
         "url": "https://www.dataifx.com/post/presidente-de-grupo-argos-plantea-aumentar-la-inversion-privada-y-apoyar-la-reconstruccion-tras-el",
@@ -1077,29 +1097,19 @@
         "publicacion": "",
         "titulo_fuente": "Tras suspensión de partido en El Campín, Sencia anuncia medidas y compensaciones",
         "capturado": "2026-10-14T13:27:33-05:00"
-      },
-      {
-        "titulo": "Siniestros asegurados por sismo en Colombia suman $6,5 billones y desembolsos alcanzan $786.543 millones",
-        "url": "https://www.dataifx.com/post/perdidas-aseguradas-por-terremoto-en-colombia-ascienden-65-billones-pagos-llegan-786543-millones",
-        "resumen": "El valor estimado de las pérdidas aseguradas por el terremoto del pasado 10 de agosto llegó a $6,5 billones, mientras que las compañías de seguros han recibido 99",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Pérdidas aseguradas por terremoto en Colombia ascienden a $6,5 billones; pagos llegan a $786.543 millones",
-        "capturado": "2026-10-14T08:33:18-05:00"
-      },
-      {
-        "titulo": "Manuel Fernández Ariza toma las riendas de Bancóldex",
-        "url": "https://www.dataifx.com/post/manuel-fernandez-ariza-asume-la-presidencia-de-bancoldex",
-        "resumen": "El economista Manuel Fernández Ariza fue designado como nuevo presidente de Bancóldex, entidad financiera de desarrollo empresarial del Estado, según informó el Ministerio de Comercio, Industria y Turismo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Manuel Fernández Ariza asume la presidencia de Bancóldex",
-        "capturado": "2026-10-13T20:03:09-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Daniel Briceño expone labor con el Ejecutivo para promover seguridad jurídica hasta de 20 años en grandes capitales",
+        "url": "https://www.dataifx.com/post/daniel-briceno-revela-trabajo-con-el-gobierno-para-impulsar-estabilidad-juridica-de-hasta-20-anos",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, evento en el que dataiFX estuvo presente, el representante a la Cámara por Bogotá, Daniel Briceño, aseguró que viene trabajando con el Gobierno Nacional en una iniciativa orientada a crear condiciones de estabilidad jurídica de largo plazo para atraer grandes inversiones al país",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Daniel Briceño revela trabajo con el Gobierno para impulsar estabilidad jurídica de hasta 20 años para grandes inversiones",
+        "capturado": "2026-10-23T02:17:58-05:00"
+      },
       {
         "titulo": "Bold alista su llegada a Perú y robustece su portafolio en Colombia",
         "url": "https://www.dataifx.com/post/bold-prepara-expansion-peru-y-fortalece-su-oferta-en-colombia",
