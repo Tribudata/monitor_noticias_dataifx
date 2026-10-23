@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-23T02:17:58-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-23T08:16:50-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno reduce $13,8 billones del Presupuesto de 2026 en su primer recorte al gasto público",
+        "url": "https://www.dataifx.com/post/gobierno-recorta-138-billones-del-presupuesto-de-2026-en-su-primer-ajuste-al-gasto-publico",
+        "resumen": "El Gobierno nacional expidió el Decreto 1585 de 2026, mediante el cual recortó $13,8 billones del Presupuesto General de la Nación (PGN) de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno recorta $13,8 billones del Presupuesto de 2026 en su primer ajuste al gasto público",
+        "capturado": "2026-10-23T08:16:50-05:00"
+      },
       {
         "titulo": "Asignación de 2027 llega a $634,9 billones: deuda pública, educación y salud absorben los fondos",
         "url": "https://www.dataifx.com/post/presupuesto-de-2027-queda-en-6349-billones-deuda-publica-educacion-y-salud-concentran-los-recursos",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "GeoPark aumentó 2,6% su producción de petróleo y gas en el tercer trimestre de 2026",
         "capturado": "2026-10-16T15:50:50-05:00"
-      },
-      {
-        "titulo": "Promigas suma más de 111.000 hectáreas a plan de conservación en Colombia",
-        "url": "https://www.dataifx.com/post/promigas-vincula-mas-de-111000-hectareas-estrategia-de-conservacion-en-colombia",
-        "resumen": "Promigas, en alianza con la Fundación Cataruben, vinculó más de 111",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Promigas vincula más de 111.000 hectáreas a estrategia de conservación en Colombia",
-        "capturado": "2026-10-16T12:55:28-05:00"
       }
     ],
     "Macro Internacional": [
