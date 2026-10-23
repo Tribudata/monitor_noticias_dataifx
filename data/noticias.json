@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-23T08:16:50-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-23T13:13:12-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "ANIF prevé que el Emisor subiría tipos al 12,50% en octubre con división en su Junta",
+        "url": "https://www.dataifx.com/post/banco-de-la-republica-elevaria-tasa-de-interes-1250-en-octubre-y-junta-directiva-estaria-dividida",
+        "resumen": "La mayoría de los analistas del mercado espera que la Junta Directiva del Banco de la República vuelva a aumentar su tasa de interés de referencia en la reunión de octubre y la ubique en 12,50%, en medio de un entorno marcado por una inflación que continúa acelerándose y por riesgos tanto internos como externos que siguen presionando los precios",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco de la República elevaría tasa de interés a 12,50% en octubre y Junta Directiva estaría dividida: ANIF",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Colombia llega a 49,6 millones de conexiones a internet móvil y sigue en expansión",
+        "url": "https://www.dataifx.com/post/la-conexion-sigue-creciendo-colombia-alcanza-496-millones-de-accesos-internet-movil",
+        "resumen": "Colombia cerró el segundo trimestre de 2026 con avances en varios de los principales indicadores de conectividad, impulsados por el crecimiento de los accesos a internet fijo y móvil, así como por la expansión de la tecnología 5G en el país, de acuerdo con los resultados del más reciente Boletín Trimestral TIC divulgado por el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La conexión sigue creciendo: Colombia alcanza 49,6 millones de accesos a internet móvil",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "José Ignacio García Puche tomó posesión como superintendente de Servicios Públicos",
+        "url": "https://www.dataifx.com/post/jose-ignacio-garcia-puche-asumio-como-superintendente-de-servicios-publicos-domiciliarios",
+        "resumen": "José Ignacio García Puche asumió como nuevo superintendente de Servicios Públicos Domiciliarios, entidad encargada de vigilar y controlar la prestación de los servicios públicos en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "José Ignacio García Puche asumió como superintendente de Servicios Públicos Domiciliarios",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Epm avisa problemas de caja en Afinia y pone en riesgo el servicio eléctrico caribeño",
+        "url": "https://www.dataifx.com/post/epm-advierte-dificultades-de-liquidez-en-afinia-y-alerta-sobre-riesgos-para-la-continuidad-del",
+        "resumen": "El Grupo EPM advirtió sobre las dificultades financieras que enfrenta Afinia, empresa encargada de prestar el servicio de energía eléctrica en parte de la región Caribe, y señaló que las restricciones de liquidez están afectando el cumplimiento de sus obligaciones con los agentes de la cadena eléctrica",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EPM advierte dificultades de liquidez en Afinia y alerta sobre riesgos para la continuidad del servicio de energía en el Caribe",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Grupo Aval dice que ajuste fiscal e incentivos son vitales para reactivar inversión",
+        "url": "https://www.dataifx.com/post/presidenta-grupo-aval-ajuste-fiscal-creible-e-incentivos-sectoriales-son-claves-para-reactivar-la",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, la presidenta de Grupo Aval, María Lorena Gutiérrez, aseguró que la recuperación de la inversión privada será determinante para sostener el crecimiento económico de Colombia en los próximos años, especialmente en un escenario donde el gasto público podría perder protagonismo debido a las restricciones fiscales",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidenta Grupo Aval: ajuste fiscal creíble e incentivos sectoriales son claves para reactivar la inversión privada",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Seis aspirantes nuevos y tres actuales integran la plancha de nueve candidatos para la junta de ISA",
+        "url": "https://www.dataifx.com/post/nueve-candidatos-la-junta-de-isa-seis-llegarian-por-primera-vez-y-tres-continuan",
+        "resumen": "La junta directiva de ISA tendrá seis nombres nuevos entre los nueve candidatos que figuran en la lista publicada en octubre de 2026, mientras que tres de los postulados ya hacen parte del órgano y fueron nominados nuevamente por los fondos de pensiones y cesantías",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Nueve candidatos a la junta de ISA: seis llegarían por primera vez y tres continúan",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
       {
         "titulo": "Gobierno reduce $13,8 billones del Presupuesto de 2026 en su primer recorte al gasto público",
         "url": "https://www.dataifx.com/post/gobierno-recorta-138-billones-del-presupuesto-de-2026-en-su-primer-ajuste-al-gasto-publico",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Senado avanza en aprobación de Presupuesto 2027 mientras persiste debate sobre situación fiscal",
         "capturado": "2026-10-19T23:26:33-05:00"
-      },
-      {
-        "titulo": "MinHacienda defiende el Presupuesto 2027 y avisa que mantener la ruta actual conduciría a una grave crisis",
-        "url": "https://www.dataifx.com/post/minhacienda-defiende-presupuesto-2027-y-advierte-que-seguir-rumbo-actual-llevaria-al-pais-una",
-        "resumen": "El ministro de Hacienda, Miguel Gómez, advirtió ante la plenaria del Senado que Colombia podría enfrentar una crisis de pago y dificultades para financiar servicios esenciales del Estado si no se adoptan medidas para corregir el creciente desbalance de las finanzas públicas y no avanza la discusión del Presupuesto General de la Nación (PGN) para 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda defiende Presupuesto 2027 y advierte que seguir rumbo actual llevaría al país a una crisis profunda",
-        "capturado": "2026-10-19T18:30:26-05:00"
-      },
-      {
-        "titulo": "El desempeño de la economía nacional cayó en agosto",
-        "url": "https://www.dataifx.com/post/actividad-de-economia-colombiana-se-contrajo-en-agosto",
-        "resumen": "La actividad económica de Colombia registró una variación anual de -0,04% en agosto de 2026, según el Indicador de Seguimiento a la Economía (ISE) publicado por el DANE",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Actividad de economía colombiana se contrajo en agosto",
-        "capturado": "2026-10-19T14:45:39-05:00"
-      },
-      {
-        "titulo": "DIAN lanza remate virtual de alhajas, gemas y relojes hasta el 23 de octubre",
-        "url": "https://www.dataifx.com/post/dian-abre-subasta-virtual-de-joyas-piedras-preciosas-y-relojes-hasta-el-23-de-octubre",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) abrió una subasta pública virtual de joyas, metales preciosos, piedras preciosas y relojes, que se llevará a cabo entre el lunes 19 y el viernes 23 de octubre de 2026 a través de El Martillo del Banco Popular",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "DIAN abre subasta virtual de joyas, piedras preciosas y relojes hasta el 23 de octubre",
-        "capturado": "2026-10-19T14:45:39-05:00"
-      },
-      {
-        "titulo": "Ecopetrol rechazó propuestas para traer gas por temas comerciales y prioriza obras locales",
-        "url": "https://www.dataifx.com/post/ecopetrol-descarto-ofertas-para-importar-gas-por-condiciones-comerciales-y-acelera-proyectos",
-        "resumen": "Ecopetrol anunció que concentrará sus esfuerzos en fortalecer la producción nacional de gas natural y acelerar el desarrollo del proyecto Sirius y otros activos estratégicos, con el propósito de contribuir a cerrar el déficit de abastecimiento que enfrenta Colombia en el mediano plazo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol descartó ofertas para importar gas por condiciones comerciales y acelera proyectos nacionales",
-        "capturado": "2026-10-19T14:45:39-05:00"
-      },
-      {
-        "titulo": "Ante el déficit de suministro, Ecopetrol impulsa el gas local y acelera la ejecución de Sirius",
-        "url": "https://www.dataifx.com/post/ecopetrol-prioriza-la-produccion-nacional-de-gas-y-acelera-el-desarrollo-de-sirius-ante-el-deficit",
-        "resumen": "Ecopetrol anunció que concentrará sus esfuerzos en fortalecer la producción nacional de gas natural y acelerar el desarrollo del proyecto Sirius y otros activos estratégicos, con el propósito de contribuir a cerrar el déficit de abastecimiento que enfrenta Colombia en el mediano plazo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol prioriza la producción nacional de gas y acelera el desarrollo de Sirius ante el déficit de abastecimiento",
-        "capturado": "2026-10-19T07:48:24-05:00"
-      },
-      {
-        "titulo": "La producción petrolera y de gas de GeoPark creció 2,6% durante el tercer trimestre de 2026",
-        "url": "https://www.dataifx.com/post/geopark-aumento-26-su-produccion-de-petroleo-y-gas-en-el-tercer-trimestre-de-2026",
-        "resumen": "GeoPark reportó una producción promedio consolidada de petróleo y gas de 27",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark aumentó 2,6% su producción de petróleo y gas en el tercer trimestre de 2026",
-        "capturado": "2026-10-16T15:50:50-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,56 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "El efecto del sismo en el microcrédito abarca más de 183.000 clientes y $2,25 billones en cartera",
+        "url": "https://www.dataifx.com/post/mas-de-183000-clientes-y-225-billones-en-cartera-el-impacto-del-terremoto-sobre-el-microcredito",
+        "resumen": "La cartera de microcrédito afectada por el terremoto del pasado 10 de agosto asciende a $2,25 billones y alcanza a más de 183",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Más de 183.000 clientes y $2,25 billones en cartera: el impacto del terremoto sobre el microcrédito",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Titular del Grupo Cibest califica de prudente un alza del salario mínimo entre 8% y 9% para 2027",
+        "url": "https://www.dataifx.com/post/presidente-del-grupo-cibest-ve-razonable-un-aumento-del-salario-minimo-de-entre-8-y-9-para-2027",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, el presidente del Grupo Cibest, Juan Carlos Mora, se refirió al proceso de concertación del salario mínimo para 2027 y señaló que las discusiones deberían mantener como eje principal el mecanismo que combina la inflación y la productividad, incorporando además consideraciones de carácter social",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Presidente del Grupo Cibest ve razonable un aumento del salario mínimo de entre 8% y 9% para 2027",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Líder de Grupo Aval propone fomentar la compra de vivienda usando remesas y ahorro pensional",
+        "url": "https://www.dataifx.com/post/presidenta-de-grupo-aval-plantea-impulsar-el-acceso-vivienda-mediante-ahorro-pensional-y-remesas",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, la presidenta de Grupo Aval, María Lorena Gutiérrez, afirmó que el país atraviesa un momento de optimismo que debería aprovecharse para acelerar la reconstrucción de las zonas afectadas por el reciente terremoto, fortalecer la inversión en vivienda y promover mecanismos de ahorro que faciliten el acceso de los hogares a una solución habitacional",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidenta de Grupo Aval plantea impulsar el acceso a vivienda mediante ahorro pensional y remesas",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "PIB potencial colombiano ronda el 3% y precisa mayor inversión para alcanzar el 6%: cabeza de Grupo Cibest",
+        "url": "https://www.dataifx.com/post/crecimiento-potencial-de-colombia-esta-cerca-del-3-y-requiere-mas-inversion-para-llegar-al-6",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, el presidente del Grupo Cibest, Juan Carlos Mora, destacó que la economía colombiana enfrentará un período retador en el corto plazo, aunque aseguró que existen factores que permiten mantener una perspectiva favorable hacia los próximos años si se generan las condiciones adecuadas para impulsar la inversión",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Crecimiento potencial de Colombia está cerca del 3% y requiere más inversión para llegar al 6%: presidente Grupo Cibest",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
+      {
+        "titulo": "Titular de Grupo Aval: consolidación fiscal confiable y estímulos por sector impulsan la inversión privada",
+        "url": "https://www.dataifx.com/post/presidenta-grupo-aval-ajuste-fiscal-creible-e-incentivos-sectoriales-son-claves-para-reactivar-la",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, la presidenta de Grupo Aval, María Lorena Gutiérrez, aseguró que la recuperación de la inversión privada será determinante para sostener el crecimiento económico de Colombia en los próximos años, especialmente en un escenario donde el gasto público podría perder protagonismo debido a las restricciones fiscales",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Presidenta Grupo Aval: ajuste fiscal creíble e incentivos sectoriales son claves para reactivar la inversión privada",
+        "capturado": "2026-10-23T13:13:12-05:00"
+      },
       {
         "titulo": "Daniel Briceño expone labor con el Gobierno para promover seguridad jurídica hasta de 20 años en grandes capitales",
         "url": "https://www.dataifx.com/post/daniel-briceno-revela-trabajo-con-el-gobierno-para-impulsar-estabilidad-juridica-de-hasta-20-anos",
@@ -1047,56 +1097,6 @@
         "publicacion": "",
         "titulo_fuente": "Claro Colombia pone el foco en su infraestructura digital y anuncia nuevas inversiones",
         "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Bogotá aplaza entrega de información exógena por problemas en portal de impuestos",
-        "url": "https://www.dataifx.com/post/bogota-amplia-plazo-para-reportar-informacion-exogena-tras-fallas-en-plataforma-tributaria",
-        "resumen": "La Secretaría de Hacienda de Bogotá anunció el levantamiento de la contingencia tecnológica que había sido declarada debido a inconvenientes técnicos presentados en la plataforma utilizada para la presentación de información exógena tributaria",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá amplía plazo para reportar información exógena tras fallas en plataforma tributaria",
-        "capturado": "2026-10-14T18:06:04-05:00"
-      },
-      {
-        "titulo": "Manuel Fernández Ariza toma las riendas de la presidencia de Bancóldex",
-        "url": "https://www.dataifx.com/post/manuel-fernandez-ariza-asume-la-presidencia-de-bancoldex-0",
-        "resumen": "Manuel Fernández Ariza asumió la presidencia de Bancóldex con el objetivo de fortalecer el papel de la entidad como banco de desarrollo empresarial, enfocado en impulsar la inversión productiva y acompañar a las compañías en procesos de transformación, innovación e internacionalización",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Manuel Fernández Ariza asume la presidencia de Bancóldex",
-        "capturado": "2026-10-14T18:06:04-05:00"
-      },
-      {
-        "titulo": "Secretaría de Hacienda de Bogotá prolonga vigencia de contingencia informática en su sistema tributario",
-        "url": "https://www.dataifx.com/post/hacienda-bogota-extiende-efectos-de-contingencia-tecnologica-en-su-plataforma-tributaria",
-        "resumen": "La contingencia tecnológica que afecta la plataforma para la presentación de información exógena ante la Secretaría de Hacienda de Bogotá continúa vigente, según informó la entidad este miércoles",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Hacienda Bogotá extiende efectos de contingencia tecnológica en su plataforma tributaria",
-        "capturado": "2026-10-14T18:06:04-05:00"
-      },
-      {
-        "titulo": "Bancolombia sigue primero en imagen empresarial y Alpina continúa en el segundo puesto del escalafón Merco 2026",
-        "url": "https://www.dataifx.com/post/bancolombia-mantiene-liderazgo-en-reputacion-corporativa-y-alpina-conserva-segundo-lugar-en-ranking",
-        "resumen": "Bancolombia se mantuvo por segundo año consecutivo en el primer lugar del ranking de reputación corporativa de Merco Empresas Colombia 2026, mientras que Alpina conservó la segunda posición y Bavaria completó el podio de las compañías mejor valoradas del país, de acuerdo con los resultados divulgados por el monitor empresarial",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia mantiene liderazgo en reputación corporativa y Alpina conserva segundo lugar en ranking Merco 2026",
-        "capturado": "2026-10-14T13:27:33-05:00"
-      },
-      {
-        "titulo": "Luego de aplazarse el encuentro en El Campín, Sencia comunica acciones y restituciones",
-        "url": "https://www.dataifx.com/post/tras-suspension-de-partido-en-el-campin-sencia-anuncia-medidas-y-compensaciones",
-        "resumen": "La cancelación del partido entre Millonarios y Once Caldas, programado para la noche del 13 de octubre en el estadio Nemesio Camacho El Campín de Bogotá, llevó a la empresa Sencia a pronunciarse oficialmente sobre lo ocurrido y a anunciar medidas para atender las consecuencias derivadas de la suspensión del encuentro",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tras suspensión de partido en El Campín, Sencia anuncia medidas y compensaciones",
-        "capturado": "2026-10-14T13:27:33-05:00"
       }
     ],
     "Empresas Internacional": [
