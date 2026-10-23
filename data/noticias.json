@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-23T13:13:12-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-23T17:59:42-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Ministro de Vivienda afirma que obras tras el sismo valdrían ya 54 billones de pesos",
+        "url": "https://www.dataifx.com/post/reconstruccion-tras-el-terremoto-ya-costaria-54-billones-segun-el-ministro-de-vivienda",
+        "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, aseguró que el costo estimado de la reconstrucción tras el terremoto que afectó a amplias zonas del país asciende actualmente a $54 billones, una cifra que supera ampliamente los cerca de $30 billones que habían sido calculados inicialmente por el Gobierno Nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Reconstrucción tras el terremoto ya costaría $54 billones, según el ministro de Vivienda",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
+      {
+        "titulo": "Procurador Eljach admite que faltó éxito al prevenir la crisis energética",
+        "url": "https://www.dataifx.com/post/procurador-eljach-no-hemos-logrado-el-mejor-resultado-en-esfuerzos-para-evitar-una-crisis",
+        "resumen": "El procurador general, Gregorio Eljach, expresó preocupación por la situación del suministro de energía eléctrica en el país y aseguró que el Ministerio Público mantiene activos espacios de diálogo entre entidades públicas, empresas del sector y autoridades territoriales para buscar soluciones que contribuyan a garantizar la prestación continua del servicio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Procurador Eljach: “No hemos logrado el mejor resultado” en esfuerzos para evitar una crisis energética",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
+      {
+        "titulo": "Nación canjeó 10,3 billones en títulos de deuda y bajó pagos de 2026 y 2027",
+        "url": "https://www.dataifx.com/post/colombia-canjeo-103-billones-de-deuda-publica-y-redujo-vencimientos-para-2026-y-2027",
+        "resumen": "El Gobierno colombiano realizó una segunda operación de reperfilamiento de deuda pública interna por $10,3 billones, con la que busca distribuir los vencimientos de sus obligaciones en distintos periodos y reducir las necesidades de refinanciación previstas para 2026 y 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia canjeó $10,3 billones de deuda pública y redujo vencimientos para 2026 y 2027",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
       {
         "titulo": "ANIF prevé que el Emisor subiría tipos al 12,50% en octubre con división en su Junta",
         "url": "https://www.dataifx.com/post/banco-de-la-republica-elevaria-tasa-de-interes-1250-en-octubre-y-junta-directiva-estaria-dividida",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Los pedidos de corrientazos por Rappi crecieron 160% en 2026 y superaron los 660.000",
         "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "Petróleo Brent pasa de US$111 por barril por la subida de tensiones en Medio Oriente",
-        "url": "https://www.dataifx.com/post/petroleo-brent-supera-los-us111-por-barril-ante-el-aumento-de-las-tensiones-en-medio-oriente",
-        "resumen": "Los precios internacionales del petróleo registraron alzas este martes, en medio del aumento de las tensiones en Medio Oriente y de la preocupación de los mercados por posibles interrupciones en el suministro de crudo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Petróleo Brent supera los US$111 por barril ante el aumento de las tensiones en Medio Oriente",
-        "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "Compañías de seguros han desembolsado más de $913.000 millones por sismo en Colombia",
-        "url": "https://www.dataifx.com/post/aseguradoras-han-pagado-mas-de-913000-millones-por-danos-del-terremoto-en-colombia",
-        "resumen": "Las compañías de seguros que atienden las reclamaciones relacionadas con el terremoto del pasado 10 de agosto han pagado $913",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras han pagado más de $913.000 millones por daños del terremoto en Colombia",
-        "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "El Senado progresa en la adopción del Presupuesto 2027 a la vez que continúa la discusión fiscal",
-        "url": "https://www.dataifx.com/post/senado-avanza-en-aprobacion-de-presupuesto-2027-mientras-persiste-debate-sobre-situacion-fiscal",
-        "resumen": "La plenaria del Senado dio un nuevo paso en la discusión del Presupuesto General de la Nación (PGN) para 2027 al aprobar un primer bloque de 65 artículos que no tenían proposiciones pendientes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Senado avanza en aprobación de Presupuesto 2027 mientras persiste debate sobre situación fiscal",
-        "capturado": "2026-10-19T23:26:33-05:00"
       }
     ],
     "Macro Internacional": [
@@ -648,6 +648,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Máximo reconocimiento institucional póstumo de Camacol a Germán Vargas Lleras",
+        "url": "https://www.dataifx.com/post/camacol-otorga-postumamente-german-vargas-lleras-su-maxima-distincion-institucional",
+        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, el gremio otorgó un homenaje póstumo a Germán Vargas Lleras, al concederle la Orden al Mérito Líder de la Construcción en grado Presea de Oro, la máxima distinción institucional de la organización",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Camacol otorga póstumamente a Germán Vargas Lleras su máxima distinción institucional",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
+      {
+        "titulo": "Gobierno y banca solidaria lanzan plan de crédito formal contra el gota a gota",
+        "url": "https://www.dataifx.com/post/contra-el-gota-gota-gobierno-y-sector-cooperativo-y-microfinanciero-impulsan-iniciativa-para",
+        "resumen": "El Gobierno Nacional, junto con organizaciones del sector microfinanciero y cooperativo, anunció un acuerdo para ampliar el acceso al crédito formal y reducir la dependencia de los préstamos informales conocidos como “gota a gota”, una práctica que continúa afectando a hogares, trabajadores independientes y pequeños negocios en distintas regiones del país",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Contra el “gota a gota”: Gobierno y sector cooperativo y microfinanciero impulsan iniciativa para ampliar el crédito formal",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
+      {
+        "titulo": "Mineros someterá a aprobación un dividendo extraordinario en noviembre",
+        "url": "https://www.dataifx.com/post/mineros-propondra-dividendo-extraordinario-en-asamblea-de-noviembre",
+        "resumen": "La minera Mineros S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Mineros propondrá dividendo extraordinario en asamblea de noviembre",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
       {
         "titulo": "El efecto del sismo en el microcrédito abarca más de 183.000 clientes y $2,25 billones en cartera",
         "url": "https://www.dataifx.com/post/mas-de-183000-clientes-y-225-billones-en-cartera-el-impacto-del-terremoto-sobre-el-microcredito",
@@ -1067,39 +1097,19 @@
         "publicacion": "",
         "titulo_fuente": "Inversión extranjera en Bogotá-Región alcanzó US$456 millones entre enero y junio de 2026",
         "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Ecopetrol designa un nuevo Director Corporativo de Cumplimiento luego de la partida del pasado jefe",
-        "url": "https://www.dataifx.com/post/ecopetrol-nombra-nuevo-director-corporativo-de-cumplimiento-tras-salida-de-anterior-directivo",
-        "resumen": "Ecopetrol S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol nombra nuevo Director Corporativo de Cumplimiento tras salida de anterior directivo",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Atlético Nacional lideró la tabla de recaudos entre los equipos del balompié nacional",
-        "url": "https://www.dataifx.com/post/atletico-nacional-encabezo-el-ranking-de-ingresos-entre-los-clubes-del-futbol-colombiano",
-        "resumen": "Los clubes del fútbol profesional colombiano registraron una mejora en sus indicadores financieros durante 2025, impulsados por un aumento en los ingresos operacionales, mayores recursos provenientes de competiciones internacionales y una expansión de los activos del sector, de acuerdo con un informe presentado por la Superintendencia de Sociedades",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Atlético Nacional encabezó el ranking de ingresos entre los clubes del fútbol colombiano",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Claro Colombia centra su atención en la red digital y comunica nuevas colocaciones de capital",
-        "url": "https://www.dataifx.com/post/claro-colombia-pone-el-foco-en-su-infraestructura-digital-y-anuncia-nuevas-inversiones",
-        "resumen": "La empresa de telecomunicaciones Claro Colombia presentó un manifiesto corporativo en el que expone su visión sobre la evolución del sector tecnológico en el país y detalla las capacidades de infraestructura que ha desarrollado en los últimos años para la prestación de servicios de conectividad y soluciones digitales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Claro Colombia pone el foco en su infraestructura digital y anuncia nuevas inversiones",
-        "capturado": "2026-10-15T11:45:16-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Apple habilita en territorio colombiano un nuevo método para cobrar mediante iPhone",
+        "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
+        "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
+        "capturado": "2026-10-23T17:59:42-05:00"
+      },
       {
         "titulo": "Daniel Briceño expone labor con el Ejecutivo para promover seguridad jurídica hasta de 20 años en grandes capitales",
         "url": "https://www.dataifx.com/post/daniel-briceno-revela-trabajo-con-el-gobierno-para-impulsar-estabilidad-juridica-de-hasta-20-anos",
@@ -1309,16 +1319,6 @@
         "publicacion": "",
         "titulo_fuente": "Frisby España asegura haber vendido 3,3 toneladas de pollo en su primer mes y abre nuevo local en Madrid",
         "capturado": "2026-09-24T13:21:59-05:00"
-      },
-      {
-        "titulo": "Apple habilita en Colombia una nueva modalidad de cobros mediante iPhone",
-        "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
-        "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Apple activa en Colombia una nueva forma de recibir pagos con iPhone",
-        "capturado": "2026-09-23T16:23:01-05:00"
       }
     ]
   }
