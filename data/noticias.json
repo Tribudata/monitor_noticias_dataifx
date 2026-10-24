@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-23T17:59:42-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-23T23:11:54-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Restrepo sugiere reforma fiscal de unos 70 billones y demanda frenar el despilfarro del gasto",
+        "url": "https://www.dataifx.com/post/restrepo-plantea-ajuste-fiscal-cercano-70-billones-y-pide-frenar-el-derroche-del-gasto-publico",
+        "resumen": "Durante el cierre del Congreso Colombiano de la Construcción, evento en el que dataiFX estuvo presente, el vicepresidente José Manuel Restrepo aseguró que el país deberá realizar un ajuste fiscal cercano a los $70 billones el próximo año, como parte de una estrategia orientada a fortalecer las finanzas públicas y reducir presiones derivadas del gasto estatal",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Restrepo plantea ajuste fiscal cercano a $70 billones y pide frenar el derroche del gasto público",
+        "capturado": "2026-10-23T23:11:54-05:00"
+      },
       {
         "titulo": "Ministro de Vivienda afirma que obras tras el sismo valdrían ya 54 billones de pesos",
         "url": "https://www.dataifx.com/post/reconstruccion-tras-el-terremoto-ya-costaria-54-billones-segun-el-ministro-de-vivienda",
@@ -442,16 +452,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "BBVA permitirá hacer pagos y transferencias por Bre-B con el cupo de la tarjeta de crédito",
-        "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "Las órdenes de almuerzos corrientes por Rappi subieron 160% en 2026 y pasaron de 660.000",
-        "url": "https://www.dataifx.com/post/los-pedidos-de-corrientazos-por-rappi-crecieron-160-en-2026-y-superaron-los-660000",
-        "resumen": "El corrientazo, una de las opciones habituales de almuerzo en Colombia, amplió su presencia en las plataformas digitales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Los pedidos de corrientazos por Rappi crecieron 160% en 2026 y superaron los 660.000",
         "capturado": "2026-10-20T11:42:45-05:00"
       }
     ],
