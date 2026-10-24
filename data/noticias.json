@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-24T10:44:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-24T13:42:27-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -1101,6 +1101,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "Frisby España reporta la venta de 3,3 toneladas de pollo en su primer mes e inaugura otro local en Madrid",
+        "url": "https://www.dataifx.com/post/frisby-espana-asegura-haber-vendido-33-toneladas-de-pollo-en-su-primer-mes-y-abre-nuevo-local-en",
+        "resumen": "En medio de la disputa legal que sostiene con Frisby Colombia por el uso de la marca Frisby en Europa, Frisby España anunció que vendió 3,3 toneladas de pollo durante su primer mes de operación en Madrid y puso en marcha un segundo punto de venta en la capital española",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Frisby España asegura haber vendido 3,3 toneladas de pollo en su primer mes y abre nuevo local en Madrid",
+        "capturado": "2026-10-24T13:42:27-05:00"
+      },
+      {
         "titulo": "Apple habilita en territorio colombiano un nuevo método para cobrar mediante iPhone",
         "url": "https://www.dataifx.com/post/apple-activa-en-colombia-una-nueva-forma-de-recibir-pagos-con-iphone",
         "resumen": "Apple anunció la expansión de su servicio Tap to Pay en iPhone a ocho países de América Latina, entre ellos Colombia, una herramienta que permite a los comercios aceptar pagos presenciales sin contacto directamente desde un iPhone, sin necesidad de terminales de pago adicionales o dispositivos especializados",
@@ -1309,16 +1319,6 @@
         "publicacion": "",
         "titulo_fuente": "Nueva York será la vitrina de 176 proyectos colombianos en busca de capital extranjero",
         "capturado": "2026-09-28T15:28:28-05:00"
-      },
-      {
-        "titulo": "Frisby España reporta ventas de 3,3 toneladas de pollo en su primer mes e inaugura otra tienda en Madrid",
-        "url": "https://www.dataifx.com/post/frisby-espana-asegura-haber-vendido-33-toneladas-de-pollo-en-su-primer-mes-y-abre-nuevo-local-en",
-        "resumen": "En medio de la disputa legal que sostiene con Frisby Colombia por el uso de la marca Frisby en Europa, Frisby España anunció que vendió 3,3 toneladas de pollo durante su primer mes de operación en Madrid y puso en marcha un segundo punto de venta en la capital española",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Frisby España asegura haber vendido 3,3 toneladas de pollo en su primer mes y abre nuevo local en Madrid",
-        "capturado": "2026-09-24T13:21:59-05:00"
       }
     ]
   }
