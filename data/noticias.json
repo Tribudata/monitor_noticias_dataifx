@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-26T07:47:12-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-26T14:49:57-05:00",
+  "nuevos_en_esta_corrida": 16,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Superservicios aumentará supervisión a generadoras de energía frente al cargo por confiabilidad",
+        "url": "https://www.dataifx.com/post/superservicios-intensificara-vigilancia-generadoras-de-energia-por-cumplimiento-del-cargo-por",
+        "resumen": "La Superintendencia de Servicios Públicos Domiciliarios (Superservicios) intensificará las labores de inspección y vigilancia sobre las empresas generadoras de energía eléctrica para verificar que cumplan con sus obligaciones de garantizar el respaldo del suministro nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superservicios intensificará vigilancia a generadoras de energía por cumplimiento del cargo por confiabilidad",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "MinTransporte señala que Autopistas del Café no tiene prórroga y Conexión Centro se analiza",
+        "url": "https://www.dataifx.com/post/mintransporte-aclara-que-concesion-de-autopistas-del-cafe-no-ha-sido-prorrogada-y-que-proyecto",
+        "resumen": "El Ministerio de Transporte aseguró que la concesión de Autopistas del Café no ha sido prorrogada y que tampoco se ha adjudicado el proyecto de iniciativa privada Conexión Centro, luego de versiones surgidas sobre una eventual extensión del contrato que opera uno de los principales corredores viales del Eje Cafetero",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinTransporte aclara que concesión de Autopistas del Café no ha sido prorrogada y que proyecto Conexión Centro sigue en evaluación",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "De La Espriella indica que donaciones por sismo irán a firmas y fundaciones y no al Ejecutivo",
+        "url": "https://www.dataifx.com/post/donaciones-privadas-para-la-reconstruccion-tras-el-terremoto-no-seran-manejadas-por-el-gobierno",
+        "resumen": "El presidente Abelardo de la Espriella salió al paso de los cuestionamientos surgidos alrededor del Fondo Patria Milagro, creado para apoyar la reconstrucción y la atención de los afectados por el terremoto registrado en Colombia el pasado 10 de agosto, y aseguró que existe una separación entre los recursos públicos movilizados por el Estado y las contribuciones realizadas por empresarios, fundaciones y otros actores privados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Donaciones privadas para la reconstrucción tras el terremoto no serán manejadas por el Gobierno sino por empresas y fundaciones, aclara De La Espriella",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Mandatario solicita al MinHacienda garantizar fondos para Colombia Mayor en presupuesto 2026",
+        "url": "https://www.dataifx.com/post/presidente-pide-minhacienda-asegurar-recursos-para-colombia-mayor-en-modificacion-de-presupuesto",
+        "resumen": "El presidente Abelardo de la Espirella anunció que instruyó al Ministerio de Hacienda para que busque recursos adicionales dentro del proyecto de modificación del Presupuesto General de la Nación de 2026, con el fin de garantizar el cumplimiento de las obligaciones pendientes del programa Colombia Mayor durante lo que resta del año",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Presidente pide a MinHacienda asegurar recursos para Colombia Mayor en modificación de presupuesto 2026",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
       {
         "titulo": "El mandatario De La Espriella confirma que la Ley de Ajuste Fiscal se radicará en estos días",
         "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-sera-presentada-esta-semana-confirma-presidente-de-la-espriella",
@@ -413,49 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "ANIF advierte sobre riesgo de crisis fiscal y pide reducir el gasto público con una ley de financiamiento",
         "capturado": "2026-10-20T19:29:31-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda suscribe préstamo por 200 millones de euros con entidad germana KfW para el gasto de 2026",
-        "url": "https://www.dataifx.com/post/minhacienda-firma-credito-por-200-millones-de-euros-con-banco-aleman-kfw-para-financiar-el",
-        "resumen": "El Ministerio de Hacienda y Crédito Público firmó un contrato de crédito externo por 200 millones de euros con el banco de desarrollo alemán KfW, cuyos recursos contribuirán a financiar el Presupuesto General de la Nación (PGN) de 2026 y a atender las necesidades de financiación previstas para el año, de acuerdo con la información divulgada por la entidad",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda firma crédito por 200 millones de euros con banco alemán KfW para financiar el presupuesto de 2026",
-        "capturado": "2026-10-20T19:29:31-05:00"
-      },
-      {
-        "titulo": "Administración nacional presentará el proyecto de ley de financiamiento en los primeros siete días de noviembre",
-        "url": "https://www.dataifx.com/post/gobierno-radicara-la-ley-de-financiamiento-en-la-primera-semana-de-noviembre",
-        "resumen": "El Gobierno radicará la ley de financiamiento durante la primera semana de noviembre, según confirmó este martes 20 de octubre el presidente de la Comisión Tercera Constitucional Permanente de la Cámara de Representantes, Alfredo Ape, durante la sesión ordinaria de esa célula legislativa",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno radicará la ley de financiamiento en la primera semana de noviembre",
-        "capturado": "2026-10-20T19:29:31-05:00"
-      },
-      {
-        "titulo": "CAMPETROL plantea plan 4x4 para impulsar la capacidad petrolera y gasífera de la nación",
-        "url": "https://www.dataifx.com/post/campetrol-propone-estrategia-4x4-para-desarrollar-el-potencial-de-hidrocarburos-de-colombia",
-        "resumen": "La Cámara Colombiana de Bienes y Servicios de Petróleo, Gas y Energía (CAMPETROL) presentó su Balance Petrolero del primer semestre de 2026, en el que propuso una estrategia denominada 4x4 para desarrollar el potencial de hidrocarburos de Colombia, impulsar la inversión y ampliar los ingresos fiscales de la Nación y las regiones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CAMPETROL propone estrategia 4x4 para desarrollar el potencial de hidrocarburos de Colombia",
-        "capturado": "2026-10-20T19:29:31-05:00"
-      },
-      {
-        "titulo": "El Congreso dio luz verde al Presupuesto General de la Nación para 2027 por 634,95 billones de pesos",
-        "url": "https://www.dataifx.com/post/congreso-aprobo-el-presupuesto-general-de-la-nacion-de-2027-por-63495-billones",
-        "resumen": "El Congreso de la República aprobó el Presupuesto General de la Nación (PGN) para la vigencia fiscal de 2027, por $634,95 billones, luego de más de 12 horas de debate",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Congreso aprobó el Presupuesto General de la Nación de 2027 por $634,95 billones",
-        "capturado": "2026-10-20T16:28:22-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Mandatario De La Espriella acepta victoria de Lula y llama a respetar la voluntad de los brasileños",
+        "url": "https://www.dataifx.com/post/presidente-de-la-espriella-reconoce-triunfo-de-lula-y-pide-respetar-la-decision-de-los-brasilenos",
+        "resumen": "Tras conocerse los resultados de las elecciones presidenciales en Brasil, el presidente Abelardo de la Espirella se pronunció sobre la victoria de Luiz Inácio Lula da Silva y envió un mensaje en el que resaltó la importancia de respetar la voluntad expresada por los ciudadanos en las urnas, pese a las diferencias políticas e ideológicas entre ambos mandatarios",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente De La Espriella reconoce triunfo de Lula y pide respetar la decisión de los brasileños",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Lula gana en Brasil mas la contienda sigue tras la apelación presentada por Bolsonaro",
+        "url": "https://www.dataifx.com/post/lula-se-impone-en-brasil-pero-la-disputa-electoral-continua-tras-la-impugnacion-de-bolsonaro",
+        "resumen": "Brasil amaneció con un nuevo escenario político luego de que Luiz Inácio Lula da Silva obtuviera la victoria en la segunda vuelta de las elecciones presidenciales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lula se impone en Brasil, pero la disputa electoral continúa tras la impugnación de Bolsonaro",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
       {
         "titulo": "Las compras externas de Colombia subieron 31,7% en agosto por adquisiciones de combustibles y manufacturas",
         "url": "https://www.dataifx.com/post/importaciones-de-colombia-crecieron-317-en-agosto-impulsadas-por-compras-de-combustibles-y",
@@ -638,6 +658,86 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "AMV expide una nueva certificación en riesgos financieros dirigida a expertos del área",
+        "url": "https://www.dataifx.com/post/amv-lanza-nueva-certificacion-en-riesgos-financieros-para-profesionales-del-sector",
+        "resumen": "El Autorregulador del Mercado de Valores (AMV) anunció la creación de una nueva certificación especializada en riesgos financieros, con la que busca ampliar su oferta de acreditaciones para profesionales vinculados a actividades de gestión y administración de riesgos dentro del sistema financiero colombiano",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "AMV lanza nueva certificación en riesgos financieros para profesionales del sector",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Mandatario pide indagar a generadoras por posibles fallas en suministro eléctrico por Fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/presidente-solicita-investigar-generadoras-por-presuntos-incumplimientos-en-entrega-de-energia",
+        "resumen": "El presidente Abelardo de la Espriella pidió a la Superintendencia de Servicios Públicos revisar el comportamiento de algunas empresas generadoras de energía ante posibles incumplimientos en las obligaciones de suministro comprometidas para respaldar el sistema eléctrico durante el fenómeno de El Niño",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Presidente solicita investigar a generadoras por presuntos incumplimientos en entrega de energía durante El Niño",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Anthropic alista su oferta pública inicial en medio del boom de la inteligencia artificial",
+        "url": "https://www.dataifx.com/post/anthropic-prepara-su-salida-bolsa-en-medio-del-auge-de-la-ia",
+        "resumen": "La empresa estadounidense de inteligencia artificial Anthropic dio un paso clave hacia su llegada al mercado bursátil al presentar la documentación necesaria para realizar una oferta pública inicial de acciones (OPI) en Estados Unidos",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Anthropic prepara su salida a bolsa en medio del auge de la IA",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Enka destinará más de US$15 millones a planta de reciclaje de PET y iniciativa solar",
+        "url": "https://www.dataifx.com/post/enka-invertira-mas-de-us15-millones-en-nueva-planta-de-reciclaje-de-pet-y-proyecto-de-energia-solar",
+        "resumen": "La compañía Enka anunció la aprobación de nuevas inversiones por más de US$15 millones orientadas a ampliar su capacidad de reciclaje de plástico PET en Colombia y fortalecer el uso de energías renovables en sus operaciones",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Enka invertirá más de US$15 millones en nueva planta de reciclaje de PET y proyecto de energía solar",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "GEB y La Caisse concluyen operación para fusionar activos de transmisión de energía en Brasil",
+        "url": "https://www.dataifx.com/post/geb-y-la-caisse-finalizan-transaccion-para-integrar-activos-de-transmision-electrica-en-brasil",
+        "resumen": "El Grupo Energía Bogotá (GEB) y La Caisse de Dépôt et Placement du Québec concretaron el cierre de la transacción anunciada en mayo de este año y formalizaron la creación de Verene Energia S",
+        "autor": "",
+        "subseccion": "Empresas internacionales",
+        "publicacion": "",
+        "titulo_fuente": "GEB y La Caisse finalizan transacción para integrar activos de transmisión eléctrica en Brasil",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo anula los límites de 15 zonas mineras especiales y quita un esquema que abarcaba 5,3 millones de hectáreas",
+        "url": "https://www.dataifx.com/post/gobierno-deroga-delimitaciones-de-15-distritos-mineros-especiales-y-elimina-una-figura-que-cubria",
+        "resumen": "El Gobierno nacional derogó las delimitaciones de 15 distritos mineros especiales para la diversificación productiva que habían sido establecidas en distintas regiones del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno deroga delimitaciones de 15 distritos mineros especiales y elimina una figura que cubría más de 5,3 millones de hectáreas",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Ministerio de Agricultura y cultivadores fijan plan para bajar gastos y subir el rendimiento de la papa",
+        "url": "https://www.dataifx.com/post/minagricultura-y-productores-acuerdan-agenda-para-reducir-costos-y-elevar-productividad-del-cultivo",
+        "resumen": "El Ministerio de Agricultura y representantes del sector papicultor definieron una hoja de ruta para impulsar cambios en la producción de papa en el país, con énfasis en la reducción de costos, el aumento de la productividad, el acceso al financiamiento y el fortalecimiento de la comercialización",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAgricultura y productores acuerdan agenda para reducir costos y elevar productividad del cultivo de papa",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "Administración nacional presenta plan para unir a compañías con problemas y posibles financistas",
+        "url": "https://www.dataifx.com/post/gobierno-anuncia-estrategia-para-conectar-empresas-en-dificultades-con-potenciales-inversionistas",
+        "resumen": "El presidente Abelardo de la Espirella anunció que el Gobierno pondrá en marcha una estrategia orientada a identificar empresas colombianas que atraviesen problemas financieros y facilitar contactos con inversionistas nacionales e internacionales, con el objetivo de evitar cierres empresariales y proteger puestos de trabajo",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia estrategia para conectar empresas en dificultades con potenciales inversionistas",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
       {
         "titulo": "Máximo reconocimiento institucional póstumo de Camacol a Germán Vargas Lleras",
         "url": "https://www.dataifx.com/post/camacol-otorga-postumamente-german-vargas-lleras-su-maxima-distincion-institucional",
@@ -1007,89 +1107,29 @@
         "publicacion": "",
         "titulo_fuente": "FNC inaugurará en 2027 su primer hotel, ubicado en el Quindío",
         "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "Supersociedades: conglomerados económicos alcanzaron ingresos de $658,6 billones en 2025",
-        "url": "https://www.dataifx.com/post/supersociedades-grupos-economicos-registraron-ingresos-por-6586-billones-en-2025",
-        "resumen": "Los grupos económicos supervisados por la Superintendencia de Sociedades registraron ingresos operacionales por $658,6 billones y utilidades netas por $28,8 billones durante 2025, según los resultados del informe “Grupos en Cifras 2025”, un documento que analiza la estructura y el desempeño financiero de los conglomerados empresariales con presencia en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Supersociedades: grupos económicos registraron ingresos por $658,6 billones en 2025",
-        "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "Ignacio Bravo quedará al frente de la gerencia general de Banco Falabella Colombia",
-        "url": "https://www.dataifx.com/post/ignacio-bravo-asumira-gerencia-general-de-banco-falabella-colombia",
-        "resumen": "La Junta Directiva de Banco Falabella Colombia designó a Ignacio Bravo Ithurbisquy como nuevo gerente general de la entidad en el país, en reemplazo de Rodrigo Sabugal Armijo, quien regresará a Chile para asumir la gerencia general corporativa de Seguros Falabella",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ignacio Bravo asumirá gerencia general de Banco Falabella Colombia",
-        "capturado": "2026-10-15T19:12:17-05:00"
-      },
-      {
-        "titulo": "GEB emitió $400.000 millones en papeles comerciales y puso en marcha plan por hasta $2,5 billones",
-        "url": "https://www.dataifx.com/post/geb-coloco-400000-millones-en-papeles-comerciales-y-activo-programa-de-emisiones-por-hasta-25",
-        "resumen": "El Grupo Energía Bogotá (GEB) anunció la colocación de $400",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "GEB colocó $400.000 millones en papeles comerciales y activó programa de emisiones por hasta $2,5 billones",
-        "capturado": "2026-10-15T19:12:17-05:00"
-      },
-      {
-        "titulo": "Feria laboral en Corferias en Bogotá ofrece más de 18000 puestos y cuenta con 180 compañías",
-        "url": "https://www.dataifx.com/post/megaferia-de-empleo-de-bogota-reune-mas-de-18000-vacantes-y-180-empresas-en-corferias",
-        "resumen": "La cuarta edición de la Megaferia de Empleo de Bogotá abrió sus puertas este jueves en Corferias con la participación de más de 180 empresas y una oferta cercana a las 18",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Megaferia de Empleo de Bogotá reúne más de 18.000 vacantes y 180 empresas en Corferias",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "ISA planteará modificaciones para cambiar toda su junta directiva y facilitar elegir presidente",
-        "url": "https://www.dataifx.com/post/isa-propondra-cambios-que-permitirian-renovar-toda-su-junta-y-flexibilizar-la-eleccion-de",
-        "resumen": "Los accionistas de ISA votarán el próximo 28 de octubre una reforma estatutaria que podría modificar dos reglas clave de gobierno corporativo de la compañía",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA propondrá cambios que permitirían renovar toda su junta y flexibilizar la elección de presidente",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá avisa que los plásticos de Itaú dejarán de funcionar el 21 de octubre",
-        "url": "https://www.dataifx.com/post/tarjetas-de-credito-itau-dejaran-de-operar-el-21-de-octubre-recuerda-banco-de-bogota",
-        "resumen": "Los clientes que llegaron al Banco de Bogotá como parte del proceso de integración con Itaú tendrán plazo hasta el próximo 21 de octubre de 2026 para utilizar sus tarjetas de crédito emitidas por esa entidad financiera",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Tarjetas de crédito Itaú dejarán de operar el 21 de octubre, recuerda Banco de Bogotá",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "EPM logra el sello de operación carbono neutral para sus actividades de energía en 2025",
-        "url": "https://www.dataifx.com/post/epm-obtiene-certificacion-de-operacion-carbono-neutral-en-sus-negocios-de-energia-durante-2025",
-        "resumen": "Los negocios de generación, transmisión y distribución de energía de EPM obtuvieron la certificación de operación carbono neutral correspondiente a 2025, un reconocimiento que, según la empresa, acredita la implementación de medidas para medir, reducir y compensar las emisiones de gases de efecto invernadero asociadas a estas actividades",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EPM obtiene certificación de operación carbono neutral en sus negocios de energía durante 2025",
-        "capturado": "2026-10-15T11:45:16-05:00"
-      },
-      {
-        "titulo": "Capital externo en la zona de Bogotá llegó a 456 millones de dólares entre enero y junio de 2026",
-        "url": "https://www.dataifx.com/post/inversion-extranjera-en-bogota-region-alcanzo-us456-millones-entre-enero-y-junio-de-2026",
-        "resumen": "Bogotá y los municipios de su área de influencia concentraron cerca de la mitad de los proyectos de inversión extranjera directa (IED) que llegaron al país durante el primer semestre de 2026, de acuerdo con un análisis divulgado por Invest in Bogotá",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inversión extranjera en Bogotá-Región alcanzó US$456 millones entre enero y junio de 2026",
-        "capturado": "2026-10-15T11:45:16-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Títulos de Nu Holdings caen casi un 18% tras comicios en Brasil",
+        "url": "https://www.dataifx.com/post/acciones-de-nu-holdings-se-desploman-cerca-de-18-tras-resultado-electoral-en-brasil",
+        "resumen": "Las acciones de Nu Holdings, matriz de Nubank, registraron una fuerte caída en los mercados internacionales luego de la victoria de Luiz Inácio Lula da Silva en la segunda vuelta presidencial de Brasil, reflejando la reacción de los inversionistas frente al inesperado resultado electoral y al aumento de la incertidumbre sobre el panorama económico del país",
+        "autor": "",
+        "subseccion": "Acciones",
+        "publicacion": "",
+        "titulo_fuente": "Acciones de Nu Holdings se desploman cerca de 18% tras resultado electoral en Brasil",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
+      {
+        "titulo": "GEB y La Caisse concluyen acuerdo para fusionar activos de energía eléctrica brasileños",
+        "url": "https://www.dataifx.com/post/geb-y-la-caisse-finalizan-transaccion-para-integrar-activos-de-transmision-electrica-en-brasil",
+        "resumen": "El Grupo Energía Bogotá (GEB) y La Caisse de Dépôt et Placement du Québec concretaron el cierre de la transacción anunciada en mayo de este año y formalizaron la creación de Verene Energia S",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "GEB y La Caisse finalizan transacción para integrar activos de transmisión eléctrica en Brasil",
+        "capturado": "2026-10-26T14:49:57-05:00"
+      },
       {
         "titulo": "Frisby España reporta la venta de 3,3 toneladas de pollo en su primer mes e inaugura otro local en Madrid",
         "url": "https://www.dataifx.com/post/frisby-espana-asegura-haber-vendido-33-toneladas-de-pollo-en-su-primer-mes-y-abre-nuevo-local-en",
