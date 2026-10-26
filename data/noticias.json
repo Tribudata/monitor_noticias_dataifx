@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-25T23:18:49-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-26T07:47:12-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El mandatario De La Espriella confirma que la Ley de Ajuste Fiscal se radicará en estos días",
+        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-sera-presentada-esta-semana-confirma-presidente-de-la-espriella",
+        "resumen": "El Gobierno Nacional presentará en los próximos días ante el Congreso una iniciativa denominada “ley de rescate”, con la que busca establecer una hoja de ruta para enfrentar los desafíos fiscales y presupuestales del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Ajuste Fiscal será presentada esta semana, confirma presidente De La Espriella",
+        "capturado": "2026-10-26T07:47:12-05:00"
+      },
       {
         "titulo": "Restrepo sugiere reforma fiscal de unos 70 billones y demanda frenar el despilfarro del gasto",
         "url": "https://www.dataifx.com/post/restrepo-plantea-ajuste-fiscal-cercano-70-billones-y-pide-frenar-el-derroche-del-gasto-publico",
@@ -443,16 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Congreso aprobó el Presupuesto General de la Nación de 2027 por $634,95 billones",
         "capturado": "2026-10-20T16:28:22-05:00"
-      },
-      {
-        "titulo": "BBVA habilitará pagos y giros en Bre-B usando el saldo de la tarjeta de crédito",
-        "url": "https://www.dataifx.com/post/bbva-permitira-hacer-pagos-y-transferencias-por-bre-b-con-el-cupo-de-la-tarjeta-de-credito",
-        "resumen": "BBVA incorporará una nueva alternativa para realizar pagos y transferencias mediante Bre-B, el sistema de pagos inmediatos en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "BBVA permitirá hacer pagos y transferencias por Bre-B con el cupo de la tarjeta de crédito",
-        "capturado": "2026-10-20T11:42:45-05:00"
       }
     ],
     "Macro Internacional": [
