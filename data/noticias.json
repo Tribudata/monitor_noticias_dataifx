@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-27T12:58:24-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-10-27T17:02:13-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "MinHacienda avala mover dineros del metro capitalino para suplir la emergencia energética caribeña",
+        "url": "https://www.dataifx.com/post/minhacienda-defiende-traslado-de-recursos-del-metro-de-bogota-para-atender-crisis-electrica-en-el",
+        "resumen": "El ministro de Hacienda, Miguel Gómez Martínez, defendió la decisión del Gobierno Nacional de reprogramar recursos previstos para la primera línea del metro de Bogotá y destinarlos a atender la situación financiera del sector eléctrico, en medio de las preocupaciones por el abastecimiento de energía en la región Caribe",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda defiende traslado de recursos del metro de Bogotá para atender crisis eléctrica en el Caribe",
+        "capturado": "2026-10-27T17:02:13-05:00"
+      },
+      {
+        "titulo": "Administración nacional pretende dineros de la calle 13 y el metro capitalino para la emergencia de energía",
+        "url": "https://www.dataifx.com/post/gobierno-busca-recursos-de-la-calle-13-y-el-metro-de-bogota-para-atender-la-crisis-electrica",
+        "resumen": "El Gobierno Nacional solicitó al Congreso de la República aprobar modificaciones al Presupuesto General de la Nación de 2026 por $3,9 billones, con el propósito de atender la situación financiera del sector eléctrico y financiar las acciones de atención y reconstrucción de las zonas afectadas por el terremoto",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca recursos de la calle 13 y el metro de Bogotá para atender la crisis eléctrica",
+        "capturado": "2026-10-27T17:02:13-05:00"
+      },
       {
         "titulo": "EPM solicita más tiempo para cubrir pasivo de Afinia y prevenir apagones energéticos en la región Caribe",
         "url": "https://www.dataifx.com/post/epm-busca-plazo-adicional-para-pagar-deuda-de-afinia-y-evitar-posibles-cortes-de-energia-en-el",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Almacenamiento de energía en Colombia: regulación y financiación, los retos para desarrollar nuevos proyectos",
         "capturado": "2026-10-21T13:31:23-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo señala que expertos elevan su pronóstico de tasas de interés para diciembre de 2026",
-        "url": "https://www.dataifx.com/post/analistas-aumentan-expectativa-de-tasas-para-diciembre-de-2026-fedesarrollo",
-        "resumen": "Las expectativas de los analistas del mercado financiero apuntan a un escenario de crecimiento económico estable para Colombia hacia finales de 2026, aunque acompañado de mayores proyecciones de inflación, tasas de interés más altas y un dólar ligeramente más fuerte frente a lo previsto un mes atrás",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Analistas aumentan expectativa de tasas para diciembre de 2026: Fedesarrollo",
-        "capturado": "2026-10-21T13:31:23-05:00"
-      },
-      {
-        "titulo": "Administración nacional expedirá presupuesto de 2027 por 634,9 billones y lanza plan fiscal",
-        "url": "https://www.dataifx.com/post/gobierno-decretara-presupuesto-de-2027-por-6349-billones-y-anuncia-nueva-iniciativa-de-ajuste",
-        "resumen": "El Gobierno Nacional expedirá por decreto el Presupuesto General de la Nación para 2027 por un monto de $634,9 billones, con base en el proyecto presentado y las modificaciones discutidas y aprobadas en el primer debate de las comisiones económicas del Congreso de la República",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno decretará presupuesto de 2027 por $634,9 billones y anuncia nueva iniciativa de ajuste fiscal",
-        "capturado": "2026-10-21T13:31:23-05:00"
       }
     ],
     "Macro Internacional": [
@@ -678,6 +678,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Fundación Bolívar Davivienda y BID Lab lanzan llamado para fomentar la inversión de impacto en Colombia",
+        "url": "https://www.dataifx.com/post/fundacion-bolivar-davivienda-y-bid-lab-abren-convocatoria-para-impulsar-la-inversion-de-impacto-en",
+        "resumen": "La Fundación Bolívar Davivienda y BID Lab anunciaron una nueva convocatoria dirigida a inversionistas interesados en participar en proyectos de inversión de impacto en Colombia, un segmento que busca generar rentabilidad financiera junto con resultados sociales y ambientales medibles",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "​​​​​​​Fundación Bolívar Davivienda y BID Lab abren convocatoria para impulsar la inversión de impacto en Colombia",
+        "capturado": "2026-10-27T17:02:13-05:00"
+      },
+      {
+        "titulo": "Cafeteros de Huila destacan en Mundial de Baristas: ganador usó grano cosechado en Acevedo",
+        "url": "https://www.dataifx.com/post/cafe-de-huila-protagonista-en-mundial-de-baristas-campeon-utilizo-grano-cultivado-en-acevedo",
+        "resumen": "El café colombiano volvió a destacar en una de las competencias más importantes de la industria de cafés especiales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Café de Huila protagonista en Mundial de Baristas: campeón utilizó grano cultivado en Acevedo",
+        "capturado": "2026-10-27T17:02:13-05:00"
+      },
+      {
+        "titulo": "WTW pacta adquisición de la correduría de seguros de ARESS, pendiente de aval regulatorio",
+        "url": "https://www.dataifx.com/post/wtw-acuerda-compra-del-negocio-de-corretaje-de-seguros-de-aress-sujeto-aprobacion-regulatoria",
+        "resumen": "Willis Towers Watson (WTW) anunció la firma de un acuerdo para adquirir el negocio de corretaje de seguros de ARESS Corredores de Seguros S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "WTW acuerda compra del negocio de corretaje de seguros de ARESS, sujeto a aprobación regulatoria",
+        "capturado": "2026-10-27T17:02:13-05:00"
+      },
       {
         "titulo": "KOA entra a la Bolsa de Valores de Colombia en calidad de emisor de CDT",
         "url": "https://www.dataifx.com/post/koa-se-incorpora-la-bolsa-de-valores-de-colombia-como-emisor-de-cdt",
@@ -1097,36 +1127,6 @@
         "publicacion": "",
         "titulo_fuente": "Cámara de Comercio de Montería busca cooperación en Brasil para fortalecer el agro de Córdoba",
         "capturado": "2026-10-19T14:45:39-05:00"
-      },
-      {
-        "titulo": "Findeter coloca bonos ordinarios por $300.000 millones para financiar el progreso regional",
-        "url": "https://www.dataifx.com/post/findeter-emite-bonos-ordinarios-por-300000-millones-para-impulsar-desarrollo-de-regiones",
-        "resumen": "La Financiera de Desarrollo Territorial (Findeter) realizó una emisión de bonos ordinarios por $300",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Findeter emite bonos ordinarios por $300.000 millones para impulsar desarrollo de regiones",
-        "capturado": "2026-10-16T19:15:44-05:00"
-      },
-      {
-        "titulo": "Utilidades de la banca colombiana aumentaron 37,5% de enero a agosto",
-        "url": "https://www.dataifx.com/post/ganancias-de-bancos-en-colombia-crecieron-375-entre-enero-y-agosto",
-        "resumen": "Las utilidades de los bancos que operan en Colombia alcanzaron los $11,40 billones entre enero y agosto de 2026, consolidando una recuperación frente a los resultados observados un año atrás",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Ganancias de bancos en Colombia crecieron 37,5% entre enero y agosto",
-        "capturado": "2026-10-16T19:15:44-05:00"
-      },
-      {
-        "titulo": "MinTrabajo plantea modificaciones a ocho decretos laborales e inicia participación ciudadana",
-        "url": "https://www.dataifx.com/post/mintrabajo-propone-cambios-ocho-decretos-laborales-y-abre-consulta-publica",
-        "resumen": "El Ministerio del Trabajo puso a consideración de la ciudadanía ocho proyectos de decreto con los que busca ajustar disposiciones reglamentarias relacionadas con la reforma laboral, al considerar que algunas normas vigentes presentan inconsistencias jurídicas, problemas de técnica normativa o disposiciones que excederían los alcances establecidos por la ley",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "MinTrabajo propone cambios a ocho decretos laborales y abre consulta pública",
-        "capturado": "2026-10-16T15:50:50-05:00"
       }
     ],
     "Empresas Internacional": [
