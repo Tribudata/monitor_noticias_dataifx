@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-27T07:06:14-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-27T12:58:24-05:00",
+  "nuevos_en_esta_corrida": 11,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "EPM solicita más tiempo para cubrir pasivo de Afinia y prevenir apagones energéticos en la región Caribe",
+        "url": "https://www.dataifx.com/post/epm-busca-plazo-adicional-para-pagar-deuda-de-afinia-y-evitar-posibles-cortes-de-energia-en-el",
+        "resumen": "El Grupo EPM adelanta gestiones con la Comisión de Regulación de Energía y Gas (Creg), el Gobierno Nacional y entidades financieras para conseguir los recursos que permitan atender las obligaciones de Afinia y evitar una eventual limitación del suministro eléctrico en varios departamentos de la Costa Caribe",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EPM busca plazo adicional para pagar deuda de Afinia y evitar posibles cortes de energía en el Caribe",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "ANDEG calcula seis jornadas para arreglar desperfecto en SPEC y previene desabastecimiento gasífero",
+        "url": "https://www.dataifx.com/post/andeg-preve-seis-dias-para-reparar-falla-en-spec-y-espera-evitar-faltantes-de-gas-en-colombia",
+        "resumen": "La Asociación Nacional de Empresas Generadoras (ANDEG) espera que las gestiones para conseguir gas adicional de campos de producción nacional permitan atender la demanda durante la contingencia operativa que afecta a la terminal de regasificación de Cartagena, operada por SPEC",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANDEG prevé seis días para reparar falla en SPEC y espera evitar faltantes de gas en Colombia",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "Nación efectúa colocación sin precedentes de bonos por 5.200 millones de dólares para el gasto de 2026",
+        "url": "https://www.dataifx.com/post/colombia-completa-emision-historica-de-bonos-por-us5200-millones-para-financiar-presupuesto-de-2026",
+        "resumen": "La República de Colombia colocó US$5",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia completa emisión histórica de bonos por US$5.200 millones para financiar presupuesto de 2026",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "BBVA valida cifras de la colocación externa de títulos valores colombianos por 5.200 millones de USD",
+        "url": "https://www.dataifx.com/post/bbva-confirma-resultados-de-emision-internacional-de-bonos-de-colombia-por-us5200-millones",
+        "resumen": "La República de Colombia concluyó una emisión internacional de bonos por US$5",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "BBVA confirma resultados de emisión internacional de bonos de Colombia por US$5.200 millones",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "Administración decreta escasez controlada de gas tras merma operativa en la infraestructura de SPEC",
+        "url": "https://www.dataifx.com/post/gobierno-declara-racionamiento-programado-de-gas-tras-reduccion-en-la-capacidad-de-spec",
+        "resumen": "Colombia entró nuevamente en un esquema de racionamiento programado de gas natural luego de que una contingencia operativa en la terminal de importación y regasificación de gas de Cartagena obligara a reducir temporalmente la oferta disponible para atender la demanda nacional",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno declara racionamiento programado de gas tras reducción en la capacidad de SPEC",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
       {
         "titulo": "Creditop pacta más de US$100 millones con bancos y proyecta incorporar 5.000 comercios",
         "url": "https://www.dataifx.com/post/creditop-acuerda-mas-de-us100-millones-con-entidades-financieras-y-busca-sumar-5000-comercios",
@@ -403,59 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno decretará presupuesto de 2027 por $634,9 billones y anuncia nueva iniciativa de ajuste fiscal",
         "capturado": "2026-10-21T13:31:23-05:00"
-      },
-      {
-        "titulo": "MinHacienda pide al Congreso avalar 1,2 billones para subsidios de luz y prevenir un apagón",
-        "url": "https://www.dataifx.com/post/minhacienda-urge-al-congreso-aprobar-12-billones-para-subsidios-electricos-y-evitar-un-apagon",
-        "resumen": "El ministro de Hacienda y Crédito Público, Miguel Gómez Martínez, pidió al Congreso de la República agilizar la aprobación de una adición presupuestal por $1,2 billones destinada a atender los subsidios eléctricos y contribuir a prevenir un eventual apagón en el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda urge al Congreso a aprobar $1,2 billones para subsidios eléctricos y evitar un apagón",
-        "capturado": "2026-10-21T08:39:03-05:00"
-      },
-      {
-        "titulo": "Presupuesto de 2027: discrepancias entre Senado y Cámara generan discusión sobre el trámite",
-        "url": "https://www.dataifx.com/post/presupuesto-de-2027-diferencias-entre-senado-y-camara-abren-debate-sobre-la-validez-del-tramite",
-        "resumen": "La aprobación del Presupuesto General de la Nación (PGN) para 2027 quedó bajo cuestionamiento por una posible diferencia entre los textos votados por el Senado y la Cámara de Representantes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presupuesto de 2027: diferencias entre Senado y Cámara abren debate sobre la validez del trámite",
-        "capturado": "2026-10-21T08:39:03-05:00"
-      },
-      {
-        "titulo": "Enel Colombia finaliza el parque solar más grande del territorio con el inicio de Atlántico",
-        "url": "https://www.dataifx.com/post/enel-colombia-completa-el-complejo-solar-mas-grande-del-pais-con-la-entrada-en-operacion-de",
-        "resumen": "Enel Colombia declaró la operación comercial del parque solar Atlántico, de 256 megavatios de corriente continua (MWdc), con lo que completó el complejo de generación solar de mayor capacidad instalada del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Enel Colombia completa el complejo solar más grande del país con la entrada en operación de Atlántico",
-        "capturado": "2026-10-21T08:39:03-05:00"
-      },
-      {
-        "titulo": "Colombia vuelve a la red Egmont de inteligencia financiera tras cerca de veinticuatro meses suspendida",
-        "url": "https://www.dataifx.com/post/colombia-restablece-conexion-con-red-internacional-de-inteligencia-financiera-egmont-tras-casi-dos",
-        "resumen": "La Unidad de Información y Análisis Financiero (UIAF) informó que Colombia recuperó el acceso al canal seguro de intercambio de información del Grupo Egmont, una red que reúne a unidades de inteligencia financiera de distintos países y que permite compartir datos relacionados con posibles operaciones de lavado de activos, financiación del terrorismo y otros delitos económicos",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia restablece conexión con red internacional de inteligencia financiera Egmont tras casi dos años de suspensión",
-        "capturado": "2026-10-20T19:29:31-05:00"
-      },
-      {
-        "titulo": "Littio dará réditos de hasta el 12,5 % E.A. sobre pesos digitales en suelo colombiano",
-        "url": "https://www.dataifx.com/post/littio-ofrecera-recompensas-de-hasta-125-ea-en-pesos-digitales-en-colombia",
-        "resumen": "Littio, plataforma tecnológica colombiana de servicios con monedas digitales, anunció cambios en las recompensas potenciales que ofrece por mantener recursos en pesos colombianos digitales (COPM)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Littio ofrecerá recompensas de hasta 12,5 % E.A. en pesos digitales en Colombia",
-        "capturado": "2026-10-20T19:29:31-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Lula contesta a De la Espriella y propone cooperar con Colombia a pesar de distancias ideológicas",
+        "url": "https://www.dataifx.com/post/lula-responde-de-la-espriella-y-plantea-trabajar-con-colombia-pese-diferencias-ideologicas",
+        "resumen": "El presidente de Brasil, Luiz Inácio Lula da Silva, respondió al mensaje enviado por el presidente colombiano, Abelardo de la Espriella, tras los resultados de las elecciones brasileñas, y manifestó su disposición a trabajar conjuntamente con Colombia en temas de interés compartido, a pesar de las diferencias ideológicas existentes entre ambos gobiernos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Lula responde a De la Espriella y plantea trabajar con Colombia pese a diferencias ideológicas",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "SPEC disminuye de manera transitoria su caudal de regasificación por labores de mantenimiento en Cartagena",
+        "url": "https://www.dataifx.com/post/spec-reduce-temporalmente-su-capacidad-de-regasificacion-por-trabajos-correctivos-en-cartagena",
+        "resumen": "La operación de la terminal de regasificación de gas natural licuado (GNL) de Cartagena continuará funcionando con capacidad reducida mientras se realizan trabajos correctivos en uno de los sistemas de la unidad flotante de almacenamiento y regasificación (FSRU), según informó SPEC LNG",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "SPEC reduce temporalmente su capacidad de regasificación por trabajos correctivos en Cartagena",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
       {
         "titulo": "Mandatario De La Espriella acepta victoria de Lula y llama a respetar la voluntad de los brasileños",
         "url": "https://www.dataifx.com/post/presidente-de-la-espriella-reconoce-triunfo-de-lula-y-pide-respetar-la-decision-de-los-brasilenos",
@@ -658,6 +678,36 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "KOA entra a la Bolsa de Valores de Colombia en calidad de emisor de CDT",
+        "url": "https://www.dataifx.com/post/koa-se-incorpora-la-bolsa-de-valores-de-colombia-como-emisor-de-cdt",
+        "resumen": "KOA Compañía de Financiamiento anunció su incorporación a la Bolsa de Valores de Colombia (bvc) como emisor de Certificados de Depósito a Término (CDT), una decisión con la que busca fortalecer su estrategia de captación de recursos para respaldar el crecimiento de su cartera de crédito y ampliar su presencia en el mercado financiero colombiano",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "KOA se incorpora a la Bolsa de Valores de Colombia como emisor de CDT",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "Aseguradoras pagaron más de $1 billón por sismo y las reclamaciones superan los $7,1 billones",
+        "url": "https://www.dataifx.com/post/aseguradoras-han-pagado-mas-de-1-billon-por-danos-del-terremoto-reclamaciones-ya-superan-los-71",
+        "resumen": "Más de dos meses después del terremoto registrado el 10 de agosto, las compañías de seguros han desembolsado $1,08 billones en indemnizaciones a personas, empresas y copropiedades afectadas por el sismo, mientras continúan recibiendo reclamaciones cuyo valor estimado ya supera los $7,1 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras han pagado más de $1 billón por daños del terremoto; reclamaciones ya superan los $7,1 billones",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
+      {
+        "titulo": "Gobierno decreta racionamiento programado de gas tras caída en la capacidad de SPEC",
+        "url": "https://www.dataifx.com/post/gobierno-declara-racionamiento-programado-de-gas-tras-reduccion-en-la-capacidad-de-spec",
+        "resumen": "Colombia entró nuevamente en un esquema de racionamiento programado de gas natural luego de que una contingencia operativa en la terminal de importación y regasificación de gas de Cartagena obligara a reducir temporalmente la oferta disponible para atender la demanda nacional",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno declara racionamiento programado de gas tras reducción en la capacidad de SPEC",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
       {
         "titulo": "AMV expide una nueva certificación en riesgos financieros dirigida a expertos del área",
         "url": "https://www.dataifx.com/post/amv-lanza-nueva-certificacion-en-riesgos-financieros-para-profesionales-del-sector",
@@ -1077,39 +1127,19 @@
         "publicacion": "",
         "titulo_fuente": "MinTrabajo propone cambios a ocho decretos laborales y abre consulta pública",
         "capturado": "2026-10-16T15:50:50-05:00"
-      },
-      {
-        "titulo": "Presto continuará funcionando a pesar de su ingreso a proceso de liquidación judicial",
-        "url": "https://www.dataifx.com/post/presto-seguira-operando-pese-entrar-en-liquidacion-judicial",
-        "resumen": "La cadena de restaurantes Presto continuará operando mientras avanza el proceso de liquidación judicial de Franquicias y Concesiones S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presto seguirá operando pese a entrar en liquidación judicial",
-        "capturado": "2026-10-16T15:50:50-05:00"
-      },
-      {
-        "titulo": "Supersociedades decreta la disolución de la sociedad que administra Presto",
-        "url": "https://www.dataifx.com/post/supersociedades-ordena-liquidacion-de-empresa-que-opera-presto",
-        "resumen": "La Superintendencia de Sociedades ordenó la apertura del proceso de liquidación judicial de Franquicias y Concesiones S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Supersociedades ordena liquidación de empresa que opera Presto",
-        "capturado": "2026-10-16T12:55:28-05:00"
-      },
-      {
-        "titulo": "FNC abrirá en 2027 su primer hotel situado en el Quindío",
-        "url": "https://www.dataifx.com/post/fnc-inaugurara-en-2027-su-primer-hotel-ubicado-en-el-quindio",
-        "resumen": "La Federación Nacional de Cafeteros (FNC) anunció que en 2027 pondrá en funcionamiento su primer hotel, un proyecto que se desarrolla en el municipio de Montenegro, Quindío, y que forma parte de las actividades previstas para conmemorar los 100 años de creación del gremio cafetero",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FNC inaugurará en 2027 su primer hotel, ubicado en el Quindío",
-        "capturado": "2026-10-16T12:55:28-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Inversionistas replantean panorama brasileño y bolsas recuperan parte del terreno perdido",
+        "url": "https://www.dataifx.com/post/inversionistas-reevaluan-escenario-en-brasil-y-mercados-recuperan-parte-de-las-perdidas",
+        "resumen": "Los activos financieros de Brasil registran movimientos de recuperación en la segunda jornada bursátil posterior a las elecciones presidenciales que dieron un nuevo mandato a Luiz Inácio Lula da Silva",
+        "autor": "",
+        "subseccion": "Acciones",
+        "publicacion": "",
+        "titulo_fuente": "Inversionistas reevalúan escenario en Brasil y mercados recuperan parte de las pérdidas",
+        "capturado": "2026-10-27T12:58:24-05:00"
+      },
       {
         "titulo": "Títulos de Nu Holdings caen casi un 18% tras comicios en Brasil",
         "url": "https://www.dataifx.com/post/acciones-de-nu-holdings-se-desploman-cerca-de-18-tras-resultado-electoral-en-brasil",
