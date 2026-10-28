@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-28T00:10:46-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-28T07:33:32-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
       {
@@ -457,6 +457,16 @@
     ],
     "Macro Internacional": [
       {
+        "titulo": "Banco de la Reserva Federal apunta a dejar tipos firmes, pero la bolsa prevé un incremento para diciembre",
+        "url": "https://www.dataifx.com/post/fed-se-encamina-mantener-tasas-estables-mientras-el-mercado-sigue-apostando-por-un-aumento-en",
+        "resumen": "La Reserva Federal de Estados Unidos (Fed) anunciará este miércoles su decisión de política monetaria en medio de expectativas generalizadas de que mantendrá sin cambios las tasas de interés, poniendo una pausa temporal al ciclo de endurecimiento monetario que ha marcado los últimos meses",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fed se encamina a mantener tasas estables, mientras el mercado sigue apostando por un aumento en diciembre",
+        "capturado": "2026-10-28T07:33:32-05:00"
+      },
+      {
         "titulo": "Lula contesta a De la Espriella y propone cooperar con Colombia a pesar de distancias ideológicas",
         "url": "https://www.dataifx.com/post/lula-responde-de-la-espriella-y-plantea-trabajar-con-colombia-pese-diferencias-ideologicas",
         "resumen": "El presidente de Brasil, Luiz Inácio Lula da Silva, respondió al mensaje enviado por el presidente colombiano, Abelardo de la Espriella, tras los resultados de las elecciones brasileñas, y manifestó su disposición a trabajar conjuntamente con Colombia en temas de interés compartido, a pesar de las diferencias ideológicas existentes entre ambos gobiernos",
@@ -678,6 +688,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "El diez de noviembre de dos mil veintiséis Ecopetrol dará a conocer sus cifras del tercer trimestre",
+        "url": "https://www.dataifx.com/post/ecopetrol-presentara-resultados-del-tercer-trimestre-de-2026-el-10-de-noviembre",
+        "resumen": "Ecopetrol informó las fechas en las que dará a conocer sus resultados financieros y operativos correspondientes al tercer trimestre de 2026",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol presentará resultados del tercer trimestre de 2026 el 10 de noviembre",
+        "capturado": "2026-10-28T07:33:32-05:00"
+      },
       {
         "titulo": "Fundación Bolívar Davivienda y BID Lab lanzan llamado para fomentar la inversión de impacto en Colombia",
         "url": "https://www.dataifx.com/post/fundacion-bolivar-davivienda-y-bid-lab-abren-convocatoria-para-impulsar-la-inversion-de-impacto-en",
@@ -1116,16 +1136,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Exportaciones de café colombiano cayeron 13,8% hasta septiembre por menores despachos y revaluación del peso",
-        "capturado": "2026-10-19T14:45:39-05:00"
-      },
-      {
-        "titulo": "Cámara de Comercio de Montería procura alianza con Brasil para impulsar el agro cordobés",
-        "url": "https://www.dataifx.com/post/camara-de-comercio-de-monteria-busca-cooperacion-en-brasil-para-fortalecer-el-agro-de-cordoba",
-        "resumen": "La Cámara de Comercio de Montería firma un memorando de cooperación con el Instituto de Pesquisas Energéticas Nucleares (IPEN), de Brasil, para identificar oportunidades de formación, intercambio técnico y transferencia de conocimiento que contribuyan al fortalecimiento del sector agropecuario de Córdoba",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cámara de Comercio de Montería busca cooperación en Brasil para fortalecer el agro de Córdoba",
         "capturado": "2026-10-19T14:45:39-05:00"
       }
     ],
