@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-28T14:25:20-05:00",
+  "actualizado": "2026-10-28T18:57:47-05:00",
   "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Galán asegura que los dineros para el Metro y la Calle 13 están asegurados",
+        "url": "https://www.dataifx.com/post/galan-afirma-que-los-recursos-del-metro-y-la-calle-13-estan-garantizados",
+        "resumen": "Al término del Consejo de Seguridad y de la jornada de trabajo con el Gobierno Nacional, el alcalde Mayor de Bogotá, Carlos Fernando Galán, reiteró que la reprogramación de vigencias futuras para la Línea 1 del Metro y la Calle 13 no representa una reducción de los recursos comprometidos para esas obras",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Galán afirma que los recursos del Metro y la Calle 13 están garantizados",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Empleadas del servicio doméstico participarán por primera vez en el debate del salario mínimo de 2027",
+        "url": "https://www.dataifx.com/post/trabajadoras-domesticas-entraran-por-primera-vez-la-discusion-del-salario-minimo-de-2027",
+        "resumen": "Las organizaciones de trabajadoras domésticas participarán por primera vez en los espacios de concertación del salario mínimo de 2027, tras una invitación anunciada por la ministra del Trabajo, Natalia Eugenia López Fuentes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Trabajadoras domésticas entrarán por primera vez a la discusión del salario mínimo de 2027",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Superintendencia de Industria y Comercio requiere a nueve térmicas por supuestas fallas en el envío de electricidad",
+        "url": "https://www.dataifx.com/post/sic-pide-explicaciones-nueve-generadoras-termicas-por-posibles-incumplimientos-en-el-suministro-de",
+        "resumen": "La Superintendencia de Industria y Comercio (SIC) requirió a nueve empresas generadoras de energía térmica en Colombia para recopilar información sobre posibles incumplimientos en la entrega de electricidad al Sistema Interconectado Nacional y verificar si estas situaciones podrían comprometer las condiciones de competencia en el mercado energético, en el contexto del fenómeno de El Niño",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "SIC pide explicaciones a nueve generadoras térmicas por posibles incumplimientos en el suministro de energía",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Grupo Argos obtendrá 183.000 millones de pesos de Odinsa y consolida su plan financiero",
+        "url": "https://www.dataifx.com/post/grupo-argos-recibira-183000-millones-de-odinsa-y-refuerza-su-estrategia-de-asignacion-de-capital",
+        "resumen": "Grupo Argos recibirá cerca de COP 183",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos recibirá $183.000 millones de Odinsa y refuerza su estrategia de asignación de capital",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Ministerio de Minas afirma que el Ejecutivo pretende reactivar la extracción de carbón y elevar las regalías departamentales",
+        "url": "https://www.dataifx.com/post/gobierno-busca-recuperar-la-produccion-de-carbon-y-aumentar-las-regalias-para-las-regiones",
+        "resumen": "La ministra de Minas y Energía, María Nohemí, aseguró que el Gobierno buscará recuperar la producción de carbón en Colombia, fortalecer su aporte a la seguridad energética y aumentar los recursos que recibe el país por concepto de regalías",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno busca recuperar la producción de carbón y aumentar las regalías para las regiones: minEnergía",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Centro Democrático presenta iniciativa para reorganizar el modelo de pensiones mediante cuatro pilares",
+        "url": "https://www.dataifx.com/post/centro-democratico-radica-proyecto-para-reestructurar-el-sistema-pensional-en-cuatro-pilares",
+        "resumen": "Congresistas del Centro Democrático radicaron en el Senado de la República un proyecto de ley que modifica la Ley 2381 de 2024, la norma que regula el Sistema de Protección Social Integral para la Vejez, Invalidez y Muerte de origen común",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático radica proyecto para reestructurar el sistema pensional en cuatro pilares",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
       {
         "titulo": "Centro Democrático sugiere modificaciones al modelo pensional para restaurar la libre selección de usuarios",
         "url": "https://www.dataifx.com/post/centro-democratico-propone-cambios-al-sistema-pensional-para-recuperar-la-libre-eleccion-de-los",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "CARF advierte que el gasto público aumenta y la caja del Tesoro sigue por debajo de su promedio histórico",
         "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "Tarifas de transporte intermunicipal subieron 8,08% al tercer trimestre por alzas en salarios, peajes y combustible",
-        "url": "https://www.dataifx.com/post/costos-del-transporte-intermunicipal-crecieron-808-en-el-tercer-trimestre-por-incrementos-en-mano",
-        "resumen": "El Índice de Costos del Transporte Intermunicipal de Pasajeros (ICTIP) registró una variación anual de 8,08% en el tercer trimestre de 2026 frente al mismo periodo de 2025, impulsada principalmente por el aumento de los costos fijos, según informó el Departamento Administrativo Nacional de Estadística (DANE)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Costos del transporte intermunicipal crecieron 8,08% en el tercer trimestre por incrementos en mano de obra, peajes y combustibles",
-        "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "Asomicrofinanzas solicita mayor acceso al crédito legal y alerta sobre la expansión del gota a gota en el país",
-        "url": "https://www.dataifx.com/post/asomicrofinanzas-pide-ampliar-el-acceso-al-credito-formal-y-advierte-sobre-el-alcance-del-gota-gota",
-        "resumen": "La ampliación del acceso al crédito formal, la financiación de los micronegocios y el desarrollo de herramientas tecnológicas para el sector financiero son algunos de los asuntos que marcan la agenda del 16",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Asomicrofinanzas pide ampliar el acceso al crédito formal y advierte sobre el alcance del ‘gota a gota’ en Colombia",
-        "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "Asobancaria señala que la correcta administración de riesgos y el crédito son vitales para retomar el crecimiento y la inversión",
-        "url": "https://www.dataifx.com/post/el-credito-y-la-adecuada-gestion-de-riesgos-son-claves-para-recuperar-la-inversion-y-el-crecimiento",
-        "resumen": "Durante el discurso de instalación del 24° Congreso de Riesgos, Jonathan Malagón, presidente de la Asociación Bancaria y de Entidades Financieras de Colombia (Asobancaria), destacó algunos indicadores que dan cuenta del deterioro de las finanzas públicas del país en los últimos años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "El crédito y la adecuada gestión de riesgos son claves para recuperar la inversión y el crecimiento: Asobancaria",
-        "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "Banco de la República: Intereses elevados afectan la construcción y reducirlos depende de la inflación",
-        "url": "https://www.dataifx.com/post/gerente-banrep-tasas-altas-son-un-problema-para-la-construccion-pero-bajarlas-depende-de-la",
-        "resumen": "Durante su intervención en el Congreso Colombiano de la Construcción de Camacol en el que dataiFX está presente, el gerente del Banco de la República, Leonardo Villar, reconoció que las actuales tasas de interés representan una dificultad para sectores como la construcción y admitió que le gustaría que existieran las condiciones para reducirlas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gerente BanRep: Tasas altas son un problema para la construcción, pero bajarlas depende de la inflación",
-        "capturado": "2026-10-22T12:06:41-05:00"
-      },
-      {
-        "titulo": "Armando José Cuello Navarro asume como vicepresidente ejecutivo de Energías para la Transición en Ecopetrol",
-        "url": "https://www.dataifx.com/post/ecopetrol-nombra-armando-jose-cuello-navarro-como-vicepresidente-ejecutivo-de-energias-para-la",
-        "resumen": "Ecopetrol anunció el nombramiento de Armando José Cuello Navarro como vicepresidente ejecutivo de Energías para la Transición, una decisión aprobada por la Junta Directiva de la compañía en el marco de los cambios en su equipo de alta gerencia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ecopetrol nombra a Armando José Cuello Navarro como vicepresidente ejecutivo de Energías para la Transición",
-        "capturado": "2026-10-22T12:06:41-05:00"
-      },
-      {
-        "titulo": "Alejandro Ordóñez releva a Rodrigo Lara al frente del Ministerio del Interior",
-        "url": "https://www.dataifx.com/post/rodrigo-lara-sale-del-ministerio-del-interior-y-alejandro-ordonez-asumira-la-cartera",
-        "resumen": "El presidente de la República, Abelardo de la Espriella, anunció la salida de Rodrigo Lara Restrepo del Ministerio del Interior y confirmó que Alejandro Ordóñez Maldonado asumirá la dirección de esa cartera",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Rodrigo Lara sale del Ministerio del Interior y Alejandro Ordóñez asumirá la cartera",
-        "capturado": "2026-10-22T12:06:41-05:00"
       }
     ],
     "Macro Internacional": [
@@ -698,6 +698,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Colombia es designada oficialmente en Panamá como sede del World of Coffee 2027",
+        "url": "https://www.dataifx.com/post/colombia-recibe-en-panama-la-designacion-oficial-como-sede-del-world-coffee-2027",
+        "resumen": "Colombia fue ratificada oficialmente como sede del World of Coffee 2027, uno de los eventos más relevantes de la industria global de cafés especiales, durante la edición 2026 de la feria realizada en Panamá",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia recibe en Panamá la designación oficial como sede del World of Coffee 2027",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
+      {
+        "titulo": "Odinsa respalda su labor en Autopistas del Café y detalla el proyecto Conexión Centro",
+        "url": "https://www.dataifx.com/post/odinsa-defiende-gestion-de-autopistas-del-cafe-y-aclara-alcance-de-la-iniciativa-conexion-centro",
+        "resumen": "En medio del debate sobre el futuro de la infraestructura vial en el Eje Cafetero, Odinsa Vías se pronunció sobre la etapa final de la concesión Autopistas del Café y el avance de la iniciativa privada Conexión Centro, dos proyectos que, según la compañía, han sido objeto de confusión en distintos escenarios públicos",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Odinsa defiende gestión de Autopistas del Café y aclara alcance de la iniciativa Conexión Centro",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
       {
         "titulo": "Con seis nuevos miembros y tres ratificados, ISA designa junta directiva para el periodo 2026-2028",
         "url": "https://www.dataifx.com/post/isa-elige-nueva-junta-directiva-para-2026-2028-con-seis-caras-nuevas-y-tres-integrantes-que",
@@ -1127,29 +1147,19 @@
         "publicacion": "",
         "titulo_fuente": "MinTrabajo lanza programa que entregará 25% de un salario mínimo por cada nuevo empleo formal",
         "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "Clientes de EPM tendrán opciones de pago fraccionado y financiación para sus obligaciones",
-        "url": "https://www.dataifx.com/post/usuarios-de-epm-podran-acceder-planes-de-financiacion-y-pagos-parciales-para-sus-deudas",
-        "resumen": "Los usuarios y clientes de EPM que tengan financiaciones con intereses calculados a partir de la DTF deberán prepararse para un cambio en la metodología utilizada para determinar esos cobros",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Usuarios de EPM podrán acceder a planes de financiación y pagos parciales para sus deudas",
-        "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "ISA comunica la salida de su directora de Riesgos y nombra un reemplazo temporal mientras sigue la selección",
-        "url": "https://www.dataifx.com/post/isa-anuncia-salida-de-directora-de-riesgos-y-designa-encargado-mientras-avanza-proceso-de-seleccion",
-        "resumen": "La compañía Interconexión Eléctrica S",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA anuncia salida de directora de Riesgos y designa encargado mientras avanza proceso de selección",
-        "capturado": "2026-10-19T23:26:33-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "176 iniciativas colombianas buscarán inversión extranjera en un evento en Nueva York",
+        "url": "https://www.dataifx.com/post/nueva-york-sera-la-vitrina-de-176-proyectos-colombianos-en-busca-de-capital-extranjero",
+        "resumen": "El Gobierno nacional anunció la realización de la primera edición de la Milagro Week, un encuentro que se llevará a cabo el próximo 16 de noviembre en Nueva York y que buscará conectar proyectos estratégicos colombianos con inversionistas, fondos de capital y empresas internacionales interesadas en desarrollar iniciativas en el país",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nueva York será la vitrina de 176 proyectos colombianos en busca de capital extranjero",
+        "capturado": "2026-10-28T18:57:47-05:00"
+      },
       {
         "titulo": "Inversionistas replantean panorama brasileño y bolsas recuperan parte del terreno perdido",
         "url": "https://www.dataifx.com/post/inversionistas-reevaluan-escenario-en-brasil-y-mercados-recuperan-parte-de-las-perdidas",
@@ -1389,16 +1399,6 @@
         "publicacion": "",
         "titulo_fuente": "LATAM Colombia y Qatar Airways acuerdan compartir códigos en rutas hacia Asia y Medio Oriente",
         "capturado": "2026-10-01T14:23:37-05:00"
-      },
-      {
-        "titulo": "176 iniciativas del país buscarán inversión foránea en territorio neoyorquino",
-        "url": "https://www.dataifx.com/post/nueva-york-sera-la-vitrina-de-176-proyectos-colombianos-en-busca-de-capital-extranjero",
-        "resumen": "El Gobierno nacional anunció la realización de la primera edición de la Milagro Week, un encuentro que se llevará a cabo el próximo 16 de noviembre en Nueva York y que buscará conectar proyectos estratégicos colombianos con inversionistas, fondos de capital y empresas internacionales interesadas en desarrollar iniciativas en el país",
-        "autor": "",
-        "subseccion": "Macro Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Nueva York será la vitrina de 176 proyectos colombianos en busca de capital extranjero",
-        "capturado": "2026-09-28T15:28:28-05:00"
       }
     ]
   }
