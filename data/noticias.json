@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-27T17:02:13-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-28T00:10:46-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Alcaldía afirma que recortes al presupuesto no bajan fondos destinados al Metro y la Calle 13",
+        "url": "https://www.dataifx.com/post/distrito-asegura-que-ajustes-presupuestales-no-reducen-aportes-para-la-calle-13-y-el-metro-de",
+        "resumen": "La secretaria distrital de Hacienda de Bogotá, Ana María Cadena, se pronunció sobre la discusión en torno a la reprogramación de recursos destinados a la construcción de la Calle 13 y la primera línea del Metro de Bogotá",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Distrito asegura que ajustes presupuestales no reducen aportes para la Calle 13 y el Metro de Bogotá",
+        "capturado": "2026-10-28T00:10:46-05:00"
+      },
+      {
+        "titulo": "Consumo eléctrico patrio subió 6,16 % en septiembre y marcó récord histórico de cada jornada",
+        "url": "https://www.dataifx.com/post/demanda-de-energia-en-colombia-crecio-616-en-septiembre-y-alcanzo-un-maximo-historico-diario",
+        "resumen": "La demanda de energía eléctrica en Colombia registró un crecimiento de 6,16 % en septiembre de 2026 frente al mismo mes del año anterior, al pasar de 7",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Demanda de energía en Colombia creció 6,16 % en septiembre y alcanzó un máximo histórico diario",
+        "capturado": "2026-10-28T00:10:46-05:00"
+      },
+      {
+        "titulo": "Administración nacional revela estrategia de trabajo formal y fija metas para bajar la informalidad",
+        "url": "https://www.dataifx.com/post/gobierno-anuncia-politica-nacional-de-empleo-formal-y-fija-metas-para-reducir-la-informalidad",
+        "resumen": "El presidente de la República, Abelardo De La Espriella, anunció que la reducción de la informalidad laboral será una de las prioridades del Gobierno nacional y solicitó al Ministerio del Trabajo poner en marcha una política nacional de empleo formal, con metas definidas, resultados verificables y seguimiento mensual",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno anuncia política nacional de empleo formal y fija metas para reducir la informalidad laboral",
+        "capturado": "2026-10-28T00:10:46-05:00"
+      },
+      {
+        "titulo": "Centro Democrático sugiere que los empleados escojan el fondo de aportes en la contrareforma pensional",
+        "url": "https://www.dataifx.com/post/centro-democratico-propone-que-los-trabajadores-puedan-elegir-donde-cotizar-en-la-contrarreforma",
+        "resumen": "El Centro Democrático prepara una iniciativa legislativa para modificar las reglas de la reforma pensional impulsada por el Gobierno de Gustavo Petro",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático propone que los trabajadores puedan elegir dónde cotizar en la contrarreforma pensional",
+        "capturado": "2026-10-28T00:10:46-05:00"
+      },
       {
         "titulo": "MinHacienda avala mover dineros del metro capitalino para suplir la emergencia energética caribeña",
         "url": "https://www.dataifx.com/post/minhacienda-defiende-traslado-de-recursos-del-metro-de-bogota-para-atender-crisis-electrica-en-el",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "El modelo TechFin gana terreno en América Latina con la integración de servicios financieros en plataformas digitales",
         "capturado": "2026-10-21T23:17:24-05:00"
-      },
-      {
-        "titulo": "GeoPark multiplica por tres su área en Vaca Muerta tras ganar el bloque Corralera Noreste",
-        "url": "https://www.dataifx.com/post/geopark-triplica-su-presencia-en-vaca-muerta-con-la-adjudicacion-del-bloque-corralera-noreste",
-        "resumen": "GeoPark amplió su posición en Vaca Muerta, Argentina, tras obtener la adjudicación del bloque Corralera Noreste, ubicado en la cuenca Neuquina, con lo que triplica su superficie en esta formación y suma un nuevo activo a su estrategia de crecimiento en el país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark triplica su presencia en Vaca Muerta con la adjudicación del bloque Corralera Noreste",
-        "capturado": "2026-10-21T23:17:24-05:00"
-      },
-      {
-        "titulo": "En septiembre subieron 6,13% los costos del transporte de carga terrestre impulsados por peajes y personal",
-        "url": "https://www.dataifx.com/post/costos-del-transporte-de-carga-por-carretera-aumentaron-613-en-septiembre-peajes-y-mano-de-obra",
-        "resumen": "Los costos asociados al transporte de carga por carretera en Colombia registraron un aumento anual de 6,13% en septiembre de 2026 frente al mismo mes de 2025, de acuerdo con los resultados más recientes del Índice de Costos del Transporte de Carga por Carretera (ICTC) publicados por el DANE",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Costos del transporte de carga por carretera aumentaron 6,13% en septiembre; peajes y mano de obra lideraron las alzas",
-        "capturado": "2026-10-21T23:17:24-05:00"
-      },
-      {
-        "titulo": "Bancolombia proyecta destinar mínimo un billón de pesos al año a energía y crecer en ese mercado",
-        "url": "https://www.dataifx.com/post/bancolombia-preve-invertir-al-menos-1-billon-anual-en-activos-energeticos-y-ampliar-su",
-        "resumen": "Bancolombia contempla destinar al menos $1 billón anual a activos energéticos en los que participe como accionista, a través de su negocio Renta y Uso, una estrategia con la que busca ampliar su presencia en el sector más allá de la financiación tradicional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bancolombia prevé invertir al menos $1 billón anual en activos energéticos y ampliar su participación en el sector",
-        "capturado": "2026-10-21T13:31:23-05:00"
-      },
-      {
-        "titulo": "Nuevos proyectos de almacenamiento energético en Colombia enfrentan desafíos en normas y créditos",
-        "url": "https://www.dataifx.com/post/almacenamiento-de-energia-en-colombia-regulacion-y-financiacion-los-retos-para-desarrollar-nuevos",
-        "resumen": "El almacenamiento de energía y su papel en la operación del sistema eléctrico colombiano fueron los ejes de un evento organizado por Unergy en Bucaramanga, en el que estuvo presente DataiFX",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Almacenamiento de energía en Colombia: regulación y financiación, los retos para desarrollar nuevos proyectos",
-        "capturado": "2026-10-21T13:31:23-05:00"
       }
     ],
     "Macro Internacional": [
