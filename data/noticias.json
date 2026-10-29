@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-29T00:34:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-29T07:44:05-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -699,6 +699,16 @@
     ],
     "Empresas Colombia": [
       {
+        "titulo": "Ventas externas de chocolates y confites en Colombia bajan 13,2% a pesar del empuje de plazas inéditas",
+        "url": "https://www.dataifx.com/post/exportaciones-colombianas-de-confiteria-y-chocolateria-caen-132-pese-impulso-de-nuevos-mercados",
+        "resumen": "La industria colombiana de confitería y chocolatería registró una caída en sus exportaciones durante los primeros ocho meses de 2026, aunque el aumento de las ventas hacia mercados de Perú, Centroamérica y África evidencia un proceso de diversificación que ha permitido compensar parcialmente la menor demanda de destinos tradicionales como Estados Unidos, Ecuador y Venezuela",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones colombianas de confitería y chocolatería caen 13,2%, pese a impulso de nuevos mercados",
+        "capturado": "2026-10-29T07:44:05-05:00"
+      },
+      {
         "titulo": "Colombia es designada oficialmente en Panamá como sede del World of Coffee 2027",
         "url": "https://www.dataifx.com/post/colombia-recibe-en-panama-la-designacion-oficial-como-sede-del-world-coffee-2027",
         "resumen": "Colombia fue ratificada oficialmente como sede del World of Coffee 2027, uno de los eventos más relevantes de la industria global de cafés especiales, durante la edición 2026 de la feria realizada en Panamá",
@@ -1136,16 +1146,6 @@
         "subseccion": "",
         "publicacion": "",
         "titulo_fuente": "Superfinanciera autoriza a Kapital crear una compañía de financiamiento para empresas",
-        "capturado": "2026-10-20T11:42:45-05:00"
-      },
-      {
-        "titulo": "MinTrabajo implementa iniciativa que dará un cuarto de salario mínimo por cada empleo formal",
-        "url": "https://www.dataifx.com/post/mintrabajo-lanza-programa-que-entregara-25-de-un-salario-minimo-por-cada-nuevo-empleo-formal",
-        "resumen": "El Ministerio del Trabajo anunció la puesta en marcha de “Crea Empleo”, una estrategia que busca estimular la generación de nuevos puestos de trabajo formal mediante incentivos económicos dirigidos a empresas que amplíen sus nóminas con nuevos trabajadores",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "MinTrabajo lanza programa que entregará 25% de un salario mínimo por cada nuevo empleo formal",
         "capturado": "2026-10-20T11:42:45-05:00"
       }
     ],
