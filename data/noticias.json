@@ -1,9 +1,39 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-29T18:53:22-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-30T00:21:44-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Gobierno plantea subir cotizaciones en salud conforme al sueldo laboral en el proyecto de Ley de Ajuste Fiscal",
+        "url": "https://www.dataifx.com/post/gobierno-propone-aumentar-los-aportes-salud-segun-los-ingresos-de-los-trabajadores-en-el-proyecto",
+        "resumen": "El Gobierno incluyó cambios en las cotizaciones al sistema de salud dentro del proyecto de Ley de Ajuste Fiscal, con el propósito de fortalecer las fuentes de financiación y responder a las presiones que enfrenta el sistema",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propone aumentar los aportes a salud según los ingresos de los trabajadores en el proyecto de Ley de Ajuste Fiscal",
+        "capturado": "2026-10-30T00:21:44-05:00"
+      },
+      {
+        "titulo": "Ley de Ajuste Fiscal: Ejecutivo evalúa enajenar bienes estatales para robustecer las finanzas públicas",
+        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-gobierno-contempla-vender-activos-estatales-para-fortalecer-las-finanzas",
+        "resumen": "La venta de activos del Estado hace parte de las herramientas que el Gobierno incluyó en el proyecto de Ley de Ajuste Fiscal para corregir el desequilibrio de las finanzas públicas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Ajuste Fiscal: Gobierno contempla vender activos estatales para fortalecer las finanzas públicas",
+        "capturado": "2026-10-30T00:21:44-05:00"
+      },
+      {
+        "titulo": "Ley de Ajuste Fiscal: Administración busca recortar gastos operativos y examinar fondos y giros del Estado",
+        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-gobierno-busca-reducir-gastos-de-funcionamiento-y-revisar-fondos-y",
+        "resumen": "El Gobierno incluyó la reducción y reorganización del gasto público entre los componentes centrales del proyecto de Ley de Ajuste Fiscal, con el que busca corregir los desequilibrios de las finanzas estatales y contener el crecimiento de la deuda",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Ajuste Fiscal: Gobierno busca reducir gastos de funcionamiento y revisar fondos y transferencias del Estado",
+        "capturado": "2026-10-30T00:21:44-05:00"
+      },
       {
         "titulo": "Gobierno plantea bajar la renta corporativa en la Ley de Ajuste Fiscal",
         "url": "https://www.dataifx.com/post/gobierno-propone-reducir-el-impuesto-de-renta-las-empresas-en-proyecto-de-ley-de-ajuste-fiscal",
@@ -423,36 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Colombia canjeó $10,3 billones de deuda pública y redujo vencimientos para 2026 y 2027",
         "capturado": "2026-10-23T17:59:42-05:00"
-      },
-      {
-        "titulo": "ANIF prevé que el Emisor subiría tipos al 12,50% en octubre con división en su Junta",
-        "url": "https://www.dataifx.com/post/banco-de-la-republica-elevaria-tasa-de-interes-1250-en-octubre-y-junta-directiva-estaria-dividida",
-        "resumen": "La mayoría de los analistas del mercado espera que la Junta Directiva del Banco de la República vuelva a aumentar su tasa de interés de referencia en la reunión de octubre y la ubique en 12,50%, en medio de un entorno marcado por una inflación que continúa acelerándose y por riesgos tanto internos como externos que siguen presionando los precios",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Banco de la República elevaría tasa de interés a 12,50% en octubre y Junta Directiva estaría dividida: ANIF",
-        "capturado": "2026-10-23T13:13:12-05:00"
-      },
-      {
-        "titulo": "Colombia llega a 49,6 millones de conexiones a internet móvil y sigue en expansión",
-        "url": "https://www.dataifx.com/post/la-conexion-sigue-creciendo-colombia-alcanza-496-millones-de-accesos-internet-movil",
-        "resumen": "Colombia cerró el segundo trimestre de 2026 con avances en varios de los principales indicadores de conectividad, impulsados por el crecimiento de los accesos a internet fijo y móvil, así como por la expansión de la tecnología 5G en el país, de acuerdo con los resultados del más reciente Boletín Trimestral TIC divulgado por el Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "La conexión sigue creciendo: Colombia alcanza 49,6 millones de accesos a internet móvil",
-        "capturado": "2026-10-23T13:13:12-05:00"
-      },
-      {
-        "titulo": "José Ignacio García Puche tomó posesión como superintendente de Servicios Públicos",
-        "url": "https://www.dataifx.com/post/jose-ignacio-garcia-puche-asumio-como-superintendente-de-servicios-publicos-domiciliarios",
-        "resumen": "José Ignacio García Puche asumió como nuevo superintendente de Servicios Públicos Domiciliarios, entidad encargada de vigilar y controlar la prestación de los servicios públicos en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "José Ignacio García Puche asumió como superintendente de Servicios Públicos Domiciliarios",
-        "capturado": "2026-10-23T13:13:12-05:00"
       }
     ],
     "Macro Internacional": [
