@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-30T14:06:29-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-30T18:33:59-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Grupo Nutresa finaliza la compra de La Universal y consolida su negocio en Ecuador",
+        "url": "https://www.dataifx.com/post/grupo-nutresa-completa-la-adquisicion-de-la-universal-y-fortalece-su-operacion-en-ecuador",
+        "resumen": "Grupo Nutresa concretó la adquisición de La Universal, luego de recibir la aprobación de las autoridades regulatorias de Ecuador",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Nutresa completa la adquisición de La Universal y fortalece su operación en Ecuador",
+        "capturado": "2026-10-30T18:33:59-05:00"
+      },
+      {
+        "titulo": "Fecoljuegos alista proyecto fiscal para apuestas y solicita concertación al Ejecutivo",
+        "url": "https://www.dataifx.com/post/fecoljuegos-prepara-propuesta-tributaria-para-juegos-de-azar-y-pide-dialogo-con-el-gobierno",
+        "resumen": "La Federación Colombiana de Empresarios de Juegos de Suerte y Azar (Fecoljuegos) prepara una propuesta tributaria para presentarla al Ministerio de Hacienda y al Congreso de la República, tras conocer las disposiciones del proyecto de Ley de Rescate Económico que contemplan medidas para los juegos de suerte y azar en sus modalidades online y localizados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fecoljuegos prepara propuesta tributaria para juegos de azar y pide diálogo con el Gobierno",
+        "capturado": "2026-10-30T18:33:59-05:00"
+      },
       {
         "titulo": "Banco de la República aprueba adquisición de US$2.000 millones al Gobierno para subir reservas",
         "url": "https://www.dataifx.com/post/junta-del-banco-de-la-republica-autoriza-compra-de-us2000-millones-al-gobierno-para-aumentar",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Creditop acuerda más de US$100 millones con entidades financieras y busca sumar 5.000 comercios",
         "capturado": "2026-10-26T18:41:35-05:00"
-      },
-      {
-        "titulo": "Avianca volará la ruta Barcelona-Abu Dabi para Etihad Airways hasta octubre de 2027",
-        "url": "https://www.dataifx.com/post/avianca-operara-la-ruta-barcelona-abu-dabi-para-etihad-airways-hasta-octubre-de-2027",
-        "resumen": "Avianca inició la operación de la ruta entre Barcelona, España, y Abu Dabi, en los Emiratos Árabes Unidos, para Etihad Airways, como parte de un acuerdo que se extenderá entre el 25 de octubre de 2026 y el 25 de octubre de 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Avianca operará la ruta Barcelona-Abu Dabi para Etihad Airways hasta octubre de 2027",
-        "capturado": "2026-10-26T18:41:35-05:00"
-      },
-      {
-        "titulo": "CAMACERO proyecta que el consumo de acero en Colombia subiría 9,3% en 2027 por el sismo",
-        "url": "https://www.dataifx.com/post/consumo-de-acero-en-colombia-creceria-93-en-2027-por-la-reconstruccion-tras-el-terremoto-proyecta",
-        "resumen": "El consumo aparente de acero en Colombia podría alcanzar 3,85 millones de toneladas en 2026 y aumentar a 4,21 millones de toneladas en 2027, de acuerdo con las proyecciones de la Cámara Colombiana del Acero (CAMACERO)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Consumo de acero en Colombia crecería 9,3% en 2027 por la reconstrucción tras el terremoto, proyecta CAMACERO",
-        "capturado": "2026-10-26T18:41:35-05:00"
       }
     ],
     "Macro Internacional": [
@@ -708,6 +708,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Superintendencia de Industria y Comercio avala fusión de Presto y Grupo Nutresa sin hallar peligros mercantiles",
+        "url": "https://www.dataifx.com/post/sic-autoriza-integracion-de-presto-con-grupo-nutresa-y-descarta-riesgos-para-la-competencia",
+        "resumen": "La Superintendencia de Industria y Comercio (SIC) autorizó la operación de integración empresarial entre Grupo Nutresa S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "SIC autoriza integración de Presto con Grupo Nutresa y descarta riesgos para la competencia",
+        "capturado": "2026-10-30T18:33:59-05:00"
+      },
+      {
+        "titulo": "Ventas de Grupo Nutresa subieron 0,4 por ciento y llegaron a 15,4 billones de pesos a septiembre",
+        "url": "https://www.dataifx.com/post/ingresos-de-grupo-nutresa-crecieron-04-y-alcanzaron-154-billones-al-cierre-de-septiembre",
+        "resumen": "La utilidad neta ajustada por gastos no recurrentes y diferencias en cambio no realizadas alcanzó $730",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos de Grupo Nutresa crecieron 0,4% y alcanzaron $15,4 billones al cierre de septiembre",
+        "capturado": "2026-10-30T18:33:59-05:00"
+      },
       {
         "titulo": "El país prevé un incremento de viajeros extranjeros para finalizar 2026 pese a indicios de menor ritmo",
         "url": "https://www.dataifx.com/post/colombia-espera-mas-turistas-internacionales-al-cierre-de-2026-aunque-persisten-senales-de",
@@ -1137,29 +1157,19 @@
         "publicacion": "",
         "titulo_fuente": "DIAN realizará subasta virtual de joyas, piedras preciosas y relojes entre el 19 y el 23 de octubre",
         "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "El Niño genera perspectiva negativa en la nota global de EPM ratificada por Moody's",
-        "url": "https://www.dataifx.com/post/moodys-mantiene-calificacion-internacional-de-epm-pero-cambia-su-perspectiva-negativa-por-el-nino",
-        "resumen": "La calificadora de riesgo Moody’s ratificó la calificación internacional de Empresas Públicas de Medellín (EPM) en Baa3, pero modificó su perspectiva de estable a negativa",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Moody’s mantiene calificación internacional de EPM, pero cambia su perspectiva a negativa por El Niño",
-        "capturado": "2026-10-21T23:17:24-05:00"
-      },
-      {
-        "titulo": "Para cubrir requerimientos de caja, GEB firmó un empréstito por 390.000 millones de pesos",
-        "url": "https://www.dataifx.com/post/geb-suscribio-credito-por-390000-millones-para-atender-necesidades-de-liquidez",
-        "resumen": "El Grupo Energía Bogotá (GEB) informó que el 21 de octubre de 2026 suscribió un crédito de tesorería con Bancolombia por $390",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "GEB suscribió crédito por $390.000 millones para atender necesidades de liquidez",
-        "capturado": "2026-10-21T23:17:24-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "CFI informó un monto histórico de transacciones por US$3,45 billones durante el tercer trimestre de 2026",
+        "url": "https://www.dataifx.com/post/cfi-reporto-volumen-record-de-operaciones-por-us345-billones-en-el-tercer-trimestre-de-2026",
+        "resumen": "CFI Financial Group informó que alcanzó un volumen de operaciones de US$3,45 billones durante el tercer trimestre de 2026, la cifra trimestral más alta registrada por la compañía desde su fundación",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CFI reportó volumen récord de operaciones por US$3,45 billones en el tercer trimestre de 2026",
+        "capturado": "2026-10-30T18:33:59-05:00"
+      },
       {
         "titulo": "176 iniciativas colombianas buscarán inversión extranjera en un evento en Nueva York",
         "url": "https://www.dataifx.com/post/nueva-york-sera-la-vitrina-de-176-proyectos-colombianos-en-busca-de-capital-extranjero",
