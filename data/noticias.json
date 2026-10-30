@@ -1,9 +1,99 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-30T07:35:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-30T14:06:29-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Banco de la República aprueba adquisición de US$2.000 millones al Gobierno para subir reservas",
+        "url": "https://www.dataifx.com/post/junta-del-banco-de-la-republica-autoriza-compra-de-us2000-millones-al-gobierno-para-aumentar",
+        "resumen": "La Junta Directiva del Banco de la República autorizó la compra directa de US$2",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Junta del Banco de la República autoriza compra de US$2.000 millones al Gobierno para aumentar reservas",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Banco de la República conserva estables las tasas de interés",
+        "url": "https://www.dataifx.com/post/banco-de-la-republica-mantiene-tasas-de-interes-estables",
+        "resumen": "La Junta Directiva del Banco de la República decidió mantener sin cambios la tasa de interés de política monetaria en 12,25%, una determinación que tomó por sorpresa a buena parte de los analistas, quienes anticipaban un nuevo incremento de 25 puntos básicos en la reunión de octubre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Banco de la República mantiene tasas de interés estables",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Banco de la República comunica determinación sobre tasas de interés en Colombia de octubre 2026",
+        "url": "https://www.dataifx.com/video/livedatifx-banco-de-la-republica-revela-decision-de-tasas-de-interes-en-colombia-correspondiente",
+        "resumen": "",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "#LiveDatiFX Banco de la República revela decisión de tasas de interés en Colombia correspondiente a octubre 2026",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Gobierno respalda reforma al IVA y afirma que 35 millones de colombianos no pagarán más tributo",
+        "url": "https://www.dataifx.com/post/gobierno-defiende-cambios-al-iva-y-asegura-que-35-millones-de-colombianos-no-tendran-una-mayor",
+        "resumen": "El Gobierno defendió los cambios al impuesto al valor agregado (IVA) incluidos en el proyecto de Ley de Rescate Económico y aseguró que la iniciativa no representará un aumento en la carga tributaria para la mayoría de los colombianos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno defiende cambios al IVA y asegura que 35 millones de colombianos no tendrán una mayor carga por el impuesto",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Ley de Ajuste Fiscal: Ejecutivo plantea quitar la exención de IVA a aparatos de energía solar",
+        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-gobierno-propone-retirar-la-exencion-de-iva-equipos-para-generar-energia-solar",
+        "resumen": "Los equipos utilizados para la generación de energía solar podrían perder su tratamiento de exención del impuesto al valor agregado (IVA) si se aprueba el proyecto de Ley de Ajuste Fiscal presentado por el Gobierno ante el Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Ajuste Fiscal: Gobierno propone retirar la exención de IVA a equipos para generar energía solar",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "En el noveno mes la desocupación en el país se redujo a 8 por ciento",
+        "url": "https://www.dataifx.com/post/en-septiembre-desempleo-en-colombia-bajo-al-8",
+        "resumen": "La tasa de desocupación en Colombia se ubicó en 8,0% durante septiembre de 2026, una ligera disminución frente al 8,2% registrado en el mismo mes del año anterior",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "En septiembre desempleo en Colombia bajó al 8%",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Ley de Ajuste Fiscal: Ejecutivo plantea subir de forma progresiva el gravamen al carbono y cambiar el IVA a combustibles",
+        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-gobierno-propone-aumentar-gradualmente-el-impuesto-al-carbono-y-modificar-el",
+        "resumen": "El proyecto de Ley de Ajuste Fiscal contempla cambios en la tributación de los combustibles, tanto a través del impuesto nacional al carbono como de las reglas del impuesto al valor agregado (IVA)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ley de Ajuste Fiscal: Gobierno propone aumentar gradualmente el impuesto al carbono y modificar el IVA a los combustibles",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Gremio cafetero solicita revisar propuesta que subiría el gravamen del café al diecinueve por ciento",
+        "url": "https://www.dataifx.com/post/federacion-de-cafeteros-pide-reconsiderar-iniciativa-que-elevaria-el-iva-del-cafe-al-19",
+        "resumen": "La Federación Nacional de Cafeteros manifestó su preocupación frente a la propuesta de aumentar el IVA aplicado al café del 5% al 19%, al considerar que la medida podría afectar el consumo interno, disminuir la demanda y favorecer la sustitución por productos importados de menor precio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Federación de Cafeteros pide reconsiderar iniciativa que elevaría el IVA del café al 19%",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "Uribe solicita al Centro Democrático analizar la Ley de Rescate previo a adoptar una postura",
+        "url": "https://www.dataifx.com/post/uribe-pide-centro-democratico-estudiar-ley-de-rescate-antes-de-fijar-una-posicion",
+        "resumen": "El expresidente Álvaro Uribe Vélez hizo un llamado a los integrantes del Centro Democrático para que evalúen en detalle el proyecto de Ley de Rescate Económico presentado por el Gobierno del presidente Abelardo De La Espriella antes de adoptar una postura definitiva frente a la iniciativa",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Uribe pide a Centro Democrático estudiar Ley de Rescate antes de fijar una posición",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
       {
         "titulo": "Gobierno plantea subir cotizaciones en salud conforme al sueldo laboral en el proyecto de Ley de Ajuste Fiscal",
         "url": "https://www.dataifx.com/post/gobierno-propone-aumentar-los-aportes-salud-segun-los-ingresos-de-los-trabajadores-en-el-proyecto",
@@ -363,99 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Consumo de acero en Colombia crecería 9,3% en 2027 por la reconstrucción tras el terremoto, proyecta CAMACERO",
         "capturado": "2026-10-26T18:41:35-05:00"
-      },
-      {
-        "titulo": "Superservicios aumentará supervisión a generadoras de energía frente al cargo por confiabilidad",
-        "url": "https://www.dataifx.com/post/superservicios-intensificara-vigilancia-generadoras-de-energia-por-cumplimiento-del-cargo-por",
-        "resumen": "La Superintendencia de Servicios Públicos Domiciliarios (Superservicios) intensificará las labores de inspección y vigilancia sobre las empresas generadoras de energía eléctrica para verificar que cumplan con sus obligaciones de garantizar el respaldo del suministro nacional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Superservicios intensificará vigilancia a generadoras de energía por cumplimiento del cargo por confiabilidad",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "MinTransporte señala que Autopistas del Café no tiene prórroga y Conexión Centro se analiza",
-        "url": "https://www.dataifx.com/post/mintransporte-aclara-que-concesion-de-autopistas-del-cafe-no-ha-sido-prorrogada-y-que-proyecto",
-        "resumen": "El Ministerio de Transporte aseguró que la concesión de Autopistas del Café no ha sido prorrogada y que tampoco se ha adjudicado el proyecto de iniciativa privada Conexión Centro, luego de versiones surgidas sobre una eventual extensión del contrato que opera uno de los principales corredores viales del Eje Cafetero",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinTransporte aclara que concesión de Autopistas del Café no ha sido prorrogada y que proyecto Conexión Centro sigue en evaluación",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "De La Espriella indica que donaciones por sismo irán a firmas y fundaciones y no al Ejecutivo",
-        "url": "https://www.dataifx.com/post/donaciones-privadas-para-la-reconstruccion-tras-el-terremoto-no-seran-manejadas-por-el-gobierno",
-        "resumen": "El presidente Abelardo de la Espriella salió al paso de los cuestionamientos surgidos alrededor del Fondo Patria Milagro, creado para apoyar la reconstrucción y la atención de los afectados por el terremoto registrado en Colombia el pasado 10 de agosto, y aseguró que existe una separación entre los recursos públicos movilizados por el Estado y las contribuciones realizadas por empresarios, fundaciones y otros actores privados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Donaciones privadas para la reconstrucción tras el terremoto no serán manejadas por el Gobierno sino por empresas y fundaciones, aclara De La Espriella",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Mandatario solicita al MinHacienda garantizar fondos para Colombia Mayor en presupuesto 2026",
-        "url": "https://www.dataifx.com/post/presidente-pide-minhacienda-asegurar-recursos-para-colombia-mayor-en-modificacion-de-presupuesto",
-        "resumen": "El presidente Abelardo de la Espirella anunció que instruyó al Ministerio de Hacienda para que busque recursos adicionales dentro del proyecto de modificación del Presupuesto General de la Nación de 2026, con el fin de garantizar el cumplimiento de las obligaciones pendientes del programa Colombia Mayor durante lo que resta del año",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Presidente pide a MinHacienda asegurar recursos para Colombia Mayor en modificación de presupuesto 2026",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "El mandatario De La Espriella confirma que la Ley de Ajuste Fiscal se radicará en estos días",
-        "url": "https://www.dataifx.com/post/ley-de-ajuste-fiscal-sera-presentada-esta-semana-confirma-presidente-de-la-espriella",
-        "resumen": "El Gobierno Nacional presentará en los próximos días ante el Congreso una iniciativa denominada “ley de rescate”, con la que busca establecer una hoja de ruta para enfrentar los desafíos fiscales y presupuestales del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Ley de Ajuste Fiscal será presentada esta semana, confirma presidente De La Espriella",
-        "capturado": "2026-10-26T07:47:12-05:00"
-      },
-      {
-        "titulo": "Restrepo sugiere reforma fiscal de unos 70 billones y demanda frenar el despilfarro del gasto",
-        "url": "https://www.dataifx.com/post/restrepo-plantea-ajuste-fiscal-cercano-70-billones-y-pide-frenar-el-derroche-del-gasto-publico",
-        "resumen": "Durante el cierre del Congreso Colombiano de la Construcción, evento en el que dataiFX estuvo presente, el vicepresidente José Manuel Restrepo aseguró que el país deberá realizar un ajuste fiscal cercano a los $70 billones el próximo año, como parte de una estrategia orientada a fortalecer las finanzas públicas y reducir presiones derivadas del gasto estatal",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Restrepo plantea ajuste fiscal cercano a $70 billones y pide frenar el derroche del gasto público",
-        "capturado": "2026-10-23T23:11:54-05:00"
-      },
-      {
-        "titulo": "Ministro de Vivienda afirma que obras tras el sismo valdrían ya 54 billones de pesos",
-        "url": "https://www.dataifx.com/post/reconstruccion-tras-el-terremoto-ya-costaria-54-billones-segun-el-ministro-de-vivienda",
-        "resumen": "El ministro de Vivienda, Jaime Andrés Beltrán, aseguró que el costo estimado de la reconstrucción tras el terremoto que afectó a amplias zonas del país asciende actualmente a $54 billones, una cifra que supera ampliamente los cerca de $30 billones que habían sido calculados inicialmente por el Gobierno Nacional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Reconstrucción tras el terremoto ya costaría $54 billones, según el ministro de Vivienda",
-        "capturado": "2026-10-23T17:59:42-05:00"
-      },
-      {
-        "titulo": "Procurador Eljach admite que faltó éxito al prevenir la crisis energética",
-        "url": "https://www.dataifx.com/post/procurador-eljach-no-hemos-logrado-el-mejor-resultado-en-esfuerzos-para-evitar-una-crisis",
-        "resumen": "El procurador general, Gregorio Eljach, expresó preocupación por la situación del suministro de energía eléctrica en el país y aseguró que el Ministerio Público mantiene activos espacios de diálogo entre entidades públicas, empresas del sector y autoridades territoriales para buscar soluciones que contribuyan a garantizar la prestación continua del servicio",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Procurador Eljach: “No hemos logrado el mejor resultado” en esfuerzos para evitar una crisis energética",
-        "capturado": "2026-10-23T17:59:42-05:00"
-      },
-      {
-        "titulo": "Nación canjeó 10,3 billones en títulos de deuda y bajó pagos de 2026 y 2027",
-        "url": "https://www.dataifx.com/post/colombia-canjeo-103-billones-de-deuda-publica-y-redujo-vencimientos-para-2026-y-2027",
-        "resumen": "El Gobierno colombiano realizó una segunda operación de reperfilamiento de deuda pública interna por $10,3 billones, con la que busca distribuir los vencimientos de sus obligaciones en distintos periodos y reducir las necesidades de refinanciación previstas para 2026 y 2027",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia canjeó $10,3 billones de deuda pública y redujo vencimientos para 2026 y 2027",
-        "capturado": "2026-10-23T17:59:42-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El desempleo en la zona euro siguió en 6,5% en septiembre pese al alza de cesantes",
+        "url": "https://www.dataifx.com/post/desempleo-en-zona-euro-se-mantuvo-en-65-durante-septiembre-aunque-aumento-el-numero-de-personas-sin",
+        "resumen": "El mercado laboral de la eurozona mostró estabilidad en septiembre de 2026, al mantener su tasa de desempleo en 6,5%, el mismo nivel registrado desde julio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Desempleo en zona euro se mantuvo en 6,5% durante septiembre, aunque aumentó el número de personas sin trabajo",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
+      {
+        "titulo": "La economía de la zona euro desaceleró en el tercer trimestre con un avance de 0,4%",
+        "url": "https://www.dataifx.com/post/economia-de-zona-euro-perdio-impulso-en-el-tercer-trimestre-y-crecio-04",
+        "resumen": "La actividad económica de la eurozona continuó expandiéndose durante el tercer trimestre de 2026, aunque a un ritmo menor que el observado entre abril y junio",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Economía de zona euro perdió impulso en el tercer trimestre y creció 0,4%",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
       {
         "titulo": "El BCE conservó sus tasas y Christine Lagarde informó su retiro para febrero de 2027",
         "url": "https://www.dataifx.com/post/bce-mantuvo-tasas-estables-y-christine-lagarde-anuncio-su-salida-para-febrero-de-2027",
@@ -685,39 +705,19 @@
         "publicacion": "",
         "titulo_fuente": "Inflación en zona euro alcanzó su nivel más alto en tres años por aumento de costos energéticos",
         "capturado": "2026-10-02T07:17:54-05:00"
-      },
-      {
-        "titulo": "EE. UU. ajusta hacia arriba el PIB del segundo trimestre gracias al consumo y la inversión",
-        "url": "https://www.dataifx.com/post/eeuu-revisa-al-alza-pib-del-segundo-trimestre-por-mayor-consumo-e-inversion",
-        "resumen": "El Departamento de Comercio de Estados Unidos informó una revisión en las cifras de crecimiento del Producto Interno Bruto (PIB) correspondientes al segundo trimestre del año",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EE.UU. revisa al alza PIB del segundo trimestre por mayor consumo e inversión",
-        "capturado": "2026-09-30T14:02:49-05:00"
-      },
-      {
-        "titulo": "El PIB británico sube y llega a 0,5% en el segundo trimestre tras revisión",
-        "url": "https://www.dataifx.com/post/pib-del-reino-unido-se-revisa-al-alza-y-alcanza-05-en-el-segundo-trimestre",
-        "resumen": "La Oficina Nacional de Estadísticas (ONS) publicó este miércoles datos revisados sobre el desempeño económico del Reino Unido en el segundo trimestre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "PIB del Reino Unido se revisa al alza y alcanza 0,5% en el segundo trimestre",
-        "capturado": "2026-09-30T14:02:49-05:00"
-      },
-      {
-        "titulo": "Termina la medida de ahorro de gas luego de superarse la emergencia en la red de SPEC",
-        "url": "https://www.dataifx.com/post/finaliza-racionamiento-preventivo-de-gas-tras-superar-contingencia-en-infraestructura-de-spec",
-        "resumen": "El Ministerio de Minas y Energíainformó que concluyó el racionamiento preventivo de gas natural luego de superar la contingencia presentada en la infraestructura de regasificación de SPEC LNG, ubicada en Cartagena",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Finaliza racionamiento preventivo de gas tras superar contingencia en infraestructura de SPEC",
-        "capturado": "2026-09-30T14:02:49-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "El país prevé un incremento de viajeros extranjeros para finalizar 2026 pese a indicios de menor ritmo",
+        "url": "https://www.dataifx.com/post/colombia-espera-mas-turistas-internacionales-al-cierre-de-2026-aunque-persisten-senales-de",
+        "resumen": "El turismo receptivo en Colombia podría cerrar 2026 con un crecimiento moderado en la llegada de visitantes internacionales, según las proyecciones de actores del sector consultados por la Asociación Colombiana de Agencias de Viajes y Turismo (Anato)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia espera más turistas internacionales al cierre de 2026, aunque persisten señales de desaceleración",
+        "capturado": "2026-10-30T14:06:29-05:00"
+      },
       {
         "titulo": "Primer debate avala iniciativa en el Congreso para agilizar trámites empresariales y ciudadanos",
         "url": "https://www.dataifx.com/post/congreso-aprueba-en-primer-debate-proyecto-que-busca-simplificar-tramites-para-empresas-y",
@@ -1157,16 +1157,6 @@
         "publicacion": "",
         "titulo_fuente": "GEB suscribió crédito por $390.000 millones para atender necesidades de liquidez",
         "capturado": "2026-10-21T23:17:24-05:00"
-      },
-      {
-        "titulo": "Juan Carlos Mora, titular de Bancolombia, encabeza el escalafón Merco Líderes 2026",
-        "url": "https://www.dataifx.com/post/presidente-de-bancolombia-juan-carlos-mora-lidera-ranking-merco-lideres-2026",
-        "resumen": "El monitor de reputación corporativa Merco Líderes Colombia 2026 presentó su más reciente clasificación de los 100 líderes empresariales con mejor reputación en el país, un listado en el que Juan Carlos Mora Uribe, presidente de Bancolombia, conservó el primer lugar por segundo año consecutivo",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Bancolombia, Juan Carlos Mora, lidera ranking Merco Líderes 2026",
-        "capturado": "2026-10-21T13:31:23-05:00"
       }
     ],
     "Empresas Internacional": [
