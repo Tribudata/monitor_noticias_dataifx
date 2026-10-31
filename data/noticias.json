@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-31T13:24:30-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-31T18:19:43-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
       {
@@ -1161,6 +1161,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "LATAM Colombia y Qatar Airways firman alianza de códigos compartidos para trayectos a Medio Oriente y Asia",
+        "url": "https://www.dataifx.com/post/latam-colombia-y-qatar-airways-acuerdan-compartir-codigos-en-rutas-hacia-asia-y-medio-oriente",
+        "resumen": "Los pasajeros de LATAM Airlines Colombia podrán acceder desde noviembre a una red más amplia de destinos internacionales tras la firma de un acuerdo de código compartido con Qatar Airways, una alianza que busca integrar vuelos nacionales en Colombia con conexiones hacia mercados de Asia y Medio Oriente a través de Doha",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "LATAM Colombia y Qatar Airways acuerdan compartir códigos en rutas hacia Asia y Medio Oriente",
+        "capturado": "2026-10-31T18:19:43-05:00"
+      },
+      {
         "titulo": "CFI informó un monto histórico de transacciones por US$3,45 billones durante el tercer trimestre de 2026",
         "url": "https://www.dataifx.com/post/cfi-reporto-volumen-record-de-operaciones-por-us345-billones-en-el-tercer-trimestre-de-2026",
         "resumen": "CFI Financial Group informó que alcanzó un volumen de operaciones de US$3,45 billones durante el tercer trimestre de 2026, la cifra trimestral más alta registrada por la compañía desde su fundación",
@@ -1409,16 +1419,6 @@
         "publicacion": "",
         "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
         "capturado": "2026-10-01T18:50:06-05:00"
-      },
-      {
-        "titulo": "Qatar Airways y LATAM Colombia firman alianza de códigos compartidos hacia Medio Oriente y Asia",
-        "url": "https://www.dataifx.com/post/latam-colombia-y-qatar-airways-acuerdan-compartir-codigos-en-rutas-hacia-asia-y-medio-oriente",
-        "resumen": "Los pasajeros de LATAM Airlines Colombia podrán acceder desde noviembre a una red más amplia de destinos internacionales tras la firma de un acuerdo de código compartido con Qatar Airways, una alianza que busca integrar vuelos nacionales en Colombia con conexiones hacia mercados de Asia y Medio Oriente a través de Doha",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "LATAM Colombia y Qatar Airways acuerdan compartir códigos en rutas hacia Asia y Medio Oriente",
-        "capturado": "2026-10-01T14:23:37-05:00"
       }
     ]
   }
