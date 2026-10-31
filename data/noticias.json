@@ -1,9 +1,29 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-30T18:33:59-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-31T00:05:37-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Luis Fernando Gómez Falla será el presidente encargado del Banco Popular tras la salida de María Fernanda Suárez",
+        "url": "https://www.dataifx.com/post/luis-fernando-gomez-falla-asumira-la-presidencia-encargada-del-banco-popular-tras-salida-de-maria",
+        "resumen": "La presidencia del Banco Popular tendrá un cambio a partir del primero de noviembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luis Fernando Gómez Falla asumirá la presidencia encargada del Banco Popular tras salida de María Fernanda Suárez",
+        "capturado": "2026-10-31T00:05:37-05:00"
+      },
+      {
+        "titulo": "María Fernanda Suárez liderará la Presidencia del Banco de Bogotá luego de la renuncia de Juan Carlos Echeverry",
+        "url": "https://www.dataifx.com/post/maria-fernanda-suarez-asumira-la-presidencia-del-banco-de-bogota-tras-renuncia-de-juan-carlos",
+        "resumen": "La Presidencia del Banco de Bogotá tendrá un cambio en su dirección",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "María Fernanda Suárez asumirá la Presidencia del Banco de Bogotá tras renuncia de Juan Carlos Echeverry",
+        "capturado": "2026-10-31T00:05:37-05:00"
+      },
       {
         "titulo": "Grupo Nutresa finaliza la compra de La Universal y consolida su negocio en Ecuador",
         "url": "https://www.dataifx.com/post/grupo-nutresa-completa-la-adquisicion-de-la-universal-y-fortalece-su-operacion-en-ecuador",
@@ -433,26 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "BBVA confirma resultados de emisión internacional de bonos de Colombia por US$5.200 millones",
         "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "Administración decreta escasez controlada de gas tras merma operativa en la infraestructura de SPEC",
-        "url": "https://www.dataifx.com/post/gobierno-declara-racionamiento-programado-de-gas-tras-reduccion-en-la-capacidad-de-spec",
-        "resumen": "Colombia entró nuevamente en un esquema de racionamiento programado de gas natural luego de que una contingencia operativa en la terminal de importación y regasificación de gas de Cartagena obligara a reducir temporalmente la oferta disponible para atender la demanda nacional",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno declara racionamiento programado de gas tras reducción en la capacidad de SPEC",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "Creditop pacta más de US$100 millones con bancos y proyecta incorporar 5.000 comercios",
-        "url": "https://www.dataifx.com/post/creditop-acuerda-mas-de-us100-millones-con-entidades-financieras-y-busca-sumar-5000-comercios",
-        "resumen": "Creditop anunció un acuerdo por más de US$100 millones en capacidad de originación de crédito, como resultado de la incorporación de nuevas entidades financieras a su plataforma",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Creditop acuerda más de US$100 millones con entidades financieras y busca sumar 5.000 comercios",
-        "capturado": "2026-10-26T18:41:35-05:00"
       }
     ],
     "Macro Internacional": [
