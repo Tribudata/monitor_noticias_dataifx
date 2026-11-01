@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-10-31T18:19:43-05:00",
+  "actualizado": "2026-11-01T00:37:18-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Macro Colombia": [
@@ -1161,6 +1161,16 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "LAIKA inaugura su primer establecimiento presencial en territorio chileno",
+        "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
+        "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
+        "capturado": "2026-11-01T00:37:18-05:00"
+      },
+      {
         "titulo": "LATAM Colombia y Qatar Airways firman alianza de códigos compartidos para trayectos a Medio Oriente y Asia",
         "url": "https://www.dataifx.com/post/latam-colombia-y-qatar-airways-acuerdan-compartir-codigos-en-rutas-hacia-asia-y-medio-oriente",
         "resumen": "Los pasajeros de LATAM Airlines Colombia podrán acceder desde noviembre a una red más amplia de destinos internacionales tras la firma de un acuerdo de código compartido con Qatar Airways, una alianza que busca integrar vuelos nacionales en Colombia con conexiones hacia mercados de Asia y Medio Oriente a través de Doha",
@@ -1409,16 +1419,6 @@
         "publicacion": "",
         "titulo_fuente": "Falabella y Mallplaza reorganizan activos inmobiliarios en Chile y Perú",
         "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "LAIKA inaugura su primer establecimiento físico en territorio chileno",
-        "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
-        "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "LAIKA abre su primera tienda física en Chile",
-        "capturado": "2026-10-01T18:50:06-05:00"
       }
     ]
   }
