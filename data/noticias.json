@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-01T13:49:50-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-01T18:27:35-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Macro Colombia": [
       {
@@ -685,16 +685,6 @@
         "publicacion": "",
         "titulo_fuente": "Brasil irá a segunda vuelta entre Lula y Flávio Bolsonaro tras una primera votación sin mayoría",
         "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "El empleo en Estados Unidos frenó su ritmo en septiembre y el desempleo escaló a 4,2%",
-        "url": "https://www.dataifx.com/post/creacion-de-empleo-en-eeuu-se-desacelero-en-septiembre-y-desempleo-subio-42",
-        "resumen": "El mercado laboral de Estados Unidos mostró señales de menor dinamismo durante septiembre, luego de que la economía generara 29",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Creación de empleo en EE.UU. se desaceleró en septiembre y desempleo subió a 4,2%",
-        "capturado": "2026-10-02T14:06:56-05:00"
       }
     ],
     "Empresas Colombia": [
@@ -1151,6 +1141,26 @@
     ],
     "Empresas Internacional": [
       {
+        "titulo": "El conglomerado de medios resultante de la unión de Paramount y Warner Bros se llamará Skydance",
+        "url": "https://www.dataifx.com/post/skydance-sera-el-nombre-de-la-nueva-gigante-del-entretenimiento-surgida-de-la-fusion-entre",
+        "resumen": "La compañía que nacerá de la integración entre Paramount y Warner Bros",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Skydance será el nombre de la nueva gigante del entretenimiento surgida de la fusión entre Paramount y Warner Bros.",
+        "capturado": "2026-11-01T18:27:35-05:00"
+      },
+      {
+        "titulo": "Mallplaza y Falabella efectúan una reestructuración de sus bienes raíces en Perú y Chile",
+        "url": "https://www.dataifx.com/post/falabella-y-mallplaza-reorganizan-activos-inmobiliarios-en-chile-y-peru",
+        "resumen": "Las compañías Falabella S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Falabella y Mallplaza reorganizan activos inmobiliarios en Chile y Perú",
+        "capturado": "2026-11-01T18:27:35-05:00"
+      },
+      {
         "titulo": "LAIKA inaugura su primer establecimiento presencial en territorio chileno",
         "url": "https://www.dataifx.com/post/laika-abre-su-primera-tienda-fisica-en-chile",
         "resumen": "La plataforma de productos y servicios para mascotas LAIKA anunció la apertura de su primera tienda física en Chile, una decisión con la que busca complementar su operación digital en la región y fortalecer una estrategia de comercialización que combina canales presenciales y en línea",
@@ -1389,26 +1399,6 @@
         "publicacion": "",
         "titulo_fuente": "Colombia avanza en agenda económica con Japón para atraer inversión y tecnología",
         "capturado": "2026-10-05T00:10:45-05:00"
-      },
-      {
-        "titulo": "Skydance bautizará al nuevo coloso del entretenimiento creado por la unión de Paramount y Warner Bros",
-        "url": "https://www.dataifx.com/post/skydance-sera-el-nombre-de-la-nueva-gigante-del-entretenimiento-surgida-de-la-fusion-entre",
-        "resumen": "La compañía que nacerá de la integración entre Paramount y Warner Bros",
-        "autor": "",
-        "subseccion": "Acciones USA",
-        "publicacion": "",
-        "titulo_fuente": "Skydance será el nombre de la nueva gigante del entretenimiento surgida de la fusión entre Paramount y Warner Bros.",
-        "capturado": "2026-10-02T14:06:56-05:00"
-      },
-      {
-        "titulo": "Mallplaza y Falabella reestructuran bienes raíces comerciales en territorio peruano y chileno",
-        "url": "https://www.dataifx.com/post/falabella-y-mallplaza-reorganizan-activos-inmobiliarios-en-chile-y-peru",
-        "resumen": "Las compañías Falabella S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Falabella y Mallplaza reorganizan activos inmobiliarios en Chile y Perú",
-        "capturado": "2026-10-02T14:06:56-05:00"
       }
     ]
   }
