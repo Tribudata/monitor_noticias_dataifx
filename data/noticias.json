@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-03T01:14:17-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-03T11:02:02-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "La divisa estadounidense avanza hoy y vuelve a rebasar los 3200 pesos",
+        "url": "https://www.dataifx.com/post/dolar-sube-este-martes-y-supera-de-nuevo-los-3200",
+        "resumen": "El dólar en Colombia se negocia este martes 3 de noviembre con un precio promedio de $3",
+        "autor": "",
+        "subseccion": "Dolar",
+        "publicacion": "",
+        "titulo_fuente": "Dólar sube este martes y supera de nuevo los $3.200",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "Davivienda absorbe las filiales de Scotiabank en territorio nacional y pasa a ser la segunda entidad bancaria",
+        "url": "https://www.dataifx.com/post/davivienda-integra-las-operaciones-de-scotiabank-en-colombia-y-se-convierte-en-el-segundo-banco-mas",
+        "resumen": "Davivienda Group S",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Davivienda integra las operaciones de Scotiabank en Colombia y se convierte en el segundo banco más grande del país",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "Pase de conducción por puntos: la iniciativa para penalizar a infractores viales en el país",
+        "url": "https://www.dataifx.com/post/licencia-de-conduccion-por-puntos-asi-funcionaria-la-propuesta-que-busca-sancionar-conductores-que",
+        "resumen": "El Gobierno Nacional puso sobre la mesa la implementación de una licencia de conducción por puntos como parte de las propuestas para reformar el Código Nacional de Tránsito",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Licencia de conducción por puntos: así funcionaría la propuesta que busca sancionar a conductores que acumulen infracciones en Colombia",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "El país reportó 123214 motocicletas matriculadas en octubre, un incremento interanual del 24,72 por ciento",
+        "url": "https://www.dataifx.com/post/colombia-registro-123214-motos-nuevas-en-octubre-2472-mas-que-un-ano-atras",
+        "resumen": "Colombia registró 123",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia registró 123.214 motos nuevas en octubre, 24,72% más que un año atrás",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "Registros de automotores nuevos crecen 27,4 por ciento en octubre y alcanzan 32175 unidades",
+        "url": "https://www.dataifx.com/post/matriculas-de-vehiculos-nuevos-suben-274-en-octubre-y-suman-32175-unidades",
+        "resumen": "En octubre de 2026 se matricularon 32",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Matrículas de vehículos nuevos suben 27,4% en octubre y suman 32.175 unidades",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "FMI aplaudió la radicación de la Ley de Rescate Fiscal en el Congreso",
+        "url": "https://www.dataifx.com/post/fmi-celebro-la-presentacion-de-la-ley-de-rescate-fiscal-ante-el-congreso",
+        "resumen": "El Fondo Monetario Internacional (FMI) se pronunció sobre la Ley de Rescate Fiscal que el Gobierno colombiano presentó ante el Congreso de la República y manifestó su respaldo a la decisión de llevar al Legislativo un paquete de medidas orientado a corregir el desequilibrio de las finanzas públicas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "FMI celebró la presentación de la Ley de Rescate Fiscal ante el Congreso",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "Administración de Abelardo de la Espriella apunta a un ajuste fiscal de $90 billones con la Ley de Rescate",
+        "url": "https://www.dataifx.com/post/gobierno-de-abelardo-de-la-espriella-busca-un-ajuste-fiscal-de-90-billones-con-la-ley-de-rescate",
+        "resumen": "El Gobierno de Abelardo de la Espriella presentó los principales componentes de la denominada Ley de Rescate, una iniciativa con la que busca reorganizar las finanzas públicas, reducir el déficit fiscal y establecer nuevas fuentes de ingresos para atender las necesidades del presupuesto nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno de Abelardo de la Espriella busca un ajuste fiscal de $90 billones con la Ley de Rescate: estos son los cambios tributarios",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "Bogotá reveló presupuesto de $42,7 billones para 2027: inversión acaparará el 77,9% de los fondos",
+        "url": "https://www.dataifx.com/post/bogota-presento-presupuesto-de-427-billones-para-2027-inversion-concentrara-el-779-de-los-recursos",
+        "resumen": "El Gobierno Distrital, a través de la Secretaría de Hacienda de Bogotá, radicó ante el Concejo de la ciudad el proyecto de presupuesto para 2027, que contempla recursos por $42,7 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bogotá presentó presupuesto de $42,7 billones para 2027: inversión concentrará el 77,9% de los recursos",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
       {
         "titulo": "Luis Fernando Gómez Falla será el presidente encargado del Banco Popular tras la salida de María Fernanda Suárez",
         "url": "https://www.dataifx.com/post/luis-fernando-gomez-falla-asumira-la-presidencia-encargada-del-banco-popular-tras-salida-de-maria",
@@ -373,86 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Demanda de energía en Colombia creció 6,16 % en septiembre y alcanzó un máximo histórico diario",
         "capturado": "2026-10-28T00:10:46-05:00"
-      },
-      {
-        "titulo": "Administración nacional revela estrategia de trabajo formal y fija metas para bajar la informalidad",
-        "url": "https://www.dataifx.com/post/gobierno-anuncia-politica-nacional-de-empleo-formal-y-fija-metas-para-reducir-la-informalidad",
-        "resumen": "El presidente de la República, Abelardo De La Espriella, anunció que la reducción de la informalidad laboral será una de las prioridades del Gobierno nacional y solicitó al Ministerio del Trabajo poner en marcha una política nacional de empleo formal, con metas definidas, resultados verificables y seguimiento mensual",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia política nacional de empleo formal y fija metas para reducir la informalidad laboral",
-        "capturado": "2026-10-28T00:10:46-05:00"
-      },
-      {
-        "titulo": "Centro Democrático sugiere que los empleados escojan el fondo de aportes en la contrareforma pensional",
-        "url": "https://www.dataifx.com/post/centro-democratico-propone-que-los-trabajadores-puedan-elegir-donde-cotizar-en-la-contrarreforma",
-        "resumen": "El Centro Democrático prepara una iniciativa legislativa para modificar las reglas de la reforma pensional impulsada por el Gobierno de Gustavo Petro",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Centro Democrático propone que los trabajadores puedan elegir dónde cotizar en la contrarreforma pensional",
-        "capturado": "2026-10-28T00:10:46-05:00"
-      },
-      {
-        "titulo": "MinHacienda avala mover dineros del metro capitalino para suplir la emergencia energética caribeña",
-        "url": "https://www.dataifx.com/post/minhacienda-defiende-traslado-de-recursos-del-metro-de-bogota-para-atender-crisis-electrica-en-el",
-        "resumen": "El ministro de Hacienda, Miguel Gómez Martínez, defendió la decisión del Gobierno Nacional de reprogramar recursos previstos para la primera línea del metro de Bogotá y destinarlos a atender la situación financiera del sector eléctrico, en medio de las preocupaciones por el abastecimiento de energía en la región Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda defiende traslado de recursos del metro de Bogotá para atender crisis eléctrica en el Caribe",
-        "capturado": "2026-10-27T17:02:13-05:00"
-      },
-      {
-        "titulo": "Administración nacional pretende dineros de la calle 13 y el metro capitalino para la emergencia de energía",
-        "url": "https://www.dataifx.com/post/gobierno-busca-recursos-de-la-calle-13-y-el-metro-de-bogota-para-atender-la-crisis-electrica",
-        "resumen": "El Gobierno Nacional solicitó al Congreso de la República aprobar modificaciones al Presupuesto General de la Nación de 2026 por $3,9 billones, con el propósito de atender la situación financiera del sector eléctrico y financiar las acciones de atención y reconstrucción de las zonas afectadas por el terremoto",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca recursos de la calle 13 y el metro de Bogotá para atender la crisis eléctrica",
-        "capturado": "2026-10-27T17:02:13-05:00"
-      },
-      {
-        "titulo": "EPM solicita más tiempo para cubrir pasivo de Afinia y prevenir apagones energéticos en la región Caribe",
-        "url": "https://www.dataifx.com/post/epm-busca-plazo-adicional-para-pagar-deuda-de-afinia-y-evitar-posibles-cortes-de-energia-en-el",
-        "resumen": "El Grupo EPM adelanta gestiones con la Comisión de Regulación de Energía y Gas (Creg), el Gobierno Nacional y entidades financieras para conseguir los recursos que permitan atender las obligaciones de Afinia y evitar una eventual limitación del suministro eléctrico en varios departamentos de la Costa Caribe",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "EPM busca plazo adicional para pagar deuda de Afinia y evitar posibles cortes de energía en el Caribe",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "ANDEG calcula seis jornadas para arreglar desperfecto en SPEC y previene desabastecimiento gasífero",
-        "url": "https://www.dataifx.com/post/andeg-preve-seis-dias-para-reparar-falla-en-spec-y-espera-evitar-faltantes-de-gas-en-colombia",
-        "resumen": "La Asociación Nacional de Empresas Generadoras (ANDEG) espera que las gestiones para conseguir gas adicional de campos de producción nacional permitan atender la demanda durante la contingencia operativa que afecta a la terminal de regasificación de Cartagena, operada por SPEC",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANDEG prevé seis días para reparar falla en SPEC y espera evitar faltantes de gas en Colombia",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "Nación efectúa colocación sin precedentes de bonos por 5.200 millones de dólares para el gasto de 2026",
-        "url": "https://www.dataifx.com/post/colombia-completa-emision-historica-de-bonos-por-us5200-millones-para-financiar-presupuesto-de-2026",
-        "resumen": "La República de Colombia colocó US$5",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia completa emisión histórica de bonos por US$5.200 millones para financiar presupuesto de 2026",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "BBVA valida cifras de la colocación externa de títulos valores colombianos por 5.200 millones de USD",
-        "url": "https://www.dataifx.com/post/bbva-confirma-resultados-de-emision-internacional-de-bonos-de-colombia-por-us5200-millones",
-        "resumen": "La República de Colombia concluyó una emisión internacional de bonos por US$5",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "BBVA confirma resultados de emisión internacional de bonos de Colombia por US$5.200 millones",
-        "capturado": "2026-10-27T12:58:24-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Lucas Madriñán asume la dirección general de RappiPay tras un nombramiento",
+        "url": "https://www.dataifx.com/post/rappipay-anuncia-cambio-de-liderazgo-y-designa-lucas-madrinan-como-ceo",
+        "resumen": "RappiPay Colombia anunció el nombramiento de Lucas Madriñán Leyva como nuevo CEO de la compañía, cargo que asumió a partir del 3 de noviembre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "RappiPay anuncia cambio de liderazgo y designa a Lucas Madriñán como CEO",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
+      {
+        "titulo": "LATAM retomará el vuelo sin escalas entre Medellín y Cartagena en enero de 2027",
+        "url": "https://www.dataifx.com/post/latam-reactivara-ruta-directa-entre-medellin-y-cartagena-desde-enero-de-2027",
+        "resumen": "LATAM Airlines Colombia anunció que retomará la operación de la ruta directa entre Medellín y Cartagena a partir del 1 de enero de 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "​​​​​​​LATAM reactivará ruta directa entre Medellín y Cartagena desde enero de 2027",
+        "capturado": "2026-11-03T11:02:02-05:00"
+      },
       {
         "titulo": "Superintendencia de Industria y Comercio avala fusión de Presto y Grupo Nutresa sin hallar peligros mercantiles",
         "url": "https://www.dataifx.com/post/sic-autoriza-integracion-de-presto-con-grupo-nutresa-y-descarta-riesgos-para-la-competencia",
@@ -1117,26 +1137,6 @@
         "publicacion": "",
         "titulo_fuente": "Mipymes recibirían mayor acceso a crédito tras acuerdo entre BID Invest y Banco de Bogotá por US$50 millones",
         "capturado": "2026-10-22T19:35:11-05:00"
-      },
-      {
-        "titulo": "Estados Unidos cancela visa a Ricardo Roa y a seis connacionales",
-        "url": "https://www.dataifx.com/post/eeuu-retira-visa-ricardo-roa-y-otros-seis-colombianos",
-        "resumen": "El Gobierno de Estados Unidos anunció la imposición de restricciones de visa a siete ciudadanos colombianos, entre ellos Ricardo Roa Barragán, expresidente de Ecopetrol, dentro de una medida que, según el Departamento de Estado, busca reforzar su estrategia regional contra la corrupción y el narcotráfico",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "EE.UU. retira visa a Ricardo Roa y a otros seis colombianos",
-        "capturado": "2026-10-22T16:25:06-05:00"
-      },
-      {
-        "titulo": "DIAN efectuará remate electrónico de alhajas, gemas y cronógrafos del 19 al 23 de octubre",
-        "url": "https://www.dataifx.com/post/dian-realizara-subasta-virtual-de-joyas-piedras-preciosas-y-relojes-entre-el-19-y-el-23-de-octubre",
-        "resumen": "La Dirección de Impuestos y Aduanas Nacionales (DIAN) anunció la realización de una subasta pública virtual de joyas, metales preciosos, piedras preciosas y relojes entre el 19 y el 23 de octubre de 2026",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "DIAN realizará subasta virtual de joyas, piedras preciosas y relojes entre el 19 y el 23 de octubre",
-        "capturado": "2026-10-22T16:25:06-05:00"
       }
     ],
     "Empresas Internacional": [
