@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-03T11:02:02-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-03T18:06:49-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Ejecutivo pide trámite prioritario para la iniciativa de Ley de Rescate Económico",
+        "url": "https://www.dataifx.com/post/gobierno-solicita-mensaje-de-urgencia-para-el-proyecto-de-ley-de-rescate-economico",
+        "resumen": "El presidente de la República, Abelardo de la Espriella, solicitó al Congreso de la República dar trámite con mensaje de urgencia e insistencia al proyecto de Ley 477 de 2026 Cámara, denominado Ley de Rescate Económico, con el que el Ejecutivo busca implementar medidas para estabilizar las finanzas públicas, reducir el gasto estatal y promover el crecimiento económico y la inversión",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno solicita mensaje de urgencia para el proyecto de Ley de Rescate Económico",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "Colombia suspende el racionamiento de gas natural tras superar alerta en SPEC LNG",
+        "url": "https://www.dataifx.com/post/colombia-levanta-la-limitacion-programada-de-gas-natural-tras-superar-contingencia-en-la-terminal",
+        "resumen": "El Ministerio de Minas y Energía anunció el levantamiento de la limitación programada de gas natural en Colombia, luego de que se superara la contingencia técnica que afectó temporalmente la capacidad de regasificación de la terminal SPEC LNG, ubicada en Cartagena",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia levanta la limitación programada de gas natural tras superar contingencia en la terminal SPEC LNG",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "Colombia sumó 42 proyectos de generación eléctrica y 5 de transmisión al cierre del tercer trimestre de 2026",
+        "url": "https://www.dataifx.com/post/colombia-sumo-42-nuevos-proyectos-de-generacion-electrica-y-cinco-de-transmision-en-el-tercer",
+        "resumen": "Colombia incorporó 698,2 megavatios (MW) de nueva capacidad de generación eléctrica durante el tercer trimestre de 2026, como resultado de la entrada en operación de 42 proyectos que se sumaron al Sistema Interconectado Nacional (SIN)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia sumó 42 nuevos proyectos de generación eléctrica y cinco de transmisión en el tercer trimestre de 2026",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "Precios de gasolina y ACPM seguirán iguales en noviembre: FEPC absorberá costo de $15.500 millones",
+        "url": "https://www.dataifx.com/post/gobierno-mantendra-estables-los-precios-de-la-gasolina-y-el-acpm-en-noviembre-fepc-asumira-costo-de",
+        "resumen": "El Gobierno Nacional mantendrá estables los precios de venta al público de la gasolina motor corriente y el ACPM durante noviembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno mantendrá estables los precios de la gasolina y el ACPM en noviembre: FEPC asumirá costo de $15.500 millones",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "GeoPark entra a Venezuela y el Grupo Gilinski asume el control de la firma",
+        "url": "https://www.dataifx.com/post/geopark-completa-su-ingreso-venezuela-y-el-grupo-gilinski-pasa-controlar-la-compania",
+        "resumen": "GeoPark Limited (NYSE: GPRK) anunció este 2 de noviembre la entrada en vigencia del Contrato de Participación Productiva (CPP) de 25 años para el bloque Bare, en Venezuela, y la finalización de la transacción de emisión de acciones con el Grupo Gilinski",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "GeoPark completa su ingreso a Venezuela y el Grupo Gilinski pasa a controlar la compañía",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "ANIF: la Ley de Rescate Económico sumaría 4,09% del PIB al balance primario hacia 2030",
+        "url": "https://www.dataifx.com/post/anif-la-ley-de-rescate-economico-aportaria-409-del-pib-al-balance-primario-hacia-2030",
+        "resumen": "El Centro de Pensamiento Económico ANIF publicó su Informe Semanal No",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANIF: la Ley de Rescate Económico aportaría 4,09% del PIB al balance primario hacia 2030",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
       {
         "titulo": "La divisa estadounidense avanza hoy y vuelve a rebasar los 3200 pesos",
         "url": "https://www.dataifx.com/post/dolar-sube-este-martes-y-supera-de-nuevo-los-3200",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Centro Democrático radica proyecto para reestructurar el sistema pensional en cuatro pilares",
         "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Centro Democrático sugiere modificaciones al modelo pensional para restaurar la libre selección de usuarios",
-        "url": "https://www.dataifx.com/post/centro-democratico-propone-cambios-al-sistema-pensional-para-recuperar-la-libre-eleccion-de-los",
-        "resumen": "El Centro Democrático radicó este miércoles un proyecto de ley con el que busca modificar varios componentes de la reforma pensional aprobada durante el Gobierno de Gustavo Petro, entre ellos la elección de las administradoras, el manejo del ahorro individual y las alternativas para quienes llegan a la edad de jubilación sin cumplir los requisitos para acceder a una pensión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Centro Democrático propone cambios al sistema pensional para recuperar la libre elección de los afiliados",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "MinHacienda avisa que ajustes a la reforma pensional incrementarían en $64,9 billones el gasto fiscal",
-        "url": "https://www.dataifx.com/post/hacienda-advierte-que-cambios-la-reforma-pensional-sumarian-649-billones-al-costo-fiscal",
-        "resumen": "El Ministerio de Hacienda advirtió sobre los efectos fiscales y operativos que podrían tener algunos de los cambios propuestos a la reforma pensional, en el marco del trámite que adelanta el Congreso para subsanar el procedimiento legislativo de la Ley 2381 de 2024",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Hacienda advierte que cambios a la reforma pensional sumarían $64,9 billones al costo fiscal",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "Fenalcarbón solicita examinar las variables del gremio y propone rescatar la competitividad del carbón local",
-        "url": "https://www.dataifx.com/post/fenalcarbon-pide-revisar-las-condiciones-del-sector-y-plantea-recuperar-la-competitividad-del",
-        "resumen": "El presidente de Fenalcarbón, Carlos Cante, planteó la necesidad de revisar las condiciones tributarias, regulatorias y logísticas que enfrenta la industria del carbón en Colombia, en un contexto de reducción de la producción, menores ingresos por exportaciones y dificultades para competir en los mercados internacionales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fenalcarbón pide revisar las condiciones del sector y plantea recuperar la competitividad del carbón colombiano",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "Comercio e industria evidenciaron un incremento en sus índices de confianza durante el mes de septiembre",
-        "url": "https://www.dataifx.com/post/comercio-e-industria-reportaron-una-mejora-en-sus-niveles-de-confianza-durante-septiembre",
-        "resumen": "La confianza de los comerciantes en Colombia registró una nueva mejora durante septiembre de 2026, mientras que el sector industrial también mostró una recuperación frente al mes anterior, aunque continúa por debajo de los niveles observados un año atrás, de acuerdo con los resultados de la más reciente Encuesta de Opinión Empresarial de Fedesarrollo",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Comercio e industria reportaron una mejora en sus niveles de confianza durante septiembre",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "Alcaldía afirma que recortes al presupuesto no bajan fondos destinados al Metro y la Calle 13",
-        "url": "https://www.dataifx.com/post/distrito-asegura-que-ajustes-presupuestales-no-reducen-aportes-para-la-calle-13-y-el-metro-de",
-        "resumen": "La secretaria distrital de Hacienda de Bogotá, Ana María Cadena, se pronunció sobre la discusión en torno a la reprogramación de recursos destinados a la construcción de la Calle 13 y la primera línea del Metro de Bogotá",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Distrito asegura que ajustes presupuestales no reducen aportes para la Calle 13 y el Metro de Bogotá",
-        "capturado": "2026-10-28T00:10:46-05:00"
-      },
-      {
-        "titulo": "Consumo eléctrico patrio subió 6,16 % en septiembre y marcó récord histórico de cada jornada",
-        "url": "https://www.dataifx.com/post/demanda-de-energia-en-colombia-crecio-616-en-septiembre-y-alcanzo-un-maximo-historico-diario",
-        "resumen": "La demanda de energía eléctrica en Colombia registró un crecimiento de 6,16 % en septiembre de 2026 frente al mismo mes del año anterior, al pasar de 7",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Demanda de energía en Colombia creció 6,16 % en septiembre y alcanzó un máximo histórico diario",
-        "capturado": "2026-10-28T00:10:46-05:00"
       }
     ],
     "Macro Internacional": [
@@ -688,6 +688,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "T4 recauda $6.000 millones en a2censo para su expansión y apertura de 30 tiendas",
+        "url": "https://www.dataifx.com/post/t4-busca-6000-millones-en-a2censo-para-financiar-expansion-y-abrir-30-nuevas-tiendas",
+        "resumen": "T4 Colombia anunció una nueva campaña de financiación a través de a2censo, la plataforma de financiación colaborativa administrada por la Bolsa de Colombia, con la que busca recaudar hasta $6",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "T4 busca $6.000 millones en a2censo para financiar expansión y abrir 30 nuevas tiendas",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
+      {
+        "titulo": "Bancolombia y Mercado Libre inician segunda etapa de respaldo a negocios por el sismo",
+        "url": "https://www.dataifx.com/post/bancolombia-y-mercado-libre-lanzan-segunda-fase-de-apoyo-para-negocios-afectados-por-terremoto",
+        "resumen": "Cerca de 12",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Bancolombia y Mercado Libre lanzan segunda fase de apoyo para negocios afectados por terremoto",
+        "capturado": "2026-11-03T18:06:49-05:00"
+      },
       {
         "titulo": "Lucas Madriñán asume la dirección general de RappiPay tras un nombramiento",
         "url": "https://www.dataifx.com/post/rappipay-anuncia-cambio-de-liderazgo-y-designa-lucas-madrinan-como-ceo",
@@ -1117,26 +1137,6 @@
         "publicacion": "",
         "titulo_fuente": "Nutresa busca quedarse con Presto tras firmar acuerdo de adquisición",
         "capturado": "2026-10-23T02:17:58-05:00"
-      },
-      {
-        "titulo": "Titular del Grupo Argos sugiere elevar el capital privado y respaldar la reconstrucción sismológica",
-        "url": "https://www.dataifx.com/post/presidente-de-grupo-argos-plantea-aumentar-la-inversion-privada-y-apoyar-la-reconstruccion-tras-el",
-        "resumen": "Durante el Congreso Colombiano de la Construcción de Camacol, en el que dataiFX está presente, el presidente de Grupo Argos, Juan Esteban Calle, hizo un llamado al sector empresarial para acelerar las decisiones de inversión en Colombia y destinar capacidades técnicas, financieras y humanas a proyectos que contriuyan al crecimiento económico y a la reconstrucción de las zonas afectadas por el terremoto ocurrido el pasado 10 de agosto",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Presidente de Grupo Argos plantea aumentar la inversión privada y apoyar la reconstrucción tras el terremoto",
-        "capturado": "2026-10-22T19:35:11-05:00"
-      },
-      {
-        "titulo": "Pequeñas y medianas empresas obtendrían más crédito por pacto de US$50 millones entre BID Invest y Banco de Bogotá",
-        "url": "https://www.dataifx.com/post/mipymes-recibirian-mayor-acceso-credito-tras-acuerdo-entre-bid-invest-y-banco-de-bogota-por-us50",
-        "resumen": "Las micro, pequeñas y medianas empresas (mipymes) en Colombia podrían contar con mayores opciones de financiamiento tras el anuncio de una operación entre BID Invest y el Banco de Bogotá, que contempla recursos por hasta US$70 millones",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Mipymes recibirían mayor acceso a crédito tras acuerdo entre BID Invest y Banco de Bogotá por US$50 millones",
-        "capturado": "2026-10-22T19:35:11-05:00"
       }
     ],
     "Empresas Internacional": [
