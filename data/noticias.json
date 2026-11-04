@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-04T00:51:10-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-04T09:12:10-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "IPC de la eurozona tocó el 4% en octubre y sube previsiones de más aumentos de tipos del BCE",
+        "url": "https://www.dataifx.com/post/inflacion-de-la-eurozona-llego-4-en-octubre-y-aumenta-las-expectativas-de-nuevas-alzas-de-tasas-del",
+        "resumen": "La inflación de la eurozona se aceleró en octubre y alcanzó 4%, frente al 3,8% registrado en septiembre, con lo que llegó a su nivel más alto en tres años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inflación de la eurozona llegó a 4% en octubre y aumenta las expectativas de nuevas alzas de tasas del BCE",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "Administración mete gasoducto colombo-venezolano en obras clave para acelerar su rescate",
+        "url": "https://www.dataifx.com/post/gobierno-incluye-gasoducto-entre-colombia-y-venezuela-en-proyectos-estrategicos-para-avanzar-en-su",
+        "resumen": "El Gobierno Nacional incluyó la recuperación del Gasoducto Binacional Antonio Ricaurte en los Proyectos de Interés Nacional y Estratégico (PINES) de la misión de Recursos Estratégicos y Energía",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno incluye gasoducto entre Colombia y Venezuela en proyectos estratégicos para avanzar en su recuperación",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "Airbus analiza inyectar capital en el país para crear red de proveeduría de aviación y espacio",
+        "url": "https://www.dataifx.com/post/airbus-evalua-invertir-en-colombia-para-desarrollar-una-cadena-industrial-de-proveeduria",
+        "resumen": "El Gobierno colombiano y Airbus avanzan en conversaciones para explorar oportunidades de inversión que permitan desarrollar en el país una cadena industrial de proveeduría de equipos aeronáuticos y aeroespaciales",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Airbus evalúa invertir en Colombia para desarrollar una cadena industrial de proveeduría aeronáutica y aeroespacial",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "Grupo Argos confirma su segunda recompra de títulos valores por un monto de 150000 millones",
+        "url": "https://www.dataifx.com/post/grupo-argos-anuncia-segunda-oferta-de-readquisicion-de-acciones-por-150000-millones",
+        "resumen": "Grupo Argos anunció una nueva oferta de readquisición de acciones ordinarias y preferenciales por un monto máximo agregado de $150",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Grupo Argos anuncia segunda oferta de readquisición de acciones por $150.000 millones",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "País hará la Milagro Week en Madrid en marzo de 2027 con el fin de captar capital europeo",
+        "url": "https://www.dataifx.com/post/colombia-realizara-en-madrid-la-milagro-week-en-marzo-de-2027-para-atraer-inversion-europea",
+        "resumen": "Colombia realizará en Madrid, España, la Milagro Week en marzo de 2027, un encuentro empresarial con el que el Gobierno busca atraer nuevos recursos de inversionistas europeos y fortalecer la relación económica con ese continente",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Colombia realizará en Madrid la Milagro Week en marzo de 2027 para atraer inversión europea",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "CGT Mayorías Territoriales estará en la concertación del salario mínimo de 2027",
+        "url": "https://www.dataifx.com/post/cgt-mayorias-territoriales-participara-en-la-mesa-de-concertacion-del-salario-minimo-de-2027",
+        "resumen": "Uno de los sectores de la Confederación General del Trabajo (CGT), denominado CGT Mayorías Territoriales, participará en la mesa de concertación del salario mínimo de 2027, en la que el Gobierno Nacional y las organizaciones sindicales discutirán las condiciones para definir el incremento que regirá el próximo año",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "CGT Mayorías Territoriales participará en la mesa de concertación del salario mínimo de 2027",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "Gobierno rechaza emplear fondos pensionales de CAXDAC en gastos de administración",
+        "url": "https://www.dataifx.com/post/gobierno-descarta-uso-de-reservas-pensionales-de-caxdac-para-cubrir-gastos-administrativos",
+        "resumen": "La reunión fue liderada por la viceministra de Empleo y Pensiones, Elianne Forero Pérez, y contó con la participación del Ministerio de Hacienda y Crédito Público, la Superintendencia Financiera de Colombia y Colpensiones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno descarta uso de reservas pensionales de CAXDAC para cubrir gastos administrativos",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
+      {
+        "titulo": "MinHacienda detalla los recortes de gasto estatal previstos en la Ley de Rescate Económico",
+        "url": "https://www.dataifx.com/post/minhacienda-explica-los-recortes-al-gasto-publico-que-contempla-la-ley-de-rescate-economico",
+        "resumen": "El Ministerio de Hacienda presentó los principales componentes de austeridad y reducción del gasto público incluidos en la Ley de Rescate Económico, iniciativa radicada por el Gobierno nacional ante el Congreso de la República",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinHacienda explica los recortes al gasto público que contempla la Ley de Rescate Económico",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
       {
         "titulo": "Ejecutivo pide trámite prioritario para la iniciativa de Ley de Rescate Económico",
         "url": "https://www.dataifx.com/post/gobierno-solicita-mensaje-de-urgencia-para-el-proyecto-de-ley-de-rescate-economico",
@@ -373,89 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno coordinará acciones con EE. UU. por alertas de viaje que afectan al turismo colombiano",
         "capturado": "2026-10-29T14:29:46-05:00"
-      },
-      {
-        "titulo": "Administración analiza añadir restricciones a Shein, Temu y otras apps extranjeras en reforma tributaria",
-        "url": "https://www.dataifx.com/post/gobierno-estudia-incluir-controles-shein-temu-y-otras-plataformas-internacionales-en-proyecto-de",
-        "resumen": "El Gobierno Nacional prevé incorporar medidas dirigidas a plataformas internacionales de comercio electrónico como Shein, Temu y Amazon dentro del proyecto de Ley de Ajuste Fiscal que será presentado ante el Congreso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno estudia incluir controles a Shein, Temu y otras plataformas internacionales en proyecto de ajuste fiscal",
-        "capturado": "2026-10-29T14:29:46-05:00"
-      },
-      {
-        "titulo": "Tránsito aéreo en el país rebasó los 44 millones de viajeros entre enero y septiembre de 2026",
-        "url": "https://www.dataifx.com/post/movilizacion-aerea-en-colombia-supero-los-44-millones-de-pasajeros-entre-enero-y-septiembre-de-2026",
-        "resumen": "El transporte aéreo en Colombia mantuvo su tendencia de crecimiento durante los primeros nueve meses de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Movilización aérea en Colombia superó los 44 millones de pasajeros entre enero y septiembre de 2026",
-        "capturado": "2026-10-29T14:29:46-05:00"
-      },
-      {
-        "titulo": "Galán asegura que los dineros para el Metro y la Calle 13 están asegurados",
-        "url": "https://www.dataifx.com/post/galan-afirma-que-los-recursos-del-metro-y-la-calle-13-estan-garantizados",
-        "resumen": "Al término del Consejo de Seguridad y de la jornada de trabajo con el Gobierno Nacional, el alcalde Mayor de Bogotá, Carlos Fernando Galán, reiteró que la reprogramación de vigencias futuras para la Línea 1 del Metro y la Calle 13 no representa una reducción de los recursos comprometidos para esas obras",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Galán afirma que los recursos del Metro y la Calle 13 están garantizados",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Empleadas del servicio doméstico participarán por primera vez en el debate del salario mínimo de 2027",
-        "url": "https://www.dataifx.com/post/trabajadoras-domesticas-entraran-por-primera-vez-la-discusion-del-salario-minimo-de-2027",
-        "resumen": "Las organizaciones de trabajadoras domésticas participarán por primera vez en los espacios de concertación del salario mínimo de 2027, tras una invitación anunciada por la ministra del Trabajo, Natalia Eugenia López Fuentes",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Trabajadoras domésticas entrarán por primera vez a la discusión del salario mínimo de 2027",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Superintendencia de Industria y Comercio requiere a nueve térmicas por supuestas fallas en el envío de electricidad",
-        "url": "https://www.dataifx.com/post/sic-pide-explicaciones-nueve-generadoras-termicas-por-posibles-incumplimientos-en-el-suministro-de",
-        "resumen": "La Superintendencia de Industria y Comercio (SIC) requirió a nueve empresas generadoras de energía térmica en Colombia para recopilar información sobre posibles incumplimientos en la entrega de electricidad al Sistema Interconectado Nacional y verificar si estas situaciones podrían comprometer las condiciones de competencia en el mercado energético, en el contexto del fenómeno de El Niño",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "SIC pide explicaciones a nueve generadoras térmicas por posibles incumplimientos en el suministro de energía",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Grupo Argos obtendrá 183.000 millones de pesos de Odinsa y consolida su plan financiero",
-        "url": "https://www.dataifx.com/post/grupo-argos-recibira-183000-millones-de-odinsa-y-refuerza-su-estrategia-de-asignacion-de-capital",
-        "resumen": "Grupo Argos recibirá cerca de COP 183",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos recibirá $183.000 millones de Odinsa y refuerza su estrategia de asignación de capital",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Ministerio de Minas afirma que el Ejecutivo pretende reactivar la extracción de carbón y elevar las regalías departamentales",
-        "url": "https://www.dataifx.com/post/gobierno-busca-recuperar-la-produccion-de-carbon-y-aumentar-las-regalias-para-las-regiones",
-        "resumen": "La ministra de Minas y Energía, María Nohemí, aseguró que el Gobierno buscará recuperar la producción de carbón en Colombia, fortalecer su aporte a la seguridad energética y aumentar los recursos que recibe el país por concepto de regalías",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno busca recuperar la producción de carbón y aumentar las regalías para las regiones: minEnergía",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Centro Democrático presenta iniciativa para reorganizar el modelo de pensiones mediante cuatro pilares",
-        "url": "https://www.dataifx.com/post/centro-democratico-radica-proyecto-para-reestructurar-el-sistema-pensional-en-cuatro-pilares",
-        "resumen": "Congresistas del Centro Democrático radicaron en el Senado de la República un proyecto de ley que modifica la Ley 2381 de 2024, la norma que regula el Sistema de Protección Social Integral para la Vejez, Invalidez y Muerte de origen común",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Centro Democrático radica proyecto para reestructurar el sistema pensional en cuatro pilares",
-        "capturado": "2026-10-28T18:57:47-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Demócratas se quedan con el Senado y la Cámara y Trump cede el control del Congreso",
+        "url": "https://www.dataifx.com/post/trump-pierde-el-control-del-congreso-democratas-ganan-el-senado-y-la-camara-de-representantes",
+        "resumen": "El presidente de Estados Unidos, Donald Trump, enfrentará una nueva configuración política en Washington después de que el Partido Demócrata recuperara el control de las dos cámaras del Congreso en las elecciones de mitad de mandato celebradas este martes 3 de noviembre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Trump pierde el control del Congreso: demócratas ganan el Senado y la Cámara de Representantes",
+        "capturado": "2026-11-04T09:12:10-05:00"
+      },
       {
         "titulo": "El desempleo en la zona euro siguió en 6,5% en septiembre pese al alza de cesantes",
         "url": "https://www.dataifx.com/post/desempleo-en-zona-euro-se-mantuvo-en-65-durante-septiembre-aunque-aumento-el-numero-de-personas-sin",
