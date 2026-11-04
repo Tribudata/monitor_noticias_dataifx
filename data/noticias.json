@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-03T18:06:49-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-04T00:51:10-05:00",
+  "nuevos_en_esta_corrida": 0,
   "secciones": {
     "Macro Colombia": [
       {
@@ -1349,56 +1349,6 @@
         "publicacion": "",
         "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
         "capturado": "2026-10-10T18:23:09-05:00"
-      },
-      {
-        "titulo": "Chevron destinará US$7.000 millones en Venezuela para duplicar su bombeo en un lustro",
-        "url": "https://www.dataifx.com/post/chevron-invertira-us7000-millones-en-venezuela-para-duplicar-su-produccion-en-cinco-anos",
-        "resumen": "La petrolera Chevron anunció una inversión superior a US$7",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Chevron invertirá US$7.000 millones en Venezuela para duplicar su producción en cinco años",
-        "capturado": "2026-10-05T00:10:45-05:00"
-      },
-      {
-        "titulo": "Cibest Capital extiende su oferta enfocada a usuarios de Guatemala y El Salvador",
-        "url": "https://www.dataifx.com/post/cibest-capital-amplia-su-propuesta-especializada-para-clientes-en-guatemala-y-el-salvador",
-        "resumen": "El Grupo Cibest anunció la expansión de su plataforma Cibest Capital hacia Guatemala y El Salvador, con el propósito de fortalecer su oferta de servicios especializados en mercado de capitales, banca de inversión, gestión de activos y banca privada",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Cibest Capital amplía su propuesta especializada para clientes en Guatemala y El Salvador",
-        "capturado": "2026-10-05T00:10:45-05:00"
-      },
-      {
-        "titulo": "Tim Cook sale del mando de Apple en 15 años y John Ternus toma el cargo de CEO",
-        "url": "https://www.dataifx.com/post/tim-cook-deja-la-direccion-de-apple-tras-15-anos-y-john-ternus-asume-como-nuevo-ceo",
-        "resumen": "El 1 de septiembre de 2026 marca el cierre de una etapa en Apple",
-        "autor": "",
-        "subseccion": "Acciones USA",
-        "publicacion": "",
-        "titulo_fuente": "Tim Cook deja la dirección de Apple tras 15 años y John Ternus asume como nuevo CEO",
-        "capturado": "2026-10-05T00:10:45-05:00"
-      },
-      {
-        "titulo": "Colombia pretende que Mazda retome el armado y que Toyota financie movilidad eléctrica",
-        "url": "https://www.dataifx.com/post/colombia-busca-que-mazda-vuelva-ensamblar-y-que-toyota-invierta-en-movilidad-electrica",
-        "resumen": "El presidente Abelardo de la Espriella anunció que Colombia y Japón retomaron las negociaciones del Acuerdo de Asociación Económica (EPA), paralizadas durante cerca de 15 años",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Colombia busca que Mazda vuelva a ensamblar y que Toyota invierta en movilidad eléctrica",
-        "capturado": "2026-10-05T00:10:45-05:00"
-      },
-      {
-        "titulo": "Colombia progresa en su agenda económica con Japón para captar inversión y tecnología",
-        "url": "https://www.dataifx.com/post/colombia-avanza-en-agenda-economica-con-japon-para-atraer-inversion-y-tecnologia",
-        "resumen": "El Gobierno colombiano busca consolidar nuevas oportunidades con Japón para impulsar la industria nacional y atraer transferencia tecnológica",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Colombia avanza en agenda económica con Japón para atraer inversión y tecnología",
-        "capturado": "2026-10-05T00:10:45-05:00"
       }
     ]
   }
