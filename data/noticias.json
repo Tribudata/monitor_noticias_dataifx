@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-04T09:12:10-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-04T16:47:42-05:00",
+  "nuevos_en_esta_corrida": 12,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Minigranjas solares en Colombia: los desafíos de operación, conexión y rentabilidad que afronta el sector",
+        "url": "https://www.dataifx.com/post/minigranjas-solares-en-colombia-los-retos-de-rentabilidad-conexion-y-operacion-que-enfrenta-el",
+        "resumen": "El crecimiento de la energía solar en Colombia ha puesto sobre la mesa nuevos desafíos para el sector eléctrico",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Minigranjas solares en Colombia: los retos de rentabilidad, conexión y operación que enfrenta el sector",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Congreso avaló en primer debate adición de $3,8 billones al Presupuesto de 2026: estos serán los recursos",
+        "url": "https://www.dataifx.com/post/congreso-aprobo-en-primer-debate-adicion-de-38-billones-al-presupuesto-de-2026-estos-seran-los",
+        "resumen": "Las comisiones económicas del Congreso aprobaron en primer debate una adición de $3,8 billones al Presupuesto General de la Nación (PGN) de 2026, con recursos destinados a la atención de los damnificados del terremoto, la financiación del programa Colombia Mayor y otras necesidades relacionadas con el funcionamiento del Estado",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Congreso aprobó en primer debate adición de $3,8 billones al Presupuesto de 2026: estos serán los recursos",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Comisiones económicas dan luz verde en primer debate a presupuesto de regalías por $27,5 billones para 2027-2028",
+        "url": "https://www.dataifx.com/post/comisiones-economicas-aprueban-en-primer-debate-presupuesto-de-regalias-por-275-billones-para-2027",
+        "resumen": "Las Comisiones Económicas Terceras y Cuartas del Senado de la República y de la Cámara de Representantes aprobaron en primer debate el proyecto de ley que establece el presupuesto del Sistema General de Regalías (SGR) para el bienio 2027-2028, por un monto de $27,5 billones",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Comisiones económicas aprueban en primer debate presupuesto de regalías por $27,5 billones para 2027-2028",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "La junta decidirá hoy si me respalda o no: presidente de Fedegán ante choque con MinAgricultura",
+        "url": "https://www.dataifx.com/post/la-junta-decidira-hoy-si-me-respalda-o-no-presidente-de-fedegan-ante-choque-con-minagricultura",
+        "resumen": "El presidente de Fedegán, José Félix Lafaurie, afirmó que será la junta directiva del gremio la que determine si continúa al frente de la organización luego del enfrentamiento que sostuvo con el ministro de Agricultura, Indalecio Dangond, durante una reunión técnica realizada el pasado 3 de noviembre",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "\"La junta decidirá hoy si me respalda o no\": presidente de Fedegán ante choque con MinAgricultura",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Campetrol plantea una estrategia de cuatro pilares para rescatar la soberanía energética colombiana",
+        "url": "https://www.dataifx.com/post/campetrol-propone-un-plan-de-cuatro-pilares-para-recuperar-la-soberania-energetica-de-colombia",
+        "resumen": "La recuperación de la producción de petróleo y gas, el aumento de las reservas y la reducción de la dependencia de las importaciones fueron algunos de los principales temas planteados por Nelson Castañeda, presidente de CAMPETROL, durante la apertura de la IX Cumbre del Petróleo, Gas y Energía, que se realiza este 4 de noviembre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Campetrol propone un plan de cuatro pilares para recuperar la soberanía energética de Colombia",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Las ventas externas colombianas subieron 16,4% en septiembre y pasaron de US$5.400 millones por oro y petróleo",
+        "url": "https://www.dataifx.com/post/exportaciones-de-colombia-crecieron-164-en-septiembre-y-superaron-los-us5400-millones-impulsadas",
+        "resumen": "Las exportaciones colombianas alcanzaron US$5",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de Colombia crecieron 16,4% en septiembre y superaron los US$5.400 millones impulsadas por petróleo y oro",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
       {
         "titulo": "IPC de la eurozona tocó el 4% en octubre y sube previsiones de más aumentos de tipos del BCE",
         "url": "https://www.dataifx.com/post/inflacion-de-la-eurozona-llego-4-en-octubre-y-aumenta-las-expectativas-de-nuevas-alzas-de-tasas-del",
@@ -393,66 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno propone reducir el impuesto de renta a las empresas en proyecto de Ley de Ajuste Fiscal",
         "capturado": "2026-10-29T18:53:22-05:00"
-      },
-      {
-        "titulo": "Gobierno busca gravar más productos al 19% con devolución a pobres",
-        "url": "https://www.dataifx.com/post/gobierno-propone-ampliar-los-productos-gravados-con-iva-al-19-y-crear-un-sistema-de-devolucion-para",
-        "resumen": "El Gobierno Nacional propone modificar la estructura del impuesto sobre las ventas (IVA) mediante la eliminación de varios tratamientos preferenciales y la ampliación de los bienes y servicios sujetos a la tarifa general del 19%",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propone ampliar los productos gravados con IVA al 19% y crear un sistema de devolución para hogares de menores ingresos",
-        "capturado": "2026-10-29T18:53:22-05:00"
-      },
-      {
-        "titulo": "Gobierno dice que 70% del ajuste será recorte estatal y 10% aportará más",
-        "url": "https://www.dataifx.com/post/gobierno-plantea-que-el-70-del-ajuste-fiscal-saldra-de-recortes-al-estado-y-que-el-10-de-mayores",
-        "resumen": "El Gobierno Nacional defendió la necesidad de aprobar la Ley de Rescate Económico, radicada ante la Cámara de Representantes, con el argumento de que el país enfrenta presiones fiscales que requieren medidas para contener el endeudamiento y evitar un deterioro de la actividad económica",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno plantea que el 70% del ajuste fiscal saldrá de recortes al Estado y que el 10% de mayores ingresos asumirá nuevos aportes",
-        "capturado": "2026-10-29T18:53:22-05:00"
-      },
-      {
-        "titulo": "Gobierno radicó reforma fiscal sobre deuda, devolución, salud e inversión",
-        "url": "https://www.dataifx.com/post/gobierno-radico-reforma-fiscal-con-cinco-ejes-deuda-devolucion-del-iva-salud-e-inversion",
-        "resumen": "El Gobierno Nacional radicó ante la Secretaría de la Cámara de Representantes el proyecto de Ley de Ajuste Fiscal, una iniciativa que reúne 105 artículos y que, según explicó el ministro de Hacienda, busca intervenir en cinco frentes: las finanzas públicas, la situación social de los hogares, el sistema de salud, la inversión y el funcionamiento del Estado",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno radicó reforma fiscal con cinco ejes: deuda, devolución del IVA, salud e inversión",
-        "capturado": "2026-10-29T18:53:22-05:00"
-      },
-      {
-        "titulo": "Colombia alista estabilidad jurídica para inversiones en la Ley de Ajuste",
-        "url": "https://www.dataifx.com/post/colombia-prepara-un-regimen-de-estabilidad-juridica-para-nuevas-inversiones-dentro-de-la-ley-de",
-        "resumen": "El Gobierno Nacional contempla incorporar un régimen de garantías para atraer nuevas inversiones a Colombia como parte de la Ley de Ajuste Fiscal, una iniciativa con la que busca corregir el desequilibrio de las cuentas públicas y promover la actividad económica",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia prepara un régimen de estabilidad jurídica para nuevas inversiones dentro de la Ley de Ajuste Fiscal",
-        "capturado": "2026-10-29T18:53:22-05:00"
-      },
-      {
-        "titulo": "Lulo Bank suma pólizas a su app y agranda su portafolio de servicios digitales",
-        "url": "https://www.dataifx.com/post/lulo-bank-incorpora-seguros-su-aplicacion-y-amplia-su-oferta-de-servicios-digitales",
-        "resumen": "Lulo Bank anunció su entrada al mercado de seguros con el lanzamiento de una tienda digital integrada a su aplicación, desde la cual sus clientes podrán consultar, cotizar y contratar pólizas sin recurrir a oficinas físicas ni a intermediarios",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Lulo Bank incorpora seguros a su aplicación y amplía su oferta de servicios digitales",
-        "capturado": "2026-10-29T14:29:46-05:00"
-      },
-      {
-        "titulo": "Ejecutivo articulará labores con Estados Unidos ante avisos de viaje que impactan el turismo nacional",
-        "url": "https://www.dataifx.com/post/gobierno-coordinara-acciones-con-ee-uu-por-alertas-de-viaje-que-afectan-al-turismo-colombiano",
-        "resumen": "El Gobierno colombiano prepara una estrategia interinstitucional para abordar las advertencias de viaje que emite Estados Unidos sobre Colombia, conocidas como travel warnings, ante su posible incidencia en la llegada de turistas internacionales y en los ingresos que genera esta actividad económica",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno coordinará acciones con EE. UU. por alertas de viaje que afectan al turismo colombiano",
-        "capturado": "2026-10-29T14:29:46-05:00"
       }
     ],
     "Macro Internacional": [
@@ -675,29 +675,29 @@
         "publicacion": "",
         "titulo_fuente": "Déficit comercial de EE.UU. aumentó a US$105.600 millones en agosto por fuerte crecimiento de las importaciones",
         "capturado": "2026-10-06T18:42:58-05:00"
-      },
-      {
-        "titulo": "Alza del 7,59% en la inflación energética de agosto y alerta de XM sobre baja oferta generadora",
-        "url": "https://www.dataifx.com/post/inflacion-de-la-energia-sube-759-en-agosto-y-xm-alerta-por-menor-disponibilidad-de-generacion",
-        "resumen": "La situación del sector energético empieza a tener un mayor peso dentro del panorama económico colombiano, en un contexto en el que la demanda de electricidad mantiene una tendencia de crecimiento y el Sistema Interconectado Nacional enfrenta menores niveles de disponibilidad de generación",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inflación de la energía sube 7,59% en agosto y XM alerta por menor disponibilidad de generación",
-        "capturado": "2026-10-05T09:16:52-05:00"
-      },
-      {
-        "titulo": "Habrá segunda vuelta en Brasil entre Lula y Flávio Bolsonaro tras una primera votación sin mayoría",
-        "url": "https://www.dataifx.com/post/brasil-ira-segunda-vuelta-entre-lula-y-flavio-bolsonaro-tras-una-primera-votacion-sin-mayoria",
-        "resumen": "Brasil definió este domingo los candidatos que disputarán la Presidencia en la segunda vuelta del próximo 25 de octubre",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Brasil irá a segunda vuelta entre Lula y Flávio Bolsonaro tras una primera votación sin mayoría",
-        "capturado": "2026-10-05T09:16:52-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Ban100 presenta depósito digital de ahorros que ofrece un once por ciento de rendimiento efectivo anual",
+        "url": "https://www.dataifx.com/post/ban100-lanza-cuenta-digital-de-ahorro-con-rentabilidad-de-11-efectivo-anual",
+        "resumen": "Ban100 anunció el lanzamiento de una nueva cuenta de ahorros digital con la que busca ampliar su oferta de productos de captación y entrar a competir en el mercado de cuentas remuneradas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ban100 lanza cuenta digital de ahorro con rentabilidad de 11% efectivo anual",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "La junta decidirá hoy si me respalda o no: presidente de Fedegán ante choque con MinAgricultura",
+        "url": "https://www.dataifx.com/post/la-junta-decidira-hoy-si-me-respalda-o-no-presidente-de-fedegan-ante-choque-con-minagricultura",
+        "resumen": "El presidente de Fedegán, José Félix Lafaurie, afirmó que será la junta directiva del gremio la que determine si continúa al frente de la organización luego del enfrentamiento que sostuvo con el ministro de Agricultura, Indalecio Dangond, durante una reunión técnica realizada el pasado 3 de noviembre",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "titulo_fuente": "\"La junta decidirá hoy si me respalda o no\": presidente de Fedegán ante choque con MinAgricultura",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
       {
         "titulo": "T4 recauda $6.000 millones en a2censo para su expansión y apertura de 30 tiendas",
         "url": "https://www.dataifx.com/post/t4-busca-6000-millones-en-a2censo-para-financiar-expansion-y-abrir-30-nuevas-tiendas",
@@ -1127,29 +1127,49 @@
         "publicacion": "",
         "titulo_fuente": "Presidenta Grupo Aval: ajuste fiscal creíble e incentivos sectoriales son claves para reactivar la inversión privada",
         "capturado": "2026-10-23T13:13:12-05:00"
-      },
-      {
-        "titulo": "Daniel Briceño expone labor con el Gobierno para promover seguridad jurídica hasta de 20 años en grandes capitales",
-        "url": "https://www.dataifx.com/post/daniel-briceno-revela-trabajo-con-el-gobierno-para-impulsar-estabilidad-juridica-de-hasta-20-anos",
-        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, evento en el que dataiFX estuvo presente, el representante a la Cámara por Bogotá, Daniel Briceño, aseguró que viene trabajando con el Gobierno Nacional en una iniciativa orientada a crear condiciones de estabilidad jurídica de largo plazo para atraer grandes inversiones al país",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "Daniel Briceño revela trabajo con el Gobierno para impulsar estabilidad jurídica de hasta 20 años para grandes inversiones",
-        "capturado": "2026-10-23T02:17:58-05:00"
-      },
-      {
-        "titulo": "Nutresa pretende adquirir Presto tras suscribir convenio de compra",
-        "url": "https://www.dataifx.com/post/nutresa-busca-quedarse-con-presto-tras-firmar-acuerdo-de-adquisicion",
-        "resumen": "Grupo Nutresa anunció la suscripción de un acuerdo para asumir el control de los restaurantes Presto, en una operación que contempla la continuidad del negocio, la conservación de las marcas y la sustitución patronal de los empleados",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Nutresa busca quedarse con Presto tras firmar acuerdo de adquisición",
-        "capturado": "2026-10-23T02:17:58-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Bolsa de Nueva York sube tras comicios legislativos y el Dow Jones pasa de 53.300 puntos",
+        "url": "https://www.dataifx.com/post/wall-street-cierra-en-verde-tras-elecciones-de-medio-mandato-dow-jones-supero-los-53300-puntos",
+        "resumen": "Los principales índices bursátiles de Estados Unidos terminaron la jornada de este miércoles con ganancias, en una sesión marcada por la reacción de los inversionistas a los resultados de las elecciones de medio mandato y al nuevo equilibrio político que se configuró en Washington tras los avances del Partido Demócrata en el Congreso",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Wall Street cierra en verde tras elecciones de medio mandato; Dow Jones superó los 53.300 puntos",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Depósitos bloqueados y manifestaciones: la crisis generada por la clausura de Ueno Bank en Paraguay",
+        "url": "https://www.dataifx.com/post/ahorros-congelados-y-protestas-la-crisis-que-desato-el-cierre-de-ueno-bank-en-paraguay",
+        "resumen": "Paraguay atraviesa una de las mayores crisis recientes de su sistema financiero luego de que el Banco Central del Paraguay (BCP) ordenara la disolución de Ueno Bank, una entidad que contaba con aproximadamente 2,9 millones de clientes en un país de poco más de seis millones de habitantes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ahorros congelados y protestas: la crisis que desató el cierre de Ueno Bank en Paraguay",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Dow Jones trepa más de 1.100 unidades tras los comicios de EE.UU.",
+        "url": "https://www.dataifx.com/post/dow-jones-se-dispara-mas-de-1100-puntos-tras-los-resultados-electorales-en-eeuu",
+        "resumen": "Las acciones estadounidenses operan con importantes ganancias este miércoles, mientras los inversionistas continúan ajustando sus posiciones tras los resultados de las elecciones legislativas en Estados Unidos",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Dow Jones se dispara más de 1.100 puntos tras los resultados electorales en EE.UU.",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
+      {
+        "titulo": "Bolsas de Europa festejan comicios de EE.UU. y el crudo baja cerca de 3 por ciento",
+        "url": "https://www.dataifx.com/post/mercados-europeos-celebran-resultado-electoral-en-eeuu-mientras-el-petroleo-cae-cerca-de-3",
+        "resumen": "Los mercados europeos registran una jornada positiva impulsada por un mayor apetito por activos de riesgo, en un contexto en el que los inversionistas continúan evaluando el panorama político en Estados Unidos y las perspectivas para la economía global",
+        "autor": "",
+        "subseccion": "Acciones",
+        "publicacion": "",
+        "titulo_fuente": "Mercados europeos celebran resultado electoral en EE.UU. mientras el petróleo cae cerca de 3%",
+        "capturado": "2026-11-04T16:47:42-05:00"
+      },
       {
         "titulo": "El conglomerado de medios resultante de la unión de Paramount y Warner Bros se llamará Skydance",
         "url": "https://www.dataifx.com/post/skydance-sera-el-nombre-de-la-nueva-gigante-del-entretenimiento-surgida-de-la-fusion-entre",
