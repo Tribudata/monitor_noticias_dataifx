@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-04T16:47:42-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-11-04T21:08:59-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Fedesarrollo apoya la urgencia de un ajuste tributario aunque sugiere examinar ciertos aspectos oficiales",
+        "url": "https://www.dataifx.com/post/fedesarrollo-respalda-necesidad-de-una-reforma-fiscal-pero-pide-revisar-algunos-puntos-de-la",
+        "resumen": "Fedesarrollo consideró que la situación de las finanzas públicas colombianas requiere una reforma fiscal de amplio alcance y respaldó buena parte del proyecto de Ley de Rescate Fiscal presentado recientemente por el Gobierno al Congreso",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fedesarrollo respalda necesidad de una reforma fiscal, pero pide revisar algunos puntos de la propuesta del Gobierno",
+        "capturado": "2026-11-04T21:08:59-05:00"
+      },
       {
         "titulo": "Minigranjas solares en Colombia: los desafíos de operación, conexión y rentabilidad que afronta el sector",
         "url": "https://www.dataifx.com/post/minigranjas-solares-en-colombia-los-retos-de-rentabilidad-conexion-y-operacion-que-enfrenta-el",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Ley de Ajuste Fiscal: Gobierno busca reducir gastos de funcionamiento y revisar fondos y transferencias del Estado",
         "capturado": "2026-10-30T00:21:44-05:00"
-      },
-      {
-        "titulo": "Gobierno plantea bajar la renta corporativa en la Ley de Ajuste Fiscal",
-        "url": "https://www.dataifx.com/post/gobierno-propone-reducir-el-impuesto-de-renta-las-empresas-en-proyecto-de-ley-de-ajuste-fiscal",
-        "resumen": "El Gobierno Nacional incluyó en el proyecto de Ley de Rescate Económico una propuesta para reducir la tarifa general del impuesto de renta corporativa, como parte de las medidas dirigidas a impulsar la inversión y la actividad empresarial en Colombia",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno propone reducir el impuesto de renta a las empresas en proyecto de Ley de Ajuste Fiscal",
-        "capturado": "2026-10-29T18:53:22-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El Brent baja de US$95 luego de comicios en EE. UU. y suma tres días de descenso",
+        "url": "https://www.dataifx.com/post/brent-cae-por-debajo-de-us95-tras-elecciones-en-eeuu-y-acumula-tres-jornadas-la-baja",
+        "resumen": "El mercado petrolero cerró este miércoles con una fuerte corrección de precios, en una jornada marcada por la reacción de los inversionistas a los resultados de las elecciones legislativas en Estados Unidos y a las expectativas sobre el panorama geopolítico internacional",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Brent cae por debajo de US$95 tras elecciones en EE.UU. y acumula tres jornadas a la baja",
+        "capturado": "2026-11-04T21:08:59-05:00"
+      },
       {
         "titulo": "Demócratas se quedan con el Senado y la Cámara y Trump cede el control del Congreso",
         "url": "https://www.dataifx.com/post/trump-pierde-el-control-del-congreso-democratas-ganan-el-senado-y-la-camara-de-representantes",
@@ -678,6 +688,26 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "A septiembre la ganancia neta de ISA bajó 3% llegando a $1,8 billones",
+        "url": "https://www.dataifx.com/post/utilidad-neta-de-isa-cayo-3-septiembre-y-se-ubico-en-18-billones",
+        "resumen": "ISA reportó inversiones acumuladas por $5,2 billones durante los primeros nueve meses de 2026, cifra que representó un crecimiento de 19% frente al mismo periodo del año anterior",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Utilidad neta de ISA cayó 3% a septiembre y se ubicó en $1,8 billones",
+        "capturado": "2026-11-04T21:08:59-05:00"
+      },
+      {
+        "titulo": "El directorio de Fedegán apoya a José Félix Lafaurie tras altercado con MinAgricultura",
+        "url": "https://www.dataifx.com/post/junta-directiva-de-fedegan-respalda-jose-felix-lafaurie-tras-incidente-con-minagricultura",
+        "resumen": "La Junta Directiva de la Federación Colombiana de Ganaderos (Fedegán) expresó su respaldo institucional a su presidente ejecutivo, José Félix Lafaurie Rivera, luego del enfrentamiento ocurrido el pasado 3 de noviembre durante una reunión convocada por el ministro de Agricultura y Desarrollo Rural, Indalecio Dangond",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Junta Directiva de Fedegán respalda a José Félix Lafaurie tras incidente con MinAgricultura",
+        "capturado": "2026-11-04T21:08:59-05:00"
+      },
       {
         "titulo": "Ban100 presenta depósito digital de ahorros que ofrece un once por ciento de rendimiento efectivo anual",
         "url": "https://www.dataifx.com/post/ban100-lanza-cuenta-digital-de-ahorro-con-rentabilidad-de-11-efectivo-anual",
@@ -1106,26 +1136,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Presidenta de Grupo Aval plantea impulsar el acceso a vivienda mediante ahorro pensional y remesas",
-        "capturado": "2026-10-23T13:13:12-05:00"
-      },
-      {
-        "titulo": "PIB potencial colombiano ronda el 3% y precisa mayor inversión para alcanzar el 6%: cabeza de Grupo Cibest",
-        "url": "https://www.dataifx.com/post/crecimiento-potencial-de-colombia-esta-cerca-del-3-y-requiere-mas-inversion-para-llegar-al-6",
-        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, el presidente del Grupo Cibest, Juan Carlos Mora, destacó que la economía colombiana enfrentará un período retador en el corto plazo, aunque aseguró que existen factores que permiten mantener una perspectiva favorable hacia los próximos años si se generan las condiciones adecuadas para impulsar la inversión",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Crecimiento potencial de Colombia está cerca del 3% y requiere más inversión para llegar al 6%: presidente Grupo Cibest",
-        "capturado": "2026-10-23T13:13:12-05:00"
-      },
-      {
-        "titulo": "Titular de Grupo Aval: consolidación fiscal confiable y estímulos por sector impulsan la inversión privada",
-        "url": "https://www.dataifx.com/post/presidenta-grupo-aval-ajuste-fiscal-creible-e-incentivos-sectoriales-son-claves-para-reactivar-la",
-        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, la presidenta de Grupo Aval, María Lorena Gutiérrez, aseguró que la recuperación de la inversión privada será determinante para sostener el crecimiento económico de Colombia en los próximos años, especialmente en un escenario donde el gasto público podría perder protagonismo debido a las restricciones fiscales",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Presidenta Grupo Aval: ajuste fiscal creíble e incentivos sectoriales son claves para reactivar la inversión privada",
         "capturado": "2026-10-23T13:13:12-05:00"
       }
     ],
