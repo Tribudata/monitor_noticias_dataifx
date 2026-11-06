@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-06T06:58:08-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-06T14:15:56-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El IPP colombiano subió 2,2% en septiembre por impulso del agro y la minería",
+        "url": "https://www.dataifx.com/post/precios-al-productor-en-colombia-aumentaron-22-en-septiembre-impulsados-por-mineria-y-agro",
+        "resumen": "El Índice de Precios del Productor (IPP) de la producción nacional registró una variación anual de 2,2% en septiembre de 2026 frente al mismo mes de 2025, según informó el DANE",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Precios al productor en Colombia aumentaron 2,2% en septiembre, impulsados por minería y agro",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "ANLA saca de su vigilancia tres deberes del permiso otorgado a Anadarko en COL-1",
+        "url": "https://www.dataifx.com/post/anla-excluye-del-seguimiento-tres-obligaciones-de-la-licencia-de-anadarko-en-col-1",
+        "resumen": "La Autoridad Nacional de Licencias Ambientales (ANLA) excluyó del seguimiento tres obligaciones de la licencia ambiental otorgada a Anadarko Colombia Company Sucursal Colombia para la perforación exploratoria de hidrocarburos costa afuera en el bloque COL-1, en el Caribe colombiano",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "ANLA excluye del seguimiento tres obligaciones de la licencia de Anadarko en COL-1",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "Fecoljuegos solicita examinar tributos a apuestas en la iniciativa de Ley de Rescate Económico",
+        "url": "https://www.dataifx.com/post/fecoljuegos-pide-revisar-los-impuestos-los-juegos-de-azar-incluidos-en-el-proyecto-de-ley-de",
+        "resumen": "La Federación Colombiana de Empresarios de Juegos de Suerte y Azar (Fecoljuegos) manifestó su preocupación por las disposiciones del proyecto de Ley de Rescate Económico que contemplan cambios tributarios para los juegos de suerte y azar en sus modalidades online y localizados",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Fecoljuegos pide revisar los impuestos a los juegos de azar incluidos en el proyecto de Ley de Rescate Económico",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "Centro Democrático sugiere subir ajuste fiscal a $20 billones y analiza enajenar acciones de Ecopetrol",
+        "url": "https://www.dataifx.com/post/centro-democratico-propone-elevar-el-recorte-fiscal-20-billones-y-evalua-vender-participacion",
+        "resumen": "El Centro Democrático prepara una serie de propuestas para modificar el proyecto de Ley de Ajuste Fiscal, también denominado por el Gobierno como Ley de Rescate",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático propone elevar el recorte fiscal a $20 billones y evalúa vender participación estatal en Ecopetrol",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "Cosecha de café en el país bajó 8% en octubre y llegó a 1,114 millones de sacos",
+        "url": "https://www.dataifx.com/post/produccion-de-cafe-colombiano-cayo-8-en-octubre-y-se-ubico-en-1114-millones-de-sacos",
+        "resumen": "La producción de café colombiano registró una reducción durante los últimos doce meses, de acuerdo con las cifras presentadas por el presidente de la Federación Nacional de Cafeteros",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción de café colombiano cayó 8% en octubre y se ubicó en 1,114 millones de sacos",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "Superservicios, Supersociedades y SIC inspeccionarán a generadores de energía por fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/superservicios-supersociedades-y-sic-vigilaran-generadores-de-energia-ante-el-fenomeno-de-el-nino",
+        "resumen": "La Superintendencia de Servicios Públicos Domiciliarios (Superservicios), la Superintendencia de Sociedades (Supersociedades) y la Superintendencia de Industria y Comercio (SIC) coordinarán acciones de inspección y vigilancia sobre las empresas generadoras de energía eléctrica en Colombia, con el propósito de verificar su preparación y capacidad de respuesta frente al fenómeno de El Niño 2026-2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superservicios, Supersociedades y SIC vigilarán a generadores de energía ante el fenómeno de El Niño",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
+      {
+        "titulo": "Gobierno solicita ahorrar energía entre las 6:00 p. m. y las 9:00 p. m. por llegada de El Niño",
+        "url": "https://www.dataifx.com/post/gobierno-pide-ahorrar-energia-entre-las-600-p-m-y-las-900-p-m-ante-llegada-del-fenomeno-de-el-nino",
+        "resumen": "El Gobierno Nacional puso en marcha un plan de acción para enfrentar los efectos que podría tener el fenómeno de El Niño sobre el suministro de energía en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno pide ahorrar energía entre las 6:00 p. m. y las 9:00 p. m. ante llegada del fenómeno de El Niño",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
       {
         "titulo": "Centro Democrático estudia el Rescate Fiscal y alerta de los retos en las finanzas públicas",
         "url": "https://www.dataifx.com/post/centro-democratico-analiza-el-rescate-fiscal-y-advierte-sobre-los-desafios-de-las-finanzas-publicas",
@@ -383,79 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Colombia registró 123.214 motos nuevas en octubre, 24,72% más que un año atrás",
         "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Registros de automotores nuevos crecen 27,4 por ciento en octubre y alcanzan 32175 unidades",
-        "url": "https://www.dataifx.com/post/matriculas-de-vehiculos-nuevos-suben-274-en-octubre-y-suman-32175-unidades",
-        "resumen": "En octubre de 2026 se matricularon 32",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Matrículas de vehículos nuevos suben 27,4% en octubre y suman 32.175 unidades",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "FMI aplaudió la radicación de la Ley de Rescate Fiscal en el Congreso",
-        "url": "https://www.dataifx.com/post/fmi-celebro-la-presentacion-de-la-ley-de-rescate-fiscal-ante-el-congreso",
-        "resumen": "El Fondo Monetario Internacional (FMI) se pronunció sobre la Ley de Rescate Fiscal que el Gobierno colombiano presentó ante el Congreso de la República y manifestó su respaldo a la decisión de llevar al Legislativo un paquete de medidas orientado a corregir el desequilibrio de las finanzas públicas",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "FMI celebró la presentación de la Ley de Rescate Fiscal ante el Congreso",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Administración de Abelardo de la Espriella apunta a un ajuste fiscal de $90 billones con la Ley de Rescate",
-        "url": "https://www.dataifx.com/post/gobierno-de-abelardo-de-la-espriella-busca-un-ajuste-fiscal-de-90-billones-con-la-ley-de-rescate",
-        "resumen": "El Gobierno de Abelardo de la Espriella presentó los principales componentes de la denominada Ley de Rescate, una iniciativa con la que busca reorganizar las finanzas públicas, reducir el déficit fiscal y establecer nuevas fuentes de ingresos para atender las necesidades del presupuesto nacional",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno de Abelardo de la Espriella busca un ajuste fiscal de $90 billones con la Ley de Rescate: estos son los cambios tributarios",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Bogotá reveló presupuesto de $42,7 billones para 2027: inversión acaparará el 77,9% de los fondos",
-        "url": "https://www.dataifx.com/post/bogota-presento-presupuesto-de-427-billones-para-2027-inversion-concentrara-el-779-de-los-recursos",
-        "resumen": "El Gobierno Distrital, a través de la Secretaría de Hacienda de Bogotá, radicó ante el Concejo de la ciudad el proyecto de presupuesto para 2027, que contempla recursos por $42,7 billones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Bogotá presentó presupuesto de $42,7 billones para 2027: inversión concentrará el 77,9% de los recursos",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Luis Fernando Gómez Falla será el presidente encargado del Banco Popular tras la salida de María Fernanda Suárez",
-        "url": "https://www.dataifx.com/post/luis-fernando-gomez-falla-asumira-la-presidencia-encargada-del-banco-popular-tras-salida-de-maria",
-        "resumen": "La presidencia del Banco Popular tendrá un cambio a partir del primero de noviembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Luis Fernando Gómez Falla asumirá la presidencia encargada del Banco Popular tras salida de María Fernanda Suárez",
-        "capturado": "2026-10-31T00:05:37-05:00"
-      },
-      {
-        "titulo": "María Fernanda Suárez liderará la Presidencia del Banco de Bogotá luego de la renuncia de Juan Carlos Echeverry",
-        "url": "https://www.dataifx.com/post/maria-fernanda-suarez-asumira-la-presidencia-del-banco-de-bogota-tras-renuncia-de-juan-carlos",
-        "resumen": "La Presidencia del Banco de Bogotá tendrá un cambio en su dirección",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "María Fernanda Suárez asumirá la Presidencia del Banco de Bogotá tras renuncia de Juan Carlos Echeverry",
-        "capturado": "2026-10-31T00:05:37-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa finaliza la compra de La Universal y consolida su negocio en Ecuador",
-        "url": "https://www.dataifx.com/post/grupo-nutresa-completa-la-adquisicion-de-la-universal-y-fortalece-su-operacion-en-ecuador",
-        "resumen": "Grupo Nutresa concretó la adquisición de La Universal, luego de recibir la aprobación de las autoridades regulatorias de Ecuador",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Nutresa completa la adquisición de La Universal y fortalece su operación en Ecuador",
-        "capturado": "2026-10-30T18:33:59-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "La creación de puestos de trabajo en Estados Unidos superó las proyecciones y el paro bajó al 4,1%",
+        "url": "https://www.dataifx.com/post/generacion-de-empleo-en-eeuu-supero-ampliamente-las-previsiones-y-el-desempleo-cayo-41",
+        "resumen": "El mercado laboral de Estados Unidos mostró un desempeño mejor al esperado en octubre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Generación de empleo en EE.UU. superó ampliamente las previsiones y el desempleo cayó a 4,1%",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
       {
         "titulo": "Crudo Brent trepa más de 5% y se aproxima de nuevo a los US$100 por nuevas tensiones en torno a Irán",
         "url": "https://www.dataifx.com/post/brent-rebota-mas-de-5-y-vuelve-acercarse-los-us100-ante-renovadas-tensiones-sobre-iran",
@@ -718,6 +728,16 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "ESSA capta $200.000 millones mediante emisión de bonos para fondear inversiones",
+        "url": "https://www.dataifx.com/post/essa-obtiene-200000-millones-en-emision-de-bonos-para-financiar-inversiones",
+        "resumen": "La Electrificadora de Santander (ESSA), empresa del Grupo EPM, realizó una emisión de bonos de deuda pública interna por $200",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ESSA obtiene $200.000 millones en emisión de bonos para financiar inversiones",
+        "capturado": "2026-11-06T14:15:56-05:00"
+      },
       {
         "titulo": "Epm emite bonos por 1000 millones de dólares en el exterior luego de seis años",
         "url": "https://www.dataifx.com/post/epm-vuelve-al-mercado-internacional-tras-seis-anos-y-coloca-bonos-por-us1000-millones",
@@ -1156,16 +1176,6 @@
         "subseccion": "Acciones Colombia",
         "publicacion": "",
         "titulo_fuente": "Enka invertirá más de US$15 millones en nueva planta de reciclaje de PET y proyecto de energía solar",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "GEB y La Caisse concluyen operación para fusionar activos de transmisión de energía en Brasil",
-        "url": "https://www.dataifx.com/post/geb-y-la-caisse-finalizan-transaccion-para-integrar-activos-de-transmision-electrica-en-brasil",
-        "resumen": "El Grupo Energía Bogotá (GEB) y La Caisse de Dépôt et Placement du Québec concretaron el cierre de la transacción anunciada en mayo de este año y formalizaron la creación de Verene Energia S",
-        "autor": "",
-        "subseccion": "Empresas internacionales",
-        "publicacion": "",
-        "titulo_fuente": "GEB y La Caisse finalizan transacción para integrar activos de transmisión eléctrica en Brasil",
         "capturado": "2026-10-26T14:49:57-05:00"
       }
     ],
