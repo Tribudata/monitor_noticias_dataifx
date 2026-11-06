@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-05T15:59:36-05:00",
-  "nuevos_en_esta_corrida": 20,
+  "actualizado": "2026-11-05T21:09:08-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Centro Democrático estudia el Rescate Fiscal y alerta de los retos en las finanzas públicas",
+        "url": "https://www.dataifx.com/post/centro-democratico-analiza-el-rescate-fiscal-y-advierte-sobre-los-desafios-de-las-finanzas-publicas",
+        "resumen": "La bancada del Centro Democrático se reunió este jueves en Bogotá con el expresidente Álvaro Uribe Vélez para analizar la situación de las finanzas públicas y los alcances del proyecto de Ley de Rescate Fiscal presentado por el Gobierno nacional la semana pasada",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Centro Democrático analiza el Rescate Fiscal y advierte sobre los desafíos de las finanzas públicas",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
       {
         "titulo": "Gobierno gestiona préstamo por $1 billón para actualizar tecnología aeronáutica tras fallas en control aéreo",
         "url": "https://www.dataifx.com/post/gobierno-avanza-en-credito-por-1-billon-para-modernizar-tecnologia-aeronautica-tras-fallas-en",
@@ -443,19 +453,19 @@
         "publicacion": "",
         "titulo_fuente": "Grupo Nutresa completa la adquisición de La Universal y fortalece su operación en Ecuador",
         "capturado": "2026-10-30T18:33:59-05:00"
-      },
-      {
-        "titulo": "Fecoljuegos alista proyecto fiscal para apuestas y solicita concertación al Ejecutivo",
-        "url": "https://www.dataifx.com/post/fecoljuegos-prepara-propuesta-tributaria-para-juegos-de-azar-y-pide-dialogo-con-el-gobierno",
-        "resumen": "La Federación Colombiana de Empresarios de Juegos de Suerte y Azar (Fecoljuegos) prepara una propuesta tributaria para presentarla al Ministerio de Hacienda y al Congreso de la República, tras conocer las disposiciones del proyecto de Ley de Rescate Económico que contemplan medidas para los juegos de suerte y azar en sus modalidades online y localizados",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fecoljuegos prepara propuesta tributaria para juegos de azar y pide diálogo con el Gobierno",
-        "capturado": "2026-10-30T18:33:59-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "Crudo Brent trepa más de 5% y se aproxima de nuevo a los US$100 por nuevas tensiones en torno a Irán",
+        "url": "https://www.dataifx.com/post/brent-rebota-mas-de-5-y-vuelve-acercarse-los-us100-ante-renovadas-tensiones-sobre-iran",
+        "resumen": "Los precios internacionales del petróleo registraron una recuperación este jueves, luego del fuerte retroceso observado en la sesión anterior, cuando los mercados reaccionaron a los resultados de las elecciones legislativas de Estados Unidos y a las expectativas sobre una posible reducción de las tensiones geopolíticas en Oriente Medio",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Brent rebota más de 5% y vuelve a acercarse a los US$100 ante renovadas tensiones sobre Irán",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
       {
         "titulo": "Santiago Peña deja su cargo de presidente paraguayo en medio de la crisis de Ueno Bank",
         "url": "https://www.dataifx.com/post/santiago-pena-renuncia-la-presidencia-de-paraguay-en-medio-de-la-crisis-de-ueno-bank",
@@ -705,19 +715,59 @@
         "publicacion": "",
         "titulo_fuente": "Fed mantiene abierta puerta a nuevas alzas de tasas mientras persisten preocupaciones inflacionarias",
         "capturado": "2026-10-07T14:50:56-05:00"
-      },
-      {
-        "titulo": "El desbalance comercial estadounidense subió a US$105.600 millones en agosto por alza de compras externas",
-        "url": "https://www.dataifx.com/post/deficit-comercial-de-eeuu-aumento-us105600-millones-en-agosto-por-fuerte-crecimiento-de-las",
-        "resumen": "El déficit comercial de bienes y servicios de Estados Unidos se amplió durante agosto de 2026 y alcanzó los US$105",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Déficit comercial de EE.UU. aumentó a US$105.600 millones en agosto por fuerte crecimiento de las importaciones",
-        "capturado": "2026-10-06T18:42:58-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Epm emite bonos por 1000 millones de dólares en el exterior luego de seis años",
+        "url": "https://www.dataifx.com/post/epm-vuelve-al-mercado-internacional-tras-seis-anos-y-coloca-bonos-por-us1000-millones",
+        "resumen": "Empresas Públicas de Medellín (EPM) anunció la colocación de bonos por US$1",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "EPM vuelve al mercado internacional tras seis años y coloca bonos por US$1.000 millones",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
+      {
+        "titulo": "Sonia Abuchar asume la presidencia encargada de Isa y cambia su gobierno corporativo",
+        "url": "https://www.dataifx.com/post/isa-nombra-sonia-abuchar-como-presidenta-encargada-y-reorganiza-su-estructura-de-gobierno",
+        "resumen": "La Junta Directiva de Interconexión Eléctrica S",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ISA nombra a Sonia Abuchar como presidenta encargada y reorganiza su estructura de gobierno corporativo",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
+      {
+        "titulo": "Mintrabajo instala mesa territorial por la suspensión de contratos en Nestlé",
+        "url": "https://www.dataifx.com/post/ministerio-de-trabajo-convoca-mesa-territorial-por-suspension-de-contratos-en-plantas-de-nestle",
+        "resumen": "El Ministerio de Trabajo anunció la creación de una mesa territorial para abordar la situación laboral derivada de la suspensión de contratos en dos plantas vinculadas a Nestlé, ubicadas en Risaralda y Valle del Cauca",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio de Trabajo convoca mesa territorial por suspensión de contratos en plantas de Nestlé",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
+      {
+        "titulo": "María Fernanda Ortiz es nombrada nueva miembro de la junta directiva de Etb",
+        "url": "https://www.dataifx.com/post/etb-designa-maria-fernanda-ortiz-como-nueva-integrante-de-su-junta-directiva",
+        "resumen": "La Empresa de Telecomunicaciones de Bogotá (ETB) informó que su Asamblea Extraordinaria de Accionistas aprobó el nombramiento de María Fernanda Ortiz Carrascal como miembro no independiente de la Junta Directiva en representación del Distrito Capital",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "ETB designa a María Fernanda Ortiz como nueva integrante de su Junta Directiva",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
+      {
+        "titulo": "Nutresa finaliza la compra de Presto y toma el control de los restaurantes",
+        "url": "https://www.dataifx.com/post/nutresa-concreta-adquisicion-de-presto-y-asume-el-control-de-la-cadena-de-restaurantes",
+        "resumen": "Grupo Nutresa informó que completó el proceso de adquisición de los restaurantes , una operación que le permite asumir desde ahora el control de la cadena y continuar con la explotación de sus marcas y actividades comerciales",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Nutresa concreta adquisición de Presto y asume el control de la cadena de restaurantes",
+        "capturado": "2026-11-05T21:09:08-05:00"
+      },
       {
         "titulo": "Wall Street pierde el impulso electoral: el Nasdaq cae sobre 5% y el Dow cede cerca de 1.600 puntos",
         "url": "https://www.dataifx.com/post/wall-street-borra-impulso-electoral-nasdaq-cae-mas-de-5-y-dow-pierde-cerca-de-1600-puntos",
@@ -1117,56 +1167,6 @@
         "publicacion": "",
         "titulo_fuente": "GEB y La Caisse finalizan transacción para integrar activos de transmisión eléctrica en Brasil",
         "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo anula los límites de 15 zonas mineras especiales y quita un esquema que abarcaba 5,3 millones de hectáreas",
-        "url": "https://www.dataifx.com/post/gobierno-deroga-delimitaciones-de-15-distritos-mineros-especiales-y-elimina-una-figura-que-cubria",
-        "resumen": "El Gobierno nacional derogó las delimitaciones de 15 distritos mineros especiales para la diversificación productiva que habían sido establecidas en distintas regiones del país",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno deroga delimitaciones de 15 distritos mineros especiales y elimina una figura que cubría más de 5,3 millones de hectáreas",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Ministerio de Agricultura y cultivadores fijan plan para bajar gastos y subir el rendimiento de la papa",
-        "url": "https://www.dataifx.com/post/minagricultura-y-productores-acuerdan-agenda-para-reducir-costos-y-elevar-productividad-del-cultivo",
-        "resumen": "El Ministerio de Agricultura y representantes del sector papicultor definieron una hoja de ruta para impulsar cambios en la producción de papa en el país, con énfasis en la reducción de costos, el aumento de la productividad, el acceso al financiamiento y el fortalecimiento de la comercialización",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinAgricultura y productores acuerdan agenda para reducir costos y elevar productividad del cultivo de papa",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Administración nacional presenta plan para unir a compañías con problemas y posibles financistas",
-        "url": "https://www.dataifx.com/post/gobierno-anuncia-estrategia-para-conectar-empresas-en-dificultades-con-potenciales-inversionistas",
-        "resumen": "El presidente Abelardo de la Espirella anunció que el Gobierno pondrá en marcha una estrategia orientada a identificar empresas colombianas que atraviesen problemas financieros y facilitar contactos con inversionistas nacionales e internacionales, con el objetivo de evitar cierres empresariales y proteger puestos de trabajo",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno anuncia estrategia para conectar empresas en dificultades con potenciales inversionistas",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Máximo reconocimiento institucional póstumo de Camacol a Germán Vargas Lleras",
-        "url": "https://www.dataifx.com/post/camacol-otorga-postumamente-german-vargas-lleras-su-maxima-distincion-institucional",
-        "resumen": "En el marco del Congreso Colombiano de la Construcción de Camacol, que se realiza en Cartagena y en el que dataiFX está presente, el gremio otorgó un homenaje póstumo a Germán Vargas Lleras, al concederle la Orden al Mérito Líder de la Construcción en grado Presea de Oro, la máxima distinción institucional de la organización",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Camacol otorga póstumamente a Germán Vargas Lleras su máxima distinción institucional",
-        "capturado": "2026-10-23T17:59:42-05:00"
-      },
-      {
-        "titulo": "Gobierno y banca solidaria lanzan plan de crédito formal contra el gota a gota",
-        "url": "https://www.dataifx.com/post/contra-el-gota-gota-gobierno-y-sector-cooperativo-y-microfinanciero-impulsan-iniciativa-para",
-        "resumen": "El Gobierno Nacional, junto con organizaciones del sector microfinanciero y cooperativo, anunció un acuerdo para ampliar el acceso al crédito formal y reducir la dependencia de los préstamos informales conocidos como “gota a gota”, una práctica que continúa afectando a hogares, trabajadores independientes y pequeños negocios en distintas regiones del país",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Contra el “gota a gota”: Gobierno y sector cooperativo y microfinanciero impulsan iniciativa para ampliar el crédito formal",
-        "capturado": "2026-10-23T17:59:42-05:00"
       }
     ],
     "Empresas Internacional": [
