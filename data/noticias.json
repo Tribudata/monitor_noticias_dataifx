@@ -1,9 +1,19 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-06T14:15:56-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-06T19:02:01-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Superservicios incrementa controles a generadoras térmicas por peligro de escasez energética por El Niño",
+        "url": "https://www.dataifx.com/post/superservicios-intensifica-inspecciones-generadoras-termicas-ante-riesgo-de-escasez-de-energia-por",
+        "resumen": "La Superintendencia de Servicios Públicos Domiciliarios (Superservicios) anunció el fortalecimiento de las labores de inspección, vigilancia y control sobre las generadoras térmicas del país, con especial atención a las plantas ubicadas en la región Caribe",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Superservicios intensifica inspecciones a generadoras térmicas ante riesgo de escasez de energía por El Niño",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
       {
         "titulo": "El IPP colombiano subió 2,2% en septiembre por impulso del agro y la minería",
         "url": "https://www.dataifx.com/post/precios-al-productor-en-colombia-aumentaron-22-en-septiembre-impulsados-por-mineria-y-agro",
@@ -443,19 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Licencia de conducción por puntos: así funcionaría la propuesta que busca sancionar a conductores que acumulen infracciones en Colombia",
         "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "El país reportó 123214 motocicletas matriculadas en octubre, un incremento interanual del 24,72 por ciento",
-        "url": "https://www.dataifx.com/post/colombia-registro-123214-motos-nuevas-en-octubre-2472-mas-que-un-ano-atras",
-        "resumen": "Colombia registró 123",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia registró 123.214 motos nuevas en octubre, 24,72% más que un año atrás",
-        "capturado": "2026-11-03T11:02:02-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "S&P conserva nota de Paraguay a pesar de crisis política y financiera por el caso Ueno Bank",
+        "url": "https://www.dataifx.com/post/sp-mantiene-calificacion-de-paraguay-pese-crisis-politica-y-financiera-tras-caso-ueno-bank",
+        "resumen": "La agencia calificadora S&P Global Ratings afirmó que la crisis política derivada de la salida del presidente paraguayo Santiago Peña y la intervención de Ueno Bank no tiene efectos inmediatos sobre las calificaciones soberanas de Paraguay",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "S&P mantiene calificación de Paraguay pese a crisis política y financiera tras caso Ueno Bank",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
+      {
+        "titulo": "Congreso paraguayo remueve a Santiago Peña vía juicio político vinculado a la crisis de Ueno Bank",
+        "url": "https://www.dataifx.com/post/congreso-de-paraguay-destituye-santiago-pena-tras-juicio-politico-ligado-la-crisis-de-ueno-bank",
+        "resumen": "La crisis generada por la intervención de Ueno Bank provocó una de las mayores sacudidas políticas recientes en Paraguay",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Congreso de Paraguay destituye a Santiago Peña tras juicio político ligado a la crisis de Ueno Bank",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
       {
         "titulo": "La creación de puestos de trabajo en Estados Unidos superó las proyecciones y el paro bajó al 4,1%",
         "url": "https://www.dataifx.com/post/generacion-de-empleo-en-eeuu-supero-ampliamente-las-previsiones-y-el-desempleo-cayo-41",
@@ -715,19 +735,49 @@
         "publicacion": "",
         "titulo_fuente": "Inflación en Chile sube a 4,1% anual impulsada por transporte y alimentos",
         "capturado": "2026-10-08T18:11:45-05:00"
-      },
-      {
-        "titulo": "Reserva Federal deja abierta la posibilidad de más aumentos de tasas por la persistencia de la inflación",
-        "url": "https://www.dataifx.com/post/fed-mantiene-abierta-puerta-nuevas-alzas-de-tasas-mientras-persisten-preocupaciones-inflacionarias",
-        "resumen": "Las autoridades de la Reserva Federal de Estados Unidos consideran que podría ser necesario un nuevo aumento en las tasas de interés antes de que termine el año, aunque todavía no existe una definición sobre el momento en que eventualmente se adoptaría esa decisión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fed mantiene abierta puerta a nuevas alzas de tasas mientras persisten preocupaciones inflacionarias",
-        "capturado": "2026-10-07T14:50:56-05:00"
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Gladys Vega asume la vicepresidencia corporativa de Talento Organizacional en Ecopetrol",
+        "url": "https://www.dataifx.com/post/ecopetrol-nombra-gladys-vega-como-nueva-vicepresidenta-corporativa-de-talento-organizacional",
+        "resumen": "La Junta Directiva de Ecopetrol nombró a Gladys Vega Valencia como nueva vicepresidenta corporativa de Talento Organizacional",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Ecopetrol nombra a Gladys Vega como nueva vicepresidenta corporativa de Talento Organizacional",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
+      {
+        "titulo": "ACP sugiere estabilidad a treinta años para captar inversión y rescatar la autosuficiencia energética",
+        "url": "https://www.dataifx.com/post/acp-propone-estabilidad-de-hasta-30-anos-para-atraer-inversion-y-recuperar-la-autosuficiencia",
+        "resumen": "La Asociación Colombiana del Petróleo y Gas (ACP) planteó la necesidad de establecer condiciones estables de largo plazo para la inversión en Colombia y acelerar la ejecución de proyectos estratégicos con el objetivo de recuperar la autosuficiencia energética del país",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "ACP propone estabilidad de hasta 30 años para atraer inversión y recuperar la autosuficiencia energética",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
+      {
+        "titulo": "Nequi lanza espacios de ahorro con rentabilidad y la opción de retirar los fondos antes de tiempo",
+        "url": "https://www.dataifx.com/post/nequi-habilita-bolsillos-de-ahorro-con-rendimientos-y-retiro-anticipado-del-dinero",
+        "resumen": "Nequi anunció el lanzamiento de “Bolsillos interesantes”, una nueva funcionalidad que permitirá a algunos de sus usuarios separar dinero para objetivos específicos y obtener una rentabilidad previamente conocida durante el tiempo que mantengan esos recursos apartados",
+        "autor": "",
+        "subseccion": "Economía Personal",
+        "publicacion": "",
+        "titulo_fuente": "Nequi habilita bolsillos de ahorro con rendimientos y retiro anticipado del dinero",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
+      {
+        "titulo": "Nestlé pacta con el apoyo del MinTrabajo el regreso de 86 empleados en la planta de Bugalagrande",
+        "url": "https://www.dataifx.com/post/con-acompanamiento-de-mintrabajo-nestle-acuerda-retorno-de-86-trabajadores-en-bugalagrande",
+        "resumen": "La empresa Nestlé de Colombia y el Sindicato Nacional de Trabajadores del Sistema Agroalimentario (Sintrainal) alcanzaron un acuerdo para la reincorporación de 86 trabajadores de la planta de Bugalagrande, en el Valle del Cauca, en medio de un proceso de diálogo acompañado por el Ministerio de Trabajo",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Con acompañamiento de MinTrabajo, Nestlé acuerda retorno de 86 trabajadores en Bugalagrande",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
       {
         "titulo": "ESSA capta $200.000 millones mediante emisión de bonos para fondear inversiones",
         "url": "https://www.dataifx.com/post/essa-obtiene-200000-millones-en-emision-de-bonos-para-financiar-inversiones",
@@ -1137,49 +1187,19 @@
         "publicacion": "",
         "titulo_fuente": "Gobierno declara racionamiento programado de gas tras reducción en la capacidad de SPEC",
         "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "AMV expide una nueva certificación en riesgos financieros dirigida a expertos del área",
-        "url": "https://www.dataifx.com/post/amv-lanza-nueva-certificacion-en-riesgos-financieros-para-profesionales-del-sector",
-        "resumen": "El Autorregulador del Mercado de Valores (AMV) anunció la creación de una nueva certificación especializada en riesgos financieros, con la que busca ampliar su oferta de acreditaciones para profesionales vinculados a actividades de gestión y administración de riesgos dentro del sistema financiero colombiano",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "AMV lanza nueva certificación en riesgos financieros para profesionales del sector",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Mandatario pide indagar a generadoras por posibles fallas en suministro eléctrico por Fenómeno de El Niño",
-        "url": "https://www.dataifx.com/post/presidente-solicita-investigar-generadoras-por-presuntos-incumplimientos-en-entrega-de-energia",
-        "resumen": "El presidente Abelardo de la Espriella pidió a la Superintendencia de Servicios Públicos revisar el comportamiento de algunas empresas generadoras de energía ante posibles incumplimientos en las obligaciones de suministro comprometidas para respaldar el sistema eléctrico durante el fenómeno de El Niño",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Presidente solicita investigar a generadoras por presuntos incumplimientos en entrega de energía durante El Niño",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Anthropic alista su oferta pública inicial en medio del boom de la inteligencia artificial",
-        "url": "https://www.dataifx.com/post/anthropic-prepara-su-salida-bolsa-en-medio-del-auge-de-la-ia",
-        "resumen": "La empresa estadounidense de inteligencia artificial Anthropic dio un paso clave hacia su llegada al mercado bursátil al presentar la documentación necesaria para realizar una oferta pública inicial de acciones (OPI) en Estados Unidos",
-        "autor": "",
-        "subseccion": "Acciones USA",
-        "publicacion": "",
-        "titulo_fuente": "Anthropic prepara su salida a bolsa en medio del auge de la IA",
-        "capturado": "2026-10-26T14:49:57-05:00"
-      },
-      {
-        "titulo": "Enka destinará más de US$15 millones a planta de reciclaje de PET y iniciativa solar",
-        "url": "https://www.dataifx.com/post/enka-invertira-mas-de-us15-millones-en-nueva-planta-de-reciclaje-de-pet-y-proyecto-de-energia-solar",
-        "resumen": "La compañía Enka anunció la aprobación de nuevas inversiones por más de US$15 millones orientadas a ampliar su capacidad de reciclaje de plástico PET en Colombia y fortalecer el uso de energías renovables en sus operaciones",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Enka invertirá más de US$15 millones en nueva planta de reciclaje de PET y proyecto de energía solar",
-        "capturado": "2026-10-26T14:49:57-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Inconvenientes de Ueno aumentan usuarios en Banco GNB Paraguay y disparan solicitudes en plataformas virtuales",
+        "url": "https://www.dataifx.com/post/crisis-de-ueno-impulsa-llegada-de-clientes-banco-gnb-paraguay-y-genera-alta-demanda-en-canales",
+        "resumen": "La intervención de Ueno Bank en Paraguay ha comenzado a generar movimientos significativos dentro del sistema financiero del país",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Crisis de Ueno impulsa llegada de clientes a Banco GNB Paraguay y genera alta demanda en canales digitales",
+        "capturado": "2026-11-06T19:02:01-05:00"
+      },
       {
         "titulo": "El conflicto de Ueno Bank en Paraguay crece y aviva el juicio político a Peña",
         "url": "https://www.dataifx.com/post/crisis-de-ueno-bank-escala-en-paraguay-y-alimenta-juicio-politico-contra-pena",
