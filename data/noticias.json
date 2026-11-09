@@ -1,9 +1,69 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-09T04:32:44-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-09T15:36:08-05:00",
+  "nuevos_en_esta_corrida": 13,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Mintrabajo inició espacios con expertos para la negociación del salario mínimo de 2027",
+        "url": "https://www.dataifx.com/post/ministerio-del-trabajo-abrio-mesa-con-academicos-para-preparar-la-concertacion-del-salario-minimo",
+        "resumen": "El Ministerio del Trabajo abrió una mesa de diálogo con representantes de la academia, investigadores, economistas y expertos en asuntos laborales como parte de la preparación de la concertación del salario mínimo para 2027",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ministerio del Trabajo abrió mesa con académicos para preparar la concertación del salario mínimo de 2027",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo dispuesto a concertar para consolidar la Ley de Rescate Fiscal",
+        "url": "https://www.dataifx.com/post/gobierno-esta-abierto-al-dialogo-para-fortalecer-ley-de-rescate-fiscal",
+        "resumen": "El Gobierno Nacional afirmó que está dispuesto a evaluar propuestas que puedan incorporarse al proyecto de Ley de Rescate Fiscal que actualmente se discute en el país, siempre y cuando se trate de iniciativas concretas y viables desde el punto de vista técnico y fiscal",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno está abierto al diálogo para fortalecer Ley de Rescate Fiscal",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Tributo al tabaco de la Ley de Rescate Fiscal impulsaría contrabando superior a $900.000 millones",
+        "url": "https://www.dataifx.com/post/impuesto-al-cigarrillo-de-la-ley-de-rescate-fiscal-fortaleceria-negocio-ilegal-por-mas-de-900000",
+        "resumen": "Un estudio elaborado por la Universidad de los Andes advierte que un incremento significativo en el impuesto al consumo de cigarrillos, como el contemplado en el proyecto de Ley de Rescate Fiscal, podría generar efectos contrarios a los esperados en materia de recaudo y control del consumo, especialmente en un contexto de alta presencia de contrabando",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto al cigarrillo de la Ley de Rescate Fiscal fortalecería negocio ilegal por más de $900.000 millones",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Lafaurie aprueba la fiscalización del Ministerio de Agricultura al Fondo Nacional del Ganado",
+        "url": "https://www.dataifx.com/post/bienvenida-sea-lafaurie-responde-al-anuncio-de-auditoria-del-minagricultura-al-fondo-nacional-del",
+        "resumen": "El presidente ejecutivo de la Federación Colombiana de Ganaderos (Fedegán), José Félix Lafaurie Rivera, manifestó que el gremio entregará la información que le sea requerida en el marco de la auditoría forense anunciada por el ministro de Agricultura, Indalecio Dangond, sobre el Fondo Nacional del Ganado (FNG), recursos parafiscales cuya administración está a cargo de la organización ganadera",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "\"Bienvenida sea\": Lafaurie responde al anuncio de auditoría del MinAgricultura al Fondo Nacional del Ganado",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Hidroituango llega a la cota 420 y robustece el almacenamiento hídrico frente a El Niño",
+        "url": "https://www.dataifx.com/post/hidroituango-alcanza-la-cota-420-y-fortalece-reservas-de-agua-ante-la-llegada-de-el-nino",
+        "resumen": "El proyecto hidroeléctrico Hidroituango alcanzó la cota 420 en su embalse, un nivel que había sido definido como una de las medidas para aumentar la disponibilidad de agua y enfrentar las condiciones más secas que podrían presentarse durante los meses de mayor intensidad del fenómeno de El Niño, previstos para comienzos de 2027",
+        "autor": "",
+        "subseccion": "Empresas Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango alcanza la cota 420 y fortalece reservas de agua ante la llegada de El Niño",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Iniciativa alterna del Centro Democrático sobre ley de rescate sugiere bajar de 19 a 6 ministerios",
+        "url": "https://www.dataifx.com/post/propuesta-alternativa-del-centro-democratico-ley-de-rescate-plantea-reducir-de-19-6-ministerios",
+        "resumen": "El Centro Democrático presentó un primer borrador de propuesta alternativa a la ley de rescate de la economía, en el que plantea una transformación estructural del Estado colombiano que incluye la reducción del número de ministerios de 19 a 6, la eliminación o fusión de entidades públicas y una revisión de varios impuestos contemplados por el Gobierno Nacional",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Propuesta alternativa del Centro Democrático a ley de rescate plantea reducir de 19 a 6 ministerios",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
       {
         "titulo": "Superservicios incrementa controles a generadoras térmicas por peligro de escasez energética por El Niño",
         "url": "https://www.dataifx.com/post/superservicios-intensifica-inspecciones-generadoras-termicas-ante-riesgo-de-escasez-de-energia-por",
@@ -393,69 +453,29 @@
         "publicacion": "",
         "titulo_fuente": "Colombia sumó 42 nuevos proyectos de generación eléctrica y cinco de transmisión en el tercer trimestre de 2026",
         "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "Precios de gasolina y ACPM seguirán iguales en noviembre: FEPC absorberá costo de $15.500 millones",
-        "url": "https://www.dataifx.com/post/gobierno-mantendra-estables-los-precios-de-la-gasolina-y-el-acpm-en-noviembre-fepc-asumira-costo-de",
-        "resumen": "El Gobierno Nacional mantendrá estables los precios de venta al público de la gasolina motor corriente y el ACPM durante noviembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno mantendrá estables los precios de la gasolina y el ACPM en noviembre: FEPC asumirá costo de $15.500 millones",
-        "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "GeoPark entra a Venezuela y el Grupo Gilinski asume el control de la firma",
-        "url": "https://www.dataifx.com/post/geopark-completa-su-ingreso-venezuela-y-el-grupo-gilinski-pasa-controlar-la-compania",
-        "resumen": "GeoPark Limited (NYSE: GPRK) anunció este 2 de noviembre la entrada en vigencia del Contrato de Participación Productiva (CPP) de 25 años para el bloque Bare, en Venezuela, y la finalización de la transacción de emisión de acciones con el Grupo Gilinski",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "GeoPark completa su ingreso a Venezuela y el Grupo Gilinski pasa a controlar la compañía",
-        "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "ANIF: la Ley de Rescate Económico sumaría 4,09% del PIB al balance primario hacia 2030",
-        "url": "https://www.dataifx.com/post/anif-la-ley-de-rescate-economico-aportaria-409-del-pib-al-balance-primario-hacia-2030",
-        "resumen": "El Centro de Pensamiento Económico ANIF publicó su Informe Semanal No",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "ANIF: la Ley de Rescate Económico aportaría 4,09% del PIB al balance primario hacia 2030",
-        "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense avanza hoy y vuelve a rebasar los 3200 pesos",
-        "url": "https://www.dataifx.com/post/dolar-sube-este-martes-y-supera-de-nuevo-los-3200",
-        "resumen": "El dólar en Colombia se negocia este martes 3 de noviembre con un precio promedio de $3",
-        "autor": "",
-        "subseccion": "Dolar",
-        "publicacion": "",
-        "titulo_fuente": "Dólar sube este martes y supera de nuevo los $3.200",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Davivienda absorbe las filiales de Scotiabank en territorio nacional y pasa a ser la segunda entidad bancaria",
-        "url": "https://www.dataifx.com/post/davivienda-integra-las-operaciones-de-scotiabank-en-colombia-y-se-convierte-en-el-segundo-banco-mas",
-        "resumen": "Davivienda Group S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Davivienda integra las operaciones de Scotiabank en Colombia y se convierte en el segundo banco más grande del país",
-        "capturado": "2026-11-03T11:02:02-05:00"
-      },
-      {
-        "titulo": "Pase de conducción por puntos: la iniciativa para penalizar a infractores viales en el país",
-        "url": "https://www.dataifx.com/post/licencia-de-conduccion-por-puntos-asi-funcionaria-la-propuesta-que-busca-sancionar-conductores-que",
-        "resumen": "El Gobierno Nacional puso sobre la mesa la implementación de una licencia de conducción por puntos como parte de las propuestas para reformar el Código Nacional de Tránsito",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Licencia de conducción por puntos: así funcionaría la propuesta que busca sancionar a conductores que acumulen infracciones en Colombia",
-        "capturado": "2026-11-03T11:02:02-05:00"
       }
     ],
     "Macro Internacional": [
+      {
+        "titulo": "El Patria Day 2026 evaluará el escenario de inversión en Colombia, con más de US$9.000 millones inyectados",
+        "url": "https://www.dataifx.com/post/patria-day-2026-analizara-el-panorama-de-inversion-en-colombia-donde-la-firma-supera-los-us9000",
+        "resumen": "Patria Investments realizará una nueva edición de Patria Day 2026, su encuentro anual con inversionistas, clientes y representantes del sector financiero y empresarial, en el que se analizarán las perspectivas de inversión en Colombia, el comportamiento de los mercados y las oportunidades de financiación para las empresas",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Patria Day 2026 analizará el panorama de inversión en Colombia, donde la firma supera los US$9.000 millones invertidos",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "El Brent cae más de 3% y perfora los US$95 tras indicios de distensión entre Estados Unidos e Irán",
+        "url": "https://www.dataifx.com/post/brent-pierde-mas-de-3-y-baja-de-us95-por-senales-de-distension-entre-eeuu-e-iran",
+        "resumen": "El mercado petrolero inicia la semana con retrocesos",
+        "autor": "",
+        "subseccion": "Commodities",
+        "publicacion": "",
+        "titulo_fuente": "Brent pierde más de 3% y baja de US$95 por señales de distensión entre EE.UU. e Irán",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
       {
         "titulo": "S&P conserva nota de Paraguay a pesar de crisis política y financiera por el caso Ueno Bank",
         "url": "https://www.dataifx.com/post/sp-mantiene-calificacion-de-paraguay-pese-crisis-politica-y-financiera-tras-caso-ueno-bank",
@@ -708,6 +728,56 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "USO descarta vender Ecopetrol y exige consolidar la industria petrolera y gasífera",
+        "url": "https://www.dataifx.com/post/uso-rechaza-propuestas-de-privatizacion-de-ecopetrol-y-pide-fortalecer-negocio-de-petroleo-y-gas",
+        "resumen": "La Unión Sindical Obrera (USO) expresó su rechazo a las propuestas que plantean una eventual venta de Ecopetrol como mecanismo para enfrentar los desafíos fiscales del país y sostuvo que la compañía debe reforzar sus actividades tradicionales de petróleo y gas para preservar la seguridad energética de Colombia",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "USO rechaza propuestas de privatización de Ecopetrol y pide fortalecer negocio de petróleo y gas",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Inversionistas tendrán que aguardar: Ecopetrol cambia el calendario de balances",
+        "url": "https://www.dataifx.com/post/inversionistas-deberan-esperar-ecopetrol-modifica-cronograma-de-resultados",
+        "resumen": "Ecopetrol aplazó la divulgación de los resultados financieros y operativos correspondientes al tercer trimestre de 2026, modificando el calendario que había previsto inicialmente para la presentación de estas cifras ante el mercado y los inversionistas",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Inversionistas deberán esperar: Ecopetrol modifica cronograma de resultados",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Ventas externas de aceite de palma subieron 21,8% de enero a agosto y pasaron 500.000 toneladas",
+        "url": "https://www.dataifx.com/post/exportaciones-de-aceite-de-palma-crecieron-218-entre-enero-y-agosto-y-superaron-las-500000",
+        "resumen": "La digitalización gana espacio en la industria de aceite de palma en Colombia, un sector que mantiene una senda de crecimiento tanto en producción como en exportaciones y que enfrenta el reto de modernizar sus operaciones para responder a las exigencias del mercado",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Exportaciones de aceite de palma crecieron 21,8% entre enero y agosto y superaron las 500.000 toneladas",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Tributo al tabaco del proyecto de rescate fiscal impulsaría contrabando por más de $900.000 millones",
+        "url": "https://www.dataifx.com/post/impuesto-al-cigarrillo-de-la-ley-de-rescate-fiscal-fortaleceria-negocio-ilegal-por-mas-de-900000",
+        "resumen": "Un estudio elaborado por la Universidad de los Andes advierte que un incremento significativo en el impuesto al consumo de cigarrillos, como el contemplado en el proyecto de Ley de Rescate Fiscal, podría generar efectos contrarios a los esperados en materia de recaudo y control del consumo, especialmente en un contexto de alta presencia de contrabando",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Impuesto al cigarrillo de la Ley de Rescate Fiscal fortalecería negocio ilegal por más de $900.000 millones",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
+      {
+        "titulo": "Hidroituango llega a la cota 420 y aumenta los embalses frente al fenómeno de El Niño",
+        "url": "https://www.dataifx.com/post/hidroituango-alcanza-la-cota-420-y-fortalece-reservas-de-agua-ante-la-llegada-de-el-nino",
+        "resumen": "El proyecto hidroeléctrico Hidroituango alcanzó la cota 420 en su embalse, un nivel que había sido definido como una de las medidas para aumentar la disponibilidad de agua y enfrentar las condiciones más secas que podrían presentarse durante los meses de mayor intensidad del fenómeno de El Niño, previstos para comienzos de 2027",
+        "autor": "",
+        "subseccion": "Macro Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Hidroituango alcanza la cota 420 y fortalece reservas de agua ante la llegada de El Niño",
+        "capturado": "2026-11-09T15:36:08-05:00"
+      },
       {
         "titulo": "Gladys Vega asume la vicepresidencia corporativa de Talento Organizacional en Ecopetrol",
         "url": "https://www.dataifx.com/post/ecopetrol-nombra-gladys-vega-como-nueva-vicepresidenta-corporativa-de-talento-organizacional",
@@ -1107,56 +1177,6 @@
         "publicacion": "",
         "titulo_fuente": "​​​​​​​Fundación Bolívar Davivienda y BID Lab abren convocatoria para impulsar la inversión de impacto en Colombia",
         "capturado": "2026-10-27T17:02:13-05:00"
-      },
-      {
-        "titulo": "Cafeteros de Huila destacan en Mundial de Baristas: ganador usó grano cosechado en Acevedo",
-        "url": "https://www.dataifx.com/post/cafe-de-huila-protagonista-en-mundial-de-baristas-campeon-utilizo-grano-cultivado-en-acevedo",
-        "resumen": "El café colombiano volvió a destacar en una de las competencias más importantes de la industria de cafés especiales",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Café de Huila protagonista en Mundial de Baristas: campeón utilizó grano cultivado en Acevedo",
-        "capturado": "2026-10-27T17:02:13-05:00"
-      },
-      {
-        "titulo": "WTW pacta adquisición de la correduría de seguros de ARESS, pendiente de aval regulatorio",
-        "url": "https://www.dataifx.com/post/wtw-acuerda-compra-del-negocio-de-corretaje-de-seguros-de-aress-sujeto-aprobacion-regulatoria",
-        "resumen": "Willis Towers Watson (WTW) anunció la firma de un acuerdo para adquirir el negocio de corretaje de seguros de ARESS Corredores de Seguros S",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "WTW acuerda compra del negocio de corretaje de seguros de ARESS, sujeto a aprobación regulatoria",
-        "capturado": "2026-10-27T17:02:13-05:00"
-      },
-      {
-        "titulo": "KOA entra a la Bolsa de Valores de Colombia en calidad de emisor de CDT",
-        "url": "https://www.dataifx.com/post/koa-se-incorpora-la-bolsa-de-valores-de-colombia-como-emisor-de-cdt",
-        "resumen": "KOA Compañía de Financiamiento anunció su incorporación a la Bolsa de Valores de Colombia (bvc) como emisor de Certificados de Depósito a Término (CDT), una decisión con la que busca fortalecer su estrategia de captación de recursos para respaldar el crecimiento de su cartera de crédito y ampliar su presencia en el mercado financiero colombiano",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "KOA se incorpora a la Bolsa de Valores de Colombia como emisor de CDT",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "Aseguradoras pagaron más de $1 billón por sismo y las reclamaciones superan los $7,1 billones",
-        "url": "https://www.dataifx.com/post/aseguradoras-han-pagado-mas-de-1-billon-por-danos-del-terremoto-reclamaciones-ya-superan-los-71",
-        "resumen": "Más de dos meses después del terremoto registrado el 10 de agosto, las compañías de seguros han desembolsado $1,08 billones en indemnizaciones a personas, empresas y copropiedades afectadas por el sismo, mientras continúan recibiendo reclamaciones cuyo valor estimado ya supera los $7,1 billones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Aseguradoras han pagado más de $1 billón por daños del terremoto; reclamaciones ya superan los $7,1 billones",
-        "capturado": "2026-10-27T12:58:24-05:00"
-      },
-      {
-        "titulo": "Gobierno decreta racionamiento programado de gas tras caída en la capacidad de SPEC",
-        "url": "https://www.dataifx.com/post/gobierno-declara-racionamiento-programado-de-gas-tras-reduccion-en-la-capacidad-de-spec",
-        "resumen": "Colombia entró nuevamente en un esquema de racionamiento programado de gas natural luego de que una contingencia operativa en la terminal de importación y regasificación de gas de Cartagena obligara a reducir temporalmente la oferta disponible para atender la demanda nacional",
-        "autor": "",
-        "subseccion": "Commodities",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno declara racionamiento programado de gas tras reducción en la capacidad de SPEC",
-        "capturado": "2026-10-27T12:58:24-05:00"
       }
     ],
     "Empresas Internacional": [
