@@ -1,9 +1,89 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-09T15:36:08-05:00",
-  "nuevos_en_esta_corrida": 13,
+  "actualizado": "2026-11-09T23:02:12-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Claro destinará $2.500 millones a redes WiFi para el DAVIarena de Medellín",
+        "url": "https://www.dataifx.com/post/claro-invertira-2500-millones-en-conectividad-wifi-para-el-daviarena-de-medellin",
+        "resumen": "Claro anunció su llegada al DAVIarena de Medellín, escenario en el que realizará una inversión cercana a los $2",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Claro invertirá $2.500 millones en conectividad WiFi para el DAVIarena de Medellín",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "El costo de vida en Colombia se situó en 6,30% en octubre y sumó tres meses de subida",
+        "url": "https://www.dataifx.com/post/la-inflacion-en-colombia-llego-630-en-octubre-y-completo-tres-meses-consecutivos-al-alza",
+        "resumen": "La inflación en Colombia continuó aumentando durante octubre de 2026",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La inflación en Colombia llegó a 6,30% en octubre y completó tres meses consecutivos al alza",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "Inclusión financiera en Colombia: la tenencia de cuentas crece, mas el crédito es un reto",
+        "url": "https://www.dataifx.com/post/inclusion-financiera-en-colombia-el-acceso-cuentas-avanza-pero-el-credito-sigue-siendo-un-desafio",
+        "resumen": "Colombia ha logrado ampliar la cobertura de su sistema financiero durante los últimos años",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Inclusión financiera en Colombia: el acceso a cuentas avanza, pero el crédito sigue siendo un desafío",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "MinAmbiente avala los pactos de delimitación del páramo de Santurbán con Vetas",
+        "url": "https://www.dataifx.com/post/minambiente-reconoce-los-acuerdos-de-delimitacion-del-paramo-de-santurban-con-el-municipio-de-vetas",
+        "resumen": "El Ministerio de Ambiente y Desarrollo Sostenible reconoció como concertados todos los acuerdos alcanzados con el municipio de Vetas, en Santander, durante 2021 y 2022, en el marco del proceso de delimitación del Complejo de Páramos Jurisdicciones – Santurbán – Berlín",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinAmbiente reconoce los acuerdos de delimitación del páramo de Santurbán con el municipio de Vetas",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "MinTrabajo pretende prohibir dádivas y presiones indebidas en las inspecciones laborales",
+        "url": "https://www.dataifx.com/post/mintrabajo-busca-impedir-dadivas-y-presiones-indebidas-durante-las-inspecciones-laborales",
+        "resumen": "El Ministerio del Trabajo impulsa nuevas medidas para prevenir posibles actos de corrupción durante las inspecciones laborales y evitar que intereses particulares interfieran en las actuaciones de los funcionarios encargados de vigilar el cumplimiento de las normas laborales en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "MinTrabajo busca impedir dádivas y presiones indebidas durante las inspecciones laborales",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "Septiembre trajo una baja en la extracción petrolera y gasífera nacional y un pico récord en compras externas",
+        "url": "https://www.dataifx.com/post/produccion-de-petroleo-y-gas-en-colombia-cayo-en-septiembre-mientras-las-importaciones-alcanzaron",
+        "resumen": "La producción nacional de petróleo y gas natural continúa registrando reducciones frente a los niveles del año anterior",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Producción de petróleo y gas en Colombia cayó en septiembre mientras las importaciones alcanzaron un máximo histórico",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "La SIC cerró el proceso a Ecopetrol, Cenit, Ocensa y Helistar por supuestas conductas anticompetitivas",
+        "url": "https://www.dataifx.com/post/sic-archivo-investigacion-contra-ecopetrol-cenit-ocensa-y-helistar-por-presuntas-practicas",
+        "resumen": "La Superintendencia de Industria y Comercio (SIC) ordenó el archivo de la investigación por presuntas prácticas restrictivas de la competencia en seis procesos de contratación de servicios de transporte de personas y carga en helicópteros, adelantados entre 2011 y 2023",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "SIC archivó investigación contra Ecopetrol, Cenit, Ocensa y Helistar por presuntas prácticas restrictivas de la competencia",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
+      {
+        "titulo": "Enlaza puso en servicio el tramo Cuestecitas-La Loma de la iniciativa Colectora en 500 kV",
+        "url": "https://www.dataifx.com/post/enlaza-energizo-el-tramo-cuestecitas-la-loma-del-proyecto-colectora-500-kv",
+        "resumen": "Enlaza, filial del Grupo Energía Bogotá (GEB), energizó los circuitos 1 y 2 del tramo Cuestecitas-La Loma del proyecto de transmisión eléctrica Colectora, a 500 kilovoltios (kV)",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Enlaza energizó el tramo Cuestecitas-La Loma del proyecto Colectora a 500 kV",
+        "capturado": "2026-11-09T23:02:12-05:00"
+      },
       {
         "titulo": "Mintrabajo inició espacios con expertos para la negociación del salario mínimo de 2027",
         "url": "https://www.dataifx.com/post/ministerio-del-trabajo-abrio-mesa-con-academicos-para-preparar-la-concertacion-del-salario-minimo",
@@ -373,86 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Airbus evalúa invertir en Colombia para desarrollar una cadena industrial de proveeduría aeronáutica y aeroespacial",
         "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "Grupo Argos confirma su segunda recompra de títulos valores por un monto de 150000 millones",
-        "url": "https://www.dataifx.com/post/grupo-argos-anuncia-segunda-oferta-de-readquisicion-de-acciones-por-150000-millones",
-        "resumen": "Grupo Argos anunció una nueva oferta de readquisición de acciones ordinarias y preferenciales por un monto máximo agregado de $150",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Grupo Argos anuncia segunda oferta de readquisición de acciones por $150.000 millones",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "País hará la Milagro Week en Madrid en marzo de 2027 con el fin de captar capital europeo",
-        "url": "https://www.dataifx.com/post/colombia-realizara-en-madrid-la-milagro-week-en-marzo-de-2027-para-atraer-inversion-europea",
-        "resumen": "Colombia realizará en Madrid, España, la Milagro Week en marzo de 2027, un encuentro empresarial con el que el Gobierno busca atraer nuevos recursos de inversionistas europeos y fortalecer la relación económica con ese continente",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia realizará en Madrid la Milagro Week en marzo de 2027 para atraer inversión europea",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "CGT Mayorías Territoriales estará en la concertación del salario mínimo de 2027",
-        "url": "https://www.dataifx.com/post/cgt-mayorias-territoriales-participara-en-la-mesa-de-concertacion-del-salario-minimo-de-2027",
-        "resumen": "Uno de los sectores de la Confederación General del Trabajo (CGT), denominado CGT Mayorías Territoriales, participará en la mesa de concertación del salario mínimo de 2027, en la que el Gobierno Nacional y las organizaciones sindicales discutirán las condiciones para definir el incremento que regirá el próximo año",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "CGT Mayorías Territoriales participará en la mesa de concertación del salario mínimo de 2027",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "Gobierno rechaza emplear fondos pensionales de CAXDAC en gastos de administración",
-        "url": "https://www.dataifx.com/post/gobierno-descarta-uso-de-reservas-pensionales-de-caxdac-para-cubrir-gastos-administrativos",
-        "resumen": "La reunión fue liderada por la viceministra de Empleo y Pensiones, Elianne Forero Pérez, y contó con la participación del Ministerio de Hacienda y Crédito Público, la Superintendencia Financiera de Colombia y Colpensiones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno descarta uso de reservas pensionales de CAXDAC para cubrir gastos administrativos",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "MinHacienda detalla los recortes de gasto estatal previstos en la Ley de Rescate Económico",
-        "url": "https://www.dataifx.com/post/minhacienda-explica-los-recortes-al-gasto-publico-que-contempla-la-ley-de-rescate-economico",
-        "resumen": "El Ministerio de Hacienda presentó los principales componentes de austeridad y reducción del gasto público incluidos en la Ley de Rescate Económico, iniciativa radicada por el Gobierno nacional ante el Congreso de la República",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "MinHacienda explica los recortes al gasto público que contempla la Ley de Rescate Económico",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "Ejecutivo pide trámite prioritario para la iniciativa de Ley de Rescate Económico",
-        "url": "https://www.dataifx.com/post/gobierno-solicita-mensaje-de-urgencia-para-el-proyecto-de-ley-de-rescate-economico",
-        "resumen": "El presidente de la República, Abelardo de la Espriella, solicitó al Congreso de la República dar trámite con mensaje de urgencia e insistencia al proyecto de Ley 477 de 2026 Cámara, denominado Ley de Rescate Económico, con el que el Ejecutivo busca implementar medidas para estabilizar las finanzas públicas, reducir el gasto estatal y promover el crecimiento económico y la inversión",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno solicita mensaje de urgencia para el proyecto de Ley de Rescate Económico",
-        "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "Colombia suspende el racionamiento de gas natural tras superar alerta en SPEC LNG",
-        "url": "https://www.dataifx.com/post/colombia-levanta-la-limitacion-programada-de-gas-natural-tras-superar-contingencia-en-la-terminal",
-        "resumen": "El Ministerio de Minas y Energía anunció el levantamiento de la limitación programada de gas natural en Colombia, luego de que se superara la contingencia técnica que afectó temporalmente la capacidad de regasificación de la terminal SPEC LNG, ubicada en Cartagena",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia levanta la limitación programada de gas natural tras superar contingencia en la terminal SPEC LNG",
-        "capturado": "2026-11-03T18:06:49-05:00"
-      },
-      {
-        "titulo": "Colombia sumó 42 proyectos de generación eléctrica y 5 de transmisión al cierre del tercer trimestre de 2026",
-        "url": "https://www.dataifx.com/post/colombia-sumo-42-nuevos-proyectos-de-generacion-electrica-y-cinco-de-transmision-en-el-tercer",
-        "resumen": "Colombia incorporó 698,2 megavatios (MW) de nueva capacidad de generación eléctrica durante el tercer trimestre de 2026, como resultado de la entrada en operación de 42 proyectos que se sumaron al Sistema Interconectado Nacional (SIN)",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Colombia sumó 42 nuevos proyectos de generación eléctrica y cinco de transmisión en el tercer trimestre de 2026",
-        "capturado": "2026-11-03T18:06:49-05:00"
       }
     ],
     "Macro Internacional": [
@@ -1439,16 +1439,6 @@
         "publicacion": "",
         "titulo_fuente": "Colombia avanza en fortalecimiento de su relación económica con Singapur",
         "capturado": "2026-10-11T18:33:13-05:00"
-      },
-      {
-        "titulo": "Nu comienza actividades en EE UU y pone en marcha su cuenta global multidivisa",
-        "url": "https://www.dataifx.com/post/nu-inicia-operaciones-en-estados-unidos-y-lanza-su-cuenta-global-multidivisa",
-        "resumen": "Nu, el banco digital más grande de América Latina, anunció el inicio de sus operaciones en Estados Unidos y la presentación de Nu Global, una cuenta digital multidivisa que permitirá realizar transferencias de dinero rápidas y gratuitas entre más de 35 países",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Nu inicia operaciones en Estados Unidos y lanza su cuenta global multidivisa",
-        "capturado": "2026-10-10T18:23:09-05:00"
       }
     ]
   }
