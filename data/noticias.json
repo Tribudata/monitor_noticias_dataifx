@@ -1,9 +1,49 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-10T09:42:22-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-10T16:44:38-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "Abelardo de la Espriella saludó a Luz Stella Murgas por asumir la presidencia de la ANDI",
+        "url": "https://www.dataifx.com/post/abelardo-de-la-espriella-felicito-luz-stella-murgas-por-su-llegada-la-presidencia-de-la-andi",
+        "resumen": "El presidente Abelardo de la Espriella se pronunció sobre la llegada de Luz Stella Murgas a la presidencia de la Asociación Nacional de Empresarios de Colombia (ANDI) y le expresó sus felicitaciones por medio de un mensaje publicado en su cuenta de X",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Abelardo de la Espriella felicitó a Luz Stella Murgas por su llegada a la presidencia de la ANDI",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Naturgas resalta la labor de Luz Stella Murgas tras su designación al frente de la ANDI",
+        "url": "https://www.dataifx.com/post/naturgas-destaca-gestion-de-luz-stella-murgas-tras-su-eleccion-como-presidenta-de-la-andi",
+        "resumen": "La Asociación Colombiana de Gas Natural (Naturgas) se pronunció sobre la elección de Luz Stella Murgas Maya como nueva presidenta de la Asociación Nacional de Empresarios de Colombia (ANDI) y destacó su gestión durante los cinco años que permaneció al frente del gremio del gas natural",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Naturgas destaca gestión de Luz Stella Murgas tras su elección como presidenta de la ANDI",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Juan Camilo Nariño manifestó su apoyo a Luz Stella Murgas como nueva presidenta de la ANDI",
+        "url": "https://www.dataifx.com/post/luz-stella-murgas-es-la-nueva-presidenta-de-la-andi-juan-camilo-narino-le-expreso-su-respaldo",
+        "resumen": "La elección de Luz Stella Murgas como nueva presidenta de la Asociación Nacional de Empresarios de Colombia (ANDI) generó reacciones entre representantes de distintos sectores económicos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz Stella Murgas es la nueva presidenta de la ANDI: Juan Camilo Nariño le expresó su respaldo",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Partido Liberal solicita conservar incentivos tributarios alimentarios y evaluar recortes corporativos",
+        "url": "https://www.dataifx.com/post/partido-liberal-pide-mantener-beneficios-tributarios-para-alimentos-y-revisar-rebajas-de-impuestos",
+        "resumen": "La discusión de la Ley de Rescate Económico sumó una nueva voz dentro de la coalición que históricamente ha acompañado al Gobierno",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Partido Liberal pide mantener beneficios tributarios para alimentos y revisar rebajas de impuestos a empresas",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
       {
         "titulo": "Colombia conversaría sobre un plan de crédito por 15.000 millones de dólares con el Fondo Monetario Internacional",
         "url": "https://www.dataifx.com/post/colombia-estaria-negociando-programa-de-financiamiento-por-us15000-millones-con-el-fmi",
@@ -413,46 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "\"La junta decidirá hoy si me respalda o no\": presidente de Fedegán ante choque con MinAgricultura",
         "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "Campetrol plantea una estrategia de cuatro pilares para rescatar la soberanía energética colombiana",
-        "url": "https://www.dataifx.com/post/campetrol-propone-un-plan-de-cuatro-pilares-para-recuperar-la-soberania-energetica-de-colombia",
-        "resumen": "La recuperación de la producción de petróleo y gas, el aumento de las reservas y la reducción de la dependencia de las importaciones fueron algunos de los principales temas planteados por Nelson Castañeda, presidente de CAMPETROL, durante la apertura de la IX Cumbre del Petróleo, Gas y Energía, que se realiza este 4 de noviembre de 2026",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Campetrol propone un plan de cuatro pilares para recuperar la soberanía energética de Colombia",
-        "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "Las ventas externas colombianas subieron 16,4% en septiembre y pasaron de US$5.400 millones por oro y petróleo",
-        "url": "https://www.dataifx.com/post/exportaciones-de-colombia-crecieron-164-en-septiembre-y-superaron-los-us5400-millones-impulsadas",
-        "resumen": "Las exportaciones colombianas alcanzaron US$5",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Exportaciones de Colombia crecieron 16,4% en septiembre y superaron los US$5.400 millones impulsadas por petróleo y oro",
-        "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "IPC de la eurozona tocó el 4% en octubre y sube previsiones de más aumentos de tipos del BCE",
-        "url": "https://www.dataifx.com/post/inflacion-de-la-eurozona-llego-4-en-octubre-y-aumenta-las-expectativas-de-nuevas-alzas-de-tasas-del",
-        "resumen": "La inflación de la eurozona se aceleró en octubre y alcanzó 4%, frente al 3,8% registrado en septiembre, con lo que llegó a su nivel más alto en tres años",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Inflación de la eurozona llegó a 4% en octubre y aumenta las expectativas de nuevas alzas de tasas del BCE",
-        "capturado": "2026-11-04T09:12:10-05:00"
-      },
-      {
-        "titulo": "Administración mete gasoducto colombo-venezolano en obras clave para acelerar su rescate",
-        "url": "https://www.dataifx.com/post/gobierno-incluye-gasoducto-entre-colombia-y-venezuela-en-proyectos-estrategicos-para-avanzar-en-su",
-        "resumen": "El Gobierno Nacional incluyó la recuperación del Gasoducto Binacional Antonio Ricaurte en los Proyectos de Interés Nacional y Estratégico (PINES) de la misión de Recursos Estratégicos y Energía",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Gobierno incluye gasoducto entre Colombia y Venezuela en proyectos estratégicos para avanzar en su recuperación",
-        "capturado": "2026-11-04T09:12:10-05:00"
       }
     ],
     "Macro Internacional": [
@@ -738,6 +738,56 @@
       }
     ],
     "Empresas Colombia": [
+      {
+        "titulo": "Clevercel pretende 3.000 millones de pesos en a2censo para crecer su mercado de aparatos usados",
+        "url": "https://www.dataifx.com/post/clevercel-busca-3000-millones-en-a2censo-para-ampliar-su-negocio-de-tecnologia-reacondicionada",
+        "resumen": "Clevercel acudió nuevamente al mercado de financiación colaborativa para buscar hasta $3",
+        "autor": "",
+        "subseccion": "Acciones Colombia",
+        "publicacion": "",
+        "titulo_fuente": "Clevercel busca $3.000 millones en a2censo para ampliar su negocio de tecnología reacondicionada",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Luz Stella Murgas es nombrada presidenta de la ANDI",
+        "url": "https://www.dataifx.com/post/luz-stella-murgas-es-elegida-nueva-presidenta-de-la-andi",
+        "resumen": "La Asociación Nacional de Empresarios de Colombia (ANDI) anunció la elección de Luz Stella Murgas como nueva presidenta del gremio, una decisión adoptada por la Junta de Dirección General de la organización",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Luz Stella Murgas es elegida nueva presidenta de la ANDI",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Aseguradoras entregan 1,43 billones por sismo y solicitudes alcanzan 7,4 billones",
+        "url": "https://www.dataifx.com/post/aseguradoras-han-pagado-143-billones-por-danos-del-terremoto-reclamaciones-ya-suman-74-billones",
+        "resumen": "Las aseguradoras han desembolsado $1,43 billones para atender los daños provocados por el terremoto del 10 de agosto, según el más reciente balance con corte al 6 de noviembre",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Aseguradoras han pagado $1,43 billones por daños del terremoto; reclamaciones ya suman $7,4 billones",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Ventas de Pei aumentan 4,3% a septiembre en medio de la adquisición de bienes de Terranum",
+        "url": "https://www.dataifx.com/post/ingresos-de-pei-crecen-43-septiembre-mientras-continua-la-compra-de-activos-de-terranum",
+        "resumen": "La posible adquisición del portafolio inmobiliario de Terranum marcó el tercer trimestre de 2026 para Pei",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Ingresos de Pei crecen 4,3% a septiembre mientras continúa la compra de activos de Terranum",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
+      {
+        "titulo": "Alrededor de 100 iniciativas nacionales procurarán capital en Nueva York por más de 9.000 millones de dólares",
+        "url": "https://www.dataifx.com/post/cerca-de-100-proyectos-colombianos-buscaran-inversion-en-nueva-york-por-mas-de-us9000-millones",
+        "resumen": "Un total de 97 proyectos de inversión colombianos serán presentados ante potenciales inversionistas internacionales durante la denominada “Milagro Week”, un encuentro que se realizará en Nueva York entre el 16 y el 19 de noviembre y que busca conectar iniciativas empresariales y regionales con fuentes de financiamiento",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Cerca de 100 proyectos colombianos buscarán inversión en Nueva York por más de US$9.000 millones",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
       {
         "titulo": "A septiembre, Grupo Cibest registró ganancias de $6,3 billones, un aumento del 10,5%",
         "url": "https://www.dataifx.com/post/grupo-cibest-reporto-utilidades-por-63-billones-septiembre-con-crecimiento-de-105",
@@ -1137,59 +1187,19 @@
         "publicacion": "",
         "titulo_fuente": "Colombia recibe en Panamá la designación oficial como sede del World of Coffee 2027",
         "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Odinsa respalda su labor en Autopistas del Café y detalla el proyecto Conexión Centro",
-        "url": "https://www.dataifx.com/post/odinsa-defiende-gestion-de-autopistas-del-cafe-y-aclara-alcance-de-la-iniciativa-conexion-centro",
-        "resumen": "En medio del debate sobre el futuro de la infraestructura vial en el Eje Cafetero, Odinsa Vías se pronunció sobre la etapa final de la concesión Autopistas del Café y el avance de la iniciativa privada Conexión Centro, dos proyectos que, según la compañía, han sido objeto de confusión en distintos escenarios públicos",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Odinsa defiende gestión de Autopistas del Café y aclara alcance de la iniciativa Conexión Centro",
-        "capturado": "2026-10-28T18:57:47-05:00"
-      },
-      {
-        "titulo": "Con seis nuevos miembros y tres ratificados, ISA designa junta directiva para el periodo 2026-2028",
-        "url": "https://www.dataifx.com/post/isa-elige-nueva-junta-directiva-para-2026-2028-con-seis-caras-nuevas-y-tres-integrantes-que",
-        "resumen": "Con el respaldo del 66,87% de los votos representados en la Asamblea de Accionistas, ISA eligió la nueva composición de su Junta Directiva para el período 2026-2028",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "ISA elige nueva Junta Directiva para 2026-2028 con seis caras nuevas y tres integrantes que continúan",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "Transacciones con criptoactivos en Colombia llegaron a US$29.100 millones sin marco regulatorio total",
-        "url": "https://www.dataifx.com/post/colombia-movio-us29100-millones-en-criptoactivos-pero-sigue-sin-una-regulacion-integral-para-el",
-        "resumen": "Colombia se ubicó como el quinto mercado de criptoactivos más grande de América Latina entre julio de 2025 y junio de 2026, al registrar operaciones por US$29",
-        "autor": "",
-        "subseccion": "Criptomonedas",
-        "publicacion": "",
-        "titulo_fuente": "Colombia movió US$29.100 millones en criptoactivos, pero sigue sin una regulación integral para el sector",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "La Bolsa de Valores de Colombia modifica su denominación social para llamarse Bolsa de Colombia",
-        "url": "https://www.dataifx.com/post/la-bolsa-de-valores-de-colombia-cambia-de-nombre-y-pasa-llamarse-bolsa-de-colombia",
-        "resumen": "La Bolsa de Valores de Colombia (bvc) anunció un cambio en su identidad corporativa y comenzará a operar bajo el nombre de Bolsa de Colombia, en el marco del proceso de integración regional que adelanta nuam, el grupo que reúne a las bolsas de valores de Colombia, Chile y Perú",
-        "autor": "",
-        "subseccion": "Acciones Colombia",
-        "publicacion": "",
-        "titulo_fuente": "La Bolsa de Valores de Colombia cambia de nombre y pasa a llamarse Bolsa de Colombia",
-        "capturado": "2026-10-28T14:25:20-05:00"
-      },
-      {
-        "titulo": "Halloween dinamizará el consumo con desembolsos de hasta $350.000 por ciudadano en celebraciones",
-        "url": "https://www.dataifx.com/post/fiestas-disfraces-y-dulces-halloween-impulsara-gastos-de-hasta-350000-por-persona",
-        "resumen": "La celebración de Halloween este año podría representar gastos de hasta $350",
-        "autor": "",
-        "subseccion": "Economía Personal",
-        "publicacion": "",
-        "titulo_fuente": "Fiestas, disfraces y dulces: Halloween impulsará gastos de hasta $350.000 por persona",
-        "capturado": "2026-10-28T14:25:20-05:00"
       }
     ],
     "Empresas Internacional": [
+      {
+        "titulo": "Anthropic busca captar US$84.600 millones en el mercado bursátil y reta marcas históricas",
+        "url": "https://www.dataifx.com/post/anthropic-apunta-recaudar-us84600-millones-en-bolsa-y-desafia-records-historicos",
+        "resumen": "La inteligencia artificial vuelve a ocupar el centro de la atención en Wall Street",
+        "autor": "",
+        "subseccion": "Acciones USA",
+        "publicacion": "",
+        "titulo_fuente": "Anthropic apunta a recaudar US$84.600 millones en bolsa y desafía récords históricos",
+        "capturado": "2026-11-10T16:44:38-05:00"
+      },
       {
         "titulo": "Inconvenientes de Ueno aumentan usuarios en Banco GNB Paraguay y disparan solicitudes en plataformas virtuales",
         "url": "https://www.dataifx.com/post/crisis-de-ueno-impulsa-llegada-de-clientes-banco-gnb-paraguay-y-genera-alta-demanda-en-canales",
