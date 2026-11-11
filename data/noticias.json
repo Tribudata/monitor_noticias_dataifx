@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.dataifx.com/",
-  "actualizado": "2026-11-10T16:44:38-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-11-10T20:48:18-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Macro Colombia": [
+      {
+        "titulo": "El Ejecutivo plantea modificar la estratificación para repartir subsidios en servicios domiciliarios",
+        "url": "https://www.dataifx.com/post/gobierno-propone-actualizar-los-estratos-para-asignar-subsidios-de-servicios-publicos",
+        "resumen": "El borrador de las bases del Plan Nacional de Desarrollo 2026–2030 del gobierno de Abelardo de la Espriella propone actualizar la estratificación socioeconómica y complementarla con información sobre los ingresos y la capacidad de pago de los hogares para asignar subsidios y contribuciones de servicios públicos",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Gobierno propone actualizar los estratos para asignar subsidios de servicios públicos",
+        "capturado": "2026-11-10T20:48:18-05:00"
+      },
+      {
+        "titulo": "GreenYellow y Tiendas Ara ponen paneles solares en 62 locales y dos bodegas colombianas",
+        "url": "https://www.dataifx.com/post/greenyellow-y-tiendas-ara-instalan-proyectos-solares-en-62-establecimientos-y-dos-centros-de",
+        "resumen": "La generación de energía solar comienza a ganar participación en las operaciones del comercio minorista en Colombia",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "GreenYellow y Tiendas Ara instalan proyectos solares en 62 establecimientos y dos centros de distribución en Colombia",
+        "capturado": "2026-11-10T20:48:18-05:00"
+      },
+      {
+        "titulo": "Littio presenta un programa para empleados en Colombia que cobran del extranjero y sus requisitos",
+        "url": "https://www.dataifx.com/post/littio-lanza-un-plan-para-trabajadores-colombianos-que-reciben-pagos-del-exterior-cuales-son-las",
+        "resumen": "El crecimiento de las actividades profesionales que se desarrollan desde Colombia para clientes y empresas del exterior ha llevado a distintas compañías financieras a ampliar su oferta de servicios para quienes reciben ingresos en monedas extranjeras",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Littio lanza un plan para trabajadores colombianos que reciben pagos del exterior: ¿cuáles son las condiciones?",
+        "capturado": "2026-11-10T20:48:18-05:00"
+      },
+      {
+        "titulo": "La confianza surge como nuevo reto corporativo ante el crecimiento de la inteligencia artificial",
+        "url": "https://www.dataifx.com/post/la-confianza-se-convierte-en-el-nuevo-desafio-de-las-empresas-en-medio-de-la-expansion-de-la",
+        "resumen": "La transformación digital está modificando la manera en que las empresas desarrollan sus operaciones, administran la información y se relacionan con sus clientes",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "La confianza se convierte en el nuevo desafío de las empresas en medio de la expansión de la inteligencia artificial",
+        "capturado": "2026-11-10T20:48:18-05:00"
+      },
+      {
+        "titulo": "Seis asociaciones energéticas saludan a Luz Stella Murgas por su designación al frente de la ANDI",
+        "url": "https://www.dataifx.com/post/seis-gremios-del-sector-energetico-felicitan-luz-stella-murgas-por-su-eleccion-como-presidenta-de",
+        "resumen": "La elección de Luz Stella Murgas como nueva presidenta de la Asociación Nacional de Empresarios de Colombia (ANDI) generó pronunciamientos de respaldo por parte de seis gremios vinculados a los sectores de energía, hidrocarburos e ingeniería",
+        "autor": "",
+        "subseccion": "",
+        "publicacion": "",
+        "titulo_fuente": "Seis gremios del sector energético felicitan a Luz Stella Murgas por su elección como presidenta de la ANDI",
+        "capturado": "2026-11-10T20:48:18-05:00"
+      },
       {
         "titulo": "Abelardo de la Espriella saludó a Luz Stella Murgas por asumir la presidencia de la ANDI",
         "url": "https://www.dataifx.com/post/abelardo-de-la-espriella-felicito-luz-stella-murgas-por-su-llegada-la-presidencia-de-la-andi",
@@ -403,56 +453,6 @@
         "publicacion": "",
         "titulo_fuente": "Contraloría advierte que el Ministerio de Salud tiene $10,18 billones pendientes por legalizar y alerta sobre riesgos en obras hospitalarias",
         "capturado": "2026-11-05T15:59:36-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo apoya la urgencia de un ajuste tributario aunque sugiere examinar ciertos aspectos oficiales",
-        "url": "https://www.dataifx.com/post/fedesarrollo-respalda-necesidad-de-una-reforma-fiscal-pero-pide-revisar-algunos-puntos-de-la",
-        "resumen": "Fedesarrollo consideró que la situación de las finanzas públicas colombianas requiere una reforma fiscal de amplio alcance y respaldó buena parte del proyecto de Ley de Rescate Fiscal presentado recientemente por el Gobierno al Congreso",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Fedesarrollo respalda necesidad de una reforma fiscal, pero pide revisar algunos puntos de la propuesta del Gobierno",
-        "capturado": "2026-11-04T21:08:59-05:00"
-      },
-      {
-        "titulo": "Minigranjas solares en Colombia: los desafíos de operación, conexión y rentabilidad que afronta el sector",
-        "url": "https://www.dataifx.com/post/minigranjas-solares-en-colombia-los-retos-de-rentabilidad-conexion-y-operacion-que-enfrenta-el",
-        "resumen": "El crecimiento de la energía solar en Colombia ha puesto sobre la mesa nuevos desafíos para el sector eléctrico",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Minigranjas solares en Colombia: los retos de rentabilidad, conexión y operación que enfrenta el sector",
-        "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "Congreso avaló en primer debate adición de $3,8 billones al Presupuesto de 2026: estos serán los recursos",
-        "url": "https://www.dataifx.com/post/congreso-aprobo-en-primer-debate-adicion-de-38-billones-al-presupuesto-de-2026-estos-seran-los",
-        "resumen": "Las comisiones económicas del Congreso aprobaron en primer debate una adición de $3,8 billones al Presupuesto General de la Nación (PGN) de 2026, con recursos destinados a la atención de los damnificados del terremoto, la financiación del programa Colombia Mayor y otras necesidades relacionadas con el funcionamiento del Estado",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Congreso aprobó en primer debate adición de $3,8 billones al Presupuesto de 2026: estos serán los recursos",
-        "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "Comisiones económicas dan luz verde en primer debate a presupuesto de regalías por $27,5 billones para 2027-2028",
-        "url": "https://www.dataifx.com/post/comisiones-economicas-aprueban-en-primer-debate-presupuesto-de-regalias-por-275-billones-para-2027",
-        "resumen": "Las Comisiones Económicas Terceras y Cuartas del Senado de la República y de la Cámara de Representantes aprobaron en primer debate el proyecto de ley que establece el presupuesto del Sistema General de Regalías (SGR) para el bienio 2027-2028, por un monto de $27,5 billones",
-        "autor": "",
-        "subseccion": "",
-        "publicacion": "",
-        "titulo_fuente": "Comisiones económicas aprueban en primer debate presupuesto de regalías por $27,5 billones para 2027-2028",
-        "capturado": "2026-11-04T16:47:42-05:00"
-      },
-      {
-        "titulo": "La junta decidirá hoy si me respalda o no: presidente de Fedegán ante choque con MinAgricultura",
-        "url": "https://www.dataifx.com/post/la-junta-decidira-hoy-si-me-respalda-o-no-presidente-de-fedegan-ante-choque-con-minagricultura",
-        "resumen": "El presidente de Fedegán, José Félix Lafaurie, afirmó que será la junta directiva del gremio la que determine si continúa al frente de la organización luego del enfrentamiento que sostuvo con el ministro de Agricultura, Indalecio Dangond, durante una reunión técnica realizada el pasado 3 de noviembre",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "\"La junta decidirá hoy si me respalda o no\": presidente de Fedegán ante choque con MinAgricultura",
-        "capturado": "2026-11-04T16:47:42-05:00"
       }
     ],
     "Macro Internacional": [
@@ -1449,16 +1449,6 @@
         "publicacion": "",
         "titulo_fuente": "Pibank amplía su presencia internacional con el lanzamiento de su CD en Estados Unidos",
         "capturado": "2026-10-12T00:31:51-05:00"
-      },
-      {
-        "titulo": "Colombia consolida el desarrollo de su vínculo comercial con Singapur",
-        "url": "https://www.dataifx.com/post/colombia-avanza-en-fortalecimiento-de-su-relacion-economica-con-singapur",
-        "resumen": "El Gobierno colombiano anunció nuevas medidas para estrechar los vínculos con Singapur, considerado uno de los referentes mundiales de transformación económica",
-        "autor": "",
-        "subseccion": "Empresas Colombia",
-        "publicacion": "",
-        "titulo_fuente": "Colombia avanza en fortalecimiento de su relación económica con Singapur",
-        "capturado": "2026-10-11T18:33:13-05:00"
       }
     ]
   }
